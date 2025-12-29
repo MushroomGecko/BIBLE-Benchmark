@@ -1,0 +1,26 @@
+# BIBLE-Benchmark Requirements
+
+# Web scraping and HTML parsing
+requests>=2.32.5
+beautifulsoup4>=4.14.3
+
+# PDF processing
+fpdf2>=2.8.5  # Note: fpdf is installed by fpdf2
+PyMuPDF>=1.23.0  # fitz - PDF text extraction
+
+# Data processing
+pandas>=2.3.3
+pyarrow>=22.0.0  # For Parquet file support
+
+# AI/Model evaluation
+ollama>=0.6.1
+
+# Standard library modules used (included with Python):
+# - os
+# - sys
+# - re
+# - string
+# - json
+# - time
+# - datetime
+# - collections

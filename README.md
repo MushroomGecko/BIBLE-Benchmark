@@ -6,6 +6,25 @@
 
 ---
 
+## 🚀 Getting Started
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/MushroomGecko/BIBLE-Benchmark.git
+cd BIBLE-Benchmark
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. For benchmarking with Ollama, ensure [Ollama](https://ollama.ai/) is installed and running on your system.
+
+---
+
 ## ⚠️ Accuracy Disclaimer
 
 While the questions in this dataset are sourced directly from trusted materials, a significant portion of the content was generated using **NotebookLM** based on the referenced source documents. Many of these generated questions and answers were not manually reviewed for theological or factual accuracy.
