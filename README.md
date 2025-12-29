@@ -95,6 +95,41 @@ The following scripts handle the data pipeline in sequence:
 6. **DatasetCombiner.py**: Combines and normalizes data from `source_data/JSON/NotebookLM2` and `source_data/JSON/BiblicalELearning` into `final.json`
 7. **HuggingFaceDataTransformer.py**: Converts `final.json` into Parquet format and stores it in the `HuggingFace/` directory, split by category
 
+---
+
+## 🧪 Benchmarking & Evaluation
+
+### Benchmark.py
+
+This script evaluates AI models on the BIBLE benchmark dataset using the [Ollama](https://ollama.ai/) framework.
+
+**Features:**
+- Tests models against all questions in `final.json`
+- Supports multiple models (configurable via model variable)
+- Records accuracy, adherence to instructions, and timing metrics
+- Outputs detailed results to `Results/` directory as JSON
+
+**Metrics Tracked:**
+- `percent_correct`: Overall accuracy percentage
+- `percent_obeyed`: Percentage of responses that followed the single-letter-only instruction
+- `average_time`: Average time per question
+- Per-question results including model response, correctness, and instruction adherence
+
+**Usage:**
+1. Ensure Ollama is installed and running
+2. Select the model to test by uncommenting one of the model lines
+3. Run: `python Benchmark.py`
+4. Results will be saved to `Results/{model_name}.json`
+
+**Models Tested:**
+The script includes commented examples of various models that can be tested, including:
+- Qwen3 series (0.6b, 1.7b, 4b variants)
+- Gemma series (2b, 3b, 3n variants)
+- Llama 3.2 (1b, 3b variants)
+- Phi series (mini instruct)
+- And more...
+
+---
 
 ## 🔗 Data Sources and Attribution
 
