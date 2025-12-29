@@ -1,0 +1,1240 @@
+[
+    {
+        "question": "The book of Nahum opens as a(n) _________ concerning Nineveh (Nah 1:1)?",
+        "choice": [
+            "Prophesy",
+            "Saying",
+            "Oracle",
+            "Dirge"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The book of Nahum is an oracle concern what city (Nah 1:1)?",
+        "choice": [
+            "Babylon",
+            "Nineveh",
+            "Bozrah",
+            "Jerusalem"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The book of Nahum is called a(n) __________ of Nahum (Nah 1:1)",
+        "choice": [
+            "Vision",
+            "Prophecy",
+            "Dirge",
+            "Saying"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The book of Nahum opens with Nahum being called a(n) ________ (Nah 1:1)",
+        "choice": [
+            "Jebusite",
+            "Netophathite",
+            "Ephraimite",
+            "Elkoshite"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "As the book of Nahum opens how does it portray God (Nah 1:2)?",
+        "choice": [
+            "As a divine ruler in heaven",
+            "As a divine judge",
+            "As a jealous and avenging God",
+            "As a God slow to anger and abounding in compassion"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord do to his foes (Nah 1:2)?",
+        "choice": [
+            "Takes vengeance on them",
+            "Brings them to justice",
+            "Completely destroys them",
+            "Forgives them"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord do concerning his enemies (Nah 1:2)?",
+        "choice": [
+            "Brings them to justice",
+            "Completely destroys them",
+            "Forgives them",
+            "Maintains his wrath"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will the Lord not leave unpunished (Nah 1:3)?",
+        "choice": [
+            "The unrighteous",
+            "The guilty",
+            "The wicked",
+            "His foes"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Lord is described as ___________ (Nah 1:3)",
+        "choice": [
+            "Just and fair",
+            "Absolutely righteous and just",
+            "Slow to anger and great in power",
+            "Compassionate and full of kindness"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are the clouds to the Lord (Nah 1:3)?",
+        "choice": [
+            "The dust of his feet",
+            "His chariots",
+            "His clothing",
+            "His messengers"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what is the way of the Lord (Nah 1:3)?",
+        "choice": [
+            "In the thick darkness",
+            "In the whirlwind and storm",
+            "The paths of the clouds in the heavens",
+            "He walks in the waves of the sea"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord rebuke (Nah 1:4)?",
+        "choice": [
+            "The mountains",
+            "The valleys",
+            "The sea",
+            "The trees of the field"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord do to the rivers (Nah 1:4)?",
+        "choice": [
+            "Makes them overflow",
+            "Guides them",
+            "Splits them in two",
+            "Makes them run dry"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What two areas of Israel wither (Nah 1:4)?",
+        "choice": [
+            "Galilee and Hermon",
+            "Jezreel and Ephraim",
+            "Bashan and Carmel",
+            "The coastal plain and foothills"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the hills do before the Lord (Nah 1:5)?",
+        "choice": [
+            "Part in two",
+            "Melt away",
+            "Dance",
+            "Clap their hands"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "At what does the earth tremble (Nah 1:5)?",
+        "choice": [
+            "The Lord’s presence",
+            "The Lord speaking",
+            "The Lord’s holiness",
+            "The Lord coming down"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What can people not endure (Nah 1:6)?",
+        "choice": [
+            "God’s presence",
+            "God’s vengeance",
+            "God’s fierce anger",
+            "God’s judgment"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Like what is God’s wrath poured out (Nah 1:6)?",
+        "choice": [
+            "Like water",
+            "Like fire",
+            "Like wine",
+            "Like a storm"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are shattered before the Lord (Nah 1:6)?",
+        "choice": [
+            "The walls",
+            "The gates",
+            "The trees",
+            "The rocks"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When is the Lord a refuge (Nah 1:7)?",
+        "choice": [
+            "In times of trouble",
+            "When the enemy attacks",
+            "When justice is forsaken",
+            "In times of exile"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For whom does the Lord care (Nah 1:7)?",
+        "choice": [
+            "Those who walk in his way",
+            "Those who love him and keep his commandments",
+            "Those who trust in him",
+            "Those who are in Jerusalem"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How will God make an end of Nineveh (Nah 1:8)?",
+        "choice": [
+            "With an earthquake",
+            "With fire",
+            "With",
+            "With an overwhelming flood"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Into what will God pursue his foes (Nah 1:8)?",
+        "choice": [
+            "Into the forest",
+            "Into the darkness",
+            "Into the desert",
+            "Into the river"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will not come a second time (Nah 1:9)?",
+        "choice": [
+            "Trouble",
+            "Mercy",
+            "Compassion",
+            "Disaster"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How will they (Nineveh) be consumed (Nah 1:10)?",
+        "choice": [
+            "Like first ripe figs",
+            "Like dry stubble",
+            "Like new wine",
+            "Like a flood"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what will they (Nineveh) be entangled (Nah 1:10)?",
+        "choice": [
+            "Ropes",
+            "Chains",
+            "Thorns",
+            "Cords of destruction"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who counsels wickedness (Nah 1:11)?",
+        "choice": [
+            "One entering Nineveh",
+            "Those sitting on the walls of Nineveh",
+            "One  sitting on the throne of Nineveh",
+            "One coming forth from Nineveh"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will God afflict no more (Nah 1:12)?",
+        "choice": [
+            "Judah",
+            "Ephraim",
+            "Jerusalem",
+            "Samaria"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will God do for Judah (Nah 1:13)?",
+        "choice": [
+            "Forgive their iniquity",
+            "Break the yoke off their neck",
+            "Crush their enemies under their feet",
+            "Release them into the desert"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will God do for Judah (Nah 1:13)?",
+        "choice": [
+            "Forgive their iniquity",
+            "Crush their enemies under their feet",
+            "Tear their shackles away",
+            "Release them into the desert"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will Nineveh not have (Nah 1:14)?",
+        "choice": [
+            "Kings and princes",
+            "Any temples for their gods",
+            "Anyone to rescue them",
+            "Descendants to bear their name"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will God destroy in Nineveh (Nah 1:14)?",
+        "choice": [
+            "Their carved images",
+            "Their temples",
+            "Their priests and priestesses",
+            "Their altars"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will God prepare for Nineveh (Nah 1:14)?",
+        "choice": [
+            "Pestilence",
+            "Their grave",
+            "An enemy",
+            "A whirlwind"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When Judah looks on the mountain what will they see (Nah 1:15)?",
+        "choice": [
+            "The horses of the invading army gone",
+            "The animals of the forest rejoicing",
+            "The feet of one who brings good news",
+            "The mountains clapping their hands"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did God tell Judah to celebrate their festivals (Nah 1:15)?",
+        "choice": [
+            "Because they will be freed from their shackles",
+            "Because they will meet their God in the desert",
+            "Because Jerusalem will be restored",
+            "Because the wicked will no more invade them"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God tell Judah to do because the wicked will invade them no more (Nah 1:15)?",
+        "choice": [
+            "Fulfill their vows",
+            "Offer thanksgiving offerings",
+            "Sing to the Lord and clap their hands",
+            "Throw open the gates of Jerusalem"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will happen to the wicked who invaded Judah (Nah 1:15)?",
+        "choice": [
+            "They will return to their own country",
+            "They will be completely destroyed",
+            "They will all know the Lord",
+            "They will drown in a flood"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who advances against Nineveh (Nah 2:1)?",
+        "choice": [
+            "An enemy",
+            "An attacker",
+            "An innumerable host",
+            "Many kings"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "As the attacker comes against Nineveh, what should they watch (Nah 2:1)?",
+        "choice": [
+            "The smoke",
+            "The coming army",
+            "The road",
+            "The chariots"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the Lord restore (Nah 2:2)?",
+        "choice": [
+            "The  former days",
+            "The walls of Jerusalem",
+            "His people",
+            "The splendor of Jacob"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What have the destroyers ruined (Nah 2:2)?",
+        "choice": [
+            "Their vines",
+            "Their olive trees",
+            "Their houses",
+            "Their fields"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What colors are the soldiers shields (Nah 2:3)?",
+        "choice": [
+            "Gold",
+            "Silver",
+            "Red",
+            "Purple"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On the day the warriors are clad what flashes (Nah 2:3)?",
+        "choice": [
+            "Their spears",
+            "Their chariots",
+            "Their swords",
+            "Their helmets"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are there spears made out of (Nah 2:3)?",
+        "choice": [
+            "Pine",
+            "Oak",
+            "Bronze",
+            "Iron"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the chariots do (Nah 2:4)?",
+        "choice": [
+            "Trample the people of Nineveh",
+            "Flood the city squares",
+            "Storm through the streets",
+            "Burst into the city"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the chariots look like (Nah 2:4)?",
+        "choice": [
+            "Harvest carts",
+            "Flaming torches",
+            "Lions on the prowl",
+            "Threshing sledges"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What happens to the picked troops summoned by the king (Nah 2:5)?",
+        "choice": [
+            "They stumble on their way",
+            "They flee for their lives",
+            "Their hearts fail for fear",
+            "They hide in the caves"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where do the king’s picked troops dash to (Nah 2:5)?",
+        "choice": [
+            "The city gate",
+            "The city wall",
+            "The king’s palace",
+            "The temple of their god"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is thrown open (Nah 2:6)?",
+        "choice": [
+            "Their fortress",
+            "The storehouses",
+            "The river gates",
+            "The doors of the palace"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is decreed for the city of Nineveh (Nah 2:7)?",
+        "choice": [
+            "It will be flood",
+            "It will be covered in blood",
+            "It will collapse in a single day",
+            "It will be exiled"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will moan like doves (Nah 2:7)?",
+        "choice": [
+            "Nineveh’s slave girls",
+            "Nineveh’s warriors",
+            "Nineveh’s princes",
+            "The priests of Nineveh"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is Nineveh likened to (Nah 2:8)?",
+        "choice": [
+            "A falling star",
+            "A draining pool",
+            "A burning stick",
+            "A collapsing harvest cart"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is endless when Nineveh falls (Nah 2:9)?",
+        "choice": [
+            "Destruction",
+            "The water of their tears",
+            "The plunder of silver and gold",
+            "Their grief"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following are bodily reactions to the fall of Nineveh  EXCEPT (Nah 2:10)",
+        "choice": [
+            "Hearts melt",
+            "Knees give way",
+            "Bodies tremble",
+            "Eyes shed tears",
+            "Faces grow pale"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the lion fill his dens with (Nah 2:12)?",
+        "choice": [
+            "Bodies of those from Nineveh",
+            "Prey",
+            "Gold and silver",
+            "Plunder"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For whom did the lion kill (Nah 2:12)?",
+        "choice": [
+            "His cubs",
+            "Many nations",
+            "The Lord",
+            "His own power"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord Almighty say the sword will devour (Nah 2:13)?",
+        "choice": [
+            "Nineveh’s princes",
+            "Nineveh’s priests",
+            "Nineveh’s young lions",
+            "Nineveh’s warriors"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will happen to Nineveh’s chariots says the Lord Almighty (Nah 2:13)?",
+        "choice": [
+            "They will disappear forever",
+            "They will be burned in smoke",
+            "They will be ground to dust",
+            "They will roll over those who drove them"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord Almighty say will not be heard (Nah 2:13)?",
+        "choice": [
+            "The sound of laughter",
+            "Children playing",
+            "The king’s trumpets",
+            "The voices of Nineveh’s messengers"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Nahum label the city of Nineveh as it pronounces a woe on it (Nah 3:1)?",
+        "choice": [
+            "City of cruelty",
+            "City of idols",
+            "City of blood",
+            "City of injustice"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is Nineveh full of (Nah 2:1)?",
+        "choice": [
+            "Lies",
+            "Death and destruction",
+            "Wickedness",
+            "Injustice"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is Nineveh never without (Nah 3:1)?",
+        "choice": [
+            "Death",
+            "Victims",
+            "Oppression",
+            "Wickedness"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following were used to describe Nineveh’s making piles of dead EXCEPT (Nah 3:2f)?",
+        "choice": [
+            "Crack of whips",
+            "Galloping horses",
+            "Jolting chariots",
+            "Sparkling armor",
+            "Flashing swords"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In Nineveh’s attacks over what do they stumble (Nah 3:3)?",
+        "choice": [
+            "Corpses",
+            "Piles of plunder",
+            "Their own greed",
+            "The idols of the nations"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Nineveh is called the mistress of __________ (Nah 3:4)",
+        "choice": [
+            "Evil",
+            "Sorceries",
+            "Oppression",
+            "Violence"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Nineveh enslave the nations (Nah 3:4)?",
+        "choice": [
+            "By her power",
+            "By her violence",
+            "By her prostitution",
+            "By her gods"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Nineveh enslave the nations (Nah 3:4)?",
+        "choice": [
+            "By her power",
+            "By her violence",
+            "By her gods",
+            "By her witchcraft"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Lord Almighty said he was against Nineveh and what did he threaten to do to them before the nations (Nah 3:5)?",
+        "choice": [
+            "Lift their skirts over their face",
+            "Put shackles on their feet",
+            "Put an iron yoke on their necks",
+            "Carry them away into exile"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the Lord Almighty do against Nineveh before the nations (Nah 3:5)?",
+        "choice": [
+            "Humble them before the nations",
+            "Show the nations their nakedness",
+            "Blot out the memory of Nineveh from the nations",
+            "Let the nations plunder them"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what will God pelt Nineveh (Nah 3:6)?",
+        "choice": [
+            "Rotten olives",
+            "Rocks",
+            "Filth",
+            "Spoiled grapes"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what will God treat Nineveh (Nah 3:6)?",
+        "choice": [
+            "Disgrace",
+            "Hatred",
+            "Mercy",
+            "Contempt"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will God make Nineveh (Nah 3:6)?",
+        "choice": [
+            "A spectacle",
+            "A byword",
+            "An open pit",
+            "Burnt cinder"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What city does God compare Nineveh to that was taken into exile (Nah 3:8)?",
+        "choice": [
+            "Gaza",
+            "Thebes",
+            "Tyre",
+            "Sodom"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Thebes is located on what river (Nah 3:8)?",
+        "choice": [
+            "The Euphrates",
+            "The Orontes",
+            "The Nile",
+            "The Jordan"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the boundless strength of Thebes (Nah 3:9)?",
+        "choice": [
+            "Libya and Sinai",
+            "Midian and Philistia",
+            "Leviathan and Behemoth",
+            "Cush and Egypt"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who were among the allies of Thebes (Nah 3:9)?",
+        "choice": [
+            "Put and Libya",
+            "Ethiopia and Philistia",
+            "Midian and Edom",
+            "Ammon and Aram"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following happened to Thebes EXCEPT (Nah 3:10)",
+        "choice": [
+            "She went into exile",
+            "Her walls were laid waste",
+            "Her infants were dashed to pieces",
+            "Lots were cast for her nobles",
+            "Her great men were put in chains"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Like Thebes, Nineveh will do all of the following in their day of calamity EXCEPT (Nah 3:11)",
+        "choice": [
+            "Become drunk",
+            "Go into hiding",
+            "Flee to Aram",
+            "Seek refuge from the enemy"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Nahum say that their fortresses will be like (Nah 3:12)?",
+        "choice": [
+            "Empty vines",
+            "Olive trees",
+            "Thorn bushes",
+            "Fig trees"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What happens when the fig tree is shaken (Nah 3:12)?",
+        "choice": [
+            "The rotten figs fall to the ground",
+            "The figs fall into the mouth of the eater",
+            "The figs are crushed under foot",
+            "The figs are blown in the wind"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Nahum characterize Nineveh’s troops (Nah 3:13)?",
+        "choice": [
+            "Fearful",
+            "Mighty",
+            "Weaklings",
+            "Courageous"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom are the gates of Nineveh’s land wide open (Nah 3:13)?",
+        "choice": [
+            "Foreigners",
+            "Traders",
+            "Traitors",
+            "Enemies"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Nahum admonish Nineveh to draw water for (Nah 3:14)?",
+        "choice": [
+            "Their children",
+            "Their king",
+            "The siege",
+            "The fire"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does he tell Nineveh to do for the siege they are about to experience (Nah 3:14)?",
+        "choice": [
+            "Fortify the king’s palace",
+            "Repair the brickwork",
+            "Store up food",
+            "Flee from the city"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How will Nineveh be devoured (Nah 3:15)?",
+        "choice": [
+            "Like a swarm of locusts",
+            "Like a lion its prey",
+            "Like a dog in the street",
+            "Like a bull on a threshing floor"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who has become more numerous than the stars of the sky (Nah 3:16)?",
+        "choice": [
+            "The slaves of Nineveh",
+            "The merchants of Nineveh",
+            "The priests of Nineveh",
+            "The prophets of Nineveh"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the merchants do like locusts (Nah 3:16)?",
+        "choice": [
+            "Swarm into the king’s palace",
+            "Devour the poor",
+            "Strip the land and then fly away",
+            "Eat all the food leaving the shelves bare"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does Nahum say are like swarms of locusts (Nah 3:17)?",
+        "choice": [
+            "Their priests",
+            "Their prophets",
+            "Their princes",
+            "Their officials"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where do the locusts settle on a cold day (Nah 3:17)?",
+        "choice": [
+            "In the sand",
+            "In the springs",
+            "In the walls",
+            "Under the bushes"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When do the locusts fly away (Nah 3:17)?",
+        "choice": [
+            "When the wind blows",
+            "When the sun appears",
+            "When it is evening",
+            "When the hail comes"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "It is announced to the King of Assyria that who slumbers (Nah 3:18)?",
+        "choice": [
+            "Your shepherds",
+            "Your watchmen",
+            "Your merchants",
+            "Your soldiers"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "It is announced to the King of Assyria that what has happened to his people (Nah 3:18)?",
+        "choice": [
+            "They are consumed by fire",
+            "They are scattered on the mountains",
+            "They are hiding in caves in the desert",
+            "They are dying from fear"
+        ],
+        "answer": "B",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Nahum tell the King of Assyria is fatal (Nah 3:19)?",
+        "choice": [
+            "The sword",
+            "The arrow",
+            "His wound",
+            "His disease"
+        ],
+        "answer": "C",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will be the response when the news about the King of Assyria has fallen (Nah 3:19)?",
+        "choice": [
+            "People will mourn",
+            "There will be a great silence",
+            "People will put on sackcloth",
+            "All who hear will clap their hands"
+        ],
+        "answer": "D",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Nahum as what has everyone felt from the King of Assyria (Nah 3:19)?",
+        "choice": [
+            "Endless cruelty",
+            "Fear",
+            "His sword",
+            "His crushing blows"
+        ],
+        "answer": "A",
+        "category": "Nahum",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/34_Nahum_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    }
+]

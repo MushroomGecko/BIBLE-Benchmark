@@ -1,0 +1,327 @@
+[
+    {
+        "question": "To whom is the letter addressed in 3 John 1:1?",
+        "choice": [
+            "Demetrius",
+            "The elder",
+            "Gaius",
+            "Diotrephes"
+        ],
+        "answer": "C",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the elder pray for Gaius in 3 John 1:2?",
+        "choice": [
+            "That his influence would grow",
+            "That he would be wealthy",
+            "That his soul may prosper",
+            "That he may prosper in all things and be healthy"
+        ],
+        "answer": "D",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the elder's joy related to in 3 John 1:4?",
+        "choice": [
+            "Hearing about his children walking in truth",
+            "The success of the church",
+            "The wealth of the church",
+            "The conversion of the Gentiles"
+        ],
+        "answer": "A",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What kind of work does the elder say Gaius is doing in 3 John 1:5?",
+        "choice": [
+            "A charitable work",
+            "A faithful work",
+            "A necessary work",
+            "A difficult work"
+        ],
+        "answer": "B",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who has testified about Gaius's love before the assembly in 3 John 1:6?",
+        "choice": [
+            "The friends",
+            "The brothers",
+            "The elder",
+            "Demetrius"
+        ],
+        "answer": "B",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "For whose sake did the brothers go out in 3 John 1:7?",
+        "choice": [
+            "For the sake of their families",
+            "For the sake of the Name",
+            "For the sake of the church",
+            "For the sake of their mission"
+        ],
+        "answer": "B",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "From whom did the brothers take nothing in 3 John 1:7?",
+        "choice": [
+            "From the church",
+            "From the fellowworkers",
+            "From the Gentiles",
+            "From the elders"
+        ],
+        "answer": "C",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the elder say that they ought to do in regards to the brothers in 3 John 1:8?",
+        "choice": [
+            "To send them away",
+            "To receive such",
+            "To ignore them",
+            "To judge them"
+        ],
+        "answer": "B",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why ought the believers to receive the brothers in 3 John 1:8?",
+        "choice": [
+            "That they may become wealthy",
+            "That they may become popular",
+            "That they may be fellowworkers for the truth",
+            "That they may gain influence"
+        ],
+        "answer": "C",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who loves to be first among them in 3 John 1:9?",
+        "choice": [
+            "Gaius",
+            "Demetrius",
+            "The elder",
+            "Diotrephes"
+        ],
+        "answer": "D",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Diotrephes not accept in 3 John 1:9?",
+        "choice": [
+            "What the Gentiles said",
+            "What the church said",
+            "What the elder said",
+            "What the brothers said"
+        ],
+        "answer": "C",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the elder plan to call attention to if he comes in 3 John 1:10?",
+        "choice": [
+            "The truth the brothers spoke",
+            "Diotrephes' good deeds",
+            "Diotrephes' deeds",
+            "The faith of the church"
+        ],
+        "answer": "C",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the elder say that Diotrephes does unjustly in 3 John 1:10?",
+        "choice": [
+            "Falsely accuses",
+            "Falsely praises",
+            "Falsely witnesses",
+            "Falsely blesses"
+        ],
+        "answer": "A",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is Diotrephes not content with in 3 John 1:10?",
+        "choice": [
+            "Not receiving the elder himself",
+            "Not receiving the brothers himself",
+            "Not receiving the letters",
+            "Not receiving the truth"
+        ],
+        "answer": "B",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Diotrephes do to those who would receive the brothers in 3 John 1:10?",
+        "choice": [
+            "He helps them",
+            "He encourages them",
+            "He forbids them and throws them out of the assembly",
+            "He blesses them"
+        ],
+        "answer": "C",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the elder urge the recipient not to imitate in 3 John 1:11?",
+        "choice": [
+            "That which is good",
+            "That which is evil",
+            "That which is difficult",
+            "That which is normal"
+        ],
+        "answer": "B",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who does the elder say is of God in 3 John 1:11?",
+        "choice": [
+            "He who judges",
+            "He who does good",
+            "He who has faith",
+            "He who is generous"
+        ],
+        "answer": "B",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who does the elder say has not seen God in 3 John 1:11?",
+        "choice": [
+            "He who does good",
+            "He who doesn't believe",
+            "He who does evil",
+            "He who doesn't love"
+        ],
+        "answer": "C",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who has the testimony of all in 3 John 1:12?",
+        "choice": [
+            "Diotrephes",
+            "Gaius",
+            "The elder",
+            "Demetrius"
+        ],
+        "answer": "D",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who else is said to testify on behalf of Demetrius in 3 John 1:12?",
+        "choice": [
+            "The church",
+            "The elder",
+            "The truth itself",
+            "The brothers"
+        ],
+        "answer": "C",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the elder say about their testimony in 3 John 1:12?",
+        "choice": [
+            "That their testimony is not important",
+            "That their testimony is true",
+            "That their testimony is false",
+            "That their testimony is uncertain"
+        ],
+        "answer": "B",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How does the elder say he is unwilling to write in 3 John 1:13?",
+        "choice": [
+            "With gold and ink",
+            "With ink and pen",
+            "With words alone",
+            "With parchment and pen"
+        ],
+        "answer": "B",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the elder hope to do soon in 3 John 1:14?",
+        "choice": [
+            "To send another letter",
+            "To visit the church",
+            "To see Gaius face to face",
+            "To see Demetrius"
+        ],
+        "answer": "C",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the elder wish for Gaius at the end of the letter in 3 John 1:14?",
+        "choice": [
+            "Strength",
+            "Peace",
+            "Wealth",
+            "Joy"
+        ],
+        "answer": "B",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who is asked to be greeted by name in 3 John 1:14?",
+        "choice": [
+            "The elders",
+            "The brothers",
+            "The friends",
+            "The leaders"
+        ],
+        "answer": "C",
+        "category": "3 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_3JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    }
+]

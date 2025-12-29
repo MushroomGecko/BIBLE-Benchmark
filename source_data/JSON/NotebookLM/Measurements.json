@@ -1,0 +1,277 @@
+[
+    {
+        "question": "About how many grams does a Hebrew Shekel weigh?",
+        "choice": [
+            "11.424 g",
+            "5.712 g",
+            "0.571 g",
+            "7.616 g"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the modern approximation of a Greek Stadion in miles?",
+        "choice": [
+            "1/8 mi",
+            "0.9 mi",
+            "1/4 mi",
+            "1/2 mi"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is a Hebrew Cab equivalent to in modern quarts?",
+        "choice": [
+            "1 qt",
+            "7 qts",
+            "2.09 qts",
+            "3/5 bsh"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "How many liters are there in a Hebrew Bath, a liquid measure?",
+        "choice": [
+            "22 L",
+            "39 L",
+            "0.3 L",
+            "4 L"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the weight of a Hebrew Mina in pounds?",
+        "choice": [
+            "1.26 lbs",
+            "0.403 oz",
+            "0.02 oz",
+            "0.258 oz"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the length of a Hebrew handbreadth in inches?",
+        "choice": [
+            "3 in.",
+            "18 in.",
+            "9 in.",
+            "0.73 in."
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the volume of a Greek Choinix in quarts?",
+        "choice": [
+            "1 qt",
+            "14.9 bsh",
+            "7 qts",
+            "1/4 bsh"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "About how many gallons are in the Greek liquid measure Metretes?",
+        "choice": [
+            "10 gal",
+            "6 gal",
+            "5.5 gal",
+            "1 1/6 pts"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the weight of a Greek Talent in pounds?",
+        "choice": [
+            "88 lbs",
+            "75.6 lbs",
+            "1.26 lbs",
+            "12 oz"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the length of Ezekiel's Reed in feet and inches?",
+        "choice": [
+            "10 ft, 2.4 in.",
+            "8 3/4 ft",
+            "2 yds",
+            "3 1/3 yds"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the modern volume equivalent of a Hebrew Letek?",
+        "choice": [
+            "2.68 bsh",
+            "5.16 bsh",
+            "7 qts",
+            "2.09 qts"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the volume of a Greek Modios in pecks?",
+        "choice": [
+            "1 pk",
+            "1 qt",
+            "7 qts",
+            "1 1/6 pts"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "How much does a Daric coin weigh?",
+        "choice": [
+            "8.5 g",
+            "0.571 g",
+            "5.712 g",
+            "7.616 g"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "A Hebrew Gerah is what fraction of a shekel?",
+        "choice": [
+            "1/20",
+            "1/2",
+            "2/3",
+            "1/6"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the length of a fathom?",
+        "choice": [
+            "2 m",
+            "3 m",
+            "1.5 km",
+            "185 m"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "How many liters are in the Hebrew dry measure, an Omer?",
+        "choice": [
+            "2 L",
+            "7.3 L",
+            "22 L",
+            "220 L"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "A Hebrew 'reed' is equivalent to how many cubits?",
+        "choice": [
+            "6 cubits",
+            "4 cubits",
+            "8 cubits",
+            "10 cubits"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+   {
+        "question": "What is the length of a Hebrew finger in inches?",
+        "choice": [
+            "0.73 in.",
+            "3 in.",
+            "9 in.",
+            "18 in."
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the modern equivalent of the Greek linear measurement, Milion, in miles?",
+        "choice": [
+            "0.9 mi",
+            "1/8 mi",
+            "3/5 mi",
+            "1/4 mi"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "How many gallons are there in a Hebrew Cor / Homer, a liquid measure?",
+        "choice": [
+            "55 gal",
+            "5.5 gal",
+            "1 gal",
+            "10 gal"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the weight of a Hebrew Beca in ounces?",
+        "choice": [
+            ".201 oz",
+            "0.02 oz",
+            "0.258 oz",
+            "0.403 oz"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "How many yards are in the Greek measurement Kalamos?",
+        "choice": [
+            "3 1/3 yds",
+            "2 yds",
+            "8 3/4 ft or 3 yds",
+            "1,620 yds or 0.9 mi"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the modern volume equivalent of a Greek Koros?",
+        "choice": [
+            "14.9 bsh",
+            "1 pk or 1/4 bsh",
+            "7 qts",
+            "1 qt"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "How many quarts are in the Greek volume Xestes?",
+        "choice": [
+            "1 1/6 pts",
+            "7 qts",
+            "1 qt",
+            "2.09 qts"
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    },
+    {
+        "question": "What is the length of Ezekiel's Cubit in inches?",
+        "choice": [
+            "20.4 in.",
+            "0.73 in.",
+            "3 in.",
+            "9 in."
+        ],
+        "answer": "A",
+        "source": "measurements.pdf"
+    }
+]

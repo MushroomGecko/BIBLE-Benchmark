@@ -1,0 +1,502 @@
+[
+    {
+        "question": "According to Paul, what is the basis of his apostleship (Titus 1:1)?",
+        "choice": [
+            "The commandment of God",
+            "The knowledge of the truth",
+            "The faith of God's chosen ones",
+             "His own authority"
+        ],
+        "answer": "C"
+    },
+    {
+        "question":"What did God promise before time began (Titus 1:2)?",
+        "choice": [
+            "A new covenant",
+            "Eternal life",
+            "A kingdom on Earth",
+            "A great prophet"
+        ],
+         "answer": "B"
+    },
+   {
+        "question": "What was Titus entrusted with according to the commandment of God (Titus 1:3)?",
+        "choice": [
+            "The message of salvation",
+            "The establishment of churches",
+            "The distribution of wealth",
+            "The gift of healing"
+        ],
+        "answer": "A"
+    },
+     {
+        "question": "Paul refers to Titus as his what in the faith (Titus 1:4)?",
+        "choice": [
+             "Fellow servant",
+             "True child",
+             "Beloved brother",
+             "Faithful companion"
+          ],
+        "answer": "B"
+    },
+    {
+        "question": "Why did Paul leave Titus in Crete (Titus 1:5)?",
+        "choice": [
+            "To preach the gospel",
+            "To appoint elders in every city",
+            "To establish a new church",
+            "To oversee the finances"
+         ],
+        "answer":"B"
+    },
+    {
+        "question": "What is one of the qualifications for an elder (Titus 1:6)?",
+        "choice": [
+            "Wealthy and influential",
+            "Having a large family",
+            "Blameless and the husband of one wife",
+            "Highly educated"
+         ],
+        "answer": "C"
+   },
+    {
+        "question": "What is one characteristic an overseer should not have (Titus 1:7)?",
+        "choice": [
+            "Hospitable",
+             "Self-controlled",
+            "Easily angered",
+            "A lover of good"
+         ],
+         "answer": "C"
+    },
+    {
+        "question": "What should an elder hold to, that he may be able to exhort in sound doctrine (Titus 1:9)?",
+        "choice": [
+             "The traditions of the elders",
+            "The faithful word",
+            "Personal convictions",
+            "Philosophical arguments"
+          ],
+        "answer": "B"
+    },
+     {
+        "question": "According to Paul, what are many of the unruly men (Titus 1:10)?",
+        "choice": [
+           "Lawyers and judges",
+           "Vain talkers and deceivers",
+           "Merchants and traders",
+           "Philosophers and teachers"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What did a prophet of their own say about Cretans (Titus 1:12)?",
+        "choice": [
+            "They are generous and kind",
+            "They are always liars, evil beasts, and idle gluttons",
+            "They are hardworking and diligent",
+             "They are wise and understanding"
+        ],
+        "answer": "B"
+    },
+        {
+        "question": "Why should the Cretans be reproved sharply (Titus 1:13)?",
+        "choice": [
+           "That they may be wealthy",
+           "That they may become powerful",
+           "That they may be sound in the faith",
+            "That they may fear authority"
+        ],
+        "answer": "C"
+    },
+     {
+        "question": "What should those who are pure see all things as (Titus 1:15)?",
+         "choice": [
+            "Unclean",
+            "Pure",
+            "Evil",
+            "Corrupt"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What do the deeds of those who profess to know God do (Titus 1:16)?",
+        "choice": [
+             "Honor Him",
+             "Glorify Him",
+             "Deny Him",
+             "Obey Him"
+         ],
+        "answer":"C"
+    },
+    {
+      "question": "What should older men be according to sound doctrine (Titus 2:2)?",
+        "choice": [
+           "Temperate, sensible, and sober minded",
+           "Wealthy and influential",
+           "Powerful and commanding",
+           "Strict and unforgiving"
+        ],
+        "answer": "A"
+    },
+    {
+        "question":"What should older women be teachers of (Titus 2:3)?",
+         "choice": [
+           "That which is evil",
+            "That which is good",
+            "Their own desires",
+            "Their own opinions"
+         ],
+        "answer": "B"
+    },
+     {
+        "question": "What should older women train the young wives to do (Titus 2:4)?",
+        "choice": [
+            "To love their neighbors",
+            "To love their husbands and children",
+            "To manage finances",
+            "To pursue careers"
+          ],
+        "answer": "B"
+    },
+     {
+        "question": "What should younger men be exhorted to be (Titus 2:6)?",
+        "choice": [
+            "Wealthy",
+            "Powerful",
+             "Sober minded",
+            "Aggressive"
+          ],
+        "answer": "C"
+    },
+    {
+        "question": "What should Titus show in his teaching (Titus 2:7)?",
+        "choice": [
+            "Integrity, seriousness, and incorruptibility",
+            "Pride and arrogance",
+            "Favoritism and bias",
+            "Partiality and selfishness"
+         ],
+        "answer": "A"
+    },
+    {
+       "question": "What should servants show to their own masters (Titus 2:9-10)?",
+        "choice": [
+            "Disrespect",
+            "Contradiction",
+            "All good fidelity",
+            "Rebellion"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What has appeared, bringing salvation to all men (Titus 2:11)?",
+        "choice": [
+            "The law of Moses",
+            "The grace of God",
+            "The wisdom of the world",
+            "The teachings of men"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What are we instructed to deny, in order to live godly lives (Titus 2:12)?",
+        "choice": [
+            "Worldly wisdom and knowledge",
+            "Unholy and worldly lusts",
+             "Material possessions and wealth",
+             "Personal ambitions and desires"
+          ],
+        "answer":"B"
+    },
+    {
+        "question": "What should believers be zealous for (Titus 2:14)?",
+       "choice": [
+            "Good works",
+            "Personal gain",
+             "Political power",
+            "Religious traditions"
+        ],
+        "answer": "A"
+    },
+    {
+         "question": "What should believers be reminded to do (Titus 3:1)?",
+        "choice": [
+             "Be in subjection to rulers and authorities",
+             "Overthrow earthly powers",
+            "Question every law",
+            "Challenge authority"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "According to Titus 3:5, how are we saved?",
+         "choice": [
+            "Through our own good works",
+            "Through the washing of regeneration and renewing by the Holy Spirit",
+            "By following a strict set of rules",
+             "By our family's righteousness"
+         ],
+         "answer": "B"
+    },
+    {
+        "question":"What does Paul say to avoid (Titus 3:9)?",
+        "choice": [
+            "Helping the poor",
+            "Foolish questionings, genealogies, and disputes about the law",
+            "Speaking the truth",
+            "Praying for others"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "According to Paul, what is the purpose of the knowledge of the truth (Titus 1:1)?",
+        "choice": [
+            "To gain worldly power",
+            "To achieve personal success",
+            "Which is according to godliness",
+             "To impress others"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who revealed his word in the message (Titus 1:3)?",
+        "choice": [
+            "Paul",
+            "Titus",
+             "God",
+            "An angel"
+        ],
+         "answer": "C"
+    },
+    {
+         "question": "What does Paul wish for Titus in his greeting (Titus 1:4)?",
+         "choice": [
+             "Wealth, health, and prosperity",
+            "Grace, mercy, and peace",
+            "Success, fame, and fortune",
+             "Power, control, and influence"
+         ],
+        "answer": "B"
+    },
+     {
+        "question": "What should elders have, according to Titus 1:6, concerning their children?",
+        "choice": [
+            "Children who are well-known in the community",
+            "Children who are wealthy and powerful",
+            "Children who believe and are not accused of loose or unruly behavior",
+            "Children who are highly educated"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is one of the things an overseer should NOT be (Titus 1:7)?",
+        "choice": [
+            "Given to hospitality",
+            "Sober-minded",
+            "Greedy for dishonest gain",
+            "A lover of good"
+         ],
+        "answer":"C"
+    },
+    {
+        "question": "What is one positive quality that an overseer should possess (Titus 1:8)?",
+        "choice": [
+            "Self-pleasing",
+            "Fair",
+            "Violent",
+            "Easily angered"
+         ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the purpose of holding to the faithful word (Titus 1:9)?",
+        "choice": [
+             "To impress others with knowledge",
+            "To be able to exhort in sound doctrine and convict those who contradict",
+            "To create division and conflict",
+            "To establish personal authority"
+          ],
+        "answer": "B"
+    },
+     {
+        "question": "What is one thing that the unruly men do (Titus 1:11)?",
+        "choice": [
+           "They build up the church",
+           "They overthrow whole houses, teaching things which they ought not, for dishonest gain’s sake",
+           "They support the community",
+           "They preach sound doctrine"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "According to Paul, what is the purpose of reproving the Cretans sharply (Titus 1:13)?",
+        "choice": [
+            "To shame and humiliate them",
+            "To cause fear and intimidation",
+            "That they may be sound in the faith",
+             "To exert power and control"
+        ],
+        "answer": "C"
+    },
+        {
+        "question": "According to Paul, what happens to the minds and consciences of the defiled and unbelieving (Titus 1:15)?",
+        "choice": [
+           "They are purified",
+           "They are renewed",
+           "They are defiled",
+            "They are enlightened"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "According to Paul, what are the deeds of those who profess to know God (Titus 1:16)?",
+        "choice": [
+             "Obedient and righteous",
+             "Loving and kind",
+             "Abominable, disobedient, and unfit for any good work",
+             "Honorable and respectable"
+         ],
+        "answer":"C"
+    },
+    {
+      "question": "What should older men be sound in (Titus 2:2)?",
+        "choice": [
+           "Faith, in love, and in perseverance",
+           "Wealth and power",
+           "Social status and influence",
+           "Personal ambition and desire"
+        ],
+        "answer": "A"
+    },
+    {
+        "question":"What is one way that older women should act (Titus 2:3)?",
+         "choice": [
+           "Slanderers",
+            "Reverent in behavior",
+            "Enslaved to much wine",
+            "Secretive and dishonest"
+         ],
+        "answer": "B"
+    },
+     {
+        "question": "What should young wives be in subjection to (Titus 2:5)?",
+        "choice": [
+            "Their parents",
+            "Their own husbands",
+             "Their friends",
+            "Their employers"
+          ],
+        "answer": "B"
+    },
+    {
+        "question": "What should Titus show in all things (Titus 2:7)?",
+        "choice": [
+            "An example of good works",
+            "A display of wealth",
+            "An attitude of arrogance",
+            "A lack of concern for others"
+          ],
+        "answer": "A"
+    },
+    {
+       "question": "What is the desired outcome of servants showing all good fidelity (Titus 2:10)?",
+        "choice": [
+            "That they may gain power",
+            "That they may be promoted",
+            "That they may adorn the doctrine of God, our Savior, in all things",
+            "That they may become wealthy"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is one thing that the grace of God instructs us to do (Titus 2:12)?",
+        "choice": [
+            "To live selfishly",
+            "To deny ungodliness and worldly lusts",
+            "To pursue personal ambition",
+            "To indulge in worldly pleasures"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the blessed hope (Titus 2:13)?",
+       "choice": [
+            "The accumulation of wealth",
+            "The appearing of the glory of our great God and Savior, Jesus Christ",
+            "The pursuit of worldly success",
+            "The absence of suffering"
+        ],
+        "answer": "B"
+    },
+    {
+         "question": "Why did Jesus give himself for us (Titus 2:14)?",
+        "choice": [
+             "To become famous",
+             "To gain political influence",
+            "That he might redeem us from all iniquity and purify for himself a people for his own possession, zealous for good works",
+            "To amass wealth and possessions"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What should believers show toward all men (Titus 3:2)?",
+         "choice": [
+            "Humility",
+            "Contempt",
+            "Pride",
+             "Arrogance"
+         ],
+         "answer": "A"
+    },
+        {
+        "question": "According to Titus 3:3, what were we once?",
+        "choice": [
+            "Wise and understanding",
+            "Humble and compassionate",
+            "Foolish, disobedient, deceived, serving various lusts and pleasures",
+             "Righteous and holy"
+         ],
+        "answer": "C"
+    },
+     {
+        "question":"According to Titus 3:8, what should those who have believed God be careful to maintain?",
+        "choice": [
+            "Good works",
+            "Personal wealth",
+            "Political connections",
+            "Religious traditions"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What should be done with a factious man after a first and second warning (Titus 3:10)?",
+        "choice": [
+            "Promote him to a higher position",
+            "Appoint him as a leader",
+            "Avoid him",
+            "Praise him publicly"
+        ],
+        "answer": "C"
+    },
+   {
+        "question": "What does Paul request Titus to do when he sends Artemas or Tychicus (Titus 3:12)?",
+        "choice": [
+            "To remain in Crete",
+            "To come to him in Nicopolis",
+            "To go to Jerusalem",
+             "To travel to Rome"
+         ],
+        "answer": "B"
+    },
+     {
+        "question": "What should people learn to maintain according to Titus 3:14?",
+        "choice": [
+            "Good works to meet necessary needs",
+            "Personal wealth and possessions",
+            "Social status and influence",
+            "Political power and control"
+        ],
+         "answer":"A"
+    }
+]

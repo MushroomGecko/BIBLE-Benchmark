@@ -1,0 +1,912 @@
+[
+    {
+        "question": "In what land was Jeremiah from? (Jeremiah 1:1)",
+        "choice": [
+            "The land of Benjamin",
+            "The land of Judah",
+             "The land of Egypt",
+            "The land of Israel"
+         ],
+        "answer": "A"
+    },
+   {
+        "question": "What was Jeremiah's response when Yahweh called him to be a prophet? (Jeremiah 1:6)",
+        "choice": [
+             "He said he was too old",
+             "He said he did not know how to speak, for he was a child",
+             "He was overjoyed and accepted immediately",
+             "He asked to think about it"
+            ],
+        "answer": "B"
+    },
+    {
+        "question": "What two actions did Yahweh say he set Jeremiah over? (Jeremiah 1:10)",
+        "choice": [
+            "To build and to plant",
+            "To uproot and to destroy",
+            "To uproot and to tear down",
+             "To destroy and to build"
+        ],
+        "answer": "C"
+    },
+    {
+        "question":"What did the people of Israel do that was described as forsaking Yahweh? (Jeremiah 2:13)",
+         "choice": [
+            "They built broken cisterns",
+            "They worshipped other gods",
+             "They stopped tithing",
+            "They stopped going to the temple"
+         ],
+        "answer": "A"
+    },
+    {
+        "question": "What did the people say when they turned their backs to Yahweh? (Jeremiah 2:27)",
+        "choice": [
+            "You are my rock",
+             "You are my strength",
+            "You are my father",
+            "Arise and save us"
+         ],
+        "answer":"C"
+   },
+   {
+        "question": "What did Yahweh say about the people's transgression? (Jeremiah 2:29)",
+        "choice": [
+           "They all had loved me",
+           "They all had honored me",
+           "They all had transgressed against me",
+            "They all had been faithful to me"
+         ],
+       "answer":"C"
+   },
+    {
+        "question": "What did Yahweh compare Israel's turning away from him to? (Jeremiah 2:21)",
+        "choice": [
+            "A tree",
+             "A degenerated branch of a foreign vine",
+            "A sheep",
+             "A well"
+        ],
+        "answer": "B"
+    },
+     {
+        "question": "What did Yahweh say about Judah's return to him? (Jeremiah 3:10)",
+        "choice": [
+            "It was heartfelt",
+            "It was done with joy",
+             "It was only in pretense",
+            "It was done with great sorrow"
+         ],
+        "answer": "C"
+    },
+    {
+        "question": "What does Yahweh want the people to acknowledge? (Jeremiah 3:13)",
+         "choice": [
+            "Their faithfulness",
+            "Their good deeds",
+            "Their iniquity",
+            "Their obedience"
+         ],
+        "answer": "C"
+     },
+     {
+        "question": "What does Yahweh say about the people in regards to his law? (Jeremiah 4:10)",
+         "choice": [
+            "They are wise",
+            "They are just",
+            "They are deceived",
+           "They are faithful"
+        ],
+        "answer": "C"
+    },
+   {
+        "question": "What does Yahweh say he will make his words in Jeremiah's mouth? (Jeremiah 5:14)",
+         "choice": [
+            "Water",
+            "Wind",
+            "Fire",
+             "A sword"
+         ],
+         "answer": "C"
+    },
+    {
+         "question": "What has happened in the land that is described as astonishing and horrible? (Jeremiah 5:30-31)",
+          "choice": [
+             "The prophets prophesy falsely, and the priests rule by their own authority",
+            "The people love to have it so",
+            "The priests are very poor",
+            "The prophets do not care about the people"
+          ],
+          "answer": "A"
+     },
+    {
+        "question": "What did Yahweh say about the people's sacrifices and offerings? (Jeremiah 6:20)",
+         "choice": [
+             "They were very pleasing to him",
+            "They were not acceptable",
+            "They were not needed",
+            "They were more than enough"
+            ],
+       "answer":"B"
+   },
+     {
+         "question": "What does Yahweh accuse the people of trusting in? (Jeremiah 7:8)",
+          "choice": [
+             "Living words",
+            "Lying words",
+             "Holy words",
+            "Powerful words"
+          ],
+         "answer": "B"
+     },
+    {
+         "question": "What did Yahweh say that the people had made his house? (Jeremiah 7:11)",
+          "choice": [
+              "A palace",
+             "A den of robbers",
+             "A place of worship",
+            "A beautiful temple"
+           ],
+          "answer": "B"
+     },
+    {
+       "question": "What will happen to the bones of the kings, priests, and prophets of Judah? (Jeremiah 8:1)",
+        "choice": [
+            "They will be placed in a royal tomb",
+             "They will be spread out before the sky",
+             "They will be buried deep in the ground",
+             "They will be thrown into the sea"
+        ],
+        "answer": "B"
+    },
+    {
+         "question": "What was the reason Yahweh said the land was burned up? (Jeremiah 9:13-14)",
+          "choice": [
+               "Because they had honored him",
+               "Because they had walked in his ways",
+               "Because they had forsaken his law and walked after the Baals",
+              "Because they had obeyed his voice"
+            ],
+          "answer": "C"
+     },
+      {
+        "question": "What does Yahweh say not to learn? (Jeremiah 10:2)",
+        "choice": [
+             "The way of the nations",
+            "The way of the prophets",
+            "The way of the priests",
+             "The way of the kings"
+        ],
+       "answer":"A"
+    },
+    {
+        "question": "What did Yahweh say about the idols? (Jeremiah 10:14-15)",
+        "choice": [
+             "They are powerful",
+            "They are a work of delusion",
+             "They are a gift from God",
+            "They are useful for wisdom"
+         ],
+        "answer": "B"
+    },
+      {
+         "question":"What did Yahweh call the covenant that the people broke? (Jeremiah 11:10)",
+         "choice": [
+             "A holy covenant",
+            "My covenant",
+             "An old covenant",
+            "A new covenant"
+         ],
+         "answer": "B"
+     },
+     {
+        "question":"What did Yahweh say he would do to the men of Anathoth for seeking Jeremiah's life? (Jeremiah 11:22)",
+        "choice": [
+             "Bless them",
+             "Give them riches",
+             "Punish them",
+            "Make them kings"
+         ],
+        "answer": "C"
+    },
+     {
+        "question":"What did Yahweh say he would fill all the inhabitants of the land with? (Jeremiah 13:13-14)",
+        "choice":[
+            "Wisdom",
+            "Drunkenness",
+            "Joy",
+            "Peace"
+            ],
+        "answer":"B"
+     },
+    {
+        "question": "Why did Yahweh say he would cause the people to be tossed back and forth among the kingdoms of the earth? (Jeremiah 15:4)",
+        "choice": [
+            "Because of their love",
+            "Because of their kindness",
+            "Because of Manasseh's actions",
+            "Because of their obedience"
+        ],
+         "answer":"C"
+    },
+    {
+        "question": "What is the sin of Judah written with? (Jeremiah 17:1)",
+         "choice": [
+            "A pen of iron and the point of a diamond",
+             "A pen of gold and the point of a ruby",
+             "A pen of silver and the point of a sapphire",
+            "A pen of bronze and the point of an emerald"
+            ],
+         "answer": "A"
+     },
+    {
+        "question":"What does Yahweh say about the heart? (Jeremiah 17:9)",
+         "choice": [
+            "It is full of love",
+            "It is righteous",
+             "It is deceitful above all things",
+             "It is honest"
+          ],
+        "answer":"C"
+    },
+    {
+        "question": "What did Yahweh tell Jeremiah to do at the potter's house? (Jeremiah 18:2-4)",
+        "choice": [
+            "To buy some pottery",
+            "To watch the potter work",
+            "To make pottery",
+             "To hear Yahweh's words"
+        ],
+        "answer": "D"
+    },
+    {
+       "question": "What did Yahweh say would happen to those who devise plans against Jeremiah? (Jeremiah 18:23)",
+        "choice": [
+            "They will be blessed",
+            "They will be honored",
+            "They will be overthrown",
+             "They will be made rich"
+         ],
+         "answer": "C"
+    },
+    {
+        "question": "Where did Jeremiah tell the people to go to hear Yahweh's word? (Jeremiah 19:2-3)",
+        "choice": [
+            "The valley of Hinnom",
+            "The temple",
+            "The king's palace",
+             "The city gates"
+        ],
+         "answer": "A"
+    },
+     {
+        "question": "What did Yahweh say he would give into the hand of their enemies? (Jeremiah 20:5)",
+        "choice": [
+           "Their land",
+            "All the riches of the city and its treasures",
+            "Their homes",
+             "Their flocks"
+         ],
+        "answer": "B"
+    },
+    {
+        "question": "What did Jeremiah say that Yahweh had made his word to him? (Jeremiah 20:8)",
+        "choice": [
+            "A great joy",
+            "A great burden",
+             "A reproach and a derision",
+             "A beautiful song"
+        ],
+         "answer": "C"
+    },
+     {
+        "question": "What does Yahweh say he will set before the people? (Jeremiah 21:8)",
+        "choice": [
+            "The way of life and the way of death",
+             "The way of the righteous and the way of the wicked",
+            "The way of the holy and the way of the unholy",
+            "The way of the wise and the way of the foolish"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What did Yahweh say about those who do not execute justice and righteousness? (Jeremiah 22:5)",
+        "choice": [
+           "Their house will be destroyed",
+           "They will be blessed",
+           "They will live forever",
+            "They will have many riches"
+          ],
+        "answer": "A"
+    },
+    {
+        "question": "What will be the burial of Jehoiakim? (Jeremiah 22:19)",
+         "choice": [
+             "He will be buried in the royal tombs",
+            "He will be buried with great honor",
+             "He will be buried with the burial of a donkey",
+            "He will not be buried"
+        ],
+        "answer": "C"
+    },
+     {
+        "question": "What did Yahweh say he would do to the shepherds who scattered his flock? (Jeremiah 23:1-2)",
+        "choice": [
+            "He would bless them",
+             "He would visit on them the evil of their doings",
+             "He would make them rich",
+            "He would make them kings"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What has gone out into all the land from the prophets of Jerusalem? (Jeremiah 23:15)",
+        "choice": [
+           "Holiness",
+           "Kindness",
+           "Ungodliness",
+           "Righteousness"
+          ],
+        "answer": "C"
+    },
+     {
+        "question": "What did Yahweh say about the prophets who use their own tongues to prophesy? (Jeremiah 23:31)",
+        "choice": [
+            "They are good prophets",
+            "They are blessed prophets",
+            "They are against me",
+             "They are for me"
+         ],
+        "answer": "C"
+    },
+    {
+       "question": "What does Yahweh say he will send among the people until they are consumed from the land? (Jeremiah 24:10)",
+        "choice": [
+            "Famine, sword, and pestilence",
+            "Blessings and riches",
+            "Peace and prosperity",
+             "Long life and health"
+        ],
+         "answer": "A"
+    },
+    {
+       "question": "How long will the nations serve the king of Babylon? (Jeremiah 25:11)",
+       "choice": [
+           "100 years",
+           "70 years",
+           "50 years",
+           "20 years"
+       ],
+        "answer": "B"
+    },
+    {
+        "question": "What does Yahweh say that he will call for on all the inhabitants of the earth? (Jeremiah 25:29)",
+        "choice": [
+             "A time of peace",
+            "A time of healing",
+            "A sword",
+            "A new beginning"
+         ],
+        "answer": "C"
+    },
+     {
+        "question": "What did Yahweh tell Jeremiah to do in the court of Yahweh's house? (Jeremiah 26:2)",
+         "choice": [
+             "To sing praises",
+            "To give offerings",
+            "To speak all the words Yahweh commanded him",
+            "To pray"
+            ],
+        "answer": "C"
+     },
+     {
+        "question":"What did Jeremiah say to the people about serving the king of Babylon? (Jeremiah 27:17)",
+         "choice":[
+            "They will die",
+            "They will be saved",
+             "They will be exiled",
+            "They will live"
+            ],
+         "answer": "D"
+    },
+    {
+        "question": "What did the prophets of old prophesy against many countries and kingdoms? (Jeremiah 28:8)",
+         "choice": [
+            "Peace and prosperity",
+            "Joy and happiness",
+             "War, evil, and pestilence",
+            "Wealth and fortune"
+            ],
+         "answer": "C"
+    },
+    {
+        "question": "What did Yahweh say to seek for the city where they were carried away captive? (Jeremiah 29:7)",
+         "choice": [
+            "Their own glory",
+            "Their own riches",
+             "The peace of the city",
+            "Their own freedom"
+            ],
+        "answer":"C"
+    },
+    {
+        "question": "What did Yahweh say he would do to those who had not gone into captivity? (Jeremiah 29:17)",
+         "choice": [
+            "Bless them abundantly",
+            "Make them rich",
+             "Send on them the sword, famine, and pestilence",
+            "Give them peace"
+            ],
+        "answer": "C"
+    },
+     {
+        "question": "What did Yahweh say about writing all the words he had spoken to Jeremiah? (Jeremiah 30:2)",
+         "choice": [
+            "Write them on your heart",
+            "Write them in a book",
+            "Speak them to everyone",
+            "Forget them"
+        ],
+        "answer":"B"
+    },
+    {
+        "question": "What did Yahweh say he would reverse for his people? (Jeremiah 30:3)",
+         "choice": [
+            "The blessings of my people",
+            "The captivity of my people",
+             "The peace of my people",
+            "The kindness of my people"
+           ],
+        "answer": "B"
+     },
+     {
+         "question": "What will be heard in the city when Yahweh restores it? (Jeremiah 33:10-11)",
+         "choice": [
+           "Only sounds of mourning and weeping",
+           "Only sounds of war and battle",
+           "The voice of joy and gladness, bridegroom and bride",
+           "Only sounds of silence and stillness"
+         ],
+         "answer": "C"
+     },
+     {
+         "question": "What did the king of Judah make with the people at Jerusalem? (Jeremiah 34:8)",
+         "choice": [
+             "A covenant of peace",
+             "A covenant of liberty",
+            "A covenant of war",
+            "A covenant of prosperity"
+           ],
+          "answer":"B"
+      },
+    {
+        "question": "What did Jeremiah say would not lack for Jonadab, the son of Rechab? (Jeremiah 35:19)",
+        "choice": [
+            "Riches",
+             "A man to stand before Yahweh forever",
+            "Peace",
+            "Prosperity"
+        ],
+         "answer": "B"
+    },
+     {
+        "question": "What did Baruch do with the scroll of Yahweh's words? (Jeremiah 36:8)",
+        "choice": [
+            "He burned it",
+            "He hid it",
+            "He read it in Yahweh's house",
+            "He gave it to the king"
+         ],
+         "answer": "C"
+     },
+    {
+        "question": "What did Yahweh say would happen if Zedekiah would not go out to the king of Babylon's princes? (Jeremiah 38:18)",
+        "choice": [
+            "The city would be saved",
+            "The city would be given into the hand of the Chaldeans and burned",
+             "The king would escape",
+            "The people would be scattered"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What did Gedaliah tell the people not to be afraid of? (Jeremiah 40:9)",
+        "choice": [
+            "The king of Babylon",
+            "Serving the Chaldeans",
+            "The Jews in other countries",
+            "Ishmael the son of Nethaniah"
+        ],
+        "answer": "B"
+    },
+  {
+        "question": "What did Johanan and the captains do when they heard of the evil that Ishmael had done? (Jeremiah 41:12)",
+        "choice": [
+           "They went to fight Ishmael",
+            "They went to the king of Babylon",
+            "They fled the land",
+            "They surrendered to Ishmael"
+        ],
+        "answer": "A"
+    },
+    {
+        "question":"What did Jeremiah tell the people he would do after they asked him to inquire of Yahweh? (Jeremiah 42:4)",
+        "choice":[
+            "He would not pray for them",
+            "He would only tell them good news",
+            "He would declare whatever Yahweh answered",
+            "He would tell them to serve the king of Babylon"
+            ],
+        "answer":"C"
+    },
+    {
+         "question": "What did Yahweh say he would do if the people would still live in the land? (Jeremiah 42:10)",
+         "choice": [
+             "He would destroy them",
+             "He would plant them",
+            "He would scatter them",
+            "He would make them slaves"
+         ],
+        "answer":"B"
+    },
+    {
+        "question":"What did the proud men accuse Jeremiah of? (Jeremiah 43:2-3)",
+         "choice":[
+            "Speaking falsely and that Baruch turned him against them",
+             "Being a traitor",
+             "Being a false prophet",
+             "Worshipping other gods"
+         ],
+         "answer": "A"
+    },
+    {
+        "question": "What did Yahweh say would happen to the cities of Judah and Jerusalem because the people did not stop burning incense to other gods? (Jeremiah 44:6)",
+        "choice": [
+             "They would be blessed",
+             "They would become wasted and desolate",
+            "They would become great",
+            "They would be filled with riches"
+            ],
+        "answer": "B"
+    },
+    {
+         "question": "What did the people in Egypt say they would continue to do, despite Jeremiah's warnings? (Jeremiah 44:17)",
+         "choice": [
+           "They would worship Yahweh alone",
+            "They would serve the king of Babylon",
+            "They would burn incense to the queen of the sky",
+            "They would destroy all idols"
+           ],
+          "answer": "C"
+     },
+    {
+        "question": "What did Yahweh say he would bring on all flesh? (Jeremiah 45:5)",
+        "choice": [
+            "Great Joy",
+            "Great riches",
+            "Evil",
+            "Great peace"
+        ],
+        "answer": "C"
+    },
+     {
+        "question": "Where did Jeremiah say that the mighty men of Egypt have stumbled and fallen? (Jeremiah 46:6)",
+         "choice": [
+            "In the north by the river Euphrates",
+            "In the desert",
+             "In the land of Egypt",
+            "In the city of Babylon"
+            ],
+         "answer": "A"
+     },
+     {
+         "question": "What is Moab compared to in the wilderness? (Jeremiah 48:6)",
+         "choice": [
+            "A mighty tree",
+            "A juniper bush",
+             "A great city",
+            "A strong mountain"
+            ],
+        "answer": "B"
+      },
+     {
+         "question": "What did Yahweh say would happen to Moab because they trusted in their works and their treasures? (Jeremiah 48:7)",
+          "choice": [
+            "They will be blessed",
+             "They will be taken captive",
+             "They will become very wealthy",
+            "They will become a great nation"
+         ],
+         "answer": "B"
+    },
+    {
+        "question": "What does Yahweh say he will send on Moab? (Jeremiah 48:12)",
+        "choice": [
+           "Those who pour off",
+           "Those who bless",
+            "Those who heal",
+            "Those who build"
+        ],
+        "answer": "A"
+    },
+   {
+        "question": "What is the curse for those who do the work of Yahweh negligently and keep back their sword from blood? (Jeremiah 48:10)",
+        "choice": [
+            "They will be blessed",
+            "They will be saved",
+            "They will be cursed",
+             "They will have riches"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What did Yahweh say he would do to the children of Ammon after they were taken captive? (Jeremiah 49:6)",
+        "choice": [
+            "He would abandon them",
+            "He would reverse their captivity",
+            "He would destroy them",
+             "He would make them slaves"
+        ],
+        "answer": "B"
+    },
+     {
+         "question": "What did Yahweh say would happen to Edom because of their pride? (Jeremiah 49:16)",
+         "choice":[
+            "They would be exalted",
+             "They would be brought down",
+            "They would be made rich",
+            "They would become a great nation"
+            ],
+         "answer": "B"
+    },
+      {
+        "question": "What does Yahweh say about Babylon in Jeremiah 50:2?",
+        "choice": [
+            "Babylon is blessed",
+            "Babylon has been taken",
+            "Babylon is saved",
+            "Babylon is exalted"
+        ],
+        "answer": "B"
+    },
+     {
+        "question": "What did Yahweh say that Babylon has become among the nations? (Jeremiah 50:23)",
+        "choice": [
+            "A blessing",
+            "A great nation",
+            "A desolation",
+            "A new beginning"
+        ],
+       "answer": "C"
+     },
+     {
+        "question": "What did Yahweh say that the nations have done because they have drunk of Babylon's wine? (Jeremiah 51:7)",
+        "choice": [
+            "They have become wise",
+             "They have gone mad",
+            "They have become peaceful",
+            "They have become rich"
+        ],
+        "answer": "B"
+    },
+    {
+       "question": "What does Yahweh say about his purpose against Babylon? (Jeremiah 51:11)",
+        "choice": [
+             "To bless it",
+             "To heal it",
+            "To destroy it",
+             "To save it"
+           ],
+        "answer":"C"
+     },
+    {
+        "question": "What did Yahweh say he would do to Babylon and Chaldea for what they did in Zion? (Jeremiah 51:24)",
+        "choice": [
+            "He would bless them",
+            "He would forgive them",
+            "He would render to them all their evil",
+             "He would show them mercy"
+            ],
+         "answer":"C"
+    },
+    {
+        "question": "What will happen when Yahweh executes judgment on Babylon's engraved images? (Jeremiah 51:47)",
+         "choice":[
+            "Their land will be blessed",
+             "Their whole land will be confounded",
+            "They will become the greatest nation",
+            "Their people will be saved"
+            ],
+        "answer":"B"
+    },
+        {
+        "question": "What did Jeremiah write in a book? (Jeremiah 51:60)",
+        "choice": [
+            "All the blessings for Babylon",
+            "All the evil that should come on Babylon",
+            "All the praises for Babylon",
+            "All the good that should come on Babylon"
+         ],
+        "answer": "B"
+    },
+    {
+        "question": "According to Jeremiah 12:1, what does Jeremiah acknowledge about Yahweh, even when contending with Him?",
+        "choice": [
+            "That He is merciful",
+            "That He is just",
+            "That He is righteous",
+            "That He is forgiving"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "In Jeremiah 12:5, what question is posed about contending with horses, after being wearied by footmen?",
+        "choice": [
+            "How can you outrun them?",
+             "How will you do in the pride of the Jordan?",
+            "How can you defeat them?",
+            "How can you avoid them?"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "According to Jeremiah 14:7, even though their iniquities testify against them, what does Jeremiah ask Yahweh to do?",
+        "choice": [
+            "Work for your name's sake",
+            "Forgive their rebellion",
+            "Have mercy on them",
+             "Cast them away"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "In Jeremiah 14:17, what does the Lord command Jeremiah's eyes to do, concerning the virgin daughter of His people?",
+        "choice": [
+            "Run down with tears night and day",
+           "Be lifted up with hope and joy",
+            "Look away in disgust and shame",
+            "Be closed to the suffering"
+        ],
+        "answer": "A"
+    },
+     {
+        "question": "According to Jeremiah 16:10, what will the people ask when they hear of the great evil the Lord pronounces against them?",
+        "choice": [
+            "Why has the Lord forgotten them?",
+            "Why has the Lord chosen them for suffering?",
+             "What is their iniquity and sin?",
+            "What can they do to appease the Lord?"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "In Jeremiah 16:16, who does the Lord say He will send for to 'fish them up' and 'hunt them'?",
+        "choice": [
+           "Eagles and lions",
+           "Fishermen and hunters",
+            "Kings and rulers",
+            "Priests and prophets"
+        ],
+         "answer": "B"
+    },
+    {
+        "question": "According to Jeremiah 31:8, from which direction will the Lord gather the people, along with the blind and the lame?",
+        "choice": [
+            "The south country",
+           "The east country",
+            "The north country",
+           "The west country"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "In Jeremiah 31:22, what 'new thing' has Yahweh created in the earth?",
+        "choice": [
+             "A woman will encompass a man",
+            "A man will give birth to a child",
+             "The earth will be made new",
+           "Water will turn into wine"
+        ],
+         "answer": "A"
+    },
+    {
+        "question": "According to Jeremiah 32:17, what does Jeremiah acknowledge about the Lord's power in making the heavens and the earth?",
+         "choice": [
+            "That it is unmatched by any other god",
+           "That nothing is too hard for Him",
+            "That it is a mystery to man",
+            "That it is all accomplished through His word"
+        ],
+        "answer": "B"
+    },
+    {
+       "question": "According to Jeremiah 32:31, what has the city been to the Lord from the day it was built?",
+        "choice": [
+           "A beacon of hope",
+            "A constant source of joy",
+            "A provocation of His anger and wrath",
+            "A place of perfect righteousness"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "In Jeremiah 37:8, what does the Lord declare will not happen to the Chaldeans in their war against the city?",
+        "choice": [
+            "They will not be defeated",
+           "They will not depart from the city",
+            "They will not show mercy",
+            "They will not rebuild"
+        ],
+        "answer": "B"
+    },
+    {
+      "question": "According to Jeremiah 37:17, what does Jeremiah tell King Zedekiah, concerning his fate?",
+        "choice": [
+             "That he will live and reign",
+           "That he will be delivered into the hand of the king of Babylon",
+           "That he will be rescued by the Egyptians",
+            "That he will find refuge in the temple"
+        ],
+        "answer": "B"
+    },
+    {
+        "question":"In Jeremiah 39:16, what does the Lord promise to Ebed-melech the Ethiopian?",
+        "choice": [
+           "That he will rule over the city",
+            "That he will not fall by the sword",
+            "That he will be freed from all captivity",
+           "That he will become a prophet"
+         ],
+         "answer": "B"
+    },
+    {
+        "question": "According to Jeremiah 39:18, what does the Lord promise to Ebed-melech for his trust in Him?",
+        "choice": [
+             "That he will become rich",
+             "That he will have a long life",
+             "That his life will be given to him as a prize",
+            "That he will be known among the nations"
+        ],
+         "answer": "C"
+    },
+     {
+        "question": "According to Jeremiah 47:4, who will the Lord destroy from Tyre and Sidon?",
+        "choice": [
+            "Their armies",
+            "Every helper who remains",
+            "Their kings and queens",
+            "Their idols"
+        ],
+         "answer":"B"
+    },
+    {
+         "question":"In Jeremiah 47:5, what has come on Gaza, and what is Ashkelon?",
+          "choice": [
+                "Prosperity and hope",
+                "Baldness and brought to nothing",
+                "Growth and power",
+                "Peace and tranquility"
+           ],
+          "answer":"B"
+        },
+     {
+        "question": "According to Jeremiah 52:4, in what year and month did the siege of Jerusalem begin?",
+          "choice": [
+            "The ninth year, in the tenth month",
+            "The tenth year, in the ninth month",
+            "The ninth year, in the tenth month",
+            "The eleventh year, in the fourth month"
+        ],
+         "answer": "A"
+     },
+   {
+        "question": "In Jeremiah 52:7, how did the men of war flee the city?",
+          "choice": [
+           "By the main gates",
+           "By the way of the king's garden",
+           "Through secret passages",
+           "Through the city walls"
+         ],
+         "answer": "B"
+    }
+]

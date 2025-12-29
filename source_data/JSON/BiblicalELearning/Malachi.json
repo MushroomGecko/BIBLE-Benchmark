@@ -1,0 +1,1330 @@
+[
+    {
+        "question": "The book of Malachi is labeled as a(n) _______ (Mal 1:1)?",
+        "choice": [
+            "A prophecy",
+            "A vision",
+            "A sermon",
+            "An oracle"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom is the book of Malachi addressed (Mal 1:1)?",
+        "choice": [
+            "Judah",
+            "The exiles",
+            "Israel",
+            "The remnant"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Israel ask the Lord (Mal 1:2)?",
+        "choice": [
+            "Is this what you call love?",
+            "How have you loved us?",
+            "Why have you loved us?",
+            "Have you really loved us?"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is the first thing the Lord says to Israel in the book of Malachi (Mal 1:2)?",
+        "choice": [
+            "I have loved you",
+            "I have given you my covenant",
+            "I will redeem you",
+            "I have forgiven you"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was Jacob’s brother (Mal 1:2)?",
+        "choice": [
+            "Isaac",
+            "Lot",
+            "Ishmael",
+            "Jacob"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did the Lord say he hated (Mal 1:3)?",
+        "choice": [
+            "Isaac",
+            "Lot",
+            "Esau",
+            "Ishmael"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord do to Esau (Mal 1:3)?",
+        "choice": [
+            "Let his holy places desolate and his altars in ruins",
+            "Left his inheritance to the desert jackals",
+            "Burned his cities down",
+            "Left his land as a pile of ruins"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord do to Esau (Mal 1:3)?",
+        "choice": [
+            "Turned his mountains into a wasteland",
+            "Let his holy places desolate and his altars in ruins",
+            "Burned his cities down",
+            "Left his land as a pile of ruins"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What may Edom say (Mal 1:4)?",
+        "choice": [
+            "We will not serve the Lord",
+            "We will rebuild the ruins",
+            "We will plant our vineyards",
+            "We will attack our brother Jacob"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What land will be called a Wicked Land (Mal 1:4)?",
+        "choice": [
+            "Ammon",
+            "Moab",
+            "Edom",
+            "Aram"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "While Edom says they will rebuild, what does the Lord say (Mal 1:4)?",
+        "choice": [
+            "I will bless",
+            "I will uproot",
+            "I will burn down",
+            "I will demolish"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will Israel say when they see the Lord’s wrath on Edom (Mal 1:5)?",
+        "choice": [
+            "Great is the Lord",
+            "Praise the Lord",
+            "His love endures forever",
+            "Fear the Lord, O peoples"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where will they say the “Great is the Lord” (Mal 1:5)?",
+        "choice": [
+            "In all the earth",
+            "Beyond the borders of Israel",
+            "Even to the Nile River",
+            "Under the heavens"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does the Lord say normally receives honor (Mal 1:6)?",
+        "choice": [
+            "A king and a priest",
+            "A priest and a governor",
+            "A master and a father",
+            "A mother and a father"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does the Lord single out as showing contempt for his name (Mal 1:6)?",
+        "choice": [
+            "The elders",
+            "The kings",
+            "The prophets",
+            "The priests"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What have the priests done that shows contempt for the Lord (Mal 1:7)?",
+        "choice": [
+            "By placing defiled food on his altar",
+            "By drinking wine in the holy place",
+            "By oppressing the poor",
+            "By rejecting those who repent"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What were the priests doing that the Lord points out as being wrong (Mal 1:8)?",
+        "choice": [
+            "By burning defiled incense on the altar",
+            "By offering blind and crippled animals as sacrifices",
+            "By not teaching the people the word of the Lord",
+            "By being drunk in the holy place"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did the Lord say would not accept their blind and crippled animals which they were offering up to the Lord (Mal 1:8)?",
+        "choice": [
+            "Their children",
+            "The elders of their cities",
+            "Their governor",
+            "Darius the great king"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did they believe their offerings would result in (Mal 1:9)?",
+        "choice": [
+            "Appease God’s anger",
+            "For God to redeem them from their sins",
+            "To bring the early rains",
+            "For God to be gracious to them"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord wish someone would do (Mal 1:10)? A Shut the temple doors",
+        "choice": [
+            "Show mercy and justice in the land",
+            "Lock the city gates",
+            "Burn the entire city down"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord say he would not accept (Mal 1:10)?",
+        "choice": [
+            "Their prayers",
+            "Their offerings",
+            "Their incense",
+            "Their grain and wine"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord say will be great among the nations (Mal 1:11)?",
+        "choice": [
+            "The temple of the Lord",
+            "Faithfulness",
+            "His name",
+            "His glory"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where does the Lord say his name will be great (Mal 1:11)?",
+        "choice": [
+            "Among the elders of Israel",
+            "Among the priests that minister in his house",
+            "Among the children of Abraham",
+            "Among the nations"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will be brought from every place to his name (Mal 1:11)?",
+        "choice": [
+            "Incense and pure offerings",
+            "Wine and oil",
+            "Grain and fellowship offerings",
+            "Gold and silver"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do they incorrectly claim is defiled (Mal 1:12)?",
+        "choice": [
+            "The Lord’s altar",
+            "The Lord’s table",
+            "The Lord’s house",
+            "The Lord’s law"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do they incorrectly claim is contemptible (Mal 1:12)?",
+        "choice": [
+            "The altar",
+            "The sacrifices of the Most High",
+            "The food set on the Lord’s table",
+            "The blood placed in the holy place"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do they say of the food of the Lord’s table (Mal 1:13)?",
+        "choice": [
+            "It is polluted",
+            "This food is terrible",
+            "It is inedible",
+            "What a burden"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What kind of animals were these vowing cheaters sacrificing (Mal 1:14)?",
+        "choice": [
+            "A speckled animal",
+            "Only part of the animal",
+            "A blemished animal",
+            "Useless grain"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What title does the Lord say he is (Mal 1:14)?",
+        "choice": [
+            "A great high priest",
+            "A great king",
+            "A mighty warrior",
+            "The Lord of Hosts"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is the proper response God calls for his name as the great king (Mal 1:14)?",
+        "choice": [
+            "He is to be feared",
+            "He is to be honored",
+            "He is to be worshipped",
+            "He is to be served"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who is cursed (Mal 1:14)?",
+        "choice": [
+            "The one who has no fear of the great king yet claims to serve the Lord",
+            "The one who vows to give a good animal but offers a blemished one instead",
+            "The one who withholds his tithes and offerings yet claims he has given them",
+            "The one who enters the holy place why being drunk"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does the Lord admonish with the promise of a curse (Mal 2:1)?",
+        "choice": [
+            "The king",
+            "The false prophets",
+            "The foreigners",
+            "The priests"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What requirement was put on the priests in order for them not to incur a curse (Mal 2:2)?",
+        "choice": [
+            "They needed to set their heart to honor God’s name",
+            "They needed to be careful to not defile God’s holy place",
+            "They needed to offer sacrifices of praise to the Lord",
+            "They needed to stop taking advantage of the widows and fatherless"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What, in particular, did God say he would curse of the priests (Mal 2:2)?",
+        "choice": [
+            "Their homes",
+            "Their blessings",
+            "Their land",
+            "Their sacrifices"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God say he will do to the priests who have not set their heart to honor God (Mal 2:3)?",
+        "choice": [
+            "He will not receive their offerings and sacrifices",
+            "He will stop the spring rains and cause a drought in their land",
+            "He will spread the excrement from their sacrifices on their faces",
+            "He will cause them to die by the sword and their children carried into exile"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why will God cover the priests’ faces with excrement and carry them off (Mal 2:4)?",
+        "choice": [
+            "So that they will never again defile his name",
+            "So that they may teach the people the way of the Lord by their example",
+            "So that they will never again offer sacrifices to the Lord",
+            "So that his covenant with Levi may continue"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was God’s covenant with Levi (Mal 2:5)?",
+        "choice": [
+            "Covenant of life and peace",
+            "Covenant of sacrifices and offerings",
+            "Covenant of holiness unto the Lord",
+            "Covenant of redemption and forgiveness"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God’s covenant with Levi call for (Mal 2:5)?",
+        "choice": [
+            "Holiness",
+            "Reverence",
+            "Righteousness",
+            "Forgiveness"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was originally found in the mouth of the Levites (Mal 2:6)?",
+        "choice": [
+            "The law of the Lord",
+            "Words of wisdom",
+            "True instruction",
+            "Sacred bread"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Levites originally did all of the following EXCEPT (Mal 2:6)",
+        "choice": [
+            "Walked with God in peace",
+            "Walked with God in uprightness",
+            "Turned many from sin",
+            "Were holy unto the Lord",
+            "True instruction was found in his mouth"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What ought the lips of a priest to do (Mal 2:7)?",
+        "choice": [
+            "Preserve knowledge",
+            "Teach wisdom",
+            "Kiss that which is holy to the Lord",
+            "Pronounce pardon"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should people seek from the mouth of priests (Mal 2:7)?",
+        "choice": [
+            "The law",
+            "Instruction",
+            "Righteousness",
+            "Justice"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who is called the messenger of the Lord Almighty (Mal 2:7)?",
+        "choice": [
+            "The prophets",
+            "Malachi",
+            "The priests",
+            "The king"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What have the teaching of priests actually resulted in (Mal 2:8)?",
+        "choice": [
+            "Many to leave the straight paths",
+            "Many to defile the holy place",
+            "Many to fast and pray",
+            "Many to stumble"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What have the priests violated (Mal 2:8)?",
+        "choice": [
+            "The Sinai Covenant",
+            "The holiness of the Almighty",
+            "The covenant with Levi",
+            "The law of the Lord"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What has the Lord caused the priests to be (Mal 2:9)?",
+        "choice": [
+            "Vagabonds and pilgrims in a foreign land",
+            "Despised and humiliated",
+            "Defiled and unholy",
+            "Impoverished in the land"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What have the priests done in matters of the law (Mal 2:9)?",
+        "choice": [
+            "Shown partiality",
+            "Violated it",
+            "Cast it aside",
+            "Despised it"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Malachi claims they all had one ______ (Mal 2:10)?",
+        "choice": [
+            "Lord",
+            "Father",
+            "King",
+            "Master"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How has Judah broken faith (Mal 2:11)?",
+        "choice": [
+            "By offering unacceptable sacrifices",
+            "By oppressing the fatherless and widows",
+            "By marrying the daughter of a foreign god",
+            "By bringing idols into the holy place"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Malachi wish for the man who marries the daughter of a foreign god (Mal 2:12)?",
+        "choice": [
+            "The Lord would send him into exile",
+            "His land would produce thorns and thistles",
+            "The Lord would cut him off from the tents of Jacob",
+            "The Lord would cause him to be childless"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why do they weep and wail (Mal 2:13)?",
+        "choice": [
+            "Because there is no rain",
+            "Because God has sent their children into foreign lands",
+            "Because there is no longer any grain in the storerooms",
+            "Because God no longer pays attention to their offerings"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the people do because the Lord no longer accepts their offerings with pleasure (Mal 2:13)?",
+        "choice": [
+            "They flood the Lord’s altar with tears",
+            "They cut themselves and cry out",
+            "They put on sackcloth and go around in silence",
+            "They making whole burnt offerings"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Between whom is the Lord acting as a witness (Mal 2:14)?",
+        "choice": [
+            "You and your king",
+            "You and your priests",
+            "You and the wife of your youth",
+            "Heaven and earth"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did God make them one in flesh and spirit (Mal 2:15)?",
+        "choice": [
+            "He wanted harmony",
+            "He wanted godly offspring",
+            "He wanted peace",
+            "He wanted to make good families"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Malachi admonish them to guard themselves from (Mal 2:15)?",
+        "choice": [
+            "Turning away from the Lord to other gods",
+            "Sinning against their neighbors",
+            "Coveting their neighbors goods and family",
+            "Breaking faith with the wife of their youth"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord God say he hates (Mal 2:16)?",
+        "choice": [
+            "Divorce",
+            "Deceit",
+            "Wickedness",
+            "The workers of iniquity"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Lord said he hates a man doing what with violence (Mal 2:16)?",
+        "choice": [
+            "Oppressing the fatherless and the widow like a lion devouring a sheep",
+            "Covering himself with violence as with his garment",
+            "Pursuing violence with all his might",
+            "Seeking violence as one would seek bread and wine"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what had the people wearied the Lord (Mal 2:17)?",
+        "choice": [
+            "With their sacrifices",
+            "With their offerings",
+            "With their words",
+            "With their fasting"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How have the people wearied God with their words (Mal 2:17)?",
+        "choice": [
+            "By saying the Lord does not know what they are doing",
+            "By saying they had offered sacrifices so their sins were covered",
+            "By saying God will forgive us this day",
+            "By saying all who do evil are good in the eyes of the Lord"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What words wearied the Lord (Mal 2:17)?",
+        "choice": [
+            "Where is the God of justice?",
+            "How long, O Lord, until you save?",
+            "What have we done that you abandoned us?",
+            "Will you not care for your inheritance?"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will prepare the way before the Lord (Mal 3:1)?",
+        "choice": [
+            "His servant",
+            "His messenger",
+            "His shepherd",
+            "His priest"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where will the Lord come suddenly (Mal 3:1)?",
+        "choice": [
+            "Into his temple",
+            "Among his people",
+            "To Zion",
+            "To his mountain"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who were they desiring to come who will come (Mal 3:1)?",
+        "choice": [
+            "The servant of the Lord",
+            "The anointed one",
+            "The messenger of the covenant",
+            "The son of David"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the messenger of the covenant be like when he comes (Mal 3:2)?",
+        "choice": [
+            "A lion amidst a flock of sheep",
+            "A unassailable fortress",
+            "An ambassador",
+            "A refiner’s fire"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will the messenger of the covenant refine like silver (Mal 3:3)?",
+        "choice": [
+            "The Levites",
+            "The prophets",
+            "Israel’s kings",
+            "The whole assembly"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the Levites do after the Lord has purified them (Mal 3:3)?",
+        "choice": [
+            "Pay their tithes and offerings",
+            "Bring offerings in righteousness",
+            "Care for the sick and needy",
+            "Observe his Sabbath’s in holiness"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Whose offerings will be acceptable to the Lord as in days gone by (Mal 3:4)?",
+        "choice": [
+            "The offerings of Ephraim and Gilead",
+            "The offerings of Samaria and Shechem",
+            "The offerings of Judah and Jerusalem",
+            "The offerings of all people"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Lord says he will testify against all of the following reasons EXCEPT (Mal 3:5)",
+        "choice": [
+            "Sorcerers",
+            "Adulterers",
+            "Perjurers",
+            "Idolaters",
+            "Who oppress the widows"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Lord says he will testify against all of the following reasons EXCEPT (Mal 3:5)",
+        "choice": [
+            "Depriving aliens of justice",
+            "Defrauding laborers of their wages",
+            "Priests that defile his altar",
+            "Perjurers",
+            "Who oppress the fatherless"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Lord says he will come in judgment against those who do not _____ (Mal 3:5)",
+        "choice": [
+            "Fear him",
+            "Obey him",
+            "Trust him",
+            "Seek him"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On what basis does the Lord say the descendants of Jacob are not destroyed (Mal 3:6)?",
+        "choice": [
+            "The Lord is holy",
+            "The Lord does not change",
+            "The Lord is righteous",
+            "The Lord is full of compassion"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord say their forefathers did (Mal 3:7)?",
+        "choice": [
+            "Complained in the wilderness",
+            "Went after other gods",
+            "Turned away from his decrees",
+            "Defiled his altar"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord call on them to do even though their fathers had not kept his decrees (Mal 3:7)?",
+        "choice": [
+            "Be holy even as he is holy",
+            "Confess their sins",
+            "Put away their foreign idols",
+            "Return to him"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In returning to the Lord what accusation does the Lord make against them (Mal 3:8)?",
+        "choice": [
+            "You have robbed me",
+            "You have offered defiled sacrifices",
+            "You have worshipped other gods",
+            "You have built idols of silver"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How had they robbed God (Mal 3:8)?",
+        "choice": [
+            "In not providing food for the priests",
+            "In their tithes and offerings",
+            "In not following the ways of the Lord",
+            "In withholding justice from the poor"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where were they to bring their whole tithe (Mal 3:10)?",
+        "choice": [
+            "Into the temple",
+            "Into the gates of Jerusalem",
+            "Into the storehouse",
+            "Into the Levitical cities"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did God want them to bring their tithes into the storehouse (Mal 3:10)?",
+        "choice": [
+            "That the priests would have food for their families",
+            "That all Israel may rejoice",
+            "That there may be plenty for Passover",
+            "That there may be food in his house"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God promise to do if they brought in their whole tithe into the storehouse (Mal 3:10)?",
+        "choice": [
+            "He would open the floodgates of heaven and pour out blessing",
+            "He would give them ten times what they brought in",
+            "He would make blessings flow over them like a mighty river",
+            "He would give them gold for their silver and bread for their wheat"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God say he would do if they brought in their whole tithe into the storehouse (Mal 3:11)?",
+        "choice": [
+            "He would give them ten times what they brought in",
+            "He would  prevent pests from devouring their crops",
+            "He would make blessings flow over them like a mighty river",
+            "He would give them gold for their silver and bread for their wheat"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God say he would do if they brought in their whole tithe into the storehouse (Mal 3:11)?",
+        "choice": [
+            "He would give them ten times what they brought in",
+            "He would make blessings flow over them like a mighty river",
+            "He would make the vines in their fields not cast their fruit",
+            "He would give them gold for their silver and bread for their wheat"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will all nations call them because the land will be delightful (Mal 3:12)?",
+        "choice": [
+            "The garden of God",
+            "The dwelling of the Lord",
+            "Fertile",
+            "Blessed"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why will all nations call them blessed (Mal 3:12)?",
+        "choice": [
+            "Because their land would be delightful",
+            "Because their fields will yield its fruit",
+            "Because peace will be within their borders",
+            "Because their kings will be righteous"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What harsh thing had they said against the Lord (Mal 3:14)?",
+        "choice": [
+            "The wicked are blessed",
+            "It is futile to serve God",
+            "Other gods reward more than the Lord",
+            "The Lord’s ways are hard"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who were they calling blessed that was against the Lord (Mal 3:15)?",
+        "choice": [
+            "The wicked",
+            "The defiled",
+            "The arrogant",
+            "The rebellious"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did they claim escaped that said things against God (Mal 3:15)?",
+        "choice": [
+            "The wicked who opposed God",
+            "Those who turned away from God",
+            "Those who robbed God",
+            "Those who challenged God"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did they say that was against God (Mal 3:15)?",
+        "choice": [
+            "The evildoers prosper",
+            "God does not care",
+            "Serving God has led to a curse",
+            "God will never restore us again"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did the Lord listen to and hear (Mal 3:16)?",
+        "choice": [
+            "Those who are righteous",
+            "Those who feared the Lord",
+            "Those who are upright",
+            "Those who are not defiled"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was a scroll of remembrance written for (Mal 3:16)?",
+        "choice": [
+            "Those who are righteous and upright",
+            "Those who are just and fair",
+            "Those who feared the Lord and honor his name",
+            "Those who delight in the Lord and keep his decrees"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was done for those who feared the Lord and honored his name (Mal 3:16)?",
+        "choice": [
+            "They were given a new name in heaven",
+            "They were welcomed into the Lord’s presence with joy",
+            "A pile of stones was set up as a memorial for them",
+            "A scroll of remembrance was written in God’s presence"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will God do for those who fear him in the day when he makes up his treasured possession (Mal 3:17)?",
+        "choice": [
+            "He will reward them with justice",
+            "He will spare them in compassion",
+            "He will forgive them in mercy",
+            "He will lead them into his holy house"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Lord said he would have compassion just like ______ (Mal 3:17)?",
+        "choice": [
+            "A father has compassion and spares the son who serves him",
+            "He had compassion on Israel when he brought them out of Egypt",
+            "A mother has compassion on the child she has given birth to",
+            "A brother has compassion on his sister whom he protects"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In that day what distinction does Malachi say one will see (Mal 3:18)?",
+        "choice": [
+            "Between the just and unjust",
+            "Between the wise and the foolish",
+            "Between the righteous and the wicked",
+            "Between those who are faithful and those who are unfaithful"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How is the coming day described (Mal 4:1)?",
+        "choice": [
+            "Like a bolt of lightning",
+            "Like a hail storm",
+            "Like a locust plague",
+            "Like a burning furnace"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will be set on fire like stubble on that day (Mal 4:1)?",
+        "choice": [
+            "The wicked",
+            "The arrogant",
+            "The rebellious",
+            "The foolish"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will happen for those who revere God’s name (Mal 4:2)?",
+        "choice": [
+            "The sun of righteous will rise with healing in its wings",
+            "The cloud of glory will abide over them forever",
+            "The blessings of the covenant will descend on them like dew",
+            "All people will seek them to learn about the ways of the Lord"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How are those who revere God’s name described on that day (Mal 4:2)?",
+        "choice": [
+            "They will be like an olive tree producing rivers of oil",
+            "They rejoice as in the day when they came out of Egypt",
+            "They will go out leaping like calves released from the stall",
+            "They will fly away like a dove finding peace and rest"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will happen to the wicked on that day (Mal 4:3)?",
+        "choice": [
+            "They will flee away",
+            "They will serve those who had feared the Lord",
+            "They will be led away into eternal fire",
+            "They will be trampled on as ashes under foot"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did the Lord give Moses the law (Mal 4:4)?",
+        "choice": [
+            "At Horeb",
+            "At Kadesh Barnea",
+            "In the wilderness",
+            "When they came out of Egypt"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Lord tell them to remember (Mal 4:4)?",
+        "choice": [
+            "Every word of the Lord",
+            "The law of his servant Moses",
+            "The decrees and statutes of the Lord",
+            "The way of the Lord"
+        ],
+        "answer": "B",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will God send before the great and dreadful day of the Lord (Mal 4:5)?",
+        "choice": [
+            "The Anointed One",
+            "The Son of David",
+            "Elijah",
+            "His witness"
+        ],
+        "answer": "C",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the coming Elijah do (Mal 4:6)?",
+        "choice": [
+            "Do mighty signs and wonders in the earth",
+            "Proclaim the message of the Lord",
+            "Call down rain from heaven and win favor with God and people",
+            "Turn the hearts of the father to their children"
+        ],
+        "answer": "D",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "If Elijah’s message is not successful in turning the hearts of the fathers to their children, what will God do (Mal 4:6)?",
+        "choice": [
+            "He will strike the land with a curse",
+            "He will withhold the early and the latter rains",
+            "He will send an army of locusts",
+            "He will withdraw his presence from the holy city"
+        ],
+        "answer": "A",
+        "category": "Malachi",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/39_Malachi_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    }
+]

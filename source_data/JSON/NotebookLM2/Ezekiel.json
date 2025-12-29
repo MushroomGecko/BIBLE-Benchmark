@@ -1,0 +1,1575 @@
+[
+    {
+        "question": "In what year did Ezekiel have his first vision? (Ezekiel 1:1)",
+        "choice": [
+            "The fifth year of King Jehoiachin’s captivity",
+            "The thirtieth year",
+            "The fourth year of King Jehoiachin’s captivity",
+            "The twenty-fifth year of captivity"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where was Ezekiel when he saw visions of God? (Ezekiel 1:1,3)",
+        "choice": [
+            "In the land of Egypt",
+            "By the river Chebar",
+            "In Jerusalem",
+            "In Babylon"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the appearance of the brightness surrounding the likeness of Yahweh? (Ezekiel 1:28)",
+        "choice": [
+            "Like the sun at noon",
+            "Like a full moon",
+            "Like a rainbow in a cloud on a rainy day",
+            "Like a bright star"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is Ezekiel told not to fear, even though he lives among briers and scorpions? (Ezekiel 2:6)",
+        "choice": [
+            "The wild animals",
+            "The Chaldeans",
+            "Their words or looks",
+            "The famine"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the primary reason given for why the people will know there has been a prophet among them? (Ezekiel 2:5)",
+        "choice": [
+            "Because they will see miracles",
+            "Because they will hear his words",
+            "Because they are rebellious",
+            "Because he will perform signs"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was Ezekiel instructed to do after being overwhelmed? (Ezekiel 3:17)",
+        "choice": [
+            "To build a temple",
+            "To warn the wicked from their ways",
+            "To start a war",
+            "To gather all the captives"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Yahweh say he would do to Ezekiel's tongue? (Ezekiel 3:26)",
+        "choice": [
+            "Make it golden",
+            "Make it stick to the roof of his mouth",
+            "Make it stronger",
+            "Make it speak in tongues"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Ezekiel portray on a tile? (Ezekiel 4:1)",
+        "choice": [
+            "The Garden of Eden",
+            "A city, even Jerusalem",
+            "The river Chebar",
+            "A vision of God"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was to be a sign to the house of Israel? (Ezekiel 4:3)",
+        "choice": [
+            "The iron pan set as a wall",
+            "The burning of incense",
+            "The building of a temple",
+            "The gathering of captives"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How many days was Ezekiel to lie on his left side to bear the iniquity of the house of Israel? (Ezekiel 4:5)",
+        "choice": [
+            "Three hundred and ninety days",
+            "Forty days",
+            "Seventy days",
+            "One hundred days"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was Ezekiel to use to bake his bread in the sight of the people? (Ezekiel 4:12)",
+        "choice": [
+            "Cow's dung",
+            "Man's dung",
+            "Firewood",
+            "Oil"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was Ezekiel commanded to do with his hair? (Ezekiel 5:1)",
+        "choice": [
+            "To shave his head and beard",
+            "To let it grow long",
+            "To dye it red",
+            "To braid it"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to the Lord Yahweh, why is Jerusalem worse than the surrounding nations? (Ezekiel 5:6)",
+        "choice": [
+            "They are wealthier",
+            "They are more numerous",
+            "They have rebelled against ordinances more",
+            "They have better warriors"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will the fathers do to the sons within Jerusalem, according to Yahweh? (Ezekiel 5:10)",
+        "choice": [
+            "Teach them",
+            "Eat them",
+            "Sacrifice them",
+            "Sell them"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will happen to a third of the people of Jerusalem? (Ezekiel 5:12)",
+        "choice": [
+            "They will be taken captive",
+            "They will die by pestilence or famine",
+            "They will become priests",
+            "They will be exiled"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Yahweh say would happen to those who escape the sword among the nations? (Ezekiel 6:9)",
+        "choice": [
+            "They will remember God and loathe themselves",
+            "They will become kings",
+            "They will become wealthy",
+            "They will forget God"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is coming upon the four corners of the land? (Ezekiel 7:2)",
+        "choice": [
+            "An end",
+            "A blessing",
+            "A new beginning",
+            "A great harvest"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will happen to those who are in the field? (Ezekiel 7:15)",
+        "choice": [
+            "They will be blessed",
+            "They will die by the sword",
+            "They will become wealthy",
+            "They will be taken captive"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the twenty-five men in the inner court of Yahweh's house do? (Ezekiel 8:16)",
+        "choice": [
+            "They were worshipping the sun toward the east",
+            "They were praying for rain",
+            "They were sacrificing animals",
+            "They were reading from the scriptures"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the man clothed in linen carrying? (Ezekiel 9:2)",
+        "choice": [
+            "A sword",
+            "A trumpet",
+            "A writer's inkhorn",
+            "A shield"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the people say about Yahweh in the land of Israel? (Ezekiel 9:9)",
+        "choice": [
+            "That He is merciful",
+            "That He has forsaken the land and doesn’t see",
+            "That He is kind",
+            "That He loves them"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "In Ezekiel 10:2, what was the man clothed in linen commanded to take from between the cherubim?",
+        "choice": [
+            "A scroll",
+            "Fire",
+            "A measuring rod",
+            "Incense"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 10:9, what was beside the cherubim?",
+        "choice": [
+            "A golden altar",
+            "A wheel",
+            "A pool of water",
+            "A fiery furnace"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 10:20, what did Ezekiel recognize the living creatures to be?",
+        "choice": [
+            "Angels",
+            "Cherubim",
+            "Seraphim",
+            "A new creation"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Yahweh say about the slain in the city? (Ezekiel 11:7)",
+        "choice": [
+            "That they are blessed",
+            "That they are the meat in the cauldron",
+            "That they are in his glory",
+            "That they will be rewarded"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is compared to a cauldron? (Ezekiel 11:3)",
+        "choice": [
+            "The Temple",
+            "The city of Jerusalem",
+            "The people of Israel",
+            "The king of Babylon"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where did the glory of Yahweh go to from the middle of the city? (Ezekiel 11:23)",
+        "choice": [
+            "To Egypt",
+            "To the mountain on the east side of the city",
+            "To the river Chebar",
+            "To the land of Babylon"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was Ezekiel to say to the house of Israel concerning his actions? (Ezekiel 12:11)",
+        "choice": [
+            "That it is a sign for them",
+            "That it is a mystery",
+            "That it is a test of their faith",
+            "That it will bring them peace"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What are the prophets of Israel compared to? (Ezekiel 13:4)",
+        "choice": [
+            "Lions in the forest",
+            "Eagles in the sky",
+            "Foxes in the waste places",
+            "Sheep in the pasture"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What do the women sew on all elbows? (Ezekiel 13:18)",
+        "choice": [
+            "Magic bands",
+            "Fine linen",
+            "Embroidered work",
+            "Leather"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Yahweh say he is against regarding the women of Israel? (Ezekiel 13:20)",
+        "choice": [
+            "Their cooking",
+            "Their sewing",
+            "Their magic bands",
+            "Their gatherings"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "If Noah, Daniel, and Job were in a land, what would they deliver? (Ezekiel 14:20)",
+        "choice": [
+            "Their family",
+            "Their city",
+            "Only their own souls",
+            "The whole nation"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the vine tree compared to? (Ezekiel 15:2)",
+        "choice": [
+            "The cedar of Lebanon",
+            "The oak of Bashan",
+            "Any tree of the forest",
+            "The olive tree"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is said about Jerusalem's origin and birth? (Ezekiel 16:3)",
+        "choice": [
+            "That it is of the land of the Canaanite",
+            "That it is from the line of David",
+            "That it is blessed among nations",
+            "That it is from Egypt"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Yahweh do when he saw Jerusalem wallowing in her blood? (Ezekiel 16:6)",
+        "choice": [
+            "He had pity on her",
+            "He destroyed her",
+            "He said, 'Live!'",
+            "He ignored her"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jerusalem do with the beautiful jewels of gold and silver that Yahweh had given her? (Ezekiel 16:17)",
+        "choice": [
+            "She gave them to the poor",
+            "She made images of men",
+            "She used them to build a temple",
+            "She sold them to the merchants"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "With whom did Jerusalem commit sexual immorality? (Ezekiel 16:26, 28, 29)",
+        "choice": [
+            "With the Edomites",
+            "With the Egyptians, Assyrians, and Chaldeans",
+            "With the Philistines",
+            "With the Moabites"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will be done to the houses of Jerusalem? (Ezekiel 16:41)",
+        "choice": [
+            "They will be turned into temples",
+            "They will be burned with fire",
+            "They will be given to the poor",
+            "They will be rebuilt"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the iniquity of Sodom? (Ezekiel 16:49)",
+        "choice": [
+            "Murder and theft",
+            "Pride, fullness of bread, and prosperous ease",
+            "Worshipping false gods",
+            "Failing to keep the Sabbath"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lord Yahweh say about the great eagle in the parable? (Ezekiel 17:3)",
+        "choice": [
+            "It is a sign of peace",
+            "It is a symbol of a great king",
+            "It has great wings and long feathers of various colors",
+            "It represents the people of Israel"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lord Yahweh say will happen to the vine if it bends its roots to another eagle? (Ezekiel 17:9-10)",
+        "choice": [
+            "It will flourish and grow stronger",
+            "It will be blessed with abundant fruit",
+            "It will be pulled up and wither",
+            "It will become a great tree"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will Yahweh do with the tender one from the top of the cedar? (Ezekiel 17:22)",
+        "choice": [
+            "He will plant it on a high and lofty mountain",
+            "He will give it to the king of Babylon",
+            "He will throw it into the fire",
+            "He will use it to build a temple"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Yahweh say about the proverb, 'The fathers have eaten sour grapes, and the children’s teeth are set on edge?' (Ezekiel 18:2-3)",
+        "choice": [
+            "That it is a blessing",
+            "That it is a good proverb",
+            "That it will no longer be used in Israel",
+            "That it is a mystery"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Yahweh say about the death of the one who dies? (Ezekiel 18:32)",
+        "choice": [
+            "He has pleasure in it",
+            "He has no pleasure in it",
+            "It is a necessary evil",
+            "It is a cause for celebration"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the lamentation for the princes of Israel? (Ezekiel 19:1-2)",
+        "choice": [
+            "A great celebration",
+            "A lioness among lions",
+            "A peaceful transition",
+            "A return to their land"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Yahweh give to the Israelites in the wilderness? (Ezekiel 20:11)",
+        "choice": [
+            "Statutes and ordinances",
+            "Gold and silver",
+            "A new land",
+            "A new king"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why did Yahweh swear to them in the wilderness that they would not enter the promised land? (Ezekiel 20:15-16)",
+        "choice": [
+            "Because they were not ready",
+            "Because they rejected his ordinances and profaned his Sabbaths",
+            "Because the land was not ready for them",
+            "Because they did not fight the previous inhabitants"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will Yahweh do with those who pollute themselves with idols? (Ezekiel 20:31)",
+        "choice": [
+            "He will reward them",
+            "He will not be inquired of by them",
+            "He will make them priests",
+            "He will send them to another land"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Yahweh say he will be to the house of Israel? (Ezekiel 20:41)",
+        "choice": [
+            "A pleasant aroma when he brings them out of the countries",
+            "A great king in their land",
+            "A harsh judge",
+            "A forgotten memory"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will Yahweh draw out of its sheath? (Ezekiel 21:3)",
+        "choice": [
+            "A shield",
+            "His sword",
+            "A rod",
+            "A covenant"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will happen to every heart when the news comes? (Ezekiel 21:7)",
+        "choice": [
+            "It will be joyful",
+            "It will melt",
+            "It will be at peace",
+            "It will be strengthened"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will happen to the deadly wounded wicked one, the prince of Israel? (Ezekiel 21:25-27)",
+        "choice": [
+            "He will be exalted",
+            "His day has come; his turban and crown will be removed; the low will be exalted and the high will be humbled",
+            "He will be given a new kingdom",
+            "He will be made a priest"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will be the fate of the bloody city? (Ezekiel 22:3-4)",
+        "choice": [
+            "It will be blessed by God",
+            "It will be known for its virtue",
+            "It will be a reproach to the nations",
+            "It will be a new temple"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What are the names of the two sisters described in Ezekiel 23:4?",
+        "choice": [
+            "Oholah and Oholibah",
+            "Sarah and Rebekah",
+            "Rachel and Leah",
+            "Ruth and Naomi"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who did Oholah, the sister representing Samaria, dote on according to Ezekiel 23:5?",
+        "choice": [
+            "The Egyptians",
+            "The Assyrians",
+            "The Babylonians",
+            "The Philistines"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 23:22, who will be raised up against Oholibah?",
+        "choice": [
+            "Her neighbors",
+            "Her brothers",
+            "Her lovers",
+            "Her children"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 23:32, what cup will Oholibah drink from?",
+        "choice": [
+            "A cup of joy and peace",
+            "A cup of salvation and deliverance",
+            "Her sister's cup",
+            "A cup of prosperity and abundance"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 23:46, what will be brought up against the sisters?",
+        "choice": [
+            "A plague",
+            "A mob",
+            "A famine",
+            "A drought"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will the company do to the sisters according to Ezekiel 23:47?",
+        "choice": [
+            "Praise them with songs",
+            "Stone them with stones and dispatch them with swords",
+            "Offer them gifts of gold and silver",
+            "Anoint them with oil"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 24:6, what is the city referred to?",
+        "choice": [
+            "A holy city",
+            "A bloody city",
+            "A righteous city",
+            "A city of refuge"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 24:7, where did the city set the blood that she shed?",
+        "choice": [
+            "On the bare rock",
+            "In a hidden place",
+            "On the altar",
+            "In the river"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "In Ezekiel 24:16, what does God take away from Ezekiel with one stroke?",
+        "choice": [
+            "His joy",
+            "His strength",
+            "The desire of his eyes",
+            "His hope"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was Ezekiel commanded not to do after the loss described in Ezekiel 24:16?",
+        "choice": [
+            "Dance and sing",
+            "Mourn or weep",
+            "Eat or drink",
+            "Speak to anyone"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 24:22, what will the people do when the described events come to pass?",
+        "choice": [
+            "Celebrate with great joy",
+            "Do as Ezekiel has done",
+            "Offer sacrifices",
+            "Weep and lament"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "In Ezekiel 25:2, against whom is Ezekiel told to set his face?",
+        "choice": [
+            "The children of Ammon",
+            "The Philistines",
+            "The Egyptians",
+            "The Assyrians"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 25:6, how did the children of Ammon react to the desolation of Israel?",
+        "choice": [
+            "With compassion",
+            "With joy and contempt",
+            "With indifference",
+            "With sorrow"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 25:8, what did Moab and Seir say about the house of Judah?",
+        "choice": [
+            "That they were blessed among nations",
+            "That they were like all the nations",
+            "That they were the chosen people",
+            "That they were destined for greatness"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 26:7, who will come against Tyre from the north?",
+        "choice": [
+            "The king of Persia",
+            "Nebuchadnezzar king of Babylon",
+            "The king of Assyria",
+            "The king of Egypt"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 26:14, what will Tyre become?",
+        "choice": [
+            "A city of great power",
+            "A place of great beauty",
+            "A bare rock, a place for spreading nets",
+            "A fortified stronghold"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 27:7, what was Tyre's sail made of?",
+        "choice": [
+            "Fine linen with embroidered work from Egypt",
+            "Wool and silk",
+            "Hemp and cotton",
+            "Animal skins"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 27:9, who were the repairers of ship seams in Tyre?",
+        "choice": [
+            "The wise men of Tyre",
+            "The old men of Gebal and its wise men",
+            "The inhabitants of Sidon",
+            "The merchants of Tarshish"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 27:33, what did Tyre do when her wares came from the seas?",
+        "choice": [
+            "She mourned for her lost ships",
+            "She shared with the poor",
+            "She filled many peoples",
+            "She kept the riches for herself"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 28:2, what did the prince of Tyre set his heart as?",
+        "choice": [
+            "The heart of man",
+            "The heart of God",
+            "The heart of a king",
+            "The heart of a servant"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 28:13, where was the king of Tyre?",
+        "choice": [
+            "In Babylon",
+            "In the Garden of Eden",
+            "In Egypt",
+            "In the wilderness"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 29:9, what did the king of Egypt say about the river?",
+        "choice": [
+            "That it was a gift from God",
+            "That it was his and he made it",
+            "That it was useless to him",
+            "That it was a threat to him"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 30:2, against whom is Ezekiel to prophesy?",
+        "choice": [
+            "Against the king of Babylon",
+            "Against the Egyptians",
+            "Against the Assyrians",
+            "Against the Philistines"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 32:3, what will be spread out on Pharaoh?",
+        "choice": [
+            "A net",
+            "A banner",
+            "A shroud",
+            "A covering of gold"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 32:11, whose sword will come upon Egypt?",
+        "choice": [
+            "The sword of the king of Persia",
+            "The sword of the king of Assyria",
+            "The sword of the king of Egypt",
+            "The sword of the king of Babylon"
+        ],
+        "answer": "D",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 33:7, what role has Ezekiel been given for the house of Israel?",
+        "choice": [
+            "A judge",
+            "A prophet",
+            "A watchman",
+            "A priest"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 33:11, what does God desire for the wicked?",
+        "choice": [
+            "That they turn from their evil ways and live",
+            "That they are punished for their sins",
+            "That they continue in their wickedness",
+            "That they are completely destroyed"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "In Ezekiel 33:25, what does God ask if they should possess the land if they eat with the blood?",
+        "choice": [
+            "No, they should not",
+            "Yes, they should",
+            "Only if they sacrifice",
+            "Only if they repent"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 34:2, who does God say 'Woe' to?",
+        "choice": [
+            "The shepherds of Israel who feed themselves",
+            "The sheep of Israel who go astray",
+            "The prophets of Israel who speak falsely",
+            "The priests of Israel who are corrupt"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 34:11, what does God say that he will do?",
+        "choice": [
+            "Abandon his flock",
+            "Judge his flock",
+            "Seek out his flock",
+            "Destroy his flock"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 34:23, who will God set up as one shepherd over his people?",
+        "choice": [
+            "Moses",
+            "Abraham",
+            "David",
+            "Ezekiel"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 35:2, against what does Ezekiel need to set his face and prophesy?",
+        "choice": [
+            "The mountains of Israel",
+            "Mount Seir",
+            "The land of Egypt",
+            "The city of Jerusalem"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 35:5, why will God bring blood upon Mount Seir?",
+        "choice": [
+            "Because they sought peace with Israel",
+            "Because they had a perpetual hostility and gave the children of Israel to the power of the sword",
+            "Because they worshiped idols",
+            "Because they did not follow his commandments"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 36:2, what did the enemy say against the mountains of Israel?",
+        "choice": [
+            "That they were blessed by God",
+            "That they were a holy place",
+            "That the ancient high places are theirs in possession",
+            "That they were a refuge for the needy"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 36:8, what will the mountains of Israel do for God's people?",
+        "choice": [
+            "Shoot out their branches and yield their fruit",
+            "Become desolate and barren",
+            "Become a hiding place for the wicked",
+            "Be swallowed up by the sea"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 36:24, where will God gather the house of Israel from?",
+        "choice": [
+            "The wilderness",
+            "The mountains of Moab",
+            "Among the nations and out of all the countries",
+            "The land of Egypt"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "In Ezekiel 37:3, what question does God ask Ezekiel?",
+        "choice": [
+            "Can these bones live?",
+            "Can you heal these bones?",
+            "Can you bury these bones?",
+            "Can you count these bones?"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 37:12, what will God open and bring his people up from?",
+        "choice": [
+            "The depths of the sea",
+            "Their graves",
+            "The wilderness",
+            "Their prisons"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 37:16, what does God tell Ezekiel to take and write on?",
+        "choice": [
+            "Two stones",
+            "Two sticks",
+            "Two scrolls",
+            "Two tablets"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "In Ezekiel 38:2, who is Ezekiel told to set his face against?",
+        "choice": [
+            "The king of Babylon",
+            "Gog, of the land of Magog",
+            "The king of Egypt",
+            "The mountains of Israel"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 38:4, what will God put into Gog's jaws?",
+        "choice": [
+            "A sword",
+            "Hooks",
+            "A bridle",
+            "A bit"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 38:19, what will happen in the land of Israel?",
+        "choice": [
+            "A great harvest",
+            "A great celebration",
+            "A great shaking",
+            "A great peace"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 39:7, where will God make his holy name known?",
+        "choice": [
+            "Among the nations",
+            "Among the angels",
+            "Among his people Israel",
+            "In the wilderness"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 39:9, for how long will the inhabitants of Israel make fires with the weapons?",
+        "choice": [
+            "One year",
+            "Three years",
+            "Seven years",
+            "Ten years"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 40:2, where was Ezekiel brought in the visions of God?",
+        "choice": [
+            "To the land of Babylon",
+            "To the land of Egypt",
+            "To the land of Israel",
+            "To the wilderness of Sinai"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 41:3, what is measured before the nave?",
+        "choice": [
+            "The wall",
+            "The length and width",
+            "The altar",
+            "The side rooms"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 41:18, what were made with cherubim?",
+        "choice": [
+            "Palm trees",
+            "Rivers of water",
+            "Flames of fire",
+            "Mountains of gold"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 42:1, where does the man bring Ezekiel?",
+        "choice": [
+            "To the inner court",
+            "To the outer court",
+            "To the north gate",
+            "To the south gate"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 43:7, where will God dwell among the children of Israel forever?",
+        "choice": [
+            "In a tent",
+            "In the temple",
+            "In the wilderness",
+            "On a high mountain"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 44:2, why shall the east gate be shut?",
+        "choice": [
+            "Because it is old and needs repair",
+            "Because it is for the priests only",
+            "Because Yahweh, the God of Israel, has entered by it",
+            "Because it faces the wrong direction"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 44:15, which priests are the sons of Zadok?",
+        "choice": [
+            "The priests who did not go astray when the children of Israel went astray",
+            "The priests who were captured in Babylon",
+            "The priests who offered sacrifices to idols",
+            "The priests who were not Levites"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 44:23, what should the priests teach the people?",
+        "choice": [
+            "To obey the king",
+            "To love their neighbors",
+            "To distinguish between the holy and the profane",
+            "To pay their taxes"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 45:1, what should be offered as a holy portion of the land?",
+        "choice": [
+            "A portion for the king",
+            "A portion for the priests",
+            "A portion for the poor",
+            "A portion for the Levites"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 45:9, what does God tell the princes of Israel to remove?",
+        "choice": [
+            "Their wealth and possessions",
+            "Their weapons of war",
+            "Violence and plunder",
+            "Their pride and arrogance"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 45:17, who is responsible for preparing the offerings?",
+        "choice": [
+            "The priests",
+            "The Levites",
+            "The prince",
+            "The elders"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 45:21, what feast is to be held on the fourteenth day of the first month?",
+        "choice": [
+            "The Feast of Trumpets",
+            "The Passover",
+            "The Feast of Tabernacles",
+            "The Feast of Weeks"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 46:1, what gate shall be shut on the six working days?",
+        "choice": [
+            "The north gate",
+            "The south gate",
+            "The west gate",
+            "The east gate"
+        ],
+        "answer": "D",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 46:9, by which gate shall one exit if they enter by the north gate?",
+        "choice": [
+            "The east gate",
+            "The south gate",
+            "The west gate",
+            "The same north gate"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 46:13, what kind of offering should be prepared daily?",
+        "choice": [
+            "A sin offering",
+            "A trespass offering",
+            "A burnt offering",
+            "A peace offering"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 47:1, from where did the waters flow out?",
+        "choice": [
+            "From under the altar",
+            "From under the threshold of the temple",
+            "From the north gate",
+            "From the river Jordan"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 47:13, how many portions will Joseph receive when dividing the land?",
+        "choice": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 47:15, what will be the border of the land on the north side?",
+        "choice": [
+            "The Great Sea",
+            "The River Jordan",
+            "The mountains of Gilead",
+            "The wilderness of Zin"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 47:18, what shall the border on the east side be?",
+        "choice": [
+            "The Great Sea",
+            "The River Jordan",
+            "The mountains of Gilead",
+            "The wilderness of Zin"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 48:8, what shall be the offering by the border of Judah?",
+        "choice": [
+            "A place for the priests to live",
+            "A place for the Levites to live",
+            "The Sanctuary",
+            "A market place"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 48:10, what will be in the middle of the holy offering?",
+        "choice": [
+            "The prince's palace",
+            "The Sanctuary of Yahweh",
+            "The city of Jerusalem",
+            "A great market place"
+        ],
+        "answer": "B",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 48:15, what will the five thousand cubits be used for?",
+        "choice": [
+            "For the city, for dwelling and for pasture lands",
+            "For the priests and Levites to dwell in",
+            "For the prince and his family",
+            "For a great military camp"
+        ],
+        "answer": "A",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 48:30, how many gates will the city have on the north side?",
+        "choice": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Ezekiel 48:35, what shall be the name of the city?",
+        "choice": [
+            "Jerusalem",
+            "The City of David",
+            "Yahweh is there",
+            "The Holy City"
+        ],
+        "answer": "C",
+        "category": "Ezekiel",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_EZK.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    }
+]

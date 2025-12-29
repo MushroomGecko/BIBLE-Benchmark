@@ -1,0 +1,253 @@
+[
+    {
+        "question": "Who is the author of the letter of Jude, as identified in the first verse? (Jude 1:1)",
+        "choice": [
+            "A servant of Jesus Christ and brother of James",
+            "A disciple of Jesus Christ",
+             "An apostle of Jesus Christ",
+            "A follower of the teachings of James"
+           ],
+        "answer": "A"
+    },
+    {
+        "question": "To whom is the letter of Jude addressed? (Jude 1:1)",
+        "choice": [
+            "Those who are called, sanctified by God the Father, and kept for Jesus Christ",
+            "The churches in Galatia",
+            "The elders of Jerusalem",
+            "The Roman authorities"
+         ],
+        "answer": "A"
+    },
+     {
+        "question": "What does Jude desire for the recipients of his letter? (Jude 1:2)",
+        "choice": [
+            "That mercy, peace, and love be multiplied to them",
+            "That their faith would be increased",
+            "That they would be given wealth",
+            "That they would be protected from their enemies"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What was Jude initially eager to write about? (Jude 1:3)",
+        "choice": [
+            "Their common salvation",
+            "The end times",
+            "The coming judgement",
+             "The importance of good works"
+         ],
+        "answer": "A"
+    },
+    {
+        "question":"What was Jude constrained to write about instead of his original topic? (Jude 1:3)",
+        "choice": [
+            "To contend earnestly for the faith once for all delivered to the saints",
+            "To prepare for the coming of the Lord",
+            "To focus on good works",
+            "To warn them of false prophets"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What kind of men have secretly crept in? (Jude 1:4)",
+        "choice": [
+            "Ungodly men, turning the grace of God into indecency and denying Jesus Christ",
+             "Men who preach a false gospel",
+            "Those who are ignorant of the truth",
+            "Men who perform miracles"
+           ],
+        "answer":"A"
+    },
+     {
+        "question": "What does Jude remind his readers of, even though they already know it? (Jude 1:5)",
+        "choice": [
+            "How the Lord saved a people out of Egypt, then destroyed those who didn't believe",
+            "The need for baptism",
+            "The importance of prayer",
+            "That Jesus is the Messiah"
+
+        ],
+         "answer":"A"
+    },
+      {
+        "question": "What happened to the angels who did not keep their first domain? (Jude 1:6)",
+        "choice": [
+            "They are kept in everlasting bonds under darkness for the judgment of the great day",
+             "They were given authority to rule over the earth",
+            "They were banished from the presence of God",
+            "They were given a second chance"
+         ],
+        "answer": "A"
+    },
+    {
+       "question": "What is the example of Sodom and Gomorrah used to illustrate? (Jude 1:7)",
+        "choice": [
+            "The punishment of eternal fire for those who give themselves over to sexual immorality",
+            "The blessings of obedience",
+            "The dangers of idolatry",
+            "The need for repentance"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What do these ungodly men defile in their dreaming? (Jude 1:8)",
+        "choice": [
+             "The flesh",
+            "The truth",
+            "The Spirit",
+             "The teachings"
+            ],
+        "answer": "A"
+    },
+   {
+        "question": "What do these ungodly men despise? (Jude 1:8)",
+        "choice": [
+            "Authority",
+            "Prophecy",
+             "Good works",
+            "Love"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What do these ungodly men slander? (Jude 1:8)",
+        "choice": [
+           "Celestial beings",
+            "The Holy Spirit",
+           "The prophets",
+           "The Church"
+        ],
+        "answer":"A"
+    },
+     {
+        "question": "How did Michael the archangel respond to the devil when arguing about the body of Moses? (Jude 1:9)",
+        "choice": [
+             "He said, 'May the Lord rebuke you!'",
+             "He condemned the devil",
+            "He physically fought him",
+            "He ignored the devil"
+        ],
+        "answer": "A"
+    },
+    {
+       "question": "What is the fate of those who speak evil of what they do not know? (Jude 1:10)",
+       "choice": [
+            "They are destroyed",
+            "They are corrected",
+            "They are given a chance to repent",
+            "They are pitied"
+         ],
+        "answer":"A"
+    },
+    {
+         "question": "What three examples of ungodly behavior are given as a warning? (Jude 1:11)",
+        "choice": [
+            "The way of Cain, the error of Balaam, and the rebellion of Korah",
+            "The way of the Pharisees, the error of the Sadducees, and the rebellion of the Zealots",
+             "The way of the scribes, the error of the priests, and the rebellion of the people",
+            "The way of the kings, the error of the prophets, and the rebellion of the judges"
+        ],
+        "answer": "A"
+    },
+    {
+        "question":"What are these ungodly men described as being in the love feasts? (Jude 1:12)",
+        "choice": [
+            "Hidden rocky reefs, shepherds who feed themselves, clouds without water, autumn trees without fruit",
+            "An example to follow, humble servants, clear springs, fruitful trees",
+            "Leaders of the church, models of faith, rivers of life, trees with abundant fruit",
+             "An important part of the community, good teachers, dew-filled clouds, trees bearing much fruit"
+         ],
+        "answer": "A"
+    },
+      {
+        "question": "What are these ungodly men compared to regarding their instability? (Jude 1:13)",
+        "choice": [
+             "Wild waves of the sea, foaming out their own shame; wandering stars",
+            "Strong pillars, standing firm in the truth; fixed stars",
+            "Gentle streams, flowing with peace; guiding stars",
+             "Calm waters, reflecting the glory of God; consistent stars"
+        ],
+         "answer":"A"
+    },
+    {
+        "question":"Who prophesied about the coming judgment with the Lord? (Jude 1:14)",
+        "choice": [
+            "Enoch, the seventh from Adam",
+            "Noah, the tenth from Adam",
+            "Abraham, a descendant of Adam",
+            "Moses, a descendant of Adam"
+          ],
+        "answer": "A"
+    },
+    {
+       "question": "What is the purpose of the Lord's coming with ten thousands of his holy ones? (Jude 1:15)",
+        "choice": [
+            "To execute judgment on all and convict the ungodly",
+             "To bring peace and reconciliation",
+             "To teach the truth and convert people",
+            "To establish his kingdom on Earth"
+        ],
+        "answer": "A"
+    },
+     {
+        "question": "What are the ungodly described as doing in the last times? (Jude 1:16)",
+        "choice": [
+            "Murmurers and complainers, walking after their lusts, speaking proud things",
+            "Praying and fasting, seeking God's will",
+            "Living in holiness, following the commandments",
+             "Helping those in need, acting compassionately"
+        ],
+         "answer":"A"
+    },
+    {
+        "question": "What should believers remember? (Jude 1:17)",
+         "choice": [
+           "The words spoken before by the apostles of Jesus Christ",
+           "The law of Moses",
+           "The teachings of the prophets",
+           "The examples of the patriarchs"
+            ],
+        "answer":"A"
+    },
+    {
+        "question": "What do the apostles say will happen in the last time? (Jude 1:18)",
+        "choice": [
+            "Mockers will walk after their own ungodly lusts",
+            "Everyone will repent and turn to God",
+            "There will be peace and prosperity",
+            "The church will be united"
+        ],
+        "answer": "A"
+    },
+     {
+        "question": "What are those who cause divisions described as? (Jude 1:19)",
+        "choice": [
+            "Sensual and not having the Spirit",
+             "Spiritual and righteous",
+           "Wise and discerning",
+            "Humble and loving"
+        ],
+        "answer":"A"
+    },
+      {
+        "question": "How should believers keep themselves in God's love? (Jude 1:20-21)",
+        "choice": [
+            "By building themselves up on their most holy faith, praying in the Holy Spirit, and looking for the mercy of Jesus Christ",
+            "By strictly following the law of Moses, fasting, and giving to the poor",
+            "By isolating themselves from the world, practicing asceticism, and engaging in self-denial",
+             "By engaging in rituals, giving offerings, and relying on their own good works"
+        ],
+        "answer":"A"
+    },
+     {
+        "question": "What should believers do in response to those who are in sin? (Jude 1:22-23)",
+        "choice": [
+            "Have compassion, making a distinction; save some, snatching them out of the fire with fear, hating even the clothing stained by the flesh",
+           "Judge them harshly, condemning their actions; isolate them from the community; publicly shame them",
+            "Ignore them, pretending that their sin doesn't exist; avoid them at all costs",
+            "Pretend to understand their point of view; condone their sinful acts; encourage their lifestyle"
+          ],
+        "answer": "A"
+    }
+]

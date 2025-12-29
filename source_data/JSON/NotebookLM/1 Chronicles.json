@@ -1,0 +1,1252 @@
+[
+    {
+        "question": "Who was the first person listed in the genealogy of 1 Chronicles (1:1)?",
+        "choice": [
+            "Enosh",
+             "Seth",
+            "Adam",
+            "Kenan"
+           ],
+        "answer": "C"
+    },
+    {
+        "question": "According to 1 Chronicles, who was the father of Nimrod (1:10)?",
+        "choice": [
+            "Mizraim",
+             "Ham",
+            "Cush",
+            "Japheth"
+        ],
+        "answer": "C"
+    },
+     {
+        "question": "Which of the following is NOT listed as a son of Japheth (1:5)?",
+        "choice": [
+            "Magog",
+            "Ashkenaz",
+            "Tubal",
+            "Javan"
+        ],
+        "answer": "B"
+    },
+    {
+         "question": "According to 1 Chronicles, who was the father of the Philistines (1:12)?",
+         "choice": [
+            "Caphtorim",
+            "Pathrusim",
+             "Ludim",
+            "Casluhim"
+         ],
+         "answer": "D"
+     },
+    {
+        "question": "In whose days was the earth divided, according to 1 Chronicles (1:19)?",
+        "choice": [
+            "Eber",
+            "Joktan",
+            "Peleg",
+            "Shelah"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who was also called Abraham (1:27)?",
+        "choice": [
+            "Terah",
+            "Nahor",
+            "Abram",
+            "Serug"
+        ],
+       "answer": "C"
+    },
+    {
+        "question": "Who were the sons of Abraham, according to 1 Chronicles (1:28)?",
+        "choice": [
+            "Ishmael and Esau",
+            "Isaac and Esau",
+            "Isaac and Israel",
+            "Isaac and Ishmael"
+         ],
+         "answer": "D"
+     },
+      {
+        "question": "Who was the firstborn of Ishmael (1:29)?",
+        "choice": [
+           "Kedar",
+            "Mibsam",
+           "Nebaioth",
+            "Adbeel"
+        ],
+        "answer": "C"
+    },
+    {
+       "question": "Who was the father of the Edomites (1:35)?",
+       "choice": [
+            "Esau",
+            "Isaac",
+            "Israel",
+           "Jacob"
+        ],
+        "answer": "A"
+    },
+    {
+        "question":"Who was Timna, according to 1 Chronicles (1:39)?",
+        "choice": [
+            "A daughter of Lotan",
+            "A wife of Lotan",
+            "A sister of Shobal",
+            "A sister of Lotan"
+        ],
+        "answer":"D"
+    },
+        {
+        "question": "Where did Shaul reign (1:48)?",
+        "choice": [
+            "Rehoboth by the River",
+            "Pai",
+            "Hamath",
+            "Edom"
+        ],
+        "answer": "A"
+    },
+     {
+        "question": "Who was the wife of Hadad (1:50)?",
+        "choice": [
+             "Mehetabel",
+             "Matred",
+             "Mezahab",
+            "Timna"
+           ],
+        "answer":"A"
+    },
+    {
+        "question": "Which of the following is NOT a son of Israel (2:1-2)?",
+         "choice": [
+            "Joseph",
+            "Benjamin",
+            "Gad",
+           "Ephraim"
+        ],
+         "answer":"D"
+     },
+    {
+         "question": "According to 1 Chronicles, which of Judah's sons was wicked in Yahweh’s sight (2:3)?",
+         "choice": [
+            "Shelah",
+            "Onan",
+            "Er",
+            "Perez"
+           ],
+          "answer":"C"
+     },
+    {
+        "question": "Who was the father of Jesse (2:12)?",
+         "choice": [
+            "Obed",
+             "Boaz",
+            "Salma",
+            "Nahshon"
+         ],
+         "answer": "A"
+    },
+     {
+        "question": "Who was the father of Amasa (2:17)?",
+        "choice": [
+            "Jether the Ishmaelite",
+            "Joab",
+            "Abishai",
+            "Asahel"
+        ],
+        "answer":"A"
+    },
+    {
+        "question": "Who bore Hur to Caleb (2:19)?",
+        "choice": [
+            "Azubah",
+             "Jerioth",
+            "Ephrath",
+             "Maacah"
+           ],
+         "answer":"C"
+    },
+    {
+        "question": "Who was the Egyptian servant of Sheshan (2:34)?",
+        "choice": [
+             "Attai",
+            "Jarha",
+             "Ahlai",
+            "Zabad"
+            ],
+        "answer": "B"
+    },
+    {
+        "question": "Who was the father of Ziph (2:42)?",
+        "choice": [
+            "Mareshah",
+            "Mesha",
+            "Hebron",
+            "Korah"
+        ],
+        "answer":"B"
+    },
+    {
+       "question": "Who was the father of Kiriath Jearim (2:50)?",
+        "choice": [
+            "Salma",
+            "Hareph",
+            "Shobal",
+            "Hur"
+        ],
+        "answer":"C"
+    },
+     {
+        "question": "Who was the firstborn son of David, born in Hebron (3:1)?",
+        "choice": [
+            "Absalom",
+             "Daniel",
+            "Amnon",
+            "Adonijah"
+           ],
+        "answer":"C"
+    },
+    {
+        "question": "According to 1 Chronicles, who was the mother of Solomon (3:5)?",
+        "choice": [
+            "Ahinoam",
+            "Abigail",
+            "Bathshua",
+            "Haggith"
+        ],
+        "answer":"C"
+    },
+    {
+         "question": "Who was the son of Solomon (3:10)?",
+         "choice": [
+            "Josiah",
+            "Rehoboam",
+             "Joram",
+             "Ahaziah"
+         ],
+         "answer":"B"
+     },
+   {
+         "question": "Who was the third son of Josiah (3:15)?",
+          "choice": [
+           "Johanan",
+            "Shallum",
+             "Zedekiah",
+             "Jehoiakim"
+         ],
+         "answer":"C"
+     },
+    {
+        "question": "Who was the father of Beth Rapha (4:12)?",
+        "choice": [
+           "Eshton",
+            "Mehir",
+             "Chelub",
+            "Shuhah"
+         ],
+        "answer":"A"
+    },
+    {
+        "question": "According to 1 Chronicles, who was the father of Joab, the father of Ge Harashim (4:14)?",
+        "choice": [
+            "Meonothai",
+            "Kenaz",
+            "Seraiah",
+            "Caleb"
+        ],
+        "answer": "C"
+    },
+     {
+        "question": "Who was the wife of Mered who bore Jered, the father of Gedor (4:18)?",
+         "choice": [
+            "Bithiah",
+             "Hodiah",
+             "Miriam",
+             "Jewess"
+            ],
+        "answer": "A"
+    },
+    {
+        "question": "According to 1 Chronicles, what was the occupation of the men of the house of Ashbea (4:21)?",
+        "choice": [
+            "Potters",
+            "Craftsmen",
+            "Workers of fine linen",
+            "Scribes"
+        ],
+         "answer":"C"
+    },
+     {
+        "question": "Where did the families of Simeon live until David's reign (4:28-31)?",
+        "choice": [
+            "Jerusalem",
+            "Gedor",
+            "Beersheba, Moladah, and other cities",
+            "Gilead"
+        ],
+        "answer": "C"
+    },
+     {
+        "question": "Who were the descendants of Ham that the sons of Simeon found living in Gedor (4:40)?",
+         "choice": [
+            "Amalekites",
+            "Meunim",
+            "Hagrites",
+            "Philistines"
+         ],
+        "answer": "B"
+    },
+    {
+        "question": "According to 1 Chronicles, which tribe's birthright was given to the sons of Joseph (5:1)?",
+         "choice": [
+             "Judah",
+            "Reuben",
+             "Gad",
+             "Manasseh"
+            ],
+        "answer":"B"
+    },
+    {
+        "question": "Who was the prince of the Reubenites who was carried away captive by the king of Assyria (5:6)?",
+         "choice": [
+            "Shemaiah",
+            "Joel",
+            "Beerah",
+            "Shimei"
+        ],
+        "answer":"C"
+    },
+    {
+        "question": "Where did the tribe of Reuben live, extending to the wilderness from the river Euphrates (5:9)?",
+         "choice": [
+            "Gilead",
+            "Bashan",
+             "Aroer",
+             "Sharon"
+            ],
+        "answer":"A"
+    },
+    {
+       "question": "With whom did the sons of Reuben, Gad, and half-tribe of Manasseh make war (5:19)?",
+        "choice": [
+           "Philistines",
+            "Amalekites",
+            "Hagrites, Jetur, Naphish, and Nodab",
+            "Edomites"
+        ],
+        "answer": "C"
+   },
+   {
+        "question": "According to 1 Chronicles, how many camels did the Israelites take from the Hagrites (5:21)?",
+        "choice": [
+            "2,000",
+             "50,000",
+            "100,000",
+            "250,000"
+           ],
+        "answer": "B"
+    },
+   {
+        "question": "Who was the king of Assyria that carried away the Reubenites, Gadites, and half-tribe of Manasseh (5:26)?",
+        "choice": [
+            "Pul and Tilgath Pilneser",
+             "Nebuchadnezzar",
+            "Sennacherib",
+            "Shalmaneser"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Who were the sons of Kohath (6:2)?",
+        "choice": [
+            "Gershon, Merari, Amram",
+             "Amram, Izhar, Hebron",
+             "Amram, Izhar, Hebron, Uzziel",
+            "Libni and Shimei"
+        ],
+         "answer":"C"
+    },
+    {
+         "question": "According to 1 Chronicles, who was the priest that executed the priest's office in the house that Solomon built in Jerusalem (6:10)?",
+         "choice": [
+           "Ahimaaz",
+           "Azariah",
+           "Johanan",
+            "Amariah"
+            ],
+         "answer":"B"
+     },
+     {
+        "question": "Who went into captivity when Yahweh carried Judah and Jerusalem away (6:15)?",
+        "choice": [
+            "Zadok",
+            "Jehozadak",
+            "Hilkiah",
+            "Shallum"
+           ],
+        "answer":"B"
+    },
+    {
+        "question": "Who did David set over the service of song in Yahweh's house (6:31)?",
+        "choice": [
+             "The sons of Kohath",
+             "The sons of Merari",
+            "The sons of Gershom",
+            "All of the Levites"
+            ],
+        "answer": "A"
+    },
+    {
+        "question": "Who was the son of Joel, who was the son of Samuel, and a singer (6:33)?",
+         "choice": [
+             "Asaph",
+            "Heman",
+            "Ethan",
+            "Jeduthun"
+            ],
+        "answer":"B"
+    },
+    {
+        "question": "According to 1 Chronicles, which city in Judah was given to the sons of Aaron (6:55-56)?",
+        "choice": [
+             "Libnah",
+            "Hebron",
+            "Jattir",
+            "Eshtemoa"
+            ],
+        "answer":"B"
+    },
+    {
+        "question": "Which tribe gave Geba, Allemeth, and Anathoth to the sons of Aaron (6:60)?",
+        "choice": [
+            "Benjamin",
+            "Judah",
+            "Ephraim",
+            "Manasseh"
+        ],
+        "answer":"A"
+    },
+        {
+        "question": "Which city of refuge was given to the sons of Kohath in the hill country of Ephraim (6:67)?",
+        "choice": [
+            "Gezer",
+            "Jokmeam",
+            "Shechem",
+            "Beth Horon"
+        ],
+        "answer":"C"
+    },
+   {
+        "question": "Which cities were given to the sons of Gershom from the tribe of Issachar (6:72-73)?",
+         "choice": [
+            "Kedesh, Daberath, Ramoth, and Anem",
+            "Golan and Ashtaroth",
+            "Mashal, Abdon, Hukok, and Rehob",
+            "Kedesh, Hammon, and Kiriathaim"
+            ],
+        "answer":"A"
+    },
+    {
+        "question": "According to 1 Chronicles, which of the sons of Issachar were heads of their fathers’ houses, mighty men of valor (7:2)?",
+         "choice": [
+            "Tola, Puah, Jashub, and Shimron",
+             "Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel",
+             "Michael, Obadiah, Joel, and Isshiah",
+            "Bela, Becher, and Jediael"
+            ],
+        "answer":"B"
+    },
+     {
+        "question": "How many mighty men of valor were listed in the genealogy of Issachar (7:5)?",
+         "choice": [
+            "22,600",
+            "36,000",
+            "87,000",
+            "22,034"
+            ],
+        "answer":"C"
+    },
+    {
+       "question": "Who was the son of Jediael, from the tribe of Benjamin (7:10)?",
+        "choice": [
+            "Bela",
+            "Becher",
+            "Bilhan",
+             "Jediael"
+            ],
+       "answer": "C"
+   },
+    {
+       "question":"Who was the father of Gilead, from the tribe of Manasseh (7:14)?",
+       "choice": [
+             "Machir",
+            "Asriel",
+             "Peresh",
+            "Sheresh"
+            ],
+        "answer":"A"
+    },
+    {
+        "question": "Who were the sons of Beriah from the tribe of Asher (7:31)?",
+        "choice": [
+            "Imnah, Ishvah, Ishvi",
+            "Heber and Malchiel",
+           "Japhlet, Shomer, Hotham",
+            "Ahi, Rohgah, Jehubbah, and Aram"
+           ],
+        "answer":"B"
+    },
+    {
+        "question": "According to 1 Chronicles, who was the firstborn son of Benjamin (8:1)?",
+        "choice": [
+            "Ashbel",
+            "Bela",
+            "Aharah",
+            "Nohah"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Who were the wives of Shaharaim (8:8)?",
+        "choice": [
+            "Hodesh and Baara",
+            "Hushim and Baara",
+           "Hushim and Hodesh",
+            "Hushim and Maacah"
+        ],
+        "answer": "B"
+    },
+     {
+        "question":"According to 1 Chronicles, who built Ono and Lod (8:12)?",
+        "choice": [
+            "Eber, Misham, and Shemed",
+             "Beriah and Shema",
+            "Elpaal and Abitub",
+            "Naaman, Ahijah, and Gera"
+            ],
+        "answer":"A"
+    },
+    {
+        "question": "According to 1 Chronicles, who put to flight the inhabitants of Gath (8:13)?",
+        "choice": [
+            "The sons of Elpaal",
+            "The sons of Beriah and Shema",
+           "The sons of Ehud",
+            "The sons of Shaharaim"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "How many sons and grandsons did Ulam have, who were mighty men of valor (8:40)?",
+        "choice": [
+            "50",
+             "100",
+            "150",
+            "200"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "According to 1 Chronicles, where are the genealogies of Israel written (9:1)?",
+        "choice": [
+            "The book of the kings of Israel",
+            "The book of the chronicles",
+            "The book of the law",
+             "The book of the prophets"
+            ],
+        "answer":"A"
+     },
+     {
+        "question": "Who was the first inhabitant to live in Jerusalem after the exile (9:3)?",
+        "choice": [
+            "Children of Judah",
+            "Children of Benjamin",
+             "Children of Ephraim",
+            "Children of Manasseh"
+            ],
+         "answer":"A"
+     },
+    {
+        "question": "According to 1 Chronicles, who was the ruler of God's house (9:11)?",
+        "choice": [
+           "Azariah",
+           "Jehoiarib",
+           "Jachin",
+            "Ahitub"
+           ],
+        "answer":"A"
+    },
+    {
+        "question": "According to 1 Chronicles, who were the gatekeepers (9:17)?",
+         "choice": [
+            "Shallum, Akkub, Talmon, Ahiman",
+            "Shemaiah, Bakbakkar, Heresh, Galal",
+            "Mattaniah, Obadiah, Berechiah",
+            "Phinehas, Zechariah, Meshelemiah"
+            ],
+         "answer":"A"
+    },
+    {
+        "question": "Who was the gatekeeper of the door of the Tent of Meeting (9:21)?",
+         "choice": [
+            "Shallum",
+            "Akkub",
+            "Zechariah",
+            "Obadiah"
+            ],
+        "answer": "C"
+   },
+   {
+       "question": "According to 1 Chronicles, what did some of the Levites have charge of (9:29)?",
+        "choice": [
+             "The singers",
+             "The show bread",
+             "The furniture and vessels of the sanctuary",
+            "The baked goods"
+            ],
+        "answer": "C"
+    },
+    {
+        "question": "Where did the Philistines kill Saul and his sons (10:1)?",
+         "choice": [
+            "Mount Gilboa",
+            "Jerusalem",
+            "Gath",
+            "Pasdammim"
+            ],
+        "answer":"A"
+    },
+     {
+         "question": "According to 1 Chronicles, where was Saul's head fastened (10:10)?",
+        "choice": [
+            "The house of their gods",
+             "The house of Dagon",
+            "The house of Jabesh",
+             "The temple of Jerusalem"
+            ],
+        "answer": "B"
+    },
+    {
+        "question": "Who buried the bones of Saul and his sons (10:12)?",
+        "choice": [
+            "The Philistines",
+             "The elders of Israel",
+             "The men of Jabesh Gilead",
+             "David and his men"
+            ],
+         "answer":"C"
+    },
+    {
+        "question":"According to 1 Chronicles, who made a covenant with the elders of Israel in Hebron (11:3)?",
+        "choice": [
+            "Samuel",
+            "Saul",
+            "David",
+            "Joab"
+        ],
+         "answer":"C"
+    },
+   {
+        "question": "What city was also called Jebus (11:4)?",
+        "choice": [
+            "Hebron",
+            "Jerusalem",
+             "Bethlehem",
+             "Zion"
+            ],
+        "answer":"B"
+   },
+    {
+       "question": "Who became chief and captain for striking the Jebusites first (11:6)?",
+        "choice": [
+            "David",
+             "Joab",
+             "Abishai",
+             "Benaiah"
+            ],
+        "answer": "B"
+   },
+    {
+        "question": "According to 1 Chronicles, who was the chief of the thirty mighty men (11:11)?",
+         "choice": [
+            "Eleazar",
+            "Jashobeam",
+             "Abishai",
+             "Benaiah"
+            ],
+         "answer":"B"
+    },
+    {
+        "question": "Where was the plot of ground full of barley that the Philistines were gathered to battle (11:13)?",
+         "choice": [
+            "Pasdammim",
+             "Adullam",
+            "Rephaim",
+            "Bethlehem"
+            ],
+        "answer":"A"
+    },
+   {
+       "question": "According to 1 Chronicles, who longed for water from the well of Bethlehem (11:17)?",
+        "choice": [
+             "Joab",
+             "Abishai",
+             "David",
+            "Eleazar"
+            ],
+        "answer":"C"
+    },
+   {
+        "question": "According to 1 Chronicles, who was chief of the three mighty men (11:20)?",
+        "choice": [
+             "Joab",
+            "Abishai",
+            "Benaiah",
+            "Eleazar"
+            ],
+        "answer":"B"
+   },
+    {
+        "question": "Who did David set over his guard (11:25)?",
+        "choice": [
+            "Abishai",
+             "Joab",
+            "Benaiah",
+             "Asahel"
+            ],
+        "answer":"C"
+    },
+    {
+       "question":"Who were among the mighty men of the armies (11:26)?",
+        "choice": [
+           "Asahel, Elhanan, Shammoth",
+           "Helez, Ira, Abiezer",
+            "Sibbecai, Ilai, Maharai",
+           "All of the above"
+           ],
+       "answer":"D"
+    },
+    {
+        "question": "Who sent messengers with cedar trees, masons, and carpenters to David (14:1)?",
+        "choice": [
+            "The king of Egypt",
+            "The king of Assyria",
+            "Hiram king of Tyre",
+             "The king of Moab"
+            ],
+        "answer":"C"
+    },
+   {
+        "question": "According to 1 Chronicles, where did the Philistines make a raid (14:9)?",
+        "choice": [
+            "The valley of Rephaim",
+             "Gibeon",
+             "Gezer",
+             "Bethlehem"
+            ],
+        "answer":"A"
+    },
+    {
+        "question": "According to 1 Chronicles, who should carry the ark of God (15:2)?",
+        "choice": [
+            "The priests",
+            "The Levites",
+            "The elders of Israel",
+            "The mighty men"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Who were among the chief Levites that David gathered to bring up the ark (15:5-10)?",
+        "choice": [
+            "Uriel, Asaiah, Joel",
+            "Shemaiah, Eliel, Amminadab",
+            "Both A and B",
+             "None of the above"
+        ],
+        "answer": "C"
+    },
+     {
+        "question":"According to 1 Chronicles, who were appointed as singers with instruments of music (15:16-17)?",
+        "choice": [
+            "Heman, Asaph, Ethan",
+            "Zechariah, Ben, Jaaziel",
+            "Shemiramoth, Jehiel, Unni",
+            "All of the above"
+            ],
+        "answer":"A"
+    },
+    {
+        "question": "According to 1 Chronicles, who was the chief of the Levites over the singing (15:22)?",
+        "choice": [
+            "Heman",
+            "Asaph",
+            "Chenaniah",
+            "Ethan"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What did David wear when bringing up the ark (15:27)?",
+        "choice": [
+            "A robe of fine linen and an ephod of linen",
+            "A robe of purple and a golden crown",
+            "A robe of scarlet and a breastplate",
+            "A simple linen tunic"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "According to 1 Chronicles, what did David offer before God after setting the ark in the tent (16:1)?",
+        "choice": [
+            "Burnt offerings and peace offerings",
+            "Grain offerings and drink offerings",
+            "Incense and oil",
+             "Gold and silver"
+            ],
+        "answer":"A"
+     },
+     {
+        "question": "Who did David appoint to minister before the ark of Yahweh (16:4)?",
+        "choice": [
+            "Priests",
+            "Levites",
+             "Elders of Israel",
+            "Mighty men"
+            ],
+         "answer":"B"
+     },
+    {
+        "question": "According to 1 Chronicles, who was chief among those appointed to minister before the ark of Yahweh (16:5)?",
+        "choice": [
+           "Zechariah",
+           "Jeiel",
+           "Asaph",
+            "Obed-Edom"
+           ],
+        "answer":"C"
+    },
+    {
+        "question": "According to 1 Chronicles, what did David first ordain giving thanks to Yahweh by (16:7)?",
+         "choice": [
+            "The hand of Asaph and his brothers",
+            "The hand of the priests",
+            "The hand of the Levites",
+            "The hand of the elders"
+            ],
+         "answer":"A"
+    },
+    {
+        "question": "What did David say to Nathan when he was living in his house (17:1)?",
+         "choice": [
+            "“I will build a great temple for Yahweh.”",
+            "“I want to gather resources for a temple.”",
+             "“I live in a cedar house, but the ark of Yahweh’s covenant is in a tent.”",
+            "“I will find a new place for the ark.”"
+            ],
+        "answer": "C"
+   },
+   {
+       "question": "According to 1 Chronicles, what did God say about David building a house for Him (17:4)?",
+        "choice": [
+             "“You shall build me a house.”",
+             "“You shall not build me a house.”",
+             "“Your son shall build me a house.”",
+            "“It is not yet time to build a house.”"
+            ],
+        "answer": "B"
+    },
+    {
+        "question": "According to 1 Chronicles, where did God say He took David from to be prince over Israel (17:7)?",
+         "choice": [
+            "From a wealthy family",
+            "From the army",
+            "From the sheep pen",
+             "From the priests"
+            ],
+        "answer":"C"
+    },
+     {
+         "question": "According to 1 Chronicles, who did God say would build Him a house (17:12)?",
+        "choice": [
+            "David",
+            "Solomon",
+            "Moses",
+             "Joshua"
+            ],
+        "answer": "B"
+    },
+    {
+        "question": "According to 1 Chronicles, who did David defeat and subdue (18:1)?",
+        "choice": [
+            "The Moabites",
+             "The Ammonites",
+             "The Philistines",
+             "The Edomites"
+            ],
+         "answer":"C"
+    },
+    {
+        "question":"According to 1 Chronicles, what did the Moabites become to David (18:2)?",
+        "choice": [
+            "Servants and brought tribute",
+            "Allies in battle",
+            "Traders with Israel",
+            "Enemies of David"
+        ],
+         "answer":"A"
+    },
+   {
+        "question": "According to 1 Chronicles, who was the king of Zobah that David defeated (18:3)?",
+        "choice": [
+            "Tou",
+            "Hadadezer",
+            "Nahash",
+            "Hanun"
+            ],
+        "answer":"B"
+   },
+    {
+       "question": "According to 1 Chronicles, how many horsemen did David take from Hadadezer (18:4)?",
+        "choice": [
+            "One thousand",
+             "Five thousand",
+             "Seven thousand",
+             "Ten thousand"
+            ],
+        "answer": "C"
+   },
+    {
+        "question": "According to 1 Chronicles, who did David put garrisons in (18:6)?",
+         "choice": [
+            "Moab",
+            "Edom",
+             "Syria of Damascus",
+             "Ammon"
+            ],
+         "answer":"C"
+    },
+    {
+        "question": "According to 1 Chronicles, who was over the army of David (18:15)?",
+         "choice": [
+            "Abishai",
+             "Benaiah",
+            "Joab",
+            "Shavsha"
+            ],
+        "answer":"C"
+    },
+   {
+       "question": "According to 1 Chronicles, who was the recorder for David (18:15)?",
+        "choice": [
+             "Jehoshaphat",
+             "Zadok",
+             "Abimelech",
+            "Shavsha"
+            ],
+        "answer":"A"
+    },
+   {
+        "question": "According to 1 Chronicles, who was the king of the children of Ammon who died (19:1)?",
+        "choice": [
+             "Nahash",
+            "Hanun",
+            "Tou",
+            "Hadadezer"
+            ],
+        "answer":"A"
+   },
+    {
+        "question": "What did Hanun do to David's servants (19:4)?",
+        "choice": [
+            "Shaved them, and cut off their garments",
+             "Imprisoned them",
+            "Killed them",
+             "Made them slaves"
+            ],
+        "answer":"A"
+    },
+    {
+       "question":"According to 1 Chronicles, how many talents of silver did the Ammonites send to hire chariots and horsemen (19:6)?",
+        "choice": [
+           "One hundred",
+           "Five hundred",
+            "One thousand",
+           "Ten thousand"
+           ],
+       "answer":"C"
+    },
+    {
+        "question": "According to 1 Chronicles, who did David send to fight against the Ammonites (19:8)?",
+        "choice": [
+            "Abishai",
+            "Joab",
+             "Benaiah",
+             "Asahel"
+            ],
+        "answer":"B"
+    },
+   {
+        "question": "According to 1 Chronicles, who moved David to take a census of Israel (21:1)?",
+        "choice": [
+            "God",
+             "Satan",
+             "Joab",
+            "The people of Israel"
+            ],
+        "answer":"B"
+    },
+    {
+        "question": "According to 1 Chronicles, what did David prepare in abundance for the building of the temple (22:3-4)?",
+        "choice": [
+            "Iron, bronze, and cedar trees",
+            "Gold, silver, and precious stones",
+            "Skilled workers and architects",
+            "All of the above"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "According to 1 Chronicles, what reason did God give David for not allowing him to build the temple (22:8)?",
+        "choice": [
+            "David was not skilled enough.",
+            "David was not a Levite.",
+            "David had shed much blood.",
+            "David had not asked God."
+        ],
+        "answer": "C"
+    },
+     {
+        "question":"According to 1 Chronicles, who did God say would build the temple (22:10)?",
+        "choice": [
+            "David's son, Solomon",
+            "A Levite chosen by God",
+            "An angel of God",
+             "The elders of Israel"
+            ],
+        "answer":"A"
+    },
+    {
+        "question": "According to 1 Chronicles, how much gold did David prepare for the temple (22:14)?",
+        "choice": [
+            "One thousand talents",
+            "Ten thousand talents",
+            "One hundred thousand talents",
+            "One million talents"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "According to 1 Chronicles, how much silver did David prepare for the temple (22:14)?",
+        "choice": [
+             "One thousand talents",
+            "Ten thousand talents",
+            "One hundred thousand talents",
+            "One million talents"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "According to 1 Chronicles, what was the total number of Levites counted from thirty years old and upward (23:3)?",
+         "choice": [
+            "Twenty-four thousand",
+             "Thirty thousand",
+             "Thirty-eight thousand",
+             "Forty-four thousand"
+            ],
+        "answer":"C"
+    },
+    {
+        "question": "According to 1 Chronicles, what were the duties of the Levites (23:28-32)?",
+        "choice": [
+            "To assist the sons of Aaron in the service of the temple",
+            "To manage the treasuries",
+            "To be judges and officers",
+            "All of the above"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "According to 1 Chronicles, how were the divisions of the sons of Aaron determined (24:5)?",
+         "choice": [
+            "By a vote of the people",
+            "By a decision of the king",
+            "By casting lots",
+             "By their family lineage"
+            ],
+         "answer":"C"
+    },
+    {
+        "question": "According to 1 Chronicles, who were set apart for service to prophesy with instruments (25:1)?",
+         "choice": [
+            "The sons of Asaph, Heman, and Jeduthun",
+             "The sons of Aaron",
+            "The sons of Merari",
+             "The princes of Israel"
+            ],
+        "answer":"A"
+    },
+    {
+        "question": "According to 1 Chronicles, how many skilled singers were there (25:7)?",
+         "choice": [
+            "One hundred forty-four",
+             "Two hundred",
+             "Two hundred eighty-eight",
+            "Three hundred"
+            ],
+         "answer":"C"
+    },
+    {
+        "question": "According to 1 Chronicles, how was the order of service for the singers determined (25:8)?",
+         "choice": [
+            "By seniority",
+            "By their skill level",
+            "By casting lots",
+             "By royal decree"
+            ],
+        "answer":"C"
+    },
+    {
+        "question": "According to 1 Chronicles, who were the doorkeepers from the Korahites (26:1)?",
+        "choice": [
+            "Meshelemiah and his sons",
+             "Obed-Edom and his sons",
+             "Hosah and his sons",
+            "All of the above"
+            ],
+         "answer":"A"
+    },
+    {
+       "question": "According to 1 Chronicles, who was in charge of the treasuries (26:24)?",
+        "choice": [
+           "Shebuel",
+           "Shelomoth",
+           "Chenaniah",
+            "Hashabiah"
+            ],
+         "answer":"A"
+    },
+   {
+        "question":"According to 1 Chronicles, what was the number of men in each division that served the king monthly (27:1)?",
+         "choice": [
+           "Twelve thousand",
+           "Twenty thousand",
+             "Twenty-four thousand",
+            "Thirty thousand"
+            ],
+         "answer":"C"
+    },
+    {
+        "question": "According to 1 Chronicles, who was the captain of the first division (27:2)?",
+        "choice": [
+           "Jashobeam",
+            "Dodai",
+             "Benaiah",
+            "Asahel"
+           ],
+         "answer":"A"
+    },
+    {
+       "question": "According to 1 Chronicles, what did David say was in his heart to build (28:2)?",
+        "choice": [
+            "A house for the ark of the covenant",
+            "A palace for the king",
+            "A city for the people",
+            "A place for sacrifices"
+            ],
+         "answer":"A"
+    },
+   {
+       "question": "According to 1 Chronicles, who did God choose to build the house (28:6)?",
+        "choice": [
+            "David",
+            "Moses",
+            "Solomon",
+            "Joshua"
+            ],
+         "answer":"C"
+    },
+    {
+        "question": "According to 1 Chronicles, what was David's advice to Solomon (28:9)?",
+         "choice": [
+            "To seek God with a perfect heart and a willing mind",
+            "To be strong and courageous",
+            "To not be afraid or dismayed",
+             "All of the above"
+            ],
+         "answer":"D"
+    },
+    {
+        "question": "According to 1 Chronicles, who did David say would not fail or forsake Solomon (28:20)?",
+         "choice": [
+            "The priests",
+            "The Levites",
+            "The people of Israel",
+             "Yahweh God"
+            ],
+        "answer": "D"
+    },
+   {
+        "question":"According to 1 Chronicles, what did David contribute from his own treasure for the temple (29:3)?",
+        "choice": [
+            "Gold and silver",
+            "Bronze and iron",
+            "Precious stones",
+            "All of the above"
+            ],
+         "answer":"A"
+    },
+    {
+        "question": "According to 1 Chronicles, how many talents of gold did David donate from his own treasure (29:4)?",
+        "choice": [
+           "One thousand",
+            "Three thousand",
+            "Five thousand",
+             "Ten thousand"
+            ],
+        "answer":"B"
+    },
+   {
+        "question": "According to 1 Chronicles, how many talents of refined silver did David donate from his own treasure (29:4)?",
+        "choice": [
+            "Three thousand",
+            "Five thousand",
+             "Seven thousand",
+            "Ten thousand"
+            ],
+        "answer":"C"
+   },
+    {
+        "question": "According to 1 Chronicles, what did David ask of God for Solomon (29:19)?",
+         "choice": [
+            "To give him a perfect heart",
+            "To keep his commandments",
+            "To build the palace",
+             "All of the above"
+            ],
+         "answer":"D"
+    },
+    {
+        "question": "According to 1 Chronicles, who was made king a second time (29:22)?",
+         "choice": [
+            "David",
+            "Solomon",
+             "Zadok",
+             "Samuel"
+            ],
+        "answer":"B"
+    },
+   {
+        "question": "According to 1 Chronicles, where are the acts of David written (29:29)?",
+         "choice": [
+            "The history of Samuel the seer, Nathan the prophet, and Gad the seer",
+            "The book of Kings",
+            "The chronicles of Israel",
+             "All of the above"
+            ],
+        "answer":"A"
+    }
+]

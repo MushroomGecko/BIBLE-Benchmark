@@ -1,0 +1,392 @@
+[
+    {
+        "question": "How is the city described in its current state in Lamentations 1:1?",
+        "choice": [
+            "A bustling metropolis",
+            "Full of joy and celebration",
+            "Solitary, like a widow",
+            "A powerful kingdom"
+        ],
+        "answer": "C",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 1:2, what is the city doing at night?",
+        "choice": [
+            "Singing songs of praise",
+            "Weeping bitterly",
+            "Resting peacefully",
+            "Celebrating with her lovers"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 1:4, what is the state of the roads to Zion?",
+        "choice": [
+            "Full of travelers",
+            "Desolate and mourning",
+            "Being repaired",
+            "Covered in flowers"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why has Yahweh afflicted Jerusalem according to Lamentations 1:5?",
+        "choice": [
+            "Because of her righteousness",
+            "Because of her great power",
+            "For the multitude of her transgressions",
+            "Due to the actions of her enemies"
+        ],
+        "answer": "C",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What has departed from the daughter of Zion according to Lamentations 1:6?",
+        "choice": [
+            "Her wealth",
+            "All majesty",
+            "Her hope",
+            "Her friends"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Jerusalem remember in her affliction according to Lamentations 1:7?",
+        "choice": [
+            "Her enemies",
+            "Her pleasant things from the old days",
+            "Her future plans",
+            "Her current misery"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "In Lamentations 1:9, what does the speaker say is the reason she has come down astoundingly?",
+        "choice": [
+            "Her great strength",
+            "She didn't remember her latter end",
+            "The power of her enemies",
+            "Her faithfulness"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 1:12, what does the speaker ask those who pass by to consider?",
+        "choice": [
+            "Their own good fortune",
+            "If there is any sorrow like her sorrow",
+            "The beauty of the city",
+            "The joy of the nations"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 1:14, what is bound on the speaker's neck?",
+        "choice": [
+            "A golden chain",
+            "The yoke of transgressions",
+            "A royal crown",
+            "The weight of guilt"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What has the Lord done to the mighty men within the speaker according to Lamentations 1:15?",
+        "choice": [
+            "Strengthened them",
+            "Set them at nothing",
+            "Exalted them",
+            "Made them leaders"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 1:17, what has Yahweh commanded concerning Jacob?",
+        "choice": [
+            "That they should be blessed",
+            "That those around him should be his adversaries",
+            "That they should be at peace",
+            "That they should rule the nations"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "In Lamentations 1:18, what does the speaker admit to?",
+        "choice": [
+            "Rebelling against Yahweh's commandment",
+            "Being a good leader",
+            "Loving her enemies",
+            "Leading her people to prosperity"
+        ],
+        "answer": "A",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 2:1, what has the Lord done to the daughter of Zion?",
+        "choice": [
+            "Covered her with a cloud in his anger",
+            "Blessed her with abundance",
+            "Led her to victory",
+            "Shown her favor"
+        ],
+        "answer": "A",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What has the Lord swallowed up according to Lamentations 2:2?",
+        "choice": [
+            "The dwellings of Jacob without pity",
+            "The wealth of the nations",
+            "The enemies of Judah",
+            "The hope of Israel"
+        ],
+        "answer": "A",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 2:6, what has Yahweh caused to be forgotten in Zion?",
+        "choice": [
+            "Solemn assembly and Sabbath",
+            "The history of the people",
+            "The laws of the land",
+            "The holy scriptures"
+        ],
+        "answer": "A",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 2:9, where are the king and princes?",
+        "choice": [
+            "Living in luxury",
+            "Among the nations where the law is not",
+            "Rebuilding the city",
+            "Leading the army"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What do the elders of the daughter of Zion do in Lamentations 2:10?",
+        "choice": [
+            "Sing praises to God",
+            "Sit on the ground and keep silence",
+            "Fight against their enemies",
+            "Lead the people in prayer"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "In Lamentations 2:14, what kind of visions have the prophets seen?",
+        "choice": [
+            "Visions of hope and restoration",
+            "True visions of the future",
+            "False and foolish visions",
+            "Visions of prosperity"
+        ],
+        "answer": "C",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What do the passersby do at the daughter of Jerusalem according to Lamentations 2:15?",
+        "choice": [
+            "Offer comfort and aid",
+            "Clap their hands, hiss, and wag their heads",
+            "Pray for her salvation",
+            "Weep for her suffering"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 2:17, what has Yahweh done?",
+        "choice": [
+            "Healed the land",
+            "Pitied his people",
+            "Fulfilled his word and thrown down without pity",
+            "Exalted the people"
+        ],
+        "answer": "C",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "In Lamentations 3:1, who is speaking?",
+        "choice": [
+            "A prophet of God",
+            "A citizen of Jerusalem",
+            "A man who has seen affliction by the rod of God's wrath",
+            "An angel of God"
+        ],
+        "answer": "C",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 3:18, what has the speaker said has perished?",
+        "choice": [
+            "His family",
+            "His wealth",
+            "His strength and expectation from Yahweh",
+            "His hope"
+        ],
+        "answer": "C",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 3:22-23, why are they not consumed?",
+        "choice": [
+            "Because of their own righteousness",
+            "Because of Yahweh's loving kindnesses and mercies",
+            "Because of their great strength",
+            "Because of the help of their neighbors"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 3:33, does God willingly afflict?",
+        "choice": [
+            "Yes, he finds joy in afflicting mankind",
+            "No, he does not afflict willingly or grieve the children of men",
+            "Yes, it is his sole purpose",
+            "He only afflicts those who are evil"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 4:3, how has the daughter of the speaker's people become?",
+        "choice": [
+            "Kind and merciful",
+            "Like the ostriches in the wilderness, cruel",
+            "A shining example to others",
+            "A source of comfort and hope"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 5:2, what has happened to their inheritance?",
+        "choice": [
+            "It has been expanded",
+            "It has been turned over to strangers",
+            "It has been restored to its former glory",
+            "It has been divided equally"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 5:3, how are the people described?",
+        "choice": [
+            "As powerful and wealthy",
+            "As orphans and fatherless, with mothers as widows",
+            "As rulers of the land",
+            "As joyful and prosperous"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "In Lamentations 5:8, who rules over them?",
+        "choice": [
+            "Righteous leaders",
+            "Servants",
+            "Their own people",
+            "Wise judges"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 5:16, why is there woe to them?",
+        "choice": [
+            "Because they have prospered",
+            "Because they have sinned",
+            "Because they have been faithful",
+            "Because they have been victorious"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Lamentations 5:19, how long does Yahweh remain?",
+        "choice": [
+            "A short time",
+            "Forever",
+            "Until the end of their suffering",
+            "For a few generations"
+        ],
+        "answer": "B",
+        "category": "Lamentations",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_LAM.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    }
+]

@@ -1,0 +1,604 @@
+[
+    {
+        "question": "In the book of Judges “shophetim” should probably better be translated as ________",
+        "choice": [
+            "Judges",
+            "Deliverers",
+            "Conquerors",
+            "Masters"
+        ],
+        "answer": "B",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did the Lord raise up judges for Israel?",
+        "choice": [
+            "To destroy the idols in the land",
+            "To rule and judge Israel with justice",
+            "To save them out of the hands of raiders",
+            "To teach Israel the ways of the Lord"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The period of Judges lies between what two periods in Israel’s history?",
+        "choice": [
+            "Joshua’s taking of the land and Saul becoming king",
+            "Moses giving the law and David becoming king",
+            "The call of Joshua and the call of Samuel",
+            "The entering the Promised Land and the securing of it from enemies"
+        ],
+        "answer": "A",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is a theocracy?",
+        "choice": [
+            "When the king rules under God",
+            "When a prophet directs the movements of the nation",
+            "When all the leaders are following the ways of God",
+            "When God is the king of the nation"
+        ],
+        "answer": "D",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The major theme of the book of Judges is _________",
+        "choice": [
+            "God led Israel yet they rebelled against him more and more",
+            "God gave them deliverers who saved them out of the hands of their enemies",
+            "There was no king in Israel and everyone did what was right in his own eyes",
+            "Israel followed the ways of the Baals in spite of God’s great compassion on them"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was the first judge who attempted to make himself a king?",
+        "choice": [
+            "Elimelech",
+            "Ehud",
+            "Jotham",
+            "Abimelech"
+        ],
+        "answer": "D",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Abimelech attempt to make himself king?",
+        "choice": [
+            "By slaughtering his siblings",
+            "By having a prophet of Baal anoint him",
+            "By proclaiming he was king",
+            "By building a palace"
+        ],
+        "answer": "A",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following are part of the Judges cycle EXCEPT",
+        "choice": [
+            "Rebellion",
+            "Yahweh sells them into the hands of oppressors",
+            "Repentance",
+            "God raises up a deliverer",
+            "The deliverer is anointed by God’s prophet"
+        ],
+        "answer": "E",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After the deliverer wins a military victory what is next in the Judges cycle?",
+        "choice": [
+            "The deliverer builds up the walls of the city",
+            "The land has rest for x years",
+            "The people serve the Lord and walk in his ways",
+            "The deliverer rules over Israel for x years"
+        ],
+        "answer": "B",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Which one of the follow was a minor or non-cyclical judge?",
+        "choice": [
+            "Othniel",
+            "Ehud",
+            "Gideon",
+            "Jair",
+            "Samson"
+        ],
+        "answer": "D",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Which one of the following is a cyclical or major judge not a minor judge?",
+        "choice": [
+            "Tola",
+            "Othniel",
+            "Shamgar",
+            "Ibzan",
+            "Jair"
+        ],
+        "answer": "B",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Which judge has the longest narrative about him/her?",
+        "choice": [
+            "Deborah",
+            "Gideon",
+            "Jephthah",
+            "Samson"
+        ],
+        "answer": "D",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How is the book of Judges framed?",
+        "choice": [
+            "Introduction and Summary",
+            "Overview and review",
+            "Double introduction and double conclusion",
+            "Summary and blessings/curses"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Which of the following helps us shrink the length of the book of judges from 410 years to a more reasonable period?",
+        "choice": [
+            "The judges were regional and therefore they may have overlapped each other",
+            "The different judges used different ways of recording their reigns",
+            "War rhetorical is used and so the length of a judges reign may have been exaggerated",
+            "Length of reign was used to mark the importance of a judge not how long he actually reigned"
+        ],
+        "answer": "A",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Which of the following helps us shrink the length of the book of judges from 410 years to a more reasonable period?",
+        "choice": [
+            "The different judges used different ways of recording their reigns",
+            "The time periods may have been symbolic and rounded off",
+            "War rhetorical is used and so the length of a judges reign may have been exaggerated",
+            "Length of reign was used to mark the importance of a judge not how long he actually reigned"
+        ],
+        "answer": "B",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was the traditionally accepted author of the book of Judges?",
+        "choice": [
+            "Joshua",
+            "Gideon",
+            "David",
+            "Samuel"
+        ],
+        "answer": "D",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What reflects a pre-Zion perspective in the book of Judges?",
+        "choice": [
+            "The Israelites had not yet taken Bethel",
+            "The judges complained that Zion had not yet been captured",
+            "The house of God is firmly seated at Shiloh",
+            "Zion had no walls around the city until after the time of David"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What in Judges reflects a period long after the time of David around 722 BC?",
+        "choice": [
+            "The Israelites had not yet taken Bethel",
+            "It mentions until the time of the captivity",
+            "The house of God is firmly seated at Shiloh",
+            "Zion had no walls around the city until after the time of David"
+        ],
+        "answer": "B",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What archaic names indicate that book of Judges was written in old times?",
+        "choice": [
+            "Dan is called Laish",
+            "Jerusalem is called Jebus",
+            "Beersheba is called Hormah",
+            "Bethel is called Michmash"
+        ],
+        "answer": "B",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What can we say about the composition of the book of Judges?",
+        "choice": [
+            "Samuel was the author",
+            "David edited it after he had become king",
+            "There are several editorial layers in the book",
+            "It was written many years later and most of the stories are fictional"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is an indication of a pre-monarchic origin of Judges?",
+        "choice": [
+            "The lack of a mention of a king",
+            "There were multiple judges at the same time",
+            "There were no prophetic office which only arose after there were kings in Israel",
+            "There was no centralization of worship and non-priests offering sacrifices"
+        ],
+        "answer": "D",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did the Lord leave the Canaanites in the land?",
+        "choice": [
+            "To teach the next generation warfare",
+            "To see if the Israelites could convert them",
+            "In mercy to spare them",
+            "Israel would use the Canaanites as slaves"
+        ],
+        "answer": "A",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was the left-hander who killed Eglon the fat king of Moab?",
+        "choice": [
+            "Abdon",
+            "Gideon",
+            "Ehud",
+            "Jephthah"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Which judge escaped down a latrine drain?",
+        "choice": [
+            "Abdon",
+            "Gideon",
+            "Ehud",
+            "Jephthah"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How could Joshua defeat Jabin king of Hazor and Deborah defeat Jabin king of Hazor over a hundred years later?",
+        "choice": [
+            "Jabin was a dynastic name at Hazor",
+            "Jabin was really young when Joshua fought him and very old when Deborah did",
+            "The editor got the two mixed up",
+            "He was a legend and legends die hard"
+        ],
+        "answer": "A",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Deborah besides being a judge?",
+        "choice": [
+            "A priestess",
+            "A prophet",
+            "An elder",
+            "A clan chief"
+        ],
+        "answer": "B",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was Jabin, king of Hazor’s general whom a woman killed?",
+        "choice": [
+            "Ibzon",
+            "Abdon",
+            "Elkanah",
+            "Sisera"
+        ],
+        "answer": "D",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Jael kill Sisera the general of Jabin, king of Hazor’s army?",
+        "choice": [
+            "She poisons him",
+            "She has him lie down and is bitten by a snake",
+            "She used a tent peg and hammer",
+            "She pushes him off a cliff"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was called Jeru-baal for throwing down his father’s altar to Baal?",
+        "choice": [
+            "Jephthah",
+            "Gideon",
+            "Barak",
+            "Othniel"
+        ],
+        "answer": "B",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Gideon eliminate his warriors down to 300?",
+        "choice": [
+            "Those that lapped water out of their hands",
+            "Picked the 300 strongest",
+            "Those to had a sword that could be used for the Lord",
+            "Those who were not afraid of fire"
+        ],
+        "answer": "A",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Gideon determine God’s will for his life?",
+        "choice": [
+            "He picked a verse out of the Bible that guided him",
+            "He noted the direction that the birds were flying",
+            "He put out a fleece and had it dry while the ground was wet",
+            "He cast lots to see which way God wanted him to go"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was Gideon’s son who declared himself king?",
+        "choice": [
+            "Abimelech",
+            "Jotham",
+            "Ibzan",
+            "Ishbosheth"
+        ],
+        "answer": "A",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was featured in Jotham’s fable against his murderous brother Abimelech?",
+        "choice": [
+            "Lions and a sheep dog",
+            "Trees and bramble bush",
+            "Walls and a gate",
+            "Sheep and a goat"
+        ],
+        "answer": "B",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "While many scholars think Jephthah sacrificed his daughter a minority think he ______",
+        "choice": [
+            "Dedicated her to celibacy",
+            "Never saw her again",
+            "Gave her to one of his soldiers",
+            "Made her a Nazirite for the rest of her life"
+        ],
+        "answer": "A",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Samson from birth?",
+        "choice": [
+            "Strong",
+            "Full of the Spirit",
+            "A Nazirite",
+            "Hairy"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With which woman in Samson’s life did he give a riddle to be solved by the Philistines?",
+        "choice": [
+            "His mother",
+            "His wife at Timnah",
+            "A prostitute from Gaza",
+            "Delilah"
+        ],
+        "answer": "B",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Which of the women in Samson’s life did he tear out the gate bars of a city?",
+        "choice": [
+            "His mother",
+            "His wife at Timnah",
+            "A prostitute from Gaza",
+            "Delilah"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Which of the women in Samson’s life gave away the secret of his great strength for money?",
+        "choice": [
+            "His mother",
+            "His wife at Timnah",
+            "A prostitute from Gaza",
+            "Delilah"
+        ],
+        "answer": "D",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What type person is featured in the double conclusion of the book of Judges?",
+        "choice": [
+            "A prophet",
+            "A judge",
+            "A Levite",
+            "A priest"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What tribe was almost wiped out because of raping and killing the Levite’s concubine?",
+        "choice": [
+            "Benjamin",
+            "Judah",
+            "Asher",
+            "Ephraim"
+        ],
+        "answer": "A",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did they find wives for the 600 men of Benjamin who were not killed?",
+        "choice": [
+            "On the Mount of Olives",
+            "Dancing in the fields of Shiloh",
+            "Gleaning grain outside Gibeon",
+            "By the entrance of Jerusalem"
+        ],
+        "answer": "B",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The lament of the book of Judges is: ________",
+        "choice": [
+            "There was no king in Israel",
+            "The Levites were unfaithful",
+            "There were no prophets in those days",
+            "The priests had run after Baal"
+        ],
+        "answer": "A",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The lament of the book of Judges was that everyone  ________",
+        "choice": [
+            "Followed in the ways of Baal",
+            "Did not follow the ways of the Lord",
+            "Did what was right in their own eyes",
+            "Did what was evil in the eyes of the Lord"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who is the ultimate deliverer in Judges?",
+        "choice": [
+            "Samson",
+            "Samuel",
+            "God",
+            "The Spirit"
+        ],
+        "answer": "C",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When Israel adopted Canaanite practices like the worship of Baal that was called _______",
+        "choice": [
+            "Syncretism",
+            "Exclusivism",
+            "Obstructionism",
+            "Reductionism"
+        ],
+        "answer": "A",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following women played a key role in the book of Judges EXCEPT",
+        "choice": [
+            "Delilah",
+            "Deborah",
+            "Jael",
+            "Jephthah’s daughter",
+            "Ehud’s mother"
+        ],
+        "answer": "E",
+        "category": "Judges",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/07_GettingStartedWithJudges_MCQuestions_BeginOnly.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    }
+]

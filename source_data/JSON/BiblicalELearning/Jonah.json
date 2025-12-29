@@ -1,0 +1,914 @@
+[
+    {
+        "question": "Jonah was the son of _______ (Jn 1:1)",
+        "choice": [
+            "Shammai",
+            "Azariah",
+            "Amittai",
+            "Ethan"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What city did God command Jonah to go to  (Jn 1:2)?",
+        "choice": [
+            "Babylon",
+            "Nineveh",
+            "Jerusalem",
+            "Damascus"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did God send Jonah to Nineveh (Jn 1:2)?",
+        "choice": [
+            "Because of all their gods",
+            "Because they had slaughtered the people of Ephraim",
+            "Because of the oppression of all nations",
+            "Because its wickedness had come up before God"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Jonah’s response to God’s command to go to preach against Nineveh (Jn 1:3)?",
+        "choice": [
+            "He ran away",
+            "He made excuses",
+            "He refused to go",
+            "He asked for a sign"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did Jonah flee to in order to avoid the call of God (Jn 1:3)?",
+        "choice": [
+            "Caphtor",
+            "Tarshish",
+            "Arabia",
+            "Tanis"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did Jonah find a ship headed for Tarshish (Jn 1:3)?",
+        "choice": [
+            "Caesarea",
+            "Gaza",
+            "Joppa",
+            "Askelon"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord do after Jonah boarded a ship to flee to Tarshish (Jn 1:4)?",
+        "choice": [
+            "The Lord sent a tornado",
+            "A rock punctured a hole in the boat",
+            "The Lord sent a hail storm against the boat",
+            "The Lord sent a great wind threatening the ship"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the sailors do when they were afraid of the boat breaking up (Jn 1:5)?",
+        "choice": [
+            "They cried out each to his own god",
+            "They cried out to the Lord their God",
+            "They began throwing passengers into the sea",
+            "They took down the sail"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the sailors do when they were afraid of the boat breaking up (Jn 1:5)?",
+        "choice": [
+            "They cried out to the Lord their God",
+            "They threw the cargo into the sea",
+            "They began throwing passengers into the sea",
+            "They took down the sail"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Jonah do when the wind threatened to break up the boat (Jn 1:5)?",
+        "choice": [
+            "Helped the sailors throw the cargo overboard",
+            "Cried out to the gods of the sailors",
+            "Went below deck and fell asleep",
+            "Tore the sail down"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the captain tell Jonah to do (Jn 1:6)?",
+        "choice": [
+            "Prepare to abandon ship",
+            "Prepare to be thrown overboard",
+            "Prepare to swim",
+            "Call on his god"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did the sailors want to determine the person responsible for the great storm (Jn 1:7)?",
+        "choice": [
+            "By casting lots",
+            "By using the Urim and Thummim",
+            "By looking at the liver of a goat",
+            "By making an ordeal"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After the lot fell on Jonah the sailors asked him all of the following questions EXCEPT (Jn 1:8)",
+        "choice": [
+            "Who is responsible for making all this trouble for us?",
+            "Why are you going to Tarshish?",
+            "What do you do?",
+            "What is your country?",
+            "Where do you come from?"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Jonah NOT identify his God (Jn 1:9)?",
+        "choice": [
+            "The Lord",
+            "The God who made heaven",
+            "The God who made the sea",
+            "The God who sent the storm"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What had Jonah already told the sailors (Jn 1:10)?",
+        "choice": [
+            "That he was under the curse of God",
+            "That he was a prophet of the Lord God Almighty",
+            "That he was running away from the Lord",
+            "That he was sent to Nineveh"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the sailors do after the sea got rougher and rougher and the lot had fallen on Jonah (Jn 1:11)?",
+        "choice": [
+            "They aimed the boat into the wind that was opposing them",
+            "They knocked down the mast and prepared the life boats",
+            "They offered sacrifices to their gods",
+            "They asked Jonah what they should do to make the sea calm down"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Jonah tell the sailors to do in order to make the sea calm down (Jn 1:12)?",
+        "choice": [
+            "Throw him into the sea",
+            "Row harder for land",
+            "Throw the cargo overboard",
+            "Pray to the God of Israel"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the sailors do after Jonah told them to throw him into the turbulent sea (Jn 1:13)?",
+        "choice": [
+            "They immediately threw him overboard",
+            "They tried to row back to land",
+            "They put a life preserver on him",
+            "They went behind an island to avoid the wind"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After the sea grew even wilder what did the sailors do (Jn 1:14)?",
+        "choice": [
+            "They rowed even harder to get back to land",
+            "They cried out to the Lord",
+            "They started ripping up parts of the boat to lighten it",
+            "They were washed overboard"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the sailors ask of the Lord (Jn 1:14)?",
+        "choice": [
+            "That God have mercy upon them",
+            "That God forgive their sins",
+            "That God not hold them guilty for killing an innocent man",
+            "That God quiet the storm because they were not to blame"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the response of the sea after the sailors threw Jonah overboard (Jn 1:15)?",
+        "choice": [
+            "The ship struck a sand bar",
+            "The ship pulled into a harbor and was spared",
+            "The boat ran aground on an island",
+            "The sea grew calm"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When the sea grew calm what was the sailors response (Jn 1:16)?",
+        "choice": [
+            "They greatly feared the Lord",
+            "They praised the God of Israel",
+            "They looked for land",
+            "They raised the sail once again"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After the sea grew calm the sailors did all of the following EXCEPT (Jn 1:16)",
+        "choice": [
+            "Feared the Lord greatly",
+            "Offered a sacrifice to the Lord",
+            "Worshipped the God of Israel",
+            "Made vows to the Lord"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After Jonah was cast into the sea what did the Lord provide for him (Jn 1:17)?",
+        "choice": [
+            "A calm sea",
+            "A great fish",
+            "A piece of wood",
+            "A swift current"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How long was Jonah in the belly of the fish (Jn 1:16)?",
+        "choice": [
+            "One day and one night",
+            "Two days",
+            "Three days and three nights",
+            "Seven days and seven nights"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Jonah do from inside the fish (Jn 2:1)?",
+        "choice": [
+            "He slept",
+            "He prayed",
+            "He struggled",
+            "He passed out"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "From where did Jonah call for help (Jn 2:2)?",
+        "choice": [
+            "From the depths of the grave",
+            "From the bottom of the sea",
+            "From the stomach of a great fish",
+            "From the deep waters"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was God’s response to Jonah’s cry (Jn 2:2)?",
+        "choice": [
+            "He delivered him",
+            "He came to his aid",
+            "He listened",
+            "He forgave him"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did God hurl Jonah (Jn 2:3)?",
+        "choice": [
+            "Into the bottom of the ocean",
+            "Into the mouth of a great fish",
+            "Into the waters of darkness",
+            "Into the heart of the seas"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What swept over Jonah (Jn 2:3)?",
+        "choice": [
+            "God’s waves and breakers",
+            "God’s swells of water",
+            "Aloneness in the deep",
+            "The waters of the Lord"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In his prayer, from where did Jonah say he was banished (Jn 2:4)?",
+        "choice": [
+            "From the land of the living",
+            "From God’s sight",
+            "From the memory of the living",
+            "From his homeland"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did Jonah say he would look again (Jn 2:4)?",
+        "choice": [
+            "Toward the sun",
+            "Toward heaven, God’s dwelling place",
+            "Toward God’s holy temple",
+            "Toward the holy land"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What happened to his head when Jonah was engulfed by waters (Jn 2:5)?",
+        "choice": [
+            "He was blinded by the darkness",
+            "His ears could not hear",
+            "The waves hit him like a hammer",
+            "Seaweed wrapped around his head"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To where did Jonah sink down (Jn 2:6)?",
+        "choice": [
+            "The roots of the mountains",
+            "The floor of the ocean",
+            "Into the center of the earth",
+            "The trenches of the deep"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What barred Jonah in forever (Jn 2:6)?",
+        "choice": [
+            "The grave",
+            "The earth",
+            "The mountains",
+            "The depths of the sea"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "From where did God bring up Jonah’s life (Jn 2:6)?",
+        "choice": [
+            "From the belly of the great fish",
+            "From the prison of the sea",
+            "From the pit",
+            "From the caves of the deep"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Jonah say he did when his life was ebbing away (Jn 2:7)?",
+        "choice": [
+            "He cried out to the Lord",
+            "He remembered better days",
+            "He sought the Spirit of God",
+            "He remembered the Lord"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To where did Jonah’s prayer rise (Jn 2:7)?",
+        "choice": [
+            "God’s holy temple",
+            "To God’s dwelling in heaven",
+            "To the top of the seas",
+            "To the land of his birth"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who forfeit the grace that could be theirs (Jn 2:8)?",
+        "choice": [
+            "Those who do not call out to the Lord",
+            "Those who cling to worthless idols",
+            "Those who cannot confess their own sins",
+            "Those who trust in themselves"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what will Jonah sacrifice to the Lord (Jn 2:9)?",
+        "choice": [
+            "With bulls from Bashan",
+            "With a spotless lamb",
+            "With a song of Thanksgiving",
+            "With rejoicing and celebration"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Jonah in his prayer say comes from the Lord (Jn 2:9)?",
+        "choice": [
+            "Light",
+            "Holiness",
+            "Forgiveness",
+            "Salvation"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Jonah get back to dry land (Jn 2:10)?",
+        "choice": [
+            "The fish vomited him onto it",
+            "The waters swept him ashore",
+            "The fish ran aground and died on the land",
+            "The fish excreted him on the shore"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the message the second time when the word of the Lord came to Jonah (Jn 3:1f)?",
+        "choice": [
+            "Repent and return to Nineveh where you will speak to the king",
+            "Go to the great city Nineveh and proclaim the message God will give",
+            "I am the God of all the earth therefore go to Nineveh and tell them to repent",
+            "Tell Nineveh to repent or in 60 days I will destroy the city"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How big was the city of Nineveh (Jn 3:3)?",
+        "choice": [
+            "Its walls were 5 miles around",
+            "It had two hundred thousand people",
+            "A visit required three days",
+            "It took seven days to walk around it"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What message did Jonah preach in Nineveh upon entering the city (Jn 3:4)?",
+        "choice": [
+            "Forty more days and Nineveh will be overturned",
+            "Seven days and God will destroy the walls of Nineveh",
+            "In twenty days the Babylonians will destroy Nineveh",
+            "The gods of Nineveh will be burned with fire for seven days"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Nineveh’s response to Jonah’s preaching (Jn 3:5)?",
+        "choice": [
+            "They tore their garments and put dust on their heads",
+            "They ordered all the gods of stone and silver to be destroyed",
+            "They humbled themselves and sought the Lord",
+            "They believed God and declared a fast and put on sackcloth"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The king of Nineveh responded in all of the following ways to Jonah announcement EXCEPT (Jn 3:6)",
+        "choice": [
+            "Took off his royal robes",
+            "Put on sackcloth",
+            "Offered a sacrifice to the Lord",
+            "Sat in the dust"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the king of Nineveh order in the decree after hearing Jonah’s message (Jn 3:7)?",
+        "choice": [
+            "They were to stop oppressing the poor and to seek justice",
+            "Both man and beast should not eat or drink anything",
+            "They were to cleanse their temples of statues of Marduk",
+            "They were to eat only bitter herbs for three days"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the king of Nineveh order in the decree after hearing Jonah’s message (Jn 3:7)?",
+        "choice": [
+            "They were to stop oppressing the poor and to seek justice",
+            "They were to cleanse their temples of statues of Marduk",
+            "They were to eat only bitter herbs for three days",
+            "Both man and beast were to be covered with sackcloth"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the king of Nineveh order in the decree after hearing Jonah’s message (Jn 3:7)?",
+        "choice": [
+            "They were to stop oppressing the poor and to seek justice",
+            "They should call on their gods pleading for mercy",
+            "They should urgently call upon God",
+            "They were to eat only bitter herbs for three days"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the king of Nineveh order in the decree that they should give up after hearing Jonah’s message (Jn 3:7)?",
+        "choice": [
+            "Their evil ways and their violence",
+            "They should offer sacrifices to the Lord the God of Israel",
+            "They were to cleanse their temples of statues of Marduk",
+            "They were to eat only bitter herbs for three days"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the king of Nineveh hoping in his decree to his people (Jn 3:9)?",
+        "choice": [
+            "God would see their repentance and spare the city from fire",
+            "God would relent and turn from his fierce anger",
+            "God would send rain to relieve the drought",
+            "God would teach them his ways"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God see after the king of Nineveh’s decree (Jn 3:10)?",
+        "choice": [
+            "Their fasting and humbling themselves before him",
+            "They truly were seeking the Lord",
+            "They freed the slaves and put down their weapons of war",
+            "How they turned from their evil ways"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was God’s response after he saw how Nineveh had turned from their evil ways (Jn 3:10)?",
+        "choice": [
+            "He sent Jonah back to the king to instruct them in the ways of the Lord",
+            "He was astonished and forgave their sin",
+            "He had compassion and did not bring destruction on them",
+            "He stopped the fire that was burning outside the walls"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When Nineveh repented what was Jonah’s response (Jn 4:1)?",
+        "choice": [
+            "He was silent and refused to speak",
+            "He was displeased and angry",
+            "He was delighted they repented",
+            "He was disappointed and went away saddened"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Jonah said he fled to Tarshish because he knew all of the following things about God EXCEPT (Jn 4:2)?",
+        "choice": [
+            "God is gracious",
+            "God is compassionate",
+            "God abounds in love",
+            "God is merciful forgiving sinners",
+            "God relents from sending calamity"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After God spared Nineveh what did Jonah wish for himself (Jn 4:3)?",
+        "choice": [
+            "That the Lord would take away his life",
+            "That the Lord would allow him to return to Israel",
+            "That he might return to the temple at Jerusalem",
+            "That he might see the devastation in Samaria by the Assyrians"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God ask Jonah after he expressed his displeasure at Nineveh being spared (Jn 4:4)?",
+        "choice": [
+            "Why are you so down cast?",
+            "Have you any right to be angry?",
+            "Why don’t you return to Israel?",
+            "Are there not many righteous in Nineveh?"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did Jonah go after expressing his displeasure about the sparing of Nineveh (Jn 4:5)?",
+        "choice": [
+            "North of the city",
+            "South of the city",
+            "East of the city",
+            "West of the city"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Jonah make for himself (Jn 4:5)?",
+        "choice": [
+            "A place to sit rest and wait and see what would happen",
+            "An altar to offer up sacrifices to the Lord",
+            "A cup so he could drink while he waited",
+            "Made a shelter to sit and wait in its shade"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God make to ease Jonah’s discomfort as he waited to see what would happen to Nineveh (Jn 4:6)?",
+        "choice": [
+            "A tree",
+            "A storm cloud",
+            "A vine",
+            "A branch"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did God make a vine grow up over Jonah (Jn 4:6)?",
+        "choice": [
+            "To hide Jonah from the Ninevites",
+            "To give shade for his head",
+            "To provide him with food and drink",
+            "To block his view of the city"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Jonah happy about (Jn 4:6)?",
+        "choice": [
+            "The vine God had made for him",
+            "The fire on the walls of Nineveh",
+            "The rain that refreshed him",
+            "That Nineveh listened to him and repented"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After the vine grew up what did God make next (Jn 4:7)?",
+        "choice": [
+            "A bird that lodged in the vine",
+            "A worm which chewed the vine so it withered",
+            "A swarm of locusts which came and ate the vine",
+            "A snake which came and went up into the vine"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Besides the blazing sun what did God send so that Jonah grew faint (Jn 4:8)?",
+        "choice": [
+            "A strong south wind",
+            "A dust storm",
+            "A scorching east wind",
+            "A messenger from Nineveh"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Jonah’s response to the scorching east wind (Jn 4:8)?",
+        "choice": [
+            "He built a shelter to protect himself from it",
+            "He poured water on his head",
+            "He complained to the Lord",
+            "He wished he could die"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What after the vine died what did God ask Jonah (Jn 4:9)?",
+        "choice": [
+            "Do you have a right to be angry about the vine?",
+            "What do you want to replace the vine with?",
+            "How long before you understand?",
+            "Why don’t you return to Israel?"
+        ],
+        "answer": "A",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Lord noted what had Jonah showed concern for (Jn 4:10)?",
+        "choice": [
+            "The people of Israel over those of Assyria",
+            "The vine which grew up overnight and died overnight",
+            "The fatherless and widows in Nineveh",
+            "The worm that ate the vine"
+        ],
+        "answer": "B",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God identified what feature in 120,000 people in Nineveh that deserved his concern (Jn 4:11)?",
+        "choice": [
+            "Those who were seeking the Lord",
+            "Those who turned from their sins and were wearing sackcloth",
+            "Those who could not tell their right from their left",
+            "The fatherless and widows who resided in Nineveh"
+        ],
+        "answer": "C",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God also point out beyond those who could not tell their right from their left in the city of Nineveh as why he had compassion on the city (Jn 4:11)?",
+        "choice": [
+            "The fatherless and widows who resided in Nineveh",
+            "Many who worshipped the Lord there",
+            "The blind there",
+            "Many cattle there"
+        ],
+        "answer": "D",
+        "category": "Jonah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/32_Jonah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    }
+]

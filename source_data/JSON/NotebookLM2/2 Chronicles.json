@@ -1,0 +1,2914 @@
+[
+    {
+        "question": "What did Solomon request from God, which pleased Him greatly (2 Chronicles 1:11)?",
+        "choice": [
+            "Long life and riches",
+            "Wisdom and knowledge to judge his people",
+            "Victory over his enemies",
+            "Honor and fame"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where did Solomon offer one thousand burnt offerings (2 Chronicles 1:6)?",
+        "choice": [
+            "At the bronze altar before Yahweh",
+            "In the temple of Jerusalem",
+            "At the high place of Gibeon",
+            "On the mountain of the Lord"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Solomon gather, including 1,400 of one item and 12,000 of another (2 Chronicles 1:14)?",
+        "choice": [
+            "Gold and silver",
+            "Horses and chariots",
+            "Chariots and horsemen",
+            "Servants and laborers"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Solomon make as common as stones in Jerusalem (2 Chronicles 1:15)?",
+        "choice": [
+            "Precious stones",
+            "Silver and gold",
+            "Cedar trees",
+            "Bronze and iron"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Solomon send to Huram, the king of Tyre (2 Chronicles 2:3)?",
+        "choice": [
+            "A request for cedar trees and skilled workers",
+            "A message of peace",
+            "A payment of silver and gold",
+            "A declaration of war"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the purpose of the house that Solomon intended to build for Yahweh (2 Chronicles 2:4)?",
+        "choice": [
+            "To be a palace for the king",
+            "To be a fortress for the people",
+            "To dedicate it to him, burn incense, and offer sacrifices",
+            "To store the treasures of the land"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What materials did Huram send to Solomon from Lebanon (2 Chronicles 2:8)?",
+        "choice": [
+            "Gold, silver, and bronze",
+            "Cedar trees, cypress trees, and algum trees",
+            "Spices, precious stones, and oil",
+            "Wheat, barley, and wine"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How much wheat, barley, wine, and oil did Solomon give to Huram's servants, who cut timber (2 Chronicles 2:10)?",
+        "choice": [
+            "Ten thousand cors, baths",
+            "Twenty thousand cors, baths",
+            "Thirty thousand cors, baths",
+            "Forty thousand cors, baths"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who was Huram-abi, the skilled man sent by Huram to Solomon (2 Chronicles 2:13-14)?",
+        "choice": [
+            "A priest of Tyre",
+            "A captain of the army",
+            "The son of a woman of the daughters of Dan, with a father from Tyre",
+            "A merchant from Egypt"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the length and width of the most holy place in the temple, in cubits (2 Chronicles 3:8)?",
+        "choice": [
+            "Forty cubits long and forty cubits wide",
+            "Thirty cubits long and thirty cubits wide",
+            "Twenty cubits long and twenty cubits wide",
+            "Ten cubits long and ten cubits wide"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was used to overlay the most holy place (2 Chronicles 3:8)?",
+        "choice": [
+            "Bronze",
+            "Silver",
+            "Fine gold",
+            "Cedarwood"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the weight of the gold used to overlay the most holy place, in talents (2 Chronicles 3:8)?",
+        "choice": [
+            "Five hundred talents",
+            "Six hundred talents",
+            "Seven hundred talents",
+            "Eight hundred talents"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the size of the bronze altar that Solomon made, in cubits (2 Chronicles 4:1)?",
+        "choice": [
+            "Ten cubits long, ten cubits wide, and five cubits high",
+            "Twenty cubits long, twenty cubits wide, and ten cubits high",
+            "Thirty cubits long, thirty cubits wide, and fifteen cubits high",
+            "Forty cubits long, forty cubits wide, and twenty cubits high"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the molten sea supported by, which was made by Solomon (2 Chronicles 4:4)?",
+        "choice": [
+            "Twelve pillars",
+            "Twelve oxen",
+            "Four lions",
+            "Four cherubim"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the capacity of the molten sea, in baths (2 Chronicles 4:5)?",
+        "choice": [
+            "Two thousand baths",
+            "Three thousand baths",
+            "Four thousand baths",
+            "Five thousand baths"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What items did Huram make for King Solomon, including pots, shovels, and basins (2 Chronicles 4:11)?",
+        "choice": [
+            "Musical instruments",
+            "The vessels for the temple",
+            "Chariots and weapons",
+            "Clothing for the priests"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was placed inside the ark of the covenant (2 Chronicles 5:10)?",
+        "choice": [
+            "A golden pot of manna",
+            "The two tablets which Moses put there",
+            "Aaron's rod that budded",
+            "The book of the law"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What filled the house of the Lord, when the priests brought in the ark of the covenant (2 Chronicles 5:13-14)?",
+        "choice": [
+            "Fire",
+            "A bright light",
+            "A cloud",
+            "The sound of trumpets"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why did the priests could not stand to minister after the cloud filled the house of the Lord (2 Chronicles 5:14)?",
+        "choice": [
+            "Because they were afraid",
+            "Because Yahweh’s glory filled the house",
+            "Because they were not properly dressed",
+            "Because they were not worthy"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Solomon say about God’s dwelling place (2 Chronicles 6:18)?",
+        "choice": [
+            "It is a humble dwelling",
+            "It is a temporary place",
+            "Heaven and the heaven of heavens cannot contain him",
+            "It is only for priests"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "During Solomon's prayer, what did he ask God to do when people prayed toward the temple (2 Chronicles 6:21)?",
+        "choice": [
+            "To ignore their prayers",
+            "To hear them from heaven and forgive",
+            "To punish them for their sins",
+            "To send fire from heaven"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Solomon say about how God knows the hearts of men (2 Chronicles 6:30)?",
+        "choice": [
+            "He knows the hearts of all people through prophets",
+            "He knows the hearts of the righteous",
+            "He only knows the hearts of the children of Israel",
+            "Only God knows the hearts of the children of men"
+        ],
+        "answer": "D",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened after Solomon finished praying, and the fire came down from heaven (2 Chronicles 7:1)?",
+        "choice": [
+            "The earth shook",
+            "The people fainted",
+            "Yahweh’s glory filled the house",
+            "Angels appeared"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the people do when they saw the fire and Yahweh's glory (2 Chronicles 7:3)?",
+        "choice": [
+            "They ran away in fear",
+            "They bowed down, worshiped, and gave thanks",
+            "They began to sing and dance",
+            "They offered more sacrifices"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Solomon offer as a sacrifice at the dedication of God's house (2 Chronicles 7:5)?",
+        "choice": [
+            "Twenty-two thousand sheep and one hundred twenty thousand cattle",
+            "Twenty-two thousand head of cattle and one hundred twenty thousand sheep",
+            "Twenty-two thousand lambs and one hundred twenty thousand goats",
+            "Twenty-two thousand goats and one hundred twenty thousand lambs"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did God say He would do if His people humbled themselves, prayed, and turned from their wicked ways (2 Chronicles 7:14)?",
+        "choice": [
+            "Send a great plague",
+            "Hear from heaven, forgive their sin, and heal their land",
+            "Destroy the temple",
+            "Bring them into captivity"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "After how many years did Solomon complete the building of Yahweh's house and his own house (2 Chronicles 8:1)?",
+        "choice": [
+            "Ten years",
+            "Fifteen years",
+            "Twenty years",
+            "Twenty-five years"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Solomon do with the foreigners who were in the land of Israel (2 Chronicles 8:7-8)?",
+        "choice": [
+            "He made them priests",
+            "He gave them positions of power",
+            "He conscripted them for forced labor",
+            "He sent them back to their lands"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where did the ships of Solomon and Huram go to bring back gold (2 Chronicles 8:18)?",
+        "choice": [
+            "To Egypt",
+            "To Tarshish",
+            "To Ophir",
+            "To Sheba"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the Queen of Sheba come to test Solomon with (2 Chronicles 9:1)?",
+        "choice": [
+            "With a large army",
+            "With a very great caravan, including spices, gold, and precious stones",
+            "With a fleet of ships",
+            "With a group of wise men"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the Queen of Sheba's reaction after seeing Solomon's wisdom and the house he had built (2 Chronicles 9:4)?",
+        "choice": [
+            "She was angry",
+            "She was breathless",
+            "She was joyful",
+            "She was indifferent"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the weight of gold that came to Solomon in one year (2 Chronicles 9:13)?",
+        "choice": [
+            "Five hundred sixty-six talents",
+            "Six hundred sixty-six talents",
+            "Seven hundred sixty-six talents",
+            "Eight hundred sixty-six talents"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What materials were brought by the ships of Tarshish every three years (2 Chronicles 9:21)?",
+        "choice": [
+            "Gold, silver, and bronze",
+            "Gold, silver, ivory, apes, and peacocks",
+            "Spices, precious stones, and oil",
+            "Wheat, barley, and wine"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How many stalls for horses and chariots did Solomon have (2 Chronicles 9:25)?",
+        "choice": [
+            "Two thousand",
+            "Three thousand",
+            "Four thousand",
+            "Five thousand"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the people ask Rehoboam to do regarding the heavy yoke of his father Solomon (2 Chronicles 10:4)?",
+        "choice": [
+            "To increase it",
+            "To make it lighter",
+            "To keep it the same",
+            "To abolish it"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was Rehoboam's response to the people's request (2 Chronicles 10:11)?",
+        "choice": [
+            "To make the yoke lighter",
+            "To add to their yoke and chastise them with scorpions",
+            "To ignore their request",
+            "To give them gold and silver"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the result of Rehoboam's harsh answer to the people (2 Chronicles 10:19)?",
+        "choice": [
+            "Israel rebelled against David's house",
+            "The people praised him",
+            "The kingdom grew stronger",
+            "The people left for Egypt"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How many chosen men did Rehoboam assemble to fight against Israel (2 Chronicles 11:1)?",
+        "choice": [
+            "One hundred thousand",
+            "One hundred fifty thousand",
+            "One hundred eighty thousand",
+            "Two hundred thousand"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the prophet Shemaiah tell Rehoboam and the people of Judah and Benjamin (2 Chronicles 11:4)?",
+        "choice": [
+            "To fight against their brothers, Israel",
+            "To return to their houses, because this thing was of God",
+            "To seek peace with Israel",
+            "To flee to Egypt"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Rehoboam do when his kingdom was established and he was strong (2 Chronicles 12:1)?",
+        "choice": [
+            "He followed Yahweh's law",
+            "He built more cities",
+            "He abandoned Yahweh’s law",
+            "He made peace with Israel"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who came up against Jerusalem in the fifth year of King Rehoboam (2 Chronicles 12:2)?",
+        "choice": [
+            "Nebuchadnezzar king of Babylon",
+            "Shishak king of Egypt",
+            "The king of Assyria",
+            "The king of Persia"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Shishak king of Egypt take away from Jerusalem (2 Chronicles 12:9)?",
+        "choice": [
+            "The bronze altar",
+            "The treasures of Yahweh’s house and the king's house, and the shields of gold",
+            "The ark of the covenant",
+            "The lampstands"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did King Rehoboam make to replace the shields of gold that Shishak had taken (2 Chronicles 12:10)?",
+        "choice": [
+            "Shields of silver",
+            "Shields of bronze",
+            "Shields of iron",
+            "Shields of wood"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who did Abijah say had rebelled against their lord, and gathered worthless men (2 Chronicles 13:6-7)?",
+        "choice": [
+            "Rehoboam the son of Solomon",
+            "Jeroboam the son of Nebat",
+            "Asa the son of Abijah",
+            "Baasha the king of Israel"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Abijah say was the duty of the priests in Judah (2 Chronicles 13:10-11)?",
+        "choice": [
+            "To offer sacrifices and burn incense daily",
+            "To judge the people",
+            "To collect taxes",
+            "To lead the army"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did God strike Jeroboam and all Israel before Abijah and Judah (2 Chronicles 13:15)?",
+        "choice": [
+            "With fire from heaven",
+            "With a great flood",
+            "By causing them to flee before Judah",
+            "By sending an angel"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Asa do that was good and right in Yahweh's eyes (2 Chronicles 14:2-3)?",
+        "choice": [
+            "He built many cities",
+            "He took away the foreign altars and high places",
+            "He made a treaty with other nations",
+            "He made silver common in Jerusalem"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "When Asa cried to Yahweh, what did he say about who can help between the mighty and the weak (2 Chronicles 14:11)?",
+        "choice": [
+            "That only the king can help",
+            "That there is no one besides Yahweh to help",
+            "That the prophets can help",
+            "That the people must help themselves"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Asa do when Zerah the Ethiopian came against him with a large army (2 Chronicles 14:11)?",
+        "choice": [
+            "He made a treaty with Zerah",
+            "He fled to another city",
+            "He cried to Yahweh for help",
+            "He gathered more troops"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened to the Ethiopians when Yahweh struck them (2 Chronicles 14:12)?",
+        "choice": [
+            "They were captured by Judah",
+            "They joined with Judah",
+            "They fled and were destroyed before Yahweh and his army",
+            "They were forced to pay a tribute"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the prophet Azariah say to Asa about the importance of seeking God (2 Chronicles 15:2)?",
+        "choice": [
+            "If you forsake Him, He will forsake you",
+            "God will always forgive",
+            "It is better to seek help from other nations",
+            "God doesn't care about them"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Asa do when he heard the prophecy of Oded (2 Chronicles 15:8)?",
+        "choice": [
+            "He built more cities",
+            "He became angry and didn't change",
+            "He took courage and put away the abominations",
+            "He sought help from other nations"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Asa do with Maacah, his mother, because she made an abominable image (2 Chronicles 15:16)?",
+        "choice": [
+            "He made her queen of another land",
+            "He removed her from being queen mother, cut down her image, and burned it",
+            "He took away her riches",
+            "He forgave her and let her remain queen"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Asa do when Baasha king of Israel went up against Judah (2 Chronicles 16:2)?",
+        "choice": [
+            "He prayed for God's help",
+            "He took silver and gold from the treasures and sent to the king of Syria for help",
+            "He prepared for war against Israel",
+            "He fled to another city"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the seer Hanani say to Asa because he relied on the king of Syria (2 Chronicles 16:7)?",
+        "choice": [
+            "He would have peace",
+            "The army of Syria would escape out of his hand, and he would have wars",
+            "He would be blessed",
+            "He would gain riches"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did Asa react to Hanani's prophecy (2 Chronicles 16:10)?",
+        "choice": [
+            "He repented and sought God",
+            "He was angry and put him in prison",
+            "He was indifferent to the prophecy",
+            "He laughed at him"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why was Yahweh with Jehoshaphat (2 Chronicles 17:3)?",
+        "choice": [
+            "Because he was a strong warrior",
+            "Because he walked in the first ways of David and sought God",
+            "Because he built many cities",
+            "Because he was wealthy and honored"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoshaphat send his princes, Levites, and priests to do in the cities of Judah (2 Chronicles 17:7-9)?",
+        "choice": [
+            "To collect taxes",
+            "To teach the book of Yahweh’s law",
+            "To build fortresses",
+            "To gather troops"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the fear of Yahweh cause other kingdoms to do concerning Jehoshaphat (2 Chronicles 17:10)?",
+        "choice": [
+            "They made war against him",
+            "They made no war against him",
+            "They joined his army",
+            "They made a treaty with him"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did Jehoshaphat respond to Ahab's request to join him in battle against Ramoth Gilead (2 Chronicles 18:3)?",
+        "choice": [
+            "He refused to go",
+            "He agreed to go, but asked to first inquire of Yahweh",
+            "He demanded gold and silver first",
+            "He told Ahab to fight the battle himself"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoshaphat ask the king of Israel after the prophets said to go up to battle (2 Chronicles 18:6)?",
+        "choice": [
+            "To gather more troops",
+            "If there was another prophet of Yahweh to inquire from",
+            "To give him gold before battle",
+            "To stop the war"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Micaiah say when the king asked if they should go to battle (2 Chronicles 18:14)?",
+        "choice": [
+            "To not go",
+            "To go up and prosper, and they would be delivered into the king's hand",
+            "To seek a treaty with Ramoth Gilead",
+            "To flee because God was not with them"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the king of Israel say about Micaiah's prophecies (2 Chronicles 18:17)?",
+        "choice": [
+            "That he always prophesies good things",
+            "That he never prophesies good things, but always evil",
+            "That he is a true prophet of God",
+            "That he is just a man"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Micaiah say that he saw regarding Yahweh and the army of heaven (2 Chronicles 18:18-21)?",
+        "choice": [
+            "Yahweh sitting on his throne and the army of heaven standing beside him, and a spirit offering to entice Ahab",
+            "Yahweh was not with the army of Israel",
+            "Yahweh was angry and would destroy them",
+            "Yahweh would forgive their sins"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened to the king of Israel in the battle at Ramoth Gilead (2 Chronicles 18:33-34)?",
+        "choice": [
+            "He conquered Ramoth Gilead",
+            "He was killed",
+            "He was taken captive",
+            "He made peace with Ramoth Gilead"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehu the seer say to Jehoshaphat upon his return to Jerusalem (2 Chronicles 19:2)?",
+        "choice": [
+            "That he had done well to help the king of Israel",
+            "That he should not help the wicked and love those who hate God, and that God's wrath was on him",
+            "That he was blessed by God for helping Israel",
+            "That he should seek help from other nations"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoshaphat set in place in the fortified cities of Judah (2 Chronicles 19:5)?",
+        "choice": [
+            "An army of soldiers",
+            "Judges",
+            "Levitical priests",
+            "Tribute collectors"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoshaphat say to the judges he appointed in the land (2 Chronicles 19:6)?",
+        "choice": [
+            "To judge with partiality and for personal gain",
+            "To judge for man, not for Yahweh",
+            "To consider what they do, for they judge for Yahweh and not for man",
+            "To take bribes if they are offered"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoshaphat appoint in Jerusalem to give judgment for Yahweh (2 Chronicles 19:8)?",
+        "choice": [
+            "Only priests",
+            "Certain Levites, priests, and heads of the father's households",
+            "Only the heads of the father's households",
+            "Only the Levites"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoshaphat command the Levites, priests, and heads of the father's households to do when controversies arose in the cities of Judah (2 Chronicles 19:10)?",
+        "choice": [
+            "To ignore the controversies",
+            "To warn the people so they do not become guilty toward Yahweh",
+            "To punish the people harshly",
+            "To not get involved"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the children of Moab, Ammon, and some of the Ammonites do after this (2 Chronicles 20:1)?",
+        "choice": [
+            "They sought peace with Judah",
+            "They came against Jehoshaphat to battle",
+            "They gave gifts to Jehoshaphat",
+            "They asked for help from Jehoshaphat"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did Jehoshaphat respond to the news that a great multitude was coming against him (2 Chronicles 20:3)?",
+        "choice": [
+            "He prepared for battle",
+            "He was alarmed and set himself to seek Yahweh and proclaim a fast",
+            "He fled to another city",
+            "He made a treaty"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoshaphat say in his prayer about the house built for Yahweh (2 Chronicles 20:9)?",
+        "choice": [
+            "That they would destroy it",
+            "That if evil came upon them they would stand before the house and cry to Yahweh",
+            "That they would abandon it if they lost",
+            "That they would seek help from other nations"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jahaziel the Levite say when the Spirit of Yahweh came on him in the assembly (2 Chronicles 20:15)?",
+        "choice": [
+            "To seek a treaty",
+            "That the battle was not theirs, but God's",
+            "To gather more troops",
+            "To flee from the battle"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jahaziel tell Jehoshaphat and the people they would not need to do in the upcoming battle (2 Chronicles 20:17)?",
+        "choice": [
+            "They would not need to fight, but just stand still and see the salvation of Yahweh",
+            "They would need to negotiate peace",
+            "They would need to prepare for war",
+            "They would need to hide from the enemy"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoshaphat appoint to go before the army as they went out to battle (2 Chronicles 20:21)?",
+        "choice": [
+            "Soldiers with weapons",
+            "Those who were to sing to Yahweh and give praise",
+            "Priests with trumpets",
+            "Levites with the Ark of the Covenant"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened when they began to sing and praise Yahweh (2 Chronicles 20:22-23)?",
+        "choice": [
+            "They defeated the army",
+            "Yahweh set ambushers against the children of Ammon, Moab, and Mount Seir and they were struck down",
+            "The battle did not happen",
+            "They lost the battle"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoshaphat and his people find when they came to take their plunder (2 Chronicles 20:24-25)?",
+        "choice": [
+            "No bodies were there",
+            "They found many dead bodies and much riches",
+            "The enemy was still alive",
+            "They did not find any treasure"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did they do on the fourth day after the battle (2 Chronicles 20:26)?",
+        "choice": [
+            "They returned home",
+            "They assembled in the Beracah Valley and blessed Yahweh",
+            "They gathered more plunder",
+            "They prepared for another battle"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the result of Yahweh fighting against the enemies of Israel (2 Chronicles 20:29-30)?",
+        "choice": [
+            "The kingdoms of the lands praised Israel",
+            "The fear of God was on all the kingdoms, and Jehoshaphat's realm was quiet",
+            "The kingdoms formed a treaty with Israel",
+            "The kingdoms declared war"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoshaphat do that was considered wicked after this (2 Chronicles 20:35)?",
+        "choice": [
+            "He started a new war",
+            "He joined himself with Ahaziah king of Israel",
+            "He began to worship other gods",
+            "He left the kingdom"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened to the ships that Jehoshaphat and Ahaziah made to go to Tarshish (2 Chronicles 20:37)?",
+        "choice": [
+            "They were successful in trading",
+            "They were wrecked",
+            "They were captured by the enemy",
+            "They were never built"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoram do when he rose up over the kingdom of his father (2 Chronicles 21:4)?",
+        "choice": [
+            "He sought Yahweh",
+            "He killed all his brothers and some of the princes of Israel",
+            "He gave his brothers great riches",
+            "He made a treaty with other nations"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoram do that was considered evil in the sight of Yahweh (2 Chronicles 21:6)?",
+        "choice": [
+            "He built high places",
+            "He walked in the ways of the kings of Israel and had Ahab's daughter as his wife",
+            "He conquered other nations",
+            "He stopped going to Yahweh's temple"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the prophet Elijah say was going to happen to Jehoram because he had walked in the ways of the kings of Israel (2 Chronicles 21:12-15)?",
+        "choice": [
+            "He would prosper",
+            "Yahweh would strike his people with a great plague and he would have great sickness in his bowels",
+            "He would have great riches",
+            "He would be blessed with many sons"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened to Jehoram when Yahweh stirred up the spirit of the Philistines and Arabians against him (2 Chronicles 21:16-17)?",
+        "choice": [
+            "He made peace with them",
+            "They broke into Judah, carried away all the possessions in the king’s house, and his sons and wives, except his youngest",
+            "They were defeated by him",
+            "They made a treaty with him"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the purpose of the third part of the priests and Levites who were to be gatekeepers of the thresholds (2 Chronicles 23:4)?",
+        "choice": [
+            "To collect money",
+            "To guard the entrance to Yahweh’s house",
+            "To teach the people",
+            "To sing praises"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where was the third part of the priests and Levites to be stationed (2 Chronicles 23:5)?",
+        "choice": [
+            "At the city gates",
+            "At the king’s house",
+            "At the high places",
+            "In the fields"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to the text, what was the role of the Levites regarding the king (2 Chronicles 23:7)?",
+        "choice": [
+            "They were to protect him with weapons",
+            "They were to serve him food",
+            "They were to be his messengers",
+            "They were to collect taxes for him"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoiada the priest give to the captains of hundreds (2 Chronicles 23:9)?",
+        "choice": [
+            "Money and gold",
+            "Spears, bucklers, and shields that had belonged to King David",
+            "New clothes",
+            "Horses and chariots"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where were the people stationed around the king (2 Chronicles 23:10)?",
+        "choice": [
+            "From the right side of the house to the left side of the house, near the altar and the house",
+            "In the courtyard",
+            "At the gate of the city",
+            "On the city walls"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was placed on the king's son when they brought him out (2 Chronicles 23:11)?",
+        "choice": [
+            "Armor",
+            "The crown and the covenant",
+            "A golden chain",
+            "A special robe"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoiada do when he heard Athaliah's cry (2 Chronicles 23:14)?",
+        "choice": [
+            "He brought out the captains of hundreds and ordered her to be killed",
+            "He hid from her",
+            "He made peace with her",
+            "He fled the temple"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where was Athaliah killed (2 Chronicles 23:15)?",
+        "choice": [
+            "In Yahweh's house",
+            "At the entrance of the horse gate to the king's house",
+            "In the city streets",
+            "In a prison"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoiada make a covenant between (2 Chronicles 23:16)?",
+        "choice": [
+            "Between the king and his nobles",
+            "Between himself, all the people, and the king, that they should be Yahweh’s people",
+            "Between the priests and the Levites",
+            "Between Judah and Israel"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did all the people do to the house of Baal (2 Chronicles 23:17)?",
+        "choice": [
+            "They offered sacrifices",
+            "They broke it down, destroyed its altars and images, and killed its priest",
+            "They turned it into a hospital",
+            "They made it a place to store grain"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who did Jehoiada appoint as officers of Yahweh's house (2 Chronicles 23:18)?",
+        "choice": [
+            "The king's servants",
+            "The Levitical priests",
+            "The heads of the fathers' houses",
+            "The gatekeepers"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jehoiada set at the gates of Yahweh's house (2 Chronicles 23:19)?",
+        "choice": [
+            "Guards with swords",
+            "Gatekeepers to prevent anyone unclean from entering",
+            "A sign telling people to be quiet",
+            "A donation box"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who did Jehoiada bring down from Yahweh's house and place on the throne (2 Chronicles 23:20-21)?",
+        "choice": [
+            "The Queen",
+            "The king",
+            "The high priest",
+            "The captains of hundreds"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How old was Joash when he began to reign (2 Chronicles 24:1)?",
+        "choice": [
+            "Twenty-five",
+            "Seven",
+            "Thirty",
+            "Fifty"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did Joash do in the eyes of Yahweh during the time of Jehoiada (2 Chronicles 24:2)?",
+        "choice": [
+            "He did evil",
+            "He did right",
+            "He did some good and some evil",
+            "He abandoned Yahweh"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Joash intend to restore after this (2 Chronicles 24:4)?",
+        "choice": [
+            "The cities of Judah",
+            "Yahweh’s house",
+            "The high places",
+            "The wealth of the kingdom"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Joash ask the priests and Levites to do in order to restore Yahweh's house (2 Chronicles 24:5)?",
+        "choice": [
+            "To ask for donations from the people",
+            "To gather money from all Israel from year to year",
+            "To use the treasures of the king",
+            "To melt down the gold and silver"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was done with the chest that was set outside the gate of Yahweh's house (2 Chronicles 24:10)?",
+        "choice": [
+            "People brought in money until it was full",
+            "People brought in their gold and silver",
+            "It was used for sacrifices",
+            "It was never used"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was made from the rest of the money that was brought before the king and Jehoiada after the repairs were completed (2 Chronicles 24:14)?",
+        "choice": [
+            "Vessels for Yahweh’s house",
+            "A new palace for the king",
+            "New clothing for the priests",
+            "More weapons of war"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where was Jehoiada buried, and why was this significant (2 Chronicles 24:16)?",
+        "choice": [
+            "In the field of his fathers, because he was a common man",
+            "In a hidden tomb, because he was disgraced",
+            "In David’s city among the kings, because he had done good in Israel and toward God",
+            "Outside the city walls, because he was unclean"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the princes of Judah do after the death of Jehoiada (2 Chronicles 24:17)?",
+        "choice": [
+            "They continued to serve Yahweh faithfully",
+            "They mourned for a long time, and did nothing",
+            "They came and bowed down to the king, and the king listened to them",
+            "They left the kingdom, because they no longer had a leader"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the people of Judah abandon after the death of Jehoiada (2 Chronicles 24:18)?",
+        "choice": [
+            "The king",
+            "The Levites",
+            "The house of Yahweh, and they served Asherah poles and idols",
+            "The sacrifices at the altar"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did the Spirit of God come upon Zechariah the son of Jehoiada (2 Chronicles 24:20)?",
+        "choice": [
+            "In a dream",
+            "Through an angel",
+            "He was filled with the spirit, and stood above the people",
+            "In a secret ritual"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Zechariah say to the people of Judah, and why (2 Chronicles 24:20)?",
+        "choice": [
+            "To ask for donations",
+            "To rejoice for the good things they have",
+            "That God said they were disobeying Yahweh’s commandments and would not prosper because they forsook him",
+            "That the king should be obeyed and everyone would be safe."
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did the people respond to Zechariah's message (2 Chronicles 24:21)?",
+        "choice": [
+            "They repented and turned back to God.",
+            "They listened carefully to the message and then took action to obey",
+            "They conspired against him and stoned him to death.",
+            "They ignored him and continued in their sin"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the immediate consequence of Joash killing Zechariah (2 Chronicles 24:22)?",
+        "choice": [
+            "The kingdom prospered",
+            "The people praised the king",
+            "Zechariah said, 'May Yahweh look at it, and repay it.'",
+            "He was immediately killed by an angel"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How old was Amaziah when he began to reign, and how long did he reign in Jerusalem (2 Chronicles 25:1)?",
+        "choice": [
+            "Twenty, and he reigned for ten years",
+            "Thirty, and he reigned for fifty years",
+            "Twenty-five, and he reigned for twenty-nine years",
+            "Fifty, and he reigned for 2 years"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How was Amaziah's heart toward Yahweh (2 Chronicles 25:2)?",
+        "choice": [
+            "It was completely devoted to Yahweh",
+            "It was evil from the start",
+            "He did what was right in Yahweh’s eyes, but not with a perfect heart",
+            "He actively sought out evil at all times."
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who did Amaziah kill after the kingdom was established to him (2 Chronicles 25:3)?",
+        "choice": [
+            "The priests of Baal",
+            "The king's enemies",
+            "His servants who had killed his father",
+            "All the Levites"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Amaziah do in regards to the children of those who had killed his father (2 Chronicles 25:4)?",
+        "choice": [
+            "He killed them all",
+            "He adopted them",
+            "He did not put them to death, because of the law",
+            "He gave them to the poor"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How many men did Amaziah find who were able to go out to war from Judah and Benjamin (2 Chronicles 25:5)?",
+        "choice": [
+            "One million",
+            "Three hundred thousand",
+            "Five hundred thousand",
+            "One hundred thousand"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Amaziah do in addition to gathering the men of Judah and Benjamin (2 Chronicles 25:6)?",
+        "choice": [
+            "He made a covenant with the Philistines",
+            "He hired mighty men of valor out of Israel",
+            "He sent for help from Egypt",
+            "He gave all his gold to the poor"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the man of God tell Amaziah about the army of Israel (2 Chronicles 25:7)?",
+        "choice": [
+            "They will bring him great victory",
+            "That Yahweh was not with them, and that they should not go with him",
+            "That they were a perfect addition to his army",
+            "That they would do great things for the kingdom."
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the result when Amaziah went to the Valley of Salt (2 Chronicles 25:11-12)?",
+        "choice": [
+            "He was defeated",
+            "He struck 10,000 of the children of Seir, and killed 10,000 more",
+            "He made a peace treaty",
+            "He was forced to flee"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Amaziah do after returning from striking down the children of Seir (2 Chronicles 25:14)?",
+        "choice": [
+            "He gave thanks to God",
+            "He turned to the gods of Edom",
+            "He became haughty and arrogant",
+            "He sought the advice of his prophets."
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was Amaziah's reaction to the warning from the prophet regarding the gods of Edom (2 Chronicles 25:16)?",
+        "choice": [
+            "He repented and destroyed all the idols",
+            "He refused to listen, and had the prophet killed",
+            "He sought the advice of other prophets",
+            "He ignored the warning and challenged the king of Israel"
+        ],
+        "answer": "D",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did Joash king of Israel respond to Amaziah's challenge (2 Chronicles 25:18)?",
+        "choice": [
+            "He accepted the challenge without a fight",
+            "He responded with a parable about a thistle and a cedar",
+            "He sent his army to attack Judah",
+            "He offered a peace treaty"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why did Amaziah not listen to Joash’s counsel (2 Chronicles 25:20)?",
+        "choice": [
+            "Because he was arrogant",
+            "Because it was of God, that he might deliver them to their enemies",
+            "Because he hated the king of Israel",
+            "Because he had a dream telling him to not listen"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened when Joash and Amaziah met at Beth Shemesh (2 Chronicles 25:21-24)?",
+        "choice": [
+            "Judah was defeated, and Amaziah was captured",
+            "They made a peace treaty",
+            "Israel was defeated, and Joash was captured",
+            "There was no battle, and they decided to be friends"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the consequence for Amaziah when he turned away from following Yahweh (2 Chronicles 25:27)?",
+        "choice": [
+            "He was greatly blessed and lived in peace",
+            "He became the most powerful king ever",
+            "A conspiracy was made against him, and he was killed",
+            "He was made a priest"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did Uzziah seek God (2 Chronicles 26:5)?",
+        "choice": [
+            "He sought God through his dreams",
+            "He sought God in the days of Zechariah, who had understanding in the vision of God",
+            "He sought God in the high places",
+            "He did not seek God at all"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Uzziah do that was considered corrupt (2 Chronicles 26:16)?",
+        "choice": [
+            "He began sacrificing to other gods",
+            "He went into the temple to burn incense on the altar of incense",
+            "He stopped having sacrifices",
+            "He was kind to his enemies"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the priests do when Uzziah tried to burn incense (2 Chronicles 26:18)?",
+        "choice": [
+            "They applauded his actions",
+            "They resisted him and told him it wasn't his place",
+            "They were frightened and said nothing",
+            "They joined him in burning the incense"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened to Uzziah when he was angry with the priests (2 Chronicles 26:19-21)?",
+        "choice": [
+            "He struck them dead with a curse",
+            "He was filled with joy",
+            "He was immediately killed",
+            "Leprosy broke out on his forehead, and he was thrust out of the temple"
+        ],
+        "answer": "D",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did Uzziah live after he was struck with leprosy (2 Chronicles 26:21)?",
+        "choice": [
+            "He lived in the temple",
+            "He continued to rule the kingdom as a healthy king",
+            "He lived in a separate house, cut off from Yahweh’s house",
+            "He killed himself"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did Jotham reign in the eyes of the Lord (2 Chronicles 27:2)?",
+        "choice": [
+            "He did what was evil in the eyes of Yahweh",
+            "He did what was right in Yahweh’s eyes, but did not enter the temple",
+            "He was a righteous king and rebuilt the temple",
+            "He did whatever his father did"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jotham build in Jerusalem (2 Chronicles 27:3)?",
+        "choice": [
+            "He built a new palace",
+            "He built the upper gate of Yahweh’s house and the wall of Ophel",
+            "He built a new city",
+            "He tore down the temple and rebuilt it bigger"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the children of Ammon give to Jotham (2 Chronicles 27:5)?",
+        "choice": [
+            "Slaves and jewels",
+            "They paid him a tribute of silver, wheat and barley",
+            "They gave him all of their land",
+            "They refused to pay tribute and fought him"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why did Jotham become mighty (2 Chronicles 27:6)?",
+        "choice": [
+            "He had many mighty men with him",
+            "He ordered his ways before Yahweh his God",
+            "He built many fortresses",
+            "He inherited the kingdom from his father"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the result of Ahaz forsaking Yahweh (2 Chronicles 28:5-6)?",
+        "choice": [
+            "He was blessed",
+            "He defeated all of his enemies",
+            "He was defeated by Syria and Israel, and many in Judah were killed",
+            "He was killed by his own people"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the heads of Ephraim do regarding the captives from Judah (2 Chronicles 28:11)?",
+        "choice": [
+            "They kept them as slaves",
+            "They killed them all",
+            "They gave them back to Judah, because they were their brothers",
+            "They sold them to other lands"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Ahaz do with the vessels of God's house (2 Chronicles 28:24)?",
+        "choice": [
+            "He put them into his own house",
+            "He gathered the vessels, cut them in pieces, and shut up the doors of Yahweh's house",
+            "He gave them to the poor",
+            "He used them for sacrifices"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Ahaz do in every city of Judah (2 Chronicles 28:25)?",
+        "choice": [
+            "He built high places to burn incense to other gods",
+            "He made schools for the prophets",
+            "He built hospitals and helped the poor",
+            "He taught people about the one true God"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How was Ahaz buried (2 Chronicles 28:27)?",
+        "choice": [
+            "In the tombs of the kings",
+            "He was buried in the city, but not in the tombs of the kings",
+            "He was thrown in a pit outside the city",
+            "He was never found and not buried at all"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the first thing Hezekiah did when he began to reign (2 Chronicles 29:3)?",
+        "choice": [
+            "He began to fight against other nations",
+            "He opened the doors of Yahweh's house and repaired them",
+            "He began sacrificing to other gods",
+            "He made his sons his generals"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah ask the Levites to do (2 Chronicles 29:5)?",
+        "choice": [
+            "To go to war",
+            "To sing and dance for him",
+            "To sanctify themselves and the house of Yahweh, and to carry the filthiness out of the holy place",
+            "To hide all the treasure"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why was Yahweh's wrath on Judah and Jerusalem (2 Chronicles 29:8)?",
+        "choice": [
+            "Because they worshiped other gods",
+            "Because they had forsaken Yahweh and turned their backs on him",
+            "Because their army was weak",
+            "Because they were kind to their enemies"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the result of the Levites sanctifying the temple (2 Chronicles 29:17-18)?",
+        "choice": [
+            "The priests came and rebuilt it on their own",
+            "They completed it in three days",
+            "They finished in sixteen days and then reported to the king",
+            "They were never able to complete it"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened when Joash and Amaziah met at Beth Shemesh (2 Chronicles 25:21-24)?",
+        "choice": [
+            "Judah was defeated, and Amaziah was captured",
+            "They made a peace treaty",
+            "Israel was defeated, and Joash was captured",
+            "There was no battle, and they decided to be friends"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the consequence for Amaziah when he turned away from following Yahweh (2 Chronicles 25:27)?",
+        "choice": [
+            "He was greatly blessed and lived in peace",
+            "He became the most powerful king ever",
+            "A conspiracy was made against him, and he was killed",
+            "He was made a priest"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did Uzziah seek God (2 Chronicles 26:5)?",
+        "choice": [
+            "He sought God through his dreams",
+            "He sought God in the days of Zechariah, who had understanding in the vision of God",
+            "He sought God in the high places",
+            "He did not seek God at all"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Uzziah do that was considered corrupt (2 Chronicles 26:16)?",
+        "choice": [
+            "He began sacrificing to other gods",
+            "He went into the temple to burn incense on the altar of incense",
+            "He stopped having sacrifices",
+            "He was kind to his enemies"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the priests do when Uzziah tried to burn incense (2 Chronicles 26:18)?",
+        "choice": [
+            "They applauded his actions",
+            "They resisted him and told him it wasn't his place",
+            "They were frightened and said nothing",
+            "They joined him in burning the incense"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened to Uzziah when he was angry with the priests (2 Chronicles 26:19-21)?",
+        "choice": [
+            "He struck them dead with a curse",
+            "He was filled with joy",
+            "He was immediately killed",
+            "Leprosy broke out on his forehead, and he was thrust out of the temple"
+        ],
+        "answer": "D",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did Uzziah live after he was struck with leprosy (2 Chronicles 26:21)?",
+        "choice": [
+            "He lived in the temple",
+            "He continued to rule the kingdom as a healthy king",
+            "He lived in a separate house, cut off from Yahweh’s house",
+            "He killed himself"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How did Jotham reign in the eyes of the Lord (2 Chronicles 27:2)?",
+        "choice": [
+            "He did what was evil in the eyes of Yahweh",
+            "He did what was right in Yahweh’s eyes, but did not enter the temple",
+            "He was a righteous king and rebuilt the temple",
+            "He did whatever his father did"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Jotham build in Jerusalem (2 Chronicles 27:3)?",
+        "choice": [
+            "He built a new palace",
+            "He built the upper gate of Yahweh’s house and the wall of Ophel",
+            "He built a new city",
+            "He tore down the temple and rebuilt it bigger"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the children of Ammon give to Jotham (2 Chronicles 27:5)?",
+        "choice": [
+            "Slaves and jewels",
+            "They paid him a tribute of silver, wheat and barley",
+            "They gave him all of their land",
+            "They refused to pay tribute and fought him"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why did Jotham become mighty (2 Chronicles 27:6)?",
+        "choice": [
+            "He had many mighty men with him",
+            "He ordered his ways before Yahweh his God",
+            "He built many fortresses",
+            "He inherited the kingdom from his father"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the result of Ahaz forsaking Yahweh (2 Chronicles 28:5-6)?",
+        "choice": [
+            "He was blessed",
+            "He defeated all of his enemies",
+            "He was defeated by Syria and Israel, and many in Judah were killed",
+            "He was killed by his own people"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the heads of Ephraim do regarding the captives from Judah (2 Chronicles 28:11)?",
+        "choice": [
+            "They kept them as slaves",
+            "They killed them all",
+            "They gave them back to Judah, because they were their brothers",
+            "They sold them to other lands"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Ahaz do with the vessels of God's house (2 Chronicles 28:24)?",
+        "choice": [
+            "He put them into his own house",
+            "He gathered the vessels, cut them in pieces, and shut up the doors of Yahweh's house",
+            "He gave them to the poor",
+            "He used them for sacrifices"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Ahaz do in every city of Judah (2 Chronicles 28:25)?",
+        "choice": [
+            "He built high places to burn incense to other gods",
+            "He made schools for the prophets",
+            "He built hospitals and helped the poor",
+            "He taught people about the one true God"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How was Ahaz buried (2 Chronicles 28:27)?",
+        "choice": [
+            "In the tombs of the kings",
+            "He was buried in the city, but not in the tombs of the kings",
+            "He was thrown in a pit outside the city",
+            "He was never found and not buried at all"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the first thing Hezekiah did when he began to reign (2 Chronicles 29:3)?",
+        "choice": [
+            "He began to fight against other nations",
+            "He opened the doors of Yahweh's house and repaired them",
+            "He began sacrificing to other gods",
+            "He made his sons his generals"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah ask the Levites to do (2 Chronicles 29:5)?",
+        "choice": [
+            "To go to war",
+            "To sing and dance for him",
+            "To sanctify themselves and the house of Yahweh, and to carry the filthiness out of the holy place",
+            "To hide all the treasure"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why was Yahweh's wrath on Judah and Jerusalem (2 Chronicles 29:8)?",
+        "choice": [
+            "Because they worshiped other gods",
+            "Because they had forsaken Yahweh and turned their backs on him",
+            "Because their army was weak",
+            "Because they were kind to their enemies"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the result of the Levites sanctifying the temple (2 Chronicles 29:17-18)?",
+        "choice": [
+            "The priests came and rebuilt it on their own",
+            "They completed it in three days",
+            "They finished in sixteen days and then reported to the king",
+            "They were never able to complete it"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah command regarding the burnt offerings (2 Chronicles 29:27)?",
+        "choice": [
+            "That the people should offer burnt offerings to other gods",
+            "That they should not offer any more burnt offerings",
+            "That they should begin offering burnt offerings on the altar, and Yahweh's song began, along with the trumpets and instruments",
+            "That the priests should offer burnt offerings only"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah and the princes command the Levites to do after the burnt offering was finished (2 Chronicles 29:30)?",
+        "choice": [
+            "To go home and rest",
+            "To sing praises to Yahweh with the words of David and Asaph",
+            "To make more burnt offerings",
+            "To begin tearing down the temple"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the assembly bring to Yahweh's house after they consecrated themselves (2 Chronicles 29:31-33)?",
+        "choice": [
+            "Only gold and silver",
+            "Nothing, because they were too poor",
+            "Sacrifices and thank offerings, and many brought burnt offerings",
+            "They began to destroy the temple"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why did the Levites help the priests with skinning the burnt offerings (2 Chronicles 29:34)?",
+        "choice": [
+            "Because the priests were too lazy to do it themselves",
+            "Because the priests were too few and had not sanctified themselves as quickly as the Levites",
+            "Because they wanted to be more important than the priests",
+            "Because they were just better at it"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah do to prepare for the Passover (2 Chronicles 30:1-5)?",
+        "choice": [
+            "He sent letters to all of Israel to come to Jerusalem to keep the Passover",
+            "He said they shouldn't keep the Passover",
+            "He built a new temple",
+            "He declared that he was the true Messiah"
+        ],
+        "answer": "A",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why did they keep the Passover in the second month instead of the first (2 Chronicles 30:2-3)?",
+        "choice": [
+            "They just felt like it",
+            "Because the priests had not sanctified themselves in sufficient number and the people had not gathered in Jerusalem",
+            "Because the weather was better in the second month",
+            "They were trying to start their own religion"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the couriers say to the children of Israel as they delivered the letters (2 Chronicles 30:6-9)?",
+        "choice": [
+            "They said that they should worship other gods",
+            "They said that they should turn again to Yahweh, that he may return to them, and not be stiff-necked like their fathers",
+            "They said that the Passover was a lie",
+            "They told them to move to another land"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah pray for regarding those who had not cleansed themselves before eating the Passover (2 Chronicles 30:18-19)?",
+        "choice": [
+            "That Yahweh would punish them",
+            "That Yahweh would pardon them if they set their heart to seek God, even if they weren't clean according to the purification of the sanctuary",
+            "That they would be cast out of Israel",
+            "That they would be exiled forever"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the reaction of the children of Israel to the Passover (2 Chronicles 30:21-22)?",
+        "choice": [
+            "They were angry and didn't want to celebrate it",
+            "They kept the feast of unleavened bread seven days with great gladness, and the Levites and priests praised Yahweh daily",
+            "They refused to celebrate and went home",
+            "They celebrated for three days"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the significance of the Passover that Hezekiah held (2 Chronicles 30:26)?",
+        "choice": [
+            "It was the biggest Passover ever held in Israel",
+            "Since the time of Solomon, there was nothing like this Passover",
+            "It was exactly like the first Passover",
+            "It was done very badly"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the Levites do after the Passover (2 Chronicles 30:27)?",
+        "choice": [
+            "They went home",
+            "They blessed the people, and their prayer came up to his holy habitation",
+            "They started fighting with the priests",
+            "They sacrificed to false gods"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the people do after the Passover (2 Chronicles 31:1)?",
+        "choice": [
+            "They went back to their homes, just like before",
+            "They went out to the cities of Judah, broke the pillars, cut down the Asherah poles, and broke down the high places and altars",
+            "They all converted to the ways of other nations",
+            "They had a party and feasted for three days"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah appoint in the service of Yahweh (2 Chronicles 31:2-4)?",
+        "choice": [
+            "New priests",
+            "The divisions of the priests and Levites, and commanded the people to give the portion of the priests and Levites",
+            "New altars and high places",
+            "New gods to worship"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the children of Israel give in abundance (2 Chronicles 31:5-7)?",
+        "choice": [
+            "Only money",
+            "First fruits of grain, new wine, oil, honey, and the tithe of all things, and dedicated things",
+            "Nothing, because they did not believe",
+            "They gave each other presents"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "When did the people begin to lay the foundation of the heaps (2 Chronicles 31:7)?",
+        "choice": [
+            "In the first month",
+            "In the third month, and they finished in the seventh month",
+            "In the twelfth month",
+            "They did not build heaps"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah and the princes do when they saw the heaps (2 Chronicles 31:8)?",
+        "choice": [
+            "They destroyed them",
+            "They were angry and yelled at the people",
+            "They took all of it for themselves",
+            "They blessed Yahweh and his people Israel"
+        ],
+        "answer": "D",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Azariah the chief priest say to Hezekiah regarding the offerings (2 Chronicles 31:10)?",
+        "choice": [
+            "They were not enough and the people needed to give more",
+            "That they had eaten enough and had plenty left over, for Yahweh had blessed his people",
+            "That the food was bad and they couldn't eat it",
+            "That the people should give to other gods"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah command them to do in Yahweh’s house (2 Chronicles 31:11-12)?",
+        "choice": [
+            "He commanded them to build a great wall around it",
+            "He commanded them to tear it down",
+            "He commanded them to prepare rooms to store the offerings, tithes and dedicated things",
+            "He commanded them to move everything outside"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah do in every work he began (2 Chronicles 31:21)?",
+        "choice": [
+            "He did it in a bad way, and with no care",
+            "He did it with some of his heart",
+            "He did it with all of his heart and prospered",
+            "He hated doing it"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Sennacherib king of Assyria do after Hezekiah's faithfulness (2 Chronicles 32:1)?",
+        "choice": [
+            "He sent gifts to Hezekiah",
+            "He became an ally of Hezekiah",
+            "He came and encamped against the fortified cities of Judah, intending to take them",
+            "He sent a messenger to declare peace"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What actions did Hezekiah take when he saw Sennacherib's invasion (2 Chronicles 32:2-4)?",
+        "choice": [
+            "He surrendered immediately",
+            "He sought counsel, stopped the water sources outside the city, and fortified Jerusalem",
+            "He fled from Jerusalem",
+            "He started sacrificing to other gods"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah tell his people to encourage them (2 Chronicles 32:6-8)?",
+        "choice": [
+            "That they should surrender to the Assyrians",
+            "That they should run away",
+            "That they should be strong and courageous and not be afraid, because God is with them",
+            "That they should give up on God"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the servants of Sennacherib say to the people of Jerusalem (2 Chronicles 32:9-15)?",
+        "choice": [
+            "They told them to fight bravely",
+            "They mocked Yahweh, and said that Hezekiah was deceiving them, and that no god could deliver them from the king of Assyria",
+            "They offered them gold and riches if they would surrender",
+            "They were quiet and did not speak"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Sennacherib do in his letters that he sent (2 Chronicles 32:17)?",
+        "choice": [
+            "He praised the God of Israel",
+            "He asked for forgiveness for his actions",
+            "He insulted Yahweh, the God of Israel, claiming that He could not save them from his hand",
+            "He offered to become a follower of Yahweh"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hezekiah and Isaiah do when they heard the words of Sennacherib (2 Chronicles 32:20)?",
+        "choice": [
+            "They surrendered",
+            "They mocked the Assyrians",
+            "They prayed to Yahweh",
+            "They fled the city"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How was Sennacherib defeated (2 Chronicles 32:21)?",
+        "choice": [
+            "He was defeated in battle by Hezekiah",
+            "He died of a disease",
+            "An angel of Yahweh cut off his army and he returned home in shame, where his own sons killed him",
+            "He was captured and killed"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened to Hezekiah after the defeat of Sennacherib (2 Chronicles 32:23)?",
+        "choice": [
+            "He was killed in battle",
+            "He was exiled",
+            "He became exalted in the sight of all nations",
+            "He became sick and died"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was Hezekiah’s response to the kindness shown to him (2 Chronicles 32:25)?",
+        "choice": [
+            "He was very grateful",
+            "He did not reciprocate appropriately, because his heart was lifted up with pride",
+            "He refused to acknowledge God's help",
+            "He tried to take all the glory for himself"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did God do to test Hezekiah (2 Chronicles 32:31)?",
+        "choice": [
+            "He had the Assyrians attack again",
+            "He sent a famine on the land",
+            "He left him to deal with the ambassadors of Babylon",
+            "He killed his family"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Manasseh do in Yahweh's house (2 Chronicles 33:4-7)?",
+        "choice": [
+            "He cleaned and repaired it",
+            "He built altars to other gods and placed idols in it",
+            "He started worshipping God properly",
+            "He turned it into his own palace"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Yahweh do when Manasseh and his people did not listen (2 Chronicles 33:10-11)?",
+        "choice": [
+            "He sent a plague on them",
+            "He gave up on them completely",
+            "He brought the captains of the army of the king of Assyria against them, who took Manasseh captive to Babylon",
+            "He killed them"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Manasseh do when he was in distress (2 Chronicles 33:12-13)?",
+        "choice": [
+            "He worshipped other gods",
+            "He begged Yahweh, humbled himself, prayed to him, and was restored to his kingdom",
+            "He cursed Yahweh",
+            "He ran away and hid"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Manasseh do after he returned to Jerusalem (2 Chronicles 33:14-16)?",
+        "choice": [
+            "He continued in his evil ways",
+            "He built an outer wall to David’s city, put valiant captains in the fortified cities, and removed the foreign gods from Yahweh’s house",
+            "He destroyed the temple",
+            "He had the priests killed"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Josiah do with the money that was brought into Yahweh's house (2 Chronicles 34:9-10)?",
+        "choice": [
+            "He kept it for himself",
+            "He distributed it to the poor",
+            "He gave it to the overseers and workmen for repairs to the temple",
+            "He used it to build a new palace"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Hilkiah the priest find when they brought out the money (2 Chronicles 34:14-15)?",
+        "choice": [
+            "A treasure of gold and jewels",
+            "The book of Yahweh’s law given by Moses",
+            "Nothing of any importance",
+            "A bunch of old scrolls"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Josiah do when he heard the words of the law (2 Chronicles 34:19-21)?",
+        "choice": [
+            "He ignored them",
+            "He was angry and destroyed the book",
+            "He tore his clothes and commanded his officials to inquire of Yahweh",
+            "He began sacrificing to other gods"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who did Josiah’s officials go to inquire of Yahweh (2 Chronicles 34:22)?",
+        "choice": [
+            "The prophets of Baal",
+            "Isaiah the prophet",
+            "Huldah the prophetess",
+            "A wandering seer"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was Huldah’s prophecy (2 Chronicles 34:23-28)?",
+        "choice": [
+            "She said that Josiah would be the greatest king who ever lived",
+            "She said that God would bring evil on the place and its inhabitants, but that Josiah would be gathered to his grave in peace",
+            "She said that they would have great wealth and peace",
+            "She said they should continue to worship idols"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Josiah do after hearing Huldah's prophecy (2 Chronicles 34:29-33)?",
+        "choice": [
+            "He did nothing",
+            "He gathered all the people and read the book of the covenant, and made a covenant to follow Yahweh, and removed the abominations from the land",
+            "He turned to worshiping other gods",
+            "He started building high places"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Josiah command the Levites to do with the ark of the covenant (2 Chronicles 35:3)?",
+        "choice": [
+            "To carry it into battle",
+            "To put it in the house that Solomon built, so that it would no longer be a burden on their shoulders",
+            "To destroy it",
+            "To hide it"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Josiah give to the people for the Passover offerings (2 Chronicles 35:7)?",
+        "choice": [
+            "Gold and silver",
+            "Lambs, young goats, and bulls from the king’s substance",
+            "Nothing, he kept it all for himself",
+            "Old bread and wine"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the priests and Levites do during the Passover (2 Chronicles 35:10-15)?",
+        "choice": [
+            "They did not participate",
+            "They had others do the work of the Passover",
+            "The priests stood in their place, the Levites did their duties, and they all followed the king's command",
+            "They argued and did not get along"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "When was this Passover kept (2 Chronicles 35:19)?",
+        "choice": [
+            "In the first year of Josiah's reign",
+            "In the eighteenth year of Josiah's reign",
+            "In the last year of Josiah's reign",
+            "It was never kept in Josiah's reign"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who did Josiah go out to fight against (2 Chronicles 35:20)?",
+        "choice": [
+            "The king of Babylon",
+            "The king of Assyria",
+            "Neco king of Egypt",
+            "The king of Persia"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened to Josiah when he went out to fight (2 Chronicles 35:22-24)?",
+        "choice": [
+            "He won a great victory",
+            "He defeated the king of Egypt",
+            "He was wounded and died",
+            "He ran away and hid"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who lamented for Josiah (2 Chronicles 35:25)?",
+        "choice": [
+            "Only the priests and Levites",
+            "Only the people of Jerusalem",
+            "Jeremiah, and all the singing men and women",
+            "Nobody"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who was made king after Josiah (2 Chronicles 36:1)?",
+        "choice": [
+            "Hezekiah",
+            "Jehoiakim",
+            "Zedekiah",
+            "Jehoahaz"
+        ],
+        "answer": "D",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How long did Jehoahaz reign (2 Chronicles 36:2)?",
+        "choice": [
+            "Three years",
+            "Ten years",
+            "Three months",
+            "One year"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who removed Jehoahaz from office (2 Chronicles 36:3)?",
+        "choice": [
+            "The king of Babylon",
+            "The king of Egypt",
+            "The king of Assyria",
+            "The people of Jerusalem"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who did the king of Egypt make king over Judah (2 Chronicles 36:4)?",
+        "choice": [
+            "Hezekiah",
+            "Eliakim (renamed Jehoiakim)",
+            "Zedekiah",
+            "Jehoahaz"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Nebuchadnezzar king of Babylon do to Jehoiakim (2 Chronicles 36:6)?",
+        "choice": [
+            "He made him an ally",
+            "He bound him in fetters to carry him to Babylon",
+            "He let him rule in peace",
+            "He had him killed"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Nebuchadnezzar do with some of the vessels of Yahweh’s house (2 Chronicles 36:7)?",
+        "choice": [
+            "He destroyed them",
+            "He put them in his temple at Babylon",
+            "He gave them back to the people",
+            "He melted them down for gold"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How long did Jehoiachin reign (2 Chronicles 36:9)?",
+        "choice": [
+            "Three years",
+            "Three months and ten days",
+            "Ten years",
+            "One year"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did King Nebuchadnezzar do to Jehoiachin (2 Chronicles 36:10)?",
+        "choice": [
+            "He made him an ally",
+            "He sent him to Egypt",
+            "He brought him to Babylon with the valuable vessels of Yahweh's house",
+            "He killed him"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who did Nebuchadnezzar make king over Judah after Jehoiachin (2 Chronicles 36:10)?",
+        "choice": [
+            "Jehoiakim",
+            "Jehoahaz",
+            "Zedekiah",
+            "Hezekiah"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Zedekiah do during his reign (2 Chronicles 36:12)?",
+        "choice": [
+            "He did that which was right in Yahweh’s sight",
+            "He did that which was evil in Yahweh’s sight and did not humble himself before Jeremiah the prophet",
+            "He began building high places",
+            "He started sacrificing to other gods"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened to the people because of their sins (2 Chronicles 36:16-17)?",
+        "choice": [
+            "They were blessed with riches and power",
+            "They were protected from all their enemies",
+            "They were mocked, despised, and scoffed at, and God’s wrath came against them, and the king of the Chaldeans killed their young men",
+            "They became great in the eyes of God"
+        ],
+        "answer": "C",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the king of the Chaldeans do to Jerusalem (2 Chronicles 36:19)?",
+        "choice": [
+            "He rebuilt it and made it stronger",
+            "He burned God’s house, broke down the wall of Jerusalem, burned its palaces, and destroyed its valuable vessels",
+            "He turned it into his own palace",
+            "He made it a great place for worship"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What happened to those who escaped the sword (2 Chronicles 36:20)?",
+        "choice": [
+            "They returned to their homes",
+            "They were carried away to Babylon and became servants",
+            "They went to Egypt",
+            "They were all killed"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did Cyrus king of Persia do in his first year (2 Chronicles 36:22-23)?",
+        "choice": [
+            "He destroyed the temple in Jerusalem",
+            "He made a proclamation that Yahweh had commanded him to build him a house in Jerusalem, and that the people of Yahweh should go up",
+            "He started persecuting the people of Judah",
+            "He had them all killed"
+        ],
+        "answer": "B",
+        "category": "2 Chronicles",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2CH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    }
+]

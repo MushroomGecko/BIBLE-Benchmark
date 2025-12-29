@@ -1,0 +1,262 @@
+[
+    {
+        "question": "Who is Paul writing to in this letter (Philemon 1)?",
+        "choice": [
+            "Timothy",
+            "Philemon",
+             "Onesimus",
+            "Apphia"
+         ],
+        "answer": "B"
+    },
+    {
+        "question": "Besides Philemon, who else is mentioned in the salutation of this letter (Philemon 1-2)?",
+        "choice": [
+           "Mark and Luke",
+            "Apphia and Archippus",
+            "Demas and Aristarchus",
+             "Epaphras and Timothy"
+          ],
+        "answer": "B"
+    },
+    {
+        "question": "What does Paul say he always does for Philemon (Philemon 4)?",
+        "choice": [
+            "Visits him",
+            "Mentions him in his prayers",
+            "Sends him gifts",
+            "Writes him letters"
+        ],
+         "answer": "B"
+    },
+      {
+        "question": "What has Paul heard about Philemon that causes him to thank God (Philemon 5)?",
+        "choice": [
+            "His wisdom and teaching",
+             "His love and faith toward the Lord Jesus and all the saints",
+            "His generosity to the poor",
+            "His ability to lead"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does Paul desire regarding Philemon's faith (Philemon 6)?",
+        "choice": [
+             "That his faith becomes more private",
+            "That the fellowship of his faith may become effective in the knowledge of every good thing which is in us in Christ Jesus.",
+            "That his faith may be a witness to only a few",
+            "That his faith may grow weak"
+        ],
+         "answer": "B"
+    },
+    {
+        "question": "What has refreshed the hearts of the saints, according to Paul (Philemon 7)?",
+        "choice": [
+            "Paul's teachings",
+           "Philemon's love",
+            "Their own prayers",
+            "The church gatherings"
+        ],
+        "answer": "B"
+    },
+     {
+        "question": "What does Paul choose to do, instead of commanding Philemon (Philemon 8-9)?",
+        "choice": [
+            "To write a letter of request",
+            "To send a messenger",
+            "To appeal to him for love's sake",
+            "To ask others for advice"
+        ],
+        "answer": "C"
+    },
+     {
+        "question": "How does Paul describe himself in verse 9 (Philemon 9)?",
+        "choice": [
+            "A servant of God",
+             "Paul, the aged, and a prisoner of Jesus Christ",
+            "A prophet of the Lord",
+            "A leader among men"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Who is Onesimus in relation to Paul (Philemon 10)?",
+         "choice": [
+            "Paul's fellow prisoner",
+            "Paul's son in faith",
+            "Paul's slave",
+            "Paul's brother"
+        ],
+        "answer": "B"
+    },
+     {
+        "question": "What does Paul say Onesimus was formerly to Philemon (Philemon 11)?",
+        "choice": [
+           "useless",
+            "a fellow worker",
+            "a beloved friend",
+            "a family member"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What does Paul say Onesimus is now to both Philemon and Paul (Philemon 11)?",
+        "choice": [
+            "a burden",
+             "useful",
+            "a problem",
+            "a runaway slave"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is Paul doing with Onesimus (Philemon 12)?",
+        "choice": [
+            "Sending him back",
+            "Keeping him in prison",
+            "Sending him to another city",
+            "Selling him into slavery"
+        ],
+        "answer": "A"
+    },
+    {
+       "question": "How does Paul describe Onesimus when sending him back to Philemon (Philemon 12)?",
+        "choice": [
+           "A troublesome person",
+            "His own heart",
+            "A useless individual",
+            "A deceitful man"
+        ],
+       "answer": "B"
+   },
+    {
+        "question": "Why did Paul want to keep Onesimus with him (Philemon 13)?",
+        "choice": [
+             "To punish him for his wrongdoings",
+            "That he might serve Paul in his chains for the Good News on Philemon's behalf",
+             "To use him as a personal assistant",
+             "To keep him away from Philemon"
+        ],
+        "answer": "B"
+    },
+    {
+        "question":"Why didn't Paul keep Onesimus without Philemon's consent (Philemon 14)?",
+         "choice": [
+            "Because he feared Philemon's anger",
+           "That Philemon's goodness would be of free will, and not as of necessity",
+            "Because Onesimus did not want to stay",
+           "Because he knew Philemon would come get him"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does Paul suggest about Onesimus's separation from Philemon (Philemon 15)?",
+         "choice": [
+             "That it was a mistake",
+           "That it was perhaps for a purpose, that Philemon would have him forever",
+            "That it was a punishment",
+           "That it was an accident"
+        ],
+        "answer": "B"
+    },
+     {
+        "question": "How should Philemon receive Onesimus back (Philemon 16)?",
+        "choice": [
+            "As a slave",
+            "As a servant",
+            "As a beloved brother, more than a slave",
+            "As a stranger"
+        ],
+        "answer": "C"
+    },
+    {
+         "question": "What does Paul ask Philemon to do if he counts Paul as a partner (Philemon 17)?",
+        "choice": [
+            "To punish Onesimus",
+            "To ignore Onesimus",
+             "To receive Onesimus as he would receive Paul",
+            "To sell Onesimus"
+        ],
+        "answer":"C"
+    },
+    {
+        "question": "What does Paul offer to do if Onesimus has wronged or owes Philemon anything (Philemon 18)?",
+        "choice": [
+             "To make him work it off",
+            "To put that to his own account",
+           "To forgive the debt himself",
+            "To forget it ever happened"
+        ],
+        "answer": "B"
+    },
+      {
+        "question": "What does Paul remind Philemon that Philemon owes to him (Philemon 19)?",
+        "choice": [
+            "A great debt",
+           "His own self",
+            "A favor",
+            "Nothing"
+        ],
+        "answer": "B"
+    },
+     {
+        "question": "What does Paul ask Philemon to do for him in the Lord (Philemon 20)?",
+         "choice": [
+            "To refresh his heart",
+             "To give him gifts",
+            "To write him a letter",
+            "To send him money"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is Paul confident that Philemon will do (Philemon 21)?",
+        "choice": [
+           "Obey his request and do even beyond what he says",
+             "Refuse his request",
+            "Do only the bare minimum",
+             "Be angry with him"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What does Paul request Philemon to prepare for him (Philemon 22)?",
+        "choice": [
+            "A feast",
+             "A guest room",
+            "A safe place",
+            "A prison cell"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Who does Paul mention as a fellow prisoner who sends greetings (Philemon 23)?",
+         "choice": [
+             "Mark",
+            "Epaphras",
+           "Luke",
+            "Demas"
+        ],
+        "answer": "B"
+    },
+     {
+         "question": "Which of these is not mentioned as a fellow worker of Paul (Philemon 24)?",
+         "choice": [
+           "Aristarchus",
+           "Mark",
+            "Onesimus",
+            "Luke"
+         ],
+         "answer": "C"
+     },
+    {
+        "question": "What does Paul wish for Philemon at the end of the letter (Philemon 25)?",
+        "choice": [
+           "The grace of the Lord Jesus Christ be with his spirit",
+             "A long life",
+            "A prosperous ministry",
+            "Wealth and good health"
+        ],
+        "answer": "A"
+    }
+]

@@ -1,0 +1,665 @@
+[
+    {
+        "question": "Who are the authors of the second letter to the Thessalonians (2 Thessalonians 1:1)?",
+        "choice": [
+            "Paul, Silas, and Timothy",
+            "Paul, Silvanus, and Timothy",
+            "Paul and Timothy",
+            "Silas and Timothy"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the source of grace and peace mentioned in the letter (2 Thessalonians 1:2)?",
+        "choice": [
+            "God the Father",
+            "The Lord Jesus Christ",
+            "God our Father and the Lord Jesus Christ",
+            "The Holy Spirit"
+        ],
+        "answer": "C",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is Paul thankful for regarding the Thessalonians (2 Thessalonians 1:3)?",
+        "choice": [
+            "Their wealth",
+            "Their faith grows exceedingly and their love for one another abounds",
+            "Their obedience",
+            "Their generosity"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is considered an obvious sign of God's righteous judgment (2 Thessalonians 1:5)?",
+        "choice": [
+            "Their persecutions and afflictions",
+            "Their good works",
+            "Their charitable acts",
+            "Their faith"
+        ],
+        "answer": "A",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will happen to those who afflict the Thessalonians (2 Thessalonians 1:6)?",
+        "choice": [
+            "They will be blessed",
+            "They will receive relief",
+            "They will be repaid with affliction",
+            "They will be ignored"
+        ],
+        "answer": "C",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who will be punished when the Lord Jesus is revealed from heaven (2 Thessalonians 1:8)?",
+        "choice": [
+            "Those who don't know God and don't obey the gospel",
+            "Those who persecute believers",
+            "Those who are unrighteous",
+            "Those who are poor"
+        ],
+        "answer": "A",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the penalty for those who do not obey the Good News of Jesus (2 Thessalonians 1:9)?",
+        "choice": [
+            "Physical illness",
+            "Temporary separation from God",
+            "Eternal destruction from the face of the Lord",
+            "Earthly poverty"
+        ],
+        "answer": "C",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "When will the Lord be glorified in his saints (2 Thessalonians 1:10)?",
+        "choice": [
+            "When he ascends into heaven",
+            "When he comes in that day",
+            "When the world ends",
+            "When he performs miracles"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul pray for the Thessalonians (2 Thessalonians 1:11)?",
+        "choice": [
+            "That they may have financial success",
+            "That they may be counted worthy of their calling",
+            "That they may be healthy",
+            "That they may be popular"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What should not quickly shake the Thessalonians minds (2 Thessalonians 2:2)?",
+        "choice": [
+            "Arguments with others",
+            "Rumors about wealth",
+            "The idea that the day of Christ has already come",
+            "Debates about scripture"
+        ],
+        "answer": "C",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What must come before the day of Christ (2 Thessalonians 2:3)?",
+        "choice": [
+            "A great revival",
+            "The end of the world",
+            "The rebellion and the revealing of the man of sin",
+            "A new era of peace"
+        ],
+        "answer": "C",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who is described as the 'man of sin' (2 Thessalonians 2:3-4)?",
+        "choice": [
+            "A Roman emperor",
+            "Someone who opposes and exalts himself against God",
+            "A false prophet",
+            "A rebellious leader"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is restraining the man of sin from being revealed (2 Thessalonians 2:6-7)?",
+        "choice": [
+            "The power of love",
+            "A spiritual force or being",
+            "The Roman Empire",
+            "The laws of the land"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How will the Lord kill the lawless one (2 Thessalonians 2:8)?",
+        "choice": [
+            "By a natural disaster",
+            "With the breath of his mouth and the manifestation of his coming",
+            "By fire from the sky",
+            "By human hands"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Whose working is the coming of the lawless one according to (2 Thessalonians 2:9)?",
+        "choice": [
+            "The Holy Spirit",
+            "Angels of God",
+            "Satan",
+            "A human king"
+        ],
+        "answer": "C",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why does God send a powerful delusion to some (2 Thessalonians 2:11)?",
+        "choice": [
+            "Because they didn't receive the love of the truth",
+            "Because they had pleasure in righteousness",
+            "Because they were rich",
+            "Because they were good"
+        ],
+        "answer": "A",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What were the Thessalonians chosen for from the beginning (2 Thessalonians 2:13)?",
+        "choice": [
+            "Wealth and success",
+            "Salvation through sanctification of the Spirit and belief in the truth",
+            "Earthly power",
+            "To be examples to others"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What should the Thessalonians stand firm in (2 Thessalonians 2:15)?",
+        "choice": [
+            "Their political opinions",
+            "The traditions taught by Paul",
+            "Their personal wealth",
+            "Their social status"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul ask the brothers to pray for (2 Thessalonians 3:1)?",
+        "choice": [
+            "That they may have financial success",
+            "That the word of the Lord may spread rapidly and be glorified",
+            "That they may have earthly peace",
+            "That they may receive wisdom"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "From whom does Paul desire to be delivered (2 Thessalonians 3:2)?",
+        "choice": [
+            "Natural disasters",
+            "Unreasonable and evil men",
+            "Illness",
+            "Poverty"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul say the Lord will do for the Thessalonians (2 Thessalonians 3:3)?",
+        "choice": [
+            "Establish and guard them from the evil one",
+            "Give them wealth",
+            "Give them power over their enemies",
+            "Help them to be healthy"
+        ],
+        "answer": "A",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul command in the name of the Lord Jesus Christ (2 Thessalonians 3:6)?",
+        "choice": [
+            "To withdraw from every brother who walks in rebellion",
+            "To love everyone",
+            "To give to the poor",
+            "To be popular"
+        ],
+        "answer": "A",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What example did Paul and his companions set for the Thessalonians (2 Thessalonians 3:8)?",
+        "choice": [
+            "They lived a life of luxury",
+            "They worked hard and didn't burden anyone",
+            "They were rebellious",
+            "They took from others"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What commandment did Paul give the Thessalonians when he was with them (2 Thessalonians 3:10)?",
+        "choice": [
+            "“If anyone is not willing to work, don’t let him eat.”",
+            "“Love one another”",
+            "“Give to those who ask”",
+            "“Be obedient to your leaders”"
+        ],
+        "answer": "A",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul ask the Thessalonians not to be weary of doing (2 Thessalonians 3:13)?",
+        "choice": [
+            "Going to church",
+            "Praying",
+            "Doing what is right",
+            "Helping others"
+        ],
+        "answer": "C",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul say is appropriate to always give thanks to God for regarding the Thessalonians (2 Thessalonians 1:3)?",
+        "choice": [
+            "Their financial success",
+            "Their spiritual growth and love for one another",
+            "Their obedience to the law",
+            "Their good works in the community"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What do the Thessalonians endure that Paul boasts about in the assemblies of God (2 Thessalonians 1:4)?",
+        "choice": [
+            "Their wealth and influence",
+            "Their perseverance and faith in persecutions and afflictions",
+            "Their charitable giving",
+            "Their knowledge of scripture"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the purpose of the righteous judgment of God in relation to the Thessalonians' suffering (2 Thessalonians 1:5)?",
+        "choice": [
+            "To punish them for their sins",
+            "To make them worthy of God's Kingdom",
+            "To make them examples for others",
+            "To test their faith"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to Paul, what will God give to those who are afflicted along with the apostles (2 Thessalonians 1:7)?",
+        "choice": [
+            "Earthly riches",
+            "Relief when the Lord Jesus is revealed",
+            "Power over their enemies",
+            "A long life"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the nature of the punishment for those who do not know God and do not obey the gospel of Jesus Christ (2 Thessalonians 1:9)?",
+        "choice": [
+            "Temporary suffering",
+            "Eternal destruction from the Lord's presence",
+            "Rehabilitation in another life",
+            "Earthly punishment"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why will the Lord be admired among all those who have believed (2 Thessalonians 1:10)?",
+        "choice": [
+            "Because of his miracles",
+            "Because they believed the testimony about him",
+            "Because of his earthly power",
+            "Because of their good deeds"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul pray that God will fulfill in the Thessalonians (2 Thessalonians 1:11)?",
+        "choice": [
+            "Every desire for earthly success",
+            "Every desire of goodness and work of faith",
+            "Every desire of wealth and power",
+            "Every desire for recognition"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How does Paul say the name of the Lord Jesus will be glorified in the Thessalonians (2 Thessalonians 1:12)?",
+        "choice": [
+            "Through their wealth",
+            "Through their obedience to the law",
+            "Through the grace of God and the Lord Jesus Christ",
+            "Through their earthly influence"
+        ],
+        "answer": "C",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What specific concern about the day of Christ does Paul address (2 Thessalonians 2:2)?",
+        "choice": [
+            "That it will never come",
+            "That it will come unexpectedly",
+            "That it has already come",
+            "That it will only come for some"
+        ],
+        "answer": "C",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is another way to translate the word 'rebellion' in 2 Thessalonians 2:3?",
+        "choice": [
+            "Prosperity",
+            "Falling away or defection",
+            "Spiritual awakening",
+            "Political movement"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where will the man of sin set himself up as God (2 Thessalonians 2:4)?",
+        "choice": [
+            "In the temple of God",
+            "In the hearts of believers",
+            "In the heavens",
+            "In the political arena"
+        ],
+        "answer": "A",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul remind the Thessalonians about his previous teachings (2 Thessalonians 2:5)?",
+        "choice": [
+            "That he taught them about financial prosperity",
+            "That he told them these things while he was with them",
+            "That he never taught about the day of Christ",
+            "That his teachings were only for a select few"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is already at work in the world, according to Paul (2 Thessalonians 2:7)?",
+        "choice": [
+            "The mystery of righteousness",
+            "The mystery of lawlessness",
+            "The power of love",
+            "The spirit of peace"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What will the Lord use to destroy the lawless one (2 Thessalonians 2:8)?",
+        "choice": [
+            "A powerful army",
+            "The breath of his mouth and the manifestation of his coming",
+            "A divine decree",
+            "A natural disaster"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What accompanies the coming of the lawless one (2 Thessalonians 2:9)?",
+        "choice": [
+            "Peace and harmony",
+            "All power, signs, and lying wonders",
+            "Spiritual awakening and enlightenment",
+            "Political reform"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the result for those who do not believe the truth and have pleasure in unrighteousness (2 Thessalonians 2:12)?",
+        "choice": [
+            "They will be rewarded with earthly riches",
+            "They will all be judged",
+            "They will receive a second chance",
+            "They will be ignored"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How were the Thessalonians called to obtain the glory of the Lord Jesus Christ (2 Thessalonians 2:14)?",
+        "choice": [
+            "Through their earthly deeds",
+            "Through the Good News",
+            "Through their family lineage",
+            "Through their financial status"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What specific types of traditions should the Thessalonians hold onto (2 Thessalonians 2:15)?",
+        "choice": [
+            "Those taught by Paul through word or letter",
+            "Those of their ancestors",
+            "Those that are popular with the community",
+            "Those that have been passed down through oral tradition"
+        ],
+        "answer": "A",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who gives eternal comfort and good hope through grace (2 Thessalonians 2:16)?",
+        "choice": [
+            "Angels",
+            "God our Father and the Lord Jesus Christ",
+            "The Holy Spirit",
+            "Religious leaders"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul ask the Lord to do for the Thessalonians' hearts (2 Thessalonians 2:17)?",
+        "choice": [
+            "To make them wealthy",
+            "To comfort and establish them in every good work and word",
+            "To give them earthly peace",
+            "To make them popular"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul pray for regarding the word of the Lord (2 Thessalonians 3:1)?",
+        "choice": [
+            "That it may be kept secret",
+            "That it may spread rapidly and be glorified",
+            "That it may be changed to fit the culture",
+            "That it may only be taught to the elite"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the basis of Paul’s confidence in the Thessalonians (2 Thessalonians 3:4)?",
+        "choice": [
+            "That they are wealthy",
+            "That they do and will do what he commands",
+            "That they are popular",
+            "That they are powerful"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul pray that the Lord will direct the Thessalonians' hearts into (2 Thessalonians 3:5)?",
+        "choice": [
+            "Earthly power",
+            "God’s love and the perseverance of Christ",
+            "Wealth and status",
+            "Popularity and recognition"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the result of not obeying Paul's word in the letter (2 Thessalonians 3:14)?",
+        "choice": [
+            "To be rewarded by God",
+            "To be noted and have no company with that person, so they may be ashamed",
+            "To be made a leader",
+            "To be praised for their individuality"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How should those who do not obey Paul's word be treated (2 Thessalonians 3:15)?",
+        "choice": [
+            "As enemies",
+            "As brothers who need admonishment",
+            "As social outcasts",
+            "As those who should be ignored"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does Paul say about how he writes this greeting (2 Thessalonians 3:17)?",
+        "choice": [
+            "He has a scribe write it",
+            "He writes it with his own hand as a sign of authenticity",
+            "He writes in code",
+            "He has someone else sign his name"
+        ],
+        "answer": "B",
+        "category": "2 Thessalonians",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2TH.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    }
+]

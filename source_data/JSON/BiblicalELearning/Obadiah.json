@@ -1,0 +1,613 @@
+[
+    {
+        "question": "The book of Obadiah is introduced as a _________ (Obad 1)",
+        "choice": [
+            "Dream",
+            "Vision",
+            "Revelation",
+            "Message from the Lord"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What group is the book of Obadiah about (Obad 1)?",
+        "choice": [
+            "Ammonites",
+            "Moabites",
+            "Edomites",
+            "Jebusites"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who said “Rise, and let us go against her for battle” (Obad 1)?",
+        "choice": [
+            "An envoy sent to the nations",
+            "The Lord to his heavenly hosts",
+            "The prophet Obadiah",
+            "The captains of Israel’s army"
+        ],
+        "answer": "A",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the envoy sent to the nations say (Obad 1)?",
+        "choice": [
+            "Gather yourselves together against Edom",
+            "Rise, and let us go against her for battle",
+            "Go into the hill country of and hunt them down",
+            "Uproot the remnant of Edom"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will Edom’s role be among the nations (Obad 2)?",
+        "choice": [
+            "Great",
+            "Powerful",
+            "Rejected",
+            "Despised"
+        ],
+        "answer": "D",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord say had deceived Edom (Obad 3)?",
+        "choice": [
+            "The wickedness of their thoughts",
+            "Their false gods",
+            "The pride of their heart",
+            "The hatred of the people of God"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where does Edom live (Obad 3)?",
+        "choice": [
+            "In the clefts of the rocks",
+            "In the Valley of the Kings",
+            "On the slopes of the mountains",
+            "In the desert of Zin"
+        ],
+        "answer": "A",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the Edomites say to themselves (Obad 3)?",
+        "choice": [
+            "Who is the Lord?",
+            "Who can bring me down to the ground?",
+            "Who can subdue the heights of Edom?",
+            "Who can withstand the hosts of Edom?"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does God describe Edom picturing themselves (Obad 4)?",
+        "choice": [
+            "Roaring like a lion",
+            "As a deer on the rocky crags",
+            "Soaring like an eagle",
+            "As strong as an ox"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "From where does God say he will bring Edom down (Obad 4)?",
+        "choice": [
+            "From tops of the trees",
+            "From the mountain heights",
+            "From their rocky crags",
+            "From their nest among the stars"
+        ],
+        "answer": "D",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does God suggest would come against Edom at night (Obad 5)?",
+        "choice": [
+            "Thieves",
+            "Assyrians",
+            "Babylonians",
+            "Desert hordes"
+        ],
+        "answer": "A",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What would grape pickers who came to Edom normally do (Obad 5)?",
+        "choice": [
+            "Trample out the grapes",
+            "Leave a few grapes",
+            "Prune the vines",
+            "Drink some of the new wine"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who is Edom the descendant of (Obad 6)?",
+        "choice": [
+            "Ishmael",
+            "Lot",
+            "Esau",
+            "Abimelech"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What of Edom does God say will be pillaged (Obad 6)?",
+        "choice": [
+            "Their gold and silver",
+            "Their tents",
+            "Their storehouses",
+            "Their hidden treasures"
+        ],
+        "answer": "D",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where will Edom’s allies force them to (Obad 7)?",
+        "choice": [
+            "The border",
+            "The edge of the desert",
+            "Into exile",
+            "Into their rocky caves"
+        ],
+        "answer": "A",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will deceive and overpower Edom (Obad 7)?",
+        "choice": [
+            "The children of Moab",
+            "The descendants of Ammon",
+            "Their friends",
+            "Their enemies"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will set a trap for Edom (Obad 7)?",
+        "choice": [
+            "Their enemies",
+            "Members of their own family",
+            "Those whom they protected",
+            "Those who ate their bread"
+        ],
+        "answer": "D",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does the Lord say he will destroy from Edom in that day (Obad 8)?",
+        "choice": [
+            "The wise men of Edom",
+            "The warriors of Edom",
+            "The merchants of Edom",
+            "The kings and officials of Edom"
+        ],
+        "answer": "A",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "From where will the men of understanding of Edom be destroyed (Obad 8)?",
+        "choice": [
+            "The cities of Esau",
+            "The mountains of Esau",
+            "The valleys of Petra",
+            "The palaces of Edom"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Whose warriors will be terrified (Obad 9)?",
+        "choice": [
+            "Bozrah’s",
+            "Petra’s",
+            "Teman’s",
+            "Heshbon’s"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will be terrified (Obad 9)?",
+        "choice": [
+            "The children of Bozrah",
+            "The shepherds of Edom",
+            "The widows of Petra",
+            "The warriors of Teman"
+        ],
+        "answer": "D",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why will Edom be covered with shame (Obad 10)?",
+        "choice": [
+            "Because of their violence against Jacob",
+            "Because they worshipped the gods of Ammon",
+            "Because they oppressed the poor",
+            "Because they defiled the God of Israel"
+        ],
+        "answer": "A",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will be the result of Edom’s having committed violence against their brother Jacob (Obad 10)?",
+        "choice": [
+            "They will be sent into exile",
+            "They will be covered with shame",
+            "The sword will pursuit them",
+            "The walls of their cities will be knocked down"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Edom do when the wealth of Jacob was carried off (Obad 11)?",
+        "choice": [
+            "They plundered the cities of Israel",
+            "They helped the enemies",
+            "They stood aloof",
+            "They laughed"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did foreigners do to Jerusalem as Edom was like one of them (Obad 11)?",
+        "choice": [
+            "Plundered Jerusalem",
+            "Burned its temple",
+            "Tore down its walls",
+            "Cast lots for it"
+        ],
+        "answer": "D",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On the day of Jacob’s misfortune what did Edom do (Obad 12)?",
+        "choice": [
+            "Gloated",
+            "Aided their enemies",
+            "Sold them into slavery",
+            "Laughed"
+        ],
+        "answer": "A",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did Edom rejoice (Obad 12)?",
+        "choice": [
+            "When Jerusalem was burned",
+            "On the day of Judah’s destruction",
+            "On the day Jerusalem was sent into exile",
+            "When Jerusalem’s gates were broken"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did Edom boast (Obad 12)?",
+        "choice": [
+            "In the day the temple was plundered",
+            "While Jerusalem was burned",
+            "In the day of Jacob’s trouble",
+            "On the day Jacob was exiled"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where should Edom not have marched (Obad 13)?",
+        "choice": [
+            "Through the fields of Judah",
+            "Over the altars of Jerusalem",
+            "Up Mount Zion",
+            "Through the gates of God’s people"
+        ],
+        "answer": "D",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Edom do in the day of Israel’s disaster (Obad 13)?",
+        "choice": [
+            "Seized their wealth",
+            "Burned their gates",
+            "Knocked down their walls",
+            "Laid siege to Jerusalem"
+        ],
+        "answer": "A",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did Edom wait at the crossroads (Obad 14)?",
+        "choice": [
+            "To set a trap for Judah",
+            "To cut down Israel’s fugitives",
+            "To provide wine for Israel’s enemies",
+            "To control the entrances into Judah"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Edom do to the survivors in the day of their trouble (Obad 14)?",
+        "choice": [
+            "Pursued them with the sword",
+            "Enslaved them",
+            "Handed them over",
+            "Stripped them of wealth"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Edom do on God’s holy hill (Obad 15)?",
+        "choice": [
+            "Offered sacrifices to their gods",
+            "Plundered",
+            "Set fire",
+            "Drank"
+        ],
+        "answer": "D",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How much will the nations drink (Obad 15)?",
+        "choice": [
+            "As if they had never been",
+            "Until they stumble",
+            "As if there was no end",
+            "Until that day comes"
+        ],
+        "answer": "A",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will be on Mount Zion (Obad 17)?",
+        "choice": [
+            "The temple of the Lord",
+            "Deliverance",
+            "Righteousness",
+            "Mercy"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will Jacob possess (Obad 17)?",
+        "choice": [
+            "God’s blessings",
+            "The remnant of Judah",
+            "His inheritance",
+            "Justice"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Ultimately Zion will be ______ (Obad 17)",
+        "choice": [
+            "Righteous",
+            "Glad",
+            "Lifted up",
+            "Holy"
+        ],
+        "answer": "D",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "If the house of Jacob is a fire what will the house of Esau be (Obad 18)?",
+        "choice": [
+            "Grass",
+            "Kindling",
+            "Stubble",
+            "Thorn bushes"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will not be left from the house of Esau (Obad 18)?",
+        "choice": [
+            "Any olive groves",
+            "Any survivors",
+            "Any vineyards",
+            "Any walled cities"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will occupy the mountains of Esau (Obad 19)?",
+        "choice": [
+            "The people from the Negev",
+            "The armies of Judah",
+            "The warriors of Moab",
+            "The tents of the Ammonites"
+        ],
+        "answer": "A",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the people of the foothills possess (Obad 19)?",
+        "choice": [
+            "The palaces of Judah",
+            "The land of the Philistines",
+            "The tents of Edom",
+            "The fortresses of Edom"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the tribe of Benjamin possess (Obad 19)?",
+        "choice": [
+            "The hill country of Samaria",
+            "The plains of Moab",
+            "Gilead",
+            "Bashan"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will possess the land as far as Zarephath (Obad 20)?",
+        "choice": [
+            "The warriors of Asher",
+            "The fortresses of Ephraim",
+            "The armies of Judah",
+            "The Israelite exiles"
+        ],
+        "answer": "D",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the exiles of Jerusalem possess (Obad 20)?",
+        "choice": [
+            "The fortresses of Gilead",
+            "The towns of the Negev",
+            "The passes of the desert",
+            "The spring of Jericho"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will go up on Mount Zion (Obad 21)?",
+        "choice": [
+            "Deliverers",
+            "The remnant of Samaria",
+            "Widows and orphans",
+            "Priests"
+        ],
+        "answer": "A",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the deliverers on Mount Zion do (Obad 21)?",
+        "choice": [
+            "Restore the throne of David",
+            "Govern the mountains of Esau",
+            "Destroy the warriors of Edom",
+            "Pull down the walls of Teman"
+        ],
+        "answer": "B",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will be the Lord’s (Obad 21)?",
+        "choice": [
+            "His people",
+            "Zion",
+            "The kingdom",
+            "Teman in Edom"
+        ],
+        "answer": "C",
+        "category": "Obadiah",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/31_Obadiah_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    }
+]

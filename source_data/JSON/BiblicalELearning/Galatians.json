@@ -1,0 +1,3165 @@
+[
+    {
+        "question": "Who did Paul say he was not sent from (Gal. 1:1)?",
+        "choice": [
+            "The apostles",
+            "Men",
+            "The church",
+            "His own calling"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "By whom did Paul say he was sent (Gal. 1:1)?",
+        "choice": [
+            "The Holy Spirit",
+            "The apostles",
+            "Jesus Christ",
+            "The Son of Man"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Besides Jesus Christ who also sent Paul (Gal. 1:1)?",
+        "choice": [
+            "The Holy Spirit",
+            "The Apostles",
+            "The church at Jerusalem",
+            "God the Father"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who raised Christ from the dead (Gal. 1:1)?",
+        "choice": [
+            "God the Father",
+            "The Holy Spirit¶",
+            "He raised himself¶",
+            "The Word of God¶"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom is the book of Galatians addressed (Gal. 1:2)?",
+        "choice": [
+            "The church at Galatia",
+            "The churches in Galatia",
+            "All believers in the Lord Jesus Christ",
+            "The servants of the Lord"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul say was from God our Father and the Lord Jesus Christ in his greeting to the Galatians (Gal. 1:3)?",
+        "choice": [
+            "Grace and Truth",
+            "Justification and sanctification",
+            "Grace and Peace",
+            "The forgiveness of sins"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "From what did Jesus rescue us (Gal. 1:4)?",
+        "choice": [
+            "Our sins",
+            "The evil one",
+            "The world",
+            "The present evil age"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For what did Jesus give himself (Gal. 1:4)?",
+        "choice": [
+            "The world",
+            "The church",
+            "Our sins",
+            "Our redemption"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "According to what did Jesus rescue us from the present evil age (Gal. 1:4)?",
+        "choice": [
+            "What his Father had foreordained",
+            "The will of God the Father",
+            "The decree of God Almighty",
+            "The Scripture"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is to our God and Father forever and ever (Gal. 1:5)?",
+        "choice": [
+            "Glory",
+            "Honor",
+            "Power",
+            "Dominion"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "At what was Paul astonished (Gal. 1:6)?",
+        "choice": [
+            "That they had so easily fallen into sin",
+            "That they so quickly deserted the one who had called them",
+            "That they so totally abandoned the way of the righteous",
+            "That they rejected the truth and embraced a lie"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To what did Paul say the Galatians had turned to (Gal. 1:6)?",
+        "choice": [
+            "A lie",
+            "The evil one",
+            "Another gospel",
+            "The world"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What were some people doing to the Galatians according to Paul (Gal. 1:7)?",
+        "choice": [
+            "Leading them astray",
+            "Putting a stumbling block in front of them",
+            "Lying to them",
+            "Throwing them into confusion"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What were some people doing to the Galatians according to Paul (Gal. 1:7)?",
+        "choice": [
+            "Leading them astray",
+            "Putting a stumbling block in front of them",
+            "Trying to pervert the gospel",
+            "Lying to them"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did Paul say to reject if even they preached another gospel (Gal. 1:8)?",
+        "choice": [
+            "The Holy Spirit",
+            "An angel",
+            "An apostle",
+            "A bishop"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul say should happen to one who preaches another gospel (Gal. 1:9)?",
+        "choice": [
+            "They should be under God’s curse",
+            "They should be eternally damned",
+            "They should perish in their sins",
+            "They should be struck mute never to speak again"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What would Paul not be if he tried to please people (Gal. 1:10)?",
+        "choice": [
+            "An apostle of Jesus Christ",
+            "A servant of Christ",
+            "A faithful minister of the gospel",
+            "A messenger of God the Father"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did Paul say he would not be a servant of Jesus Christ (Gal. 1:10)?",
+        "choice": [
+            "If he preached another gospel",
+            "If he followed the way of the world",
+            "If he tried to please people",
+            "If he denied the resurrection"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was not the origin of the gospel (Gal. 1:11)?",
+        "choice": [
+            "Not of apostolic origin",
+            "Not of this world",
+            "Not of Jewish origin",
+            "Not of human origin"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How had Paul received the gospel (Gal. 1:12)?",
+        "choice": [
+            "By a dream from God the Father",
+            "By the word of Scripture",
+            "By revelation from Jesus Christ",
+            "By the words of Stephen the martyr"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What had Paul done previously (Gal. 1:13)?",
+        "choice": [
+            "Rejected the Lord Jesus Christ",
+            "Persecuted and tried to destroy the church",
+            "Trampled on the word of God",
+            "Put in prison those who followed Jesus"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For what was Paul previously zealous of (Gal. 1:14)?",
+        "choice": [
+            "The tradition of the elders",
+            "The gospel of Jesus Christ",
+            "The law and the prophets",
+            "The commandments of God"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul say God did by his grace (Gal. 1:15)?",
+        "choice": [
+            "He healed him",
+            "He called him",
+            "He forgave him",
+            "He commissioned him"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where was Paul to preach (Gal. 1:16)?",
+        "choice": [
+            "In Jerusalem",
+            "In Judea",
+            "Among the Gentiles",
+            "To all the world"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was God pleased to reveal in Paul (Gal. 1:16f)?",
+        "choice": [
+            "The word of God",
+            "His grace",
+            "His mercy",
+            "His Son"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After Paul was called what did he not do (Gal. 1:16)?",
+        "choice": [
+            "Circumcise Timothy",
+            "Seek the approval of the Jewish elders",
+            "Consult with any human being",
+            "Seek any longer to persecute the church"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did Paul go after he was called (Gal. 1:17)?",
+        "choice": [
+            "Tarsus",
+            "Arabia",
+            "Jerusalem",
+            "Samaria"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did Paul not go after he was called (Gal. 1:17)?",
+        "choice": [
+            "Tarsus",
+            "Cyprus",
+            "Jerusalem",
+            "Corinth"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After going to Arabia to where did Paul return (Gal. 1:17)?",
+        "choice": [
+            "Damascus",
+            "Jerusalem",
+            "Antioch",
+            "Tarsus"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With whom did Paul stay for 15 days (Gal. 1:18)?",
+        "choice": [
+            "John, the apostle",
+            "Peter",
+            "James, the brother of Jesus",
+            "Barnabas"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How long after his call did Paul go up to Jerusalem (Gal. 1:18)?",
+        "choice": [
+            "A month",
+            "A sabbath",
+            "Three years",
+            "One year"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did Paul get acquainted with when he first when up to Jerusalem after his call Gal. 1:18)?",
+        "choice": [
+            "John, the apostle",
+            "James, the brother of Jesus",
+            "Barnabas",
+            "Cephas"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When Paul initially went to Jerusalem who was the only other person besides Cephas that he mentioned seeing (Gal. 1:19)?",
+        "choice": [
+            "John, the apostle",
+            "Barnabas",
+            "James, the brother of Jesus",
+            "Silas"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Of what did Paul assure the Galatians (Gal. 1:20)?",
+        "choice": [
+            "He actually saw the Lord",
+            "What he was writing was not a lie",
+            "He had repented of his former life",
+            "He was not seeking to harm the church any longer"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did Paul go after going up to Jerusalem to see Cephas (Gal. 1:21)?",
+        "choice": [
+            "Syria and Cilicia",
+            "Cypress",
+            "Tarsus and Lystra",
+            "Tyre and Sidon"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To what churches did Paul say he was unknown after he had been call (Gal. 1:22)?",
+        "choice": [
+            "The churches of Israel",
+            "The churches of Judea",
+            "The churches of Jerusalem",
+            "The churches at Antioch"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What had the churches of Judea heard (Gal. 1:23)?",
+        "choice": [
+            "The gospel was being preached even among the Gentiles",
+            "The Pharisee who had killed their brothers had seen Christ",
+            "The man who formerly persecuted them was not preaching the faith",
+            "The man who had put Stephen to death was now preaching the gospel"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the churches of Judea’s response when they heard that Paul who had formerly persecuted them was now preaching the faith (Gal. 1:24)?",
+        "choice": [
+            "They were fearful",
+            "They wept for joy",
+            "They broke bread together",
+            "They praised God"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did Paul go up to Jerusalem with Barnabas (Gal. 2:1)",
+        "choice": [
+            "Three years later",
+            "Ten years later",
+            "Fourteen years later",
+            "Sixteen years later"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With whom did Paul go up to Jerusalem after fourteen years (Gal. 2:1)?",
+        "choice": [
+            "Silas",
+            "Barnabas",
+            "Timothy",
+            "Peter"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did Paul take with him when he went up to Jerusalem after 14 years (Gal. 2:1)?",
+        "choice": [
+            "Titus",
+            "Silas",
+            "Peter",
+            "Timothy"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul present to the leaders in Jerusalem (Gal. 2:2)?",
+        "choice": [
+            "His meeting of Jesus on the road to Damascus",
+            "The gospel that he preached among the Gentiles",
+            "The grace that God had shown him",
+            "How the Spirit and bound all peoples into the church"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did Paul present the gospel he had been preaching to the leaders in Jerusalem (Gal. 2:2)?",
+        "choice": [
+            "He wanted the apostles approval",
+            "He needed the support of those who had known Christ from the beginning",
+            "He wanted to make sure he was not running his race in vain",
+            "He wanted to tell them of the mighty works of God"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did Paul say was not compelled in Jerusalem to be circumcised (Gal. 2:3)?",
+        "choice": [
+            "Timothy",
+            "Simon",
+            "Silas",
+            "Titus"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What ethnic background was Titus who was not compelled to be circumcised (Gal. 2:3)?",
+        "choice": [
+            "Roman",
+            "Egyptian",
+            "Greek",
+            "Jewish"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did Paul say had infiltrated their ranks to spy on the freedom we have in Christ (Gal. 2:4)?",
+        "choice": [
+            "Some Jewish leaders",
+            "Some false believers",
+            "Some believer who had fallen away",
+            "Some Gentiles"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul say was the goal of those who had infiltrated their ranks (Gal. 2:4)?",
+        "choice": [
+            "To make them slaves",
+            "To return them to Judaism",
+            "To put them back under the law",
+            "To rule them as Romans"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did Paul not give in to the infiltrators for a moment (Gal. 2:5)?",
+        "choice": [
+            "That they might be exposed",
+            "That the gospel may be preserved",
+            "That truth may shine into all the world",
+            "That their errors might be rejected by all"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God not show (Gal. 2:6)?",
+        "choice": [
+            "Unrighteousness",
+            "Wickedness",
+            "Favoritism",
+            "Injustice"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did those held in high esteem not do for Paul (Gal. 2:6)?",
+        "choice": [
+            "Correct him in any way",
+            "Change his proclamation of the gospel",
+            "Reject his gospel to the Gentiles",
+            "Add anything to his message"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did those of high esteem in Jerusalem recognize (Gal. 2:7)?",
+        "choice": [
+            "That Paul was anointed by the Holy Spirit to preach the gospel",
+            "That Paul preached the gospel with the power given to him by the Father",
+            "That Paul was entrusted with preaching the gospel to the uncircumcised",
+            "That Paul had seen a vision of Christ on the road to Damascus"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom was it recognized that Paul was to preach the gospel (Gal. 2:7)?",
+        "choice": [
+            "The Samaritans",
+            "The uncircumcised",
+            "The unclean Gentiles",
+            "Those outside of Israel"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom had the preaching of the gospel to the circumcised been committed (Gal. 2:7)?",
+        "choice": [
+            "Peter",
+            "John",
+            "Barnabas",
+            "James, the brother of Jesus"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Paul identify himself by the work God had done in him (Gal. 2:8)?",
+        "choice": [
+            "A messenger of the gospel",
+            "An apostle to the Gentiles",
+            "A preacher of the Gospel to the world",
+            "A servant of the Lord Jesus"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following gave Paul the right hand of fellowship in Jerusalem EXCEPT (Gal. 2:9)",
+        "choice": [
+            "John",
+            "Cephas",
+            "Barnabas",
+            "James"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom did the pillars at Jerusalem agree that Paul should go to (Gal. 2:9?",
+        "choice": [
+            "The unclean",
+            "The world",
+            "Those at Rome",
+            "The Gentiles"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What one thing did the pillars at Jerusalem ask Paul and Barnabas to remember to do (Gal. 2:10)?",
+        "choice": [
+            "Not eat meat offered to idols",
+            "To circumcise the Gentiles",
+            "Help the poor",
+            "Not to commit fornication"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did Paul oppose to his face at Antioch (Gal. 2:11)?",
+        "choice": [
+            "John",
+            "Cephas",
+            "John Mark",
+            "Barnabas"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did Paul oppose Peter to his face (Gal. 2:11)?",
+        "choice": [
+            "Antioch",
+            "Jerusalem",
+            "Damascus",
+            "Cyprus"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Peter do before men came from James (Gal. 2:12)?",
+        "choice": [
+            "He used to support no circumcision of the Gentiles",
+            "He used to eat with the Gentiles",
+            "He used to wash the feet of Gentiles",
+            "He used to preach the gospel to the Gentiles"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Of whom was Peter afraid in terms of eating with Gentiles (Gal. 2:12)?",
+        "choice": [
+            "The church in Jerusalem",
+            "The apostles in Jerusalem",
+            "The men who had come from James",
+            "The men who had come from John"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who also was led astray into Peter’s hypocrisy of not eating with the Gentiles (Gal. 2:13)?",
+        "choice": [
+            "Silas",
+            "John Mark",
+            "Timothy",
+            "Barnabas"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Of what did Paul accuse Peter after men came from James (Gal. 2:14)?",
+        "choice": [
+            "Wanting to circumcise the flesh but ignoring the spirit",
+            "Acting like a Pharisee",
+            "Living like a Gentile",
+            "Rejecting the gospel"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul accuse Peter of doing after men came from James to Antioch (Gal. 2:14)?",
+        "choice": [
+            "Forcing the Gentiles to pay for the poor in Jerusalem",
+            "Forcing the Gentiles to observe Jewish customs",
+            "Forcing the Gentiles into circumcision",
+            "Forcing the Gentiles to serve the Jewish believers"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How is a person not justified (Gal. 2:15)?",
+        "choice": [
+            "By works of the law",
+            "By circumcision",
+            "By eating only clean foods",
+            "By becoming Jewish"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How is a person justified (Gal. 2:16)?",
+        "choice": [
+            "By giving up their hypocrisy",
+            "By faith in Jesus Christ",
+            "By the work of the Spirit of God",
+            "By turning from sin to God the Father"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will be justified by works of the law (Gal. 2:16)?",
+        "choice": [
+            "All who keep the law perfectly",
+            "No one",
+            "Only those who trust in Jesus",
+            "All who repent of their sin"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Paul see himself if he rebuilds what he had destroyed (Gal. 2:18)?",
+        "choice": [
+            "A Gentile",
+            "A sinner",
+            "A lawbreaker",
+            "A hypocrite"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did Paul die to the law (Gal. 2:19)?",
+        "choice": [
+            "So that he might be free in Christ",
+            "So that he proclaim the gospel to the Gentiles",
+            "So that others might glorify God",
+            "So that he might live for God"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With whom has Paul been crucified (Gal. 2:20)?",
+        "choice": [
+            "With death",
+            "With his sins",
+            "With Christ",
+            "The church of Christ"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who lives in Paul (Gal. 2:20)?",
+        "choice": [
+            "The Spirit",
+            "Christ",
+            "God",
+            "His soul"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Paul now live (Gal. 2:20)?",
+        "choice": [
+            "By faith in the Son of God",
+            "In the redemption purchased by Christ",
+            "In the power of the Spirit",
+            "In the freedom of Christ"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What two things did Paul say Christ had done for him so that he now lives by faith in the Son of God (Gal. 2:20)?",
+        "choice": [
+            "He forgave Paul all his sins and redeemed him",
+            "He loved him and gave himself for Paul",
+            "He redeemed Paul from the law of sin and death",
+            "He saved Paul from the bonds of death"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the result if righteousness could be gained through the law (Gal. 2:21)?",
+        "choice": [
+            "Christ would not have been crucified",
+            "Grace would have set us free",
+            "Christ would have died for nothing",
+            "Salvation would not be by grace"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How would Christ have died for nothing (Gal. 2:21)?",
+        "choice": [
+            "If Christ had not been raised from the dead",
+            "If God was not merciful and just",
+            "If we refused to believe that Christ died for our sins",
+            "If righteousness could be gained through the law"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul ask the “foolish Galatians” (Gal. 3:1)?",
+        "choice": [
+            "Who has deceived you",
+            "Who has bewitched you",
+            "Who has led you astray",
+            "Who taught you this folly"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When asking the Galatians who bewitched them, how does Paul address them (Gal. 3:1)?",
+        "choice": [
+            "As sinful Galatians",
+            "As evil Galatians",
+            "As foolish Galatians",
+            "As brothers and sister Galatians"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What had the Galatians how was Christ clearly portrayed (Gal. 3:1)?",
+        "choice": [
+            "As victor",
+            "As savior",
+            "As resurrected",
+            "As crucified"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How had the Galatians not received the Spirit (Gal. 3:2)?",
+        "choice": [
+            "By eating only clean foods",
+            "By believing what they heard",
+            "By the works of the law",
+            "By circumcision"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How had the Galatians received the Spirit (Gal. 3:2)?",
+        "choice": [
+            "By obeying to the gospel that Paul preached",
+            "By believing what they heard",
+            "By the works of the law",
+            "By following in the way of Christ"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How, by what means, had the Galatians begun (Gal. 3:3)",
+        "choice": [
+            "By the Spirit",
+            "By faith alone",
+            "By grace",
+            "By the redemption that is in Christ Jesus"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul rebukes the Galatians that they were trying to finish by what means (Gal. 3:3)?",
+        "choice": [
+            "By means of the law",
+            "By means of the flesh",
+            "By means of works",
+            "By means of circumcision"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul say God did not do by works of the Law (Gal. 3:5)?",
+        "choice": [
+            "Give them mercy",
+            "Give them gifts",
+            "Give them his Spirit",
+            "Give them redemption"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul say God did not do by works of the Law (Gal. 3:5)?",
+        "choice": [
+            "Show them mercy in Christ Jesus",
+            "Give them spiritual gifts",
+            "Provide them with redemption",
+            "Work miracles among them"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does Paul cite as having believed God (Gal. 3:6)?",
+        "choice": [
+            "Moses",
+            "Isaiah",
+            "Abraham",
+            "David"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was credited to Abraham by him believing (Gal. 3:6)?",
+        "choice": [
+            "Grace",
+            "Righteousness",
+            "Holiness",
+            "Forgiveness"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How was Abraham credited with righteousness (Gal. 3:6)?",
+        "choice": [
+            "By his believing",
+            "By God’s grace",
+            "By the election of God",
+            "By his sacrifice of Isaac"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who are the children of Abraham (Gal. 3:7)?",
+        "choice": [
+            "Those who follow Christ",
+            "Those who have faith",
+            "Those who accept God’s grace",
+            "Those who sacrifice their beloved"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Whose children are those who have faith (Gal. 3:7)?",
+        "choice": [
+            "David",
+            "Moses",
+            "Abraham",
+            "Jesus"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did God announce the gospel in advance to Abraham (Gal. 3:8)?",
+        "choice": [
+            "He foresaw it in the sacrifice of Isaac",
+            "When God said all the nations would be blessed through him",
+            "When Jesus forgave the sins of all the world",
+            "When Abraham was circumcised"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Scripture foresee (Gal. 3:8)?",
+        "choice": [
+            "That God would justify the Gentiles by faith",
+            "That redemption would come by Jesus Christ",
+            "That all the world would be saved",
+            "That the Gentiles would turn to God for the forgiveness of sin"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom did God say “all nations of the earth would be blessed through you” (Gal. 3:8)?",
+        "choice": [
+            "David",
+            "Abraham",
+            "Moses",
+            "Adam"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Abraham called (Gal. 3:9)?",
+        "choice": [
+            "The father of us all",
+            "The servant of the Lord",
+            "The man of faith",
+            "The man of God"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who are blessed along with Abraham (Gal. 3:9)?",
+        "choice": [
+            "Those who walk in his ways",
+            "Those who rely on faith",
+            "Those who are circumcised in the heart",
+            "Those who are his children"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who are under a curse (Gal. 3:10)?",
+        "choice": [
+            "All who rely on the works of the law",
+            "All who are circumcised in their flesh",
+            "All who have sinned",
+            "All who have turned after their own way"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are all those who rely on the works of the law under (Gal. 3:10)?",
+        "choice": [
+            "Condemnation",
+            "A curse",
+            "Rejection",
+            "A burden"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Scripture says who is cursed (Gal. 3:10)?",
+        "choice": [
+            "By those not believing that Christ has risen from the dead",
+            "By not following in the way of Christ our redeemer",
+            "By not continuing to do everything written in the Book of the Law",
+            "By not continuing to do everything written in the Lamb’s Book of Life"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who is not justified before God (Gal. 3:11)?",
+        "choice": [
+            "Anyone who is circumcised",
+            "Anyone who believes that they are righteous",
+            "Anyone who follows Moses",
+            "Anyone who relies on the law"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who lives by faith (Gal. 3:11)?",
+        "choice": [
+            "The just",
+            "Those who receive grace",
+            "The righteous",
+            "The redeemed"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How do the righteous live (Gal. 3:11)?",
+        "choice": [
+            "By deeds",
+            "By faith",
+            "By justice",
+            "By hope"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is not based on faith (Gal. 3:12)?",
+        "choice": [
+            "The law",
+            "Circumcision",
+            "Works of righteousness",
+            "Redemption"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the law say (Gal. 3:12)?",
+        "choice": [
+            "The person who follows the commandments will live",
+            "The person who does these things will live by them",
+            "Whoever lives according to the law will live",
+            "By the works of the law we will be justified"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "From what did Christ redeem us (Gal. 3:13)?",
+        "choice": [
+            "Sin and death",
+            "The obligations of the old covenant",
+            "The curse of the law",
+            "Our sins"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Christ redeem us from the curse of the law (Gal. 3:13)?",
+        "choice": [
+            "By shedding his blood for us",
+            "By giving us his blessing instead",
+            "By banishing the law",
+            "By becoming a curse for us"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who is cursed as it is written (Gal. 3:13)?",
+        "choice": [
+            "All who are justified by without works of the law",
+            "Everyone condemned by the priest",
+            "Everyone who is hung on a pole",
+            "All who are uncircumcised"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did Christ redeem us (Gal. 3:14)?",
+        "choice": [
+            "So that the blessing of Israel might be extended to the Gentiles as well",
+            "So that the blessing of Abraham might come to the Gentiles",
+            "So that the covenant made with David might save the world",
+            "So that Jesus might be lord of all"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What blessing did Christ want to give to the Gentiles (Gal. 3:14)?",
+        "choice": [
+            "Abraham’s",
+            "David’s",
+            "God’s",
+            "Noah’s"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did we receive by faith (Gal. 3:14)?",
+        "choice": [
+            "The promise of Jacob",
+            "The promise of the Spirit",
+            "The promise of Christ",
+            "The blessing of David"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What can no one set aside or add to (Gal. 3:15)?",
+        "choice": [
+            "The statutes and commandments",
+            "The law",
+            "A human covenant",
+            "A promise of a king"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom was the promised “seed” made with Abraham (Gal. 3:16)?",
+        "choice": [
+            "David",
+            "Isaac",
+            "Israel",
+            "Christ"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How many years after the covenant with Abraham was the law introduced (Gal. 3:17)?",
+        "choice": [
+            "240 years",
+            "300 years",
+            "430 years",
+            "510 years"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What came 430 years after the promise given to Abraham (Gal. 3:16)?",
+        "choice": [
+            "The land",
+            "The law",
+            "Circumcision",
+            "The redemption from Egypt"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the law unable to set aside or do away with (Gal. 3:17)?",
+        "choice": [
+            "The covenant established by God",
+            "The prediction of the prophets of God",
+            "The faith in Christ Jesus",
+            "The will of God the Father toward Israel"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God give to Abraham by promise (Gal. 3:18)?",
+        "choice": [
+            "Freedom",
+            "An inheritance",
+            "Forgiveness of sins",
+            "The land"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How was the law given (Gal. 3:19)?",
+        "choice": [
+            "Though a prophet",
+            "Through Moses",
+            "Through angels",
+            "Through the word of God"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why was the law given (Gal. 3:19)?",
+        "choice": [
+            "It came because the promise was weak",
+            "It was given because Israel became a nation",
+            "It was given because faith had disappeared",
+            "It was added because of transgressions"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After the law was given through angels to whom was it entrusted (Gal. 3:19)?",
+        "choice": [
+            "Those who believe",
+            "Israel",
+            "A mediator",
+            "A witness"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does a mediator imply (Gal. 3:20)?",
+        "choice": [
+            "The Holy Spirit",
+            "More than one party",
+            "Two witnesses",
+            "A promise was made"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul in Galatians reminds them, God is _______ (Gal. 3:20)",
+        "choice": [
+            "One",
+            "A Spirit",
+            "Creator",
+            "The law giver"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the law not able to impart (Gal. 3:22)?",
+        "choice": [
+            "Perfection",
+            "Life",
+            "Peace",
+            "Redemption"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To what does Paul say “Absolutely not” (Gal. 3:21)?",
+        "choice": [
+            "The Gentiles must observe the law",
+            "Faith encourages people to sin",
+            "The law is opposed to the promises of God",
+            "The law can bring forgiveness of sins"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "If a law had been given that could impart life then what out have come by the law (Gal. 3:21)?",
+        "choice": [
+            "Atonement",
+            "Forgiveness",
+            "Justification",
+            "Righteousness"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What had Scripture locked everything under the control of (Gal. 3:22)?",
+        "choice": [
+            "Grace",
+            "Redemption",
+            "Sin",
+            "Righteousness"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Through what was the promise given (Gal. 3:22)?",
+        "choice": [
+            "Through the blood of Jesus Christ",
+            "Through faith in Jesus Christ",
+            "Through the grace of God",
+            "Through the unchanging character of God"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom was what was promised given (Gal. 3:22)?",
+        "choice": [
+            "To those who believe",
+            "To those who are under the law",
+            "To those to whom the promise was given",
+            "To those who were righteous"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where does Paul say we were before coming to faith (Gal. 3:23)?",
+        "choice": [
+            "Shackled by the old covenant",
+            "Held in custody under the law",
+            "Circumcised in the flesh alone",
+            "Slaves to our trespasses and sins"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul says we were locked up under the law until what (Gal. 3:23)?",
+        "choice": [
+            "Until we were set free by Christ",
+            "Until we were baptized into the Spirit",
+            "Until the faith that was to come was revealed",
+            "Until Christ died for our sins"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What role did the law play until Christ came (Gal. 3:24)?",
+        "choice": [
+            "Our parent",
+            "Our slave master",
+            "Our guide",
+            "Our guardian"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When are we no longer under the guardian of the law (Gal. 3:25)?",
+        "choice": [
+            "Once God choose us",
+            "Once the Spirit freed us",
+            "Once faith has come",
+            "Once Christ died for us"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are we in Christ through faith (Gal. 3:26)?",
+        "choice": [
+            "Brothers and sisters",
+            "Children of God",
+            "Servants of Christ",
+            "Members of Christ’s body"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who has clothed themselves with Christ (Gal. 3:27)?",
+        "choice": [
+            "All who have been baptized into Christ",
+            "All who have received the Spirit",
+            "All who believe that Christ died and rose from the dead",
+            "All who are members of his body"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What have all who were baptized into Christ done (Gal. 3:27)?",
+        "choice": [
+            "Freed ourselves from the law of sin and death",
+            "Clothed ourselves with Christ",
+            "Received him by faith",
+            "Received the Spirit in his name"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following were listed as one in Christ EXCEPT (Gal. 3:28)",
+        "choice": [
+            "Slave",
+            "Female",
+            "Tax collector",
+            "Gentile"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "If one belongs to Christ then what is the person (Gal. 3:29)?",
+        "choice": [
+            "Sons of David",
+            "Witnesses to the promise",
+            "Servants of the Lord",
+            "Abraham’s seed"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "If one belongs to Christ then what is the person (Gal. 3:29)?",
+        "choice": [
+            "Sons of David",
+            "Witnesses to the promise",
+            "Heirs according to the promise",
+            "Servants of the Lord"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who is no different than a slave (Gal. 4:1)?",
+        "choice": [
+            "One who keeps the law",
+            "An underaged heir",
+            "A poor friend",
+            "The one who is circumcised"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "While he is young to whom is the heir subject (Gal. 4:2)?",
+        "choice": [
+            "His mother and older siblings",
+            "His mother and father",
+            "Guardians and trustees",
+            "His mentors and teachers"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Under what does Paul say we were in slavery (Gal.  4:3)?",
+        "choice": [
+            "Under the law of sin and death",
+            "Under the shackles of the law of Moses",
+            "Under the bonds of circumcision",
+            "Under the elemental spiritual forces of the world"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did Jesus come (Gal. 4:4)?",
+        "choice": [
+            "When the world was finally ready",
+            "When the Scripture had predicted",
+            "When the set time had fully come",
+            "When God had foreordained"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Of whom does Paul say Jesus was born (Gal. 4:4)?",
+        "choice": [
+            "Mary",
+            "A woman",
+            "A servant",
+            "One who was humble"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Under what was Christ born (Gal. 4:4)?",
+        "choice": [
+            "Under the law",
+            "Under the commandments",
+            "Under the covenant of Moses",
+            "Under the promise given to Abraham"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did Christ redeem those under the law (Gal. 4:5)?",
+        "choice": [
+            "That we might be sanctified by the Spirit",
+            "That we might receive the adoption of sonship",
+            "That we might be set free from sin and death",
+            "That we might receive the new covenant"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did Christ redeem so that they might receive the adoption of sonship (Gal. 4:5)?",
+        "choice": [
+            "Those who were circumcised",
+            "Those who believed",
+            "Those who were under the law",
+            "Those who were the children of Abraham"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God send into our hearts (Gal. 4:6)?",
+        "choice": [
+            "The truth of the gospel",
+            "Grace and truth",
+            "The freedom of the Spirit",
+            "The Spirit of his Son"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Spirit call out in our hearts (Gal. 4:6)?",
+        "choice": [
+            "Freedom",
+            "Lord have mercy",
+            "Abba, Father",
+            "Lord and Savior"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When the Spirit calls out in our hearts Abba, what does that show (Gal. 4:7)?",
+        "choice": [
+            "We are no longer under the law but under grace",
+            "We are no longer a slave but God’s child",
+            "We are no longer an heir but a son",
+            "We are no longer children of this world but the kingdom of God"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What has God made us since we are God’s child (Gal. 4:7)?",
+        "choice": [
+            "An heir",
+            "A judge",
+            "A disciple",
+            "A friend"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Formerly, to whom were they slaves (Gal. 4:8)?",
+        "choice": [
+            "To those who were under the law",
+            "To those who by nature were not gods",
+            "To those who wanted to enslave them",
+            "To those who were children of Abraham"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When does Paul say the Galatians were slaves (Gal. 4:8)?",
+        "choice": [
+            "When they were children of Abraham",
+            "When they were in the world",
+            "When they did not know God",
+            "When they were under the law"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul call the forces that the Galatians were turning back to (Gal. 4:9)?",
+        "choice": [
+            "Slave masters and tyrants",
+            "Messengers of Satan",
+            "Unjust and untrue",
+            "Weak and miserable"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say the Galatians are doing (Gal. 4:10)?",
+        "choice": [
+            "Circumcising their children",
+            "Observing the laws on what they were eating C Observing special days, months, and seasons",
+            "Judging others who did not follow their traditions"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul fear (Gal. 4:11)?",
+        "choice": [
+            "That they had rejected the freedom in Christ",
+            "That he had wasted his efforts on them",
+            "That he had preached another gospel to them",
+            "That he would never see them again"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who had Paul become like (Gal. 4:12)?",
+        "choice": [
+            "Them, the Galatians",
+            "Christ",
+            "A son of God",
+            "Moses"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why had Paul first preached the gospel to the Galatians (Gal. 4:13)?",
+        "choice": [
+            "Because Christ had commanded him",
+            "Because of an illness",
+            "Because of a shipwreck",
+            "Because the Spirit led him there"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul do because of his illness (Gal. 4:13)?",
+        "choice": [
+            "He sought the Lord three times to remove it",
+            "He could not come to them",
+            "He preached the gospel to the Galatians",
+            "He was with them every Sabbath"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In his illness, how had the Galatians received him (Gal. 4:14)?",
+        "choice": [
+            "As if he were an apostle of Christ",
+            "As if he were their pastor",
+            "As if he were their brother in Christ",
+            "As if he were an angel of God"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How had the Galatians not treated Paul in his illness (Gal. 4:14)?",
+        "choice": [
+            "With mercy and grace",
+            "With disgust and disdain",
+            "With contempt or scorn",
+            "With shame and rejection"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What would some of the Galatians done for Paul in his illness (Gal. 4:15)?",
+        "choice": [
+            "Given him the best wine that they had",
+            "Torn out their eyes and given them to Paul",
+            "Bathed him in water every day",
+            "Bound up his wounds"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul asked them if he was their enemy because _______ (Gal. 4:16)",
+        "choice": [
+            "He told them the truth",
+            "He told him the law was enslaving them",
+            "He told them the gospel",
+            "He was trying to free them for their bondage"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do Paul’s opponents want (Gal. 4:17)?",
+        "choice": [
+            "To make them jealous of the Jews",
+            "To win the Galatians over to have zeal for them",
+            "To misguide the Galatians back into keeping the law",
+            "To get the Galatians to have zeal for the traditions of the elders"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When is being zealous good (Gal. 4:18)?",
+        "choice": [
+            "When the purpose is for righteousness",
+            "When the goal is Christ",
+            "When the purpose is good",
+            "When it is for Christ alone"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Paul in pain of childbirth for the Galatians (Gal. 4: 19)?",
+        "choice": [
+            "Until the church is in agreement",
+            "Until they are holy and God is holy",
+            "Until the Spirit is in their hearts",
+            "Until Christ is formed in them"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is Paul until Christ is formed in the Galatians (Gal. 4:19)?",
+        "choice": [
+            "Anxious in his spirit",
+            "Trusting in the message of the gospel",
+            "In pains of childbirth",
+            "In sorrow"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is Paul concerning the Galatians (Gal. 4:20)?",
+        "choice": [
+            "Anxious",
+            "Perplexed",
+            "Sorrowful",
+            "Disappointed"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How many sons did Abraham have (Gal. 4:21)?",
+        "choice": [
+            "Two",
+            "One",
+            "Many",
+            "Twelve"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Abraham’s wife who was born of the slave woman was born according to _____ (Gal. 4:23)",
+        "choice": [
+            "The law",
+            "The flesh",
+            "A lack of trust",
+            "Slavery"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Abraham’s son born of the free woman was born as a result of _____ (Gal. 4:23)",
+        "choice": [
+            "Freedom",
+            "The gospel",
+            "A divine promise",
+            "The mighty work of God"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do Abraham’s two women (Sarah and Hagar) represent (Gal. 4:24)?",
+        "choice": [
+            "Jews and Gentiles",
+            "Those under the law and those under grace",
+            "Believers and unbelievers",
+            "Two covenants"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where is the covenant represented by Hagar (Gal. 4:25)?",
+        "choice": [
+            "Mount Nebo",
+            "Mount Carmel",
+            "Mount Sinai",
+            "Mount of Olives"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To what city does Mount Sinai/Hagar correspond (Gal. 4:25)?",
+        "choice": [
+            "Samaria",
+            "Jerusalem",
+            "Sodom",
+            "Antioch"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who is our free mother (Gal. 4:26)?",
+        "choice": [
+            "Jerusalem that is above",
+            "Hebron in the south",
+            "Antioch by the sea",
+            "Rome the capital of the world"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is written for the barren woman to do (Gal. 4:27)?",
+        "choice": [
+            "Grieve with sorrow",
+            "Shout for joy",
+            "Break into singing",
+            "Weep over her children"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was told by shout for joy and cry aloud (Gal. 4:27)?",
+        "choice": [
+            "The slave woman",
+            "The woman with children",
+            "The barren woman",
+            "The free woman"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who has more children than a woman who has a husband (Gal. 4:27)?",
+        "choice": [
+            "The woman without a husband",
+            "The grieving woman",
+            "The slave woman",
+            "The desolate woman"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul tells the Galatians they are like whom (Gal. 4:28)?",
+        "choice": [
+            "Israel",
+            "Abraham",
+            "Isaac",
+            "Moses"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul identifies the Galatians as ________ (Gal. 4:28)?",
+        "choice": [
+            "Children of the covenant",
+            "Children of the promise",
+            "Children of Abraham",
+            "Children of Israel"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How was the son born who was persecuted (Gal. 4:29)?",
+        "choice": [
+            "By the power of the Spirit",
+            "By the power of the word of God",
+            "By the power of Jesus Christ",
+            "By the power of the promise"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Scripture say to do with the slave woman and her son (Gal. 4:30)?",
+        "choice": [
+            "Adopt her into the family",
+            "Get rid of her",
+            "Bring her home",
+            "Preach the gospel to her"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul identifies himself and the Galatians as children of ______ (Gal. 4:31)?",
+        "choice": [
+            "Christ",
+            "True Israel",
+            "The free woman",
+            "The Spirit"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul warn them not to be burdened again with (Gal. 5:1)?",
+        "choice": [
+            "The shackles of slavery",
+            "The yoke of slavery",
+            "The bondage of the law",
+            "Circumcision"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When will Christ be of no value to the Galatians (Gal. 5:2)?",
+        "choice": [
+            "If they follow the law",
+            "If they return to their idols",
+            "If they let themselves be circumcised",
+            "If they submit to the law"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is everyone who lets himself be circumcised obligated to (Gal. 5:3)?",
+        "choice": [
+            "Not eat meat offered to idols",
+            "Obeying the traditions of the elders",
+            "The desires of the flesh",
+            "To obey the whole law"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who is alienated from Christ (Gal. 5:4)?",
+        "choice": [
+            "Those who turn away from grace",
+            "Those offering sacrifices",
+            "Those trying to be justified by the law",
+            "Those who are servants of the law"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "From what have those trying to be justified by the law fallen away from (Gal. 5:4)?",
+        "choice": [
+            "Eternal life",
+            "Grace",
+            "Christ",
+            "The Spirit"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How do we eagerly await by faith the righteousness we hope (Gal. 5:5)?",
+        "choice": [
+            "Through the Spirit",
+            "Through Christ",
+            "Through God the Father",
+            "Through freedom"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In Christ was has no value (Gal. 5:6)?",
+        "choice": [
+            "The law",
+            "Circumcision",
+            "Sacrifices",
+            "Obeying the commandments"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul acknowledge what were the Galatians doing well (Gal. 5:7)?",
+        "choice": [
+            "Following Christ",
+            "Building up the church",
+            "Running a good race",
+            "Fighting a good fight"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul asks the Galatians who cut in on them to keep them from _____ (Gal. 5:7)?",
+        "choice": [
+            "Following Christ",
+            "Grace",
+            "Freedom",
+            "Obeying the truth"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does a little yeast do (Gal. 5:9)?",
+        "choice": [
+            "Expands into a full loaf of bread",
+            "Works with the flour to produce enough food to feed a family",
+            "Works through the whole batch of dough",
+            "Feeds many from the way it works"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say will happen to the one throwing the Galatians into confusion (Gal. 5:10)?",
+        "choice": [
+            "They will die",
+            "They will pay the penalty",
+            "They themselves will be circumcised",
+            "They will be left under the law"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is Paul confident in the Lord about (Gal. 5:10)?",
+        "choice": [
+            "That they will take no other view",
+            "That they will not forsake the gospel",
+            "That they will be triumphant in Christ",
+            "That they will hold fast to his teaching"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul asks why he was still being persecuted, if he was still doing what (Gal. 5:11)?",
+        "choice": [
+            "Following the path of Judaism",
+            "Preaching circumcision",
+            "Teaching the law",
+            "Obeying the tradition of the elders"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What would be abolished if Paul was still preaching circumcision (Gal. 5:11)?",
+        "choice": [
+            "The grace of God",
+            "The freedom we have in Christ",
+            "The offense of the cross",
+            "The gospel of Christ Jesus"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul wish the agitators would do (Gal. 5:12)?",
+        "choice": [
+            "Turn to Christ",
+            "Embrace the grace of God",
+            "Keep the whole law",
+            "Emasculate themselves"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul call those whom he wishes would go the whole way and emasculate themselves (Gal. 5:12)?",
+        "choice": [
+            "Opponents",
+            "Deceivers",
+            "Agitators",
+            "Liars"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For what are the Galatians called (Gal. 5:13)?",
+        "choice": [
+            "To preach the gospel",
+            "To be free",
+            "To be servants of Christ",
+            "To be under grace"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Because we are free, what should we not do (Gal. 5:13)?",
+        "choice": [
+            "Indulge the flesh",
+            "Return to the bondage of the law",
+            "Try the Spirit",
+            "Use our freedom for license"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should we do instead of indulging the flesh (Gal. 5:13)?",
+        "choice": [
+            "Be kind to all",
+            "Serve one another in love",
+            "Preach the gospel",
+            "Live in the freedom of the Spirit"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what is the entire law fulfilled (Gal. 5:14)?",
+        "choice": [
+            "Love the Lord your God",
+            "Believe on the Lord Jesus Christ",
+            "Love your neighbor as yourself",
+            "Serve the Lord with gladness"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How will then end of being destroyed (Gal. 5:15)?",
+        "choice": [
+            "If they circumcise one another",
+            "If they do not have compassion on one another",
+            "If they let the agitators into their midst",
+            "If they bit and devour one another"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "If one walks by the Spirit what will they not do (Gal. 5:16)?",
+        "choice": [
+            "Not walk under the bondage of the law",
+            "Face death and destruction",
+            "Gratify the desires of the flesh",
+            "Deny the Lord of glory"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What desires are contrary to the desires of the flesh (Gal. 5:17)?",
+        "choice": [
+            "The desires of the redeemed",
+            "The desires of the Spirit",
+            "The freedom in Christ",
+            "The path of righteousness"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When are you not under the law (Gal. 5:18)?",
+        "choice": [
+            "If you are led by the Spirit",
+            "If you have followed Christ",
+            "If Christ has set you free",
+            "If you are children of Abraham"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following are listed as acts of the flesh EXCEPT (Gal. 5:19-21)?",
+        "choice": [
+            "Sexual immorality",
+            "Pride",
+            "Debauchery",
+            "Idolatry",
+            "Witchcraft"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following are listed as acts of the flesh EXCEPT (Gal. 5:19-21)?",
+        "choice": [
+            "Hatred",
+            "Jealousy",
+            "Stealing",
+            "Discord",
+            "Fits of rage"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following are listed as acts of the flesh EXCEPT (Gal. 5:19-21)?",
+        "choice": [
+            "Envy",
+            "Selfish ambition",
+            "Drunkenness",
+            "Deception",
+            "Orgies"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will those who live according to the flesh not inherit (Gal. 5:21)?",
+        "choice": [
+            "An eternal home",
+            "The righteousness of Christ",
+            "The kingdom of God",
+            "The crown of life"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following are listed as fruits of the Spirit EXCEPT (Gal. 5:22-23)?",
+        "choice": [
+            "Love",
+            "Justice",
+            "Peace",
+            "Forbearance",
+            "Self-control"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following are listed as fruits of the Spirit EXCEPT (Gal. 5:22-23)?",
+        "choice": [
+            "Humility",
+            "Kindness",
+            "Goodness",
+            "Faithfulness",
+            "Gentleness"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Against what things is there no law (Gal. 5:23)?",
+        "choice": [
+            "The joy found in Christ",
+            "The fruits of the Spirit",
+            "The way of wisdom",
+            "The virtues of Christ"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What have those who belong to Christ crucified (Gal. 5:24)?",
+        "choice": [
+            "The flesh",
+            "The devil",
+            "Their sins",
+            "The law"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say we should not do to each other (Gal. 5:26)?",
+        "choice": [
+            "Lying",
+            "Provoking",
+            "Gossip about",
+            "Hurting"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say we should not do to each other (Gal. 5:26)?",
+        "choice": [
+            "Lying",
+            "Gossip about",
+            "Envying",
+            "Hurting"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say we should not become if we are living by the Spirit (Gal. 5:26)?",
+        "choice": [
+            "Wicked",
+            "Unjust",
+            "Full of hate",
+            "Conceited"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does Paul say should restore one caught in a sin (Gal. 6:1)?",
+        "choice": [
+            "Those who are in Christ",
+            "Those who are chosen",
+            "Those who live by the Spirit",
+            "Those who are walking in grace"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How should the person caught in a sin be restored (Gal. 6:1)?",
+        "choice": [
+            "Quietly",
+            "Gently",
+            "Graciously",
+            "Justly"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say the Galatians should carry (Gal. 6:2)?",
+        "choice": [
+            "Each other’s burdens",
+            "Their cross",
+            "The blesses of grace",
+            "The message of the gospel"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the Galatians who carry each other’s burdens fulfill (Gal. 6:2)?",
+        "choice": [
+            "The promise of the Father",
+            "The law of Christ",
+            "The fruit of the Spirit",
+            "The covenant of Abraham"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does Paul say deceives themselves (Gal. 6:3)?",
+        "choice": [
+            "Those who act according to the flesh",
+            "Those who cause factions among those who are in Christ",
+            "Those who think of themselves as something when they are not",
+            "Those who are trying to bring them into submission to the law of the flesh"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say the Galatians should test (Gal. 6:4)?",
+        "choice": [
+            "Their own spirit",
+            "Their motives",
+            "Those seeking to join the church",
+            "Their own actions"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "If they test themselves what can they do (Gal. 6:4)?",
+        "choice": [
+            "Follow in the way of Christ",
+            "Avoid the errors of the wicked",
+            "Take pride in themselves alone",
+            "Stand in the end"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should each person carry (Gal. 6:5)?",
+        "choice": [
+            "Only the law of Christ",
+            "Their own load",
+            "The burden of the cross",
+            "The grace of God"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With whom should the Galatians share all good things (Gal. 6:6)?",
+        "choice": [
+            "Their instructor",
+            "Their elders",
+            "Those who believe",
+            "The whole community of Christ"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what have they received instruction (Gal. 6:6)?",
+        "choice": [
+            "In Christ",
+            "In the word",
+            "In the Spirit",
+            "In the law"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Of what should the Galatians not be deceived (Gal. 6:7)?",
+        "choice": [
+            "The law cannot give life",
+            "Paul desired to come to them",
+            "God cannot be mocked",
+            "God cannot lie"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does a person reap (Gal. 6:7)?",
+        "choice": [
+            "Wheat from good soil",
+            "The results of his sin",
+            "The fruits of the law",
+            "What he sows"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will those who sow to please their flesh reap (Gal. 6:8)?",
+        "choice": [
+            "Judgment",
+            "Sorrow",
+            "Destruction",
+            "A fleshly reward"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will reap eternal life (Gal. 6:8)?",
+        "choice": [
+            "Those who sow the grace of God",
+            "Those who sow to please the Spirit",
+            "Those who love their neighbors as themselves",
+            "Those who plant the fruits of the Spirit"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will those who sow to please the Spirit reap (Gal. 6:8)?",
+        "choice": [
+            "Eternal life",
+            "Freedom",
+            "Blessing",
+            "The promise of Abraham"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what does Paul say we should not grow weary (Gal. 6:9)?",
+        "choice": [
+            "Walking in the way of Christ",
+            "In doing good",
+            "In bearing the cross",
+            "In obeying the Spirit"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What one condition does Paul say will be needed to reap a harvest (Gal. 6:9)?",
+        "choice": [
+            "If we plant in season",
+            "If we plow good ground",
+            "If we do not give up",
+            "If we walk in the Spirit"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom does Paul say they should especially do good (Gal. 6:10)?",
+        "choice": [
+            "To the poor in Jerusalem",
+            "To those who have shared the gospel with them",
+            "To those who are in need",
+            "To those who belong to the family of believers"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Paul write (Gal. 6:11)?",
+        "choice": [
+            "With papyrus",
+            "With beautiful letters",
+            "With large letters",
+            "With pen and ink"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are those who are trying to impress you in the flesh trying to do (Gal. 6:12)?",
+        "choice": [
+            "Entice you to works and away from grace",
+            "Compel you to be circumcised",
+            "Put you into bondage of the law",
+            "Draw you away from the grace of our Lord"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why are those trying to impress you in the flesh compelling you to be circumcised (Gal. 6:12)?",
+        "choice": [
+            "To avoid being persecuted for the cross of Christ",
+            "To enslave you in the ways of the world",
+            "To lead you away from the grace of our Lord",
+            "To gain mastery over you"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does Paul say do not keep the law (Gal. 6:13)?",
+        "choice": [
+            "The followers of Apollos",
+            "Those who are circumcised",
+            "Those who are in the flesh",
+            "The Judaizers"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what do those who are circumcised boast (Gal. 6:13)?",
+        "choice": [
+            "Their flesh",
+            "The works of the flesh",
+            "That you have been circumcised",
+            "The law"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what does Paul boast (Gal. 6:14)?",
+        "choice": [
+            "The fruits of the Spirit",
+            "The grace of God",
+            "The greatness of God",
+            "The cross of Christ"
+        ],
+        "answer": "D",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What has been crucified to Paul (Gal. 6:14)?",
+        "choice": [
+            "His flesh",
+            "The works of the flesh",
+            "The world",
+            "The law"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul says circumcision and uncircumcision don’t mean anything but what does count (Gal. 6:15)?",
+        "choice": [
+            "The fruit of the Spirit",
+            "The new creation",
+            "The church of Christ",
+            "The grace of God"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Paul in the end address the Galatians (Gal. 6:16)?",
+        "choice": [
+            "As the Israel of God",
+            "As the people of God",
+            "As the church of Christ",
+            "As the body of the Spirit"
+        ],
+        "answer": "A",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul bear on his body (Gal. 6:17)?",
+        "choice": [
+            "The eyes of his flesh",
+            "The marks of Jesus",
+            "Circumcision",
+            "The scars of persecution for Christ"
+        ],
+        "answer": "B",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul hope will be with their spirit (Gal. 6:18)?",
+        "choice": [
+            "Grace and truth",
+            "The fruits of the Spirit",
+            "The grace of our Lord Jesus Christ",
+            "The freedom of Christ"
+        ],
+        "answer": "C",
+        "category": "Galatians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/12/09_Galatians_MC_Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    }
+]

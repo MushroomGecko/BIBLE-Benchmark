@@ -1,0 +1,925 @@
+[
+    {
+        "question": "What is the Song of Songs also known as? (Song of Solomon 1:1)",
+        "choice": [
+            "The Song of David",
+            "The Song of Solomon",
+            "The Song of Moses",
+            "The Song of Israel"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved say is better than wine? (Song of Solomon 1:2)",
+        "choice": [
+            "Kisses of the mouth",
+            "Fragrant oils",
+            "A loving name",
+            "A king's chambers"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Beloved's name compared to? (Song of Solomon 1:3)",
+        "choice": [
+            "A fragrant garden",
+            "A refreshing stream",
+            "Oil poured out",
+            "A strong tower"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who says, 'Take me away with you. Let's hurry.'? (Song of Solomon 1:4)",
+        "choice": [
+            "The daughters of Jerusalem",
+            "The friends",
+            "The lover",
+            "The beloved"
+        ],
+        "answer": "D",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved compare herself to, though she is lovely? (Song of Solomon 1:5)",
+        "choice": [
+            "A rose of Sharon",
+            "A lily of the valleys",
+            "Kedar's tents",
+            "Solomon's curtains"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover compare his love to? (Song of Solomon 1:9)",
+        "choice": [
+            "A steed in Pharaoh's chariots",
+            "A cluster of henna blossoms",
+            "A sachet of myrrh",
+            "A dove in the clefts of the rock"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the fragrance of the Beloved compared to while the king is at his table? (Song of Solomon 1:12)",
+        "choice": [
+            "A field of spices",
+            "A sachet of myrrh",
+            "A cluster of henna blossoms",
+            "A flowing stream"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "To what does the Lover compare the Beloved's eyes? (Song of Solomon 1:15)",
+        "choice": [
+            "Like doves",
+            "Like jewels",
+            "Like a flowing river",
+            "Like stars"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved declare herself to be? (Song of Solomon 2:1)",
+        "choice": [
+            "A lily among thorns",
+            "An apple tree among the trees of the wood",
+            "A rose of Sharon",
+            "A cluster of henna blossoms"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Beloved compared to among the daughters? (Song of Solomon 2:2)",
+        "choice": [
+            "An apple tree",
+            "A rose of Sharon",
+            "A lily among thorns",
+            "A cluster of henna blossoms"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Under whose shadow did the Beloved sit with great delight? (Song of Solomon 2:3)",
+        "choice": [
+            "Her mother",
+            "The king",
+            "Her brothers",
+            "Her beloved"
+        ],
+        "answer": "D",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the banner over the Beloved? (Song of Solomon 2:4)",
+        "choice": [
+            "Love",
+            "Joy",
+            "Peace",
+            "Faith"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Beloved's request to the daughters of Jerusalem? (Song of Solomon 2:7)",
+        "choice": [
+            "To not stir up love until it desires",
+            "To awaken love with passion",
+            "To seek her beloved",
+            "To strengthen her with raisins"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is past when the flowers appear on the earth? (Song of Solomon 2:11)",
+        "choice": [
+            "Summer",
+            "Autumn",
+            "Winter",
+            "Spring"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where is the Lover's dove located? (Song of Solomon 2:14)",
+        "choice": [
+            "In the valleys",
+            "In the gardens",
+            "In the hiding places of the mountainside",
+            "In the city streets"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved say about her relationship with her beloved? (Song of Solomon 2:16)",
+        "choice": [
+            "He is her friend",
+            "He is her brother",
+            "He is her king",
+            "My beloved is mine, and I am his"
+        ],
+        "answer": "D",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the Beloved do at night on her bed? (Song of Solomon 3:1)",
+        "choice": [
+            "Slept soundly",
+            "Dreamed of her beloved",
+            "Sought him whom her soul loves",
+            "Prayed for his return"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who found the Beloved in the city? (Song of Solomon 3:3)",
+        "choice": [
+            "The king's guards",
+            "The watchmen",
+            "Her friends",
+            "Her family"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is Solomon's carriage made of? (Song of Solomon 3:9-10)",
+        "choice": [
+            "Wood of Lebanon, silver, gold, and purple",
+            "Gold, silver, and precious stones",
+            "Ivory, gold, and cedar",
+            "Cedar, bronze, and iron"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover compare the Beloved's hair to? (Song of Solomon 4:1)",
+        "choice": [
+            "A flock of goats",
+            "A field of wheat",
+            "A tower of ivory",
+            "A cluster of grapes"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Beloved's neck compared to? (Song of Solomon 4:4)",
+        "choice": [
+            "A stream of water",
+            "David's tower built for an armory",
+            "A flock of sheep",
+            "A field of lilies"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Lover's declaration about the Beloved? (Song of Solomon 4:7)",
+        "choice": [
+            "She is perfect in every way",
+            "She is beautiful and has no spot in her",
+            "She is the most beautiful among women",
+            "She is like a garden"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Beloved compared to? (Song of Solomon 4:12)",
+        "choice": [
+            "A flowing river",
+            "A locked up garden",
+            "A field of spices",
+            "A cluster of grapes"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover say he has gathered in his garden? (Song of Solomon 5:1)",
+        "choice": [
+            "Myrrh and spice, honeycomb and honey, wine and milk",
+            "Flowers and fruits",
+            "Grains and vegetables",
+            "Precious stones and metals"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Beloved's hair filled with? (Song of Solomon 5:2)",
+        "choice": [
+            "The fragrance of spices",
+            "The dampness of the night",
+            "The dew of the morning",
+            "The scent of lilies"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the appearance of the Lover's legs like? (Song of Solomon 5:15)",
+        "choice": [
+            "Pillars of marble set on sockets of fine gold",
+            "Sturdy oaks on a mountain",
+            "Tall cedars of Lebanon",
+            "Graceful vines on a trellis"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who asks 'Where has your beloved gone?' (Song of Solomon 6:1)",
+        "choice": [
+            "The Lover",
+            "The daughters of Jerusalem",
+            "The friends",
+            "The watchmen"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Beloved compared to by the Lover (Song of Solomon 6:4)",
+        "choice": [
+            "Tirzah and Jerusalem",
+            "A lily among thorns",
+            "A rose of Sharon",
+            "A cluster of henna blossoms"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover compare the Beloved's hair to again? (Song of Solomon 6:5)",
+        "choice": [
+            "A stream of water",
+            "A flock of goats that lie along the side of Gilead",
+            "A field of wheat",
+            "A tower of ivory"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover say is like the work of a skillful workman? (Song of Solomon 7:1)",
+        "choice": [
+            "Her rounded thighs are like jewels",
+            "Her body is like a round goblet",
+            "Her waist is like a heap of wheat",
+            "Her breasts are like two fawns"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved say about her desire? (Song of Solomon 7:10)",
+        "choice": [
+            "His desire is toward me",
+            "Her desire is to be with her friends",
+            "Her desire is to be in the fields",
+            "Her desire is to be in the city"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is stronger than death? (Song of Solomon 8:6)",
+        "choice": [
+            "Jealousy",
+            "Love",
+            "Wealth",
+            "Fame"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is love compared to in terms of its flames? (Song of Solomon 8:6)",
+        "choice": [
+            "Flames of fire, a very flame of Yah",
+            "A gentle flickering light",
+            "A cool and refreshing stream",
+            "A calm and steady breeze"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What do the daughters of Jerusalem say they will do for the Beloved? (Song of Solomon 1:4)",
+        "choice": [
+            "Praise her beauty",
+            "Rejoice in her",
+            "Give her gifts",
+            "Sing songs to her"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What reason does the Beloved give for her dark complexion? (Song of Solomon 1:6)",
+        "choice": [
+            "She was born that way",
+            "She has been working in the sun",
+            "She has been traveling",
+            "She has been ill"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved ask her lover to tell her? (Song of Solomon 1:7)",
+        "choice": [
+            "Where he gets his clothes",
+            "Where he grazes his flock",
+            "Where he buys his perfume",
+            "Where he rests at night"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover tell the Beloved to do if she doesn't know where to find him? (Song of Solomon 1:8)",
+        "choice": [
+            "Go to the city",
+            "Follow the tracks of the sheep",
+            "Ask the watchmen",
+            "Look in the vineyards"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved say she is to her Lover? (Song of Solomon 2:16)",
+        "choice": [
+            "His sister",
+            "His friend",
+            "His beloved",
+            "His dove"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved compare her lover to among the sons? (Song of Solomon 2:3)",
+        "choice": [
+            "A strong tower",
+            "A tall cedar",
+            "An apple tree",
+            "A guiding star"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved ask to be strengthened and refreshed with? (Song of Solomon 2:5)",
+        "choice": [
+            "Bread and wine",
+            "Raisins and apples",
+            "Honey and milk",
+            "Grapes and figs"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the voice of the Beloved compared to? (Song of Solomon 2:8)",
+        "choice": [
+            "Leaping on the mountains",
+            "A gentle breeze",
+            "A rushing river",
+            "The sound of rain"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What time of year is described when the flowers appear? (Song of Solomon 2:11-12)",
+        "choice": [
+            "The end of summer",
+            "The beginning of spring",
+            "The middle of autumn",
+            "The heart of winter"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover want to see and hear from his dove? (Song of Solomon 2:14)",
+        "choice": [
+            "Her songs and her dance",
+            "Her voice and her face",
+            "Her hands and her feet",
+            "Her thoughts and her dreams"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved want to catch in the vineyards? (Song of Solomon 2:15)",
+        "choice": [
+            "Birds",
+            "Foxes",
+            "Snakes",
+            "Insects"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved ask the daughters of Jerusalem to not do regarding love? (Song of Solomon 3:5)",
+        "choice": [
+            "To not hide it",
+            "To not stir it up until it so desires",
+            "To not awaken it with urgency",
+            "To not share it with others"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Beloved’s procession from the wilderness compared to? (Song of Solomon 3:6)",
+        "choice": [
+            "A parade of soldiers",
+            "Pillars of smoke with perfume",
+            "A flowing river",
+            "A flock of sheep"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who is surrounding Solomon's carriage? (Song of Solomon 3:7)",
+        "choice": [
+            "The elders of the city",
+            "Sixty mighty men",
+            "The women of Jerusalem",
+            "The king's family"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the middle of Solomon’s carriage paved with? (Song of Solomon 3:10)",
+        "choice": [
+            "Gold",
+            "Love",
+            "Silver",
+            "Purple"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover say is like a piece of pomegranate behind the veil? (Song of Solomon 4:3)",
+        "choice": [
+            "Her lips",
+            "Her cheeks",
+            "Her mouth",
+            "Her temples"
+        ],
+        "answer": "D",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover compare the Beloved’s two breasts to? (Song of Solomon 4:5)",
+        "choice": [
+            "Two clusters of grapes",
+            "Two fawns that are twins of a roe",
+            "Two towers of ivory",
+            "Two doves in the sky"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover say the Beloved has ravished? (Song of Solomon 4:9)",
+        "choice": [
+            "His heart",
+            "His mind",
+            "His soul",
+            "His body"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is under the Beloved’s tongue? (Song of Solomon 4:11)",
+        "choice": [
+            "Spices and herbs",
+            "Honey and milk",
+            "Wine and oil",
+            "Sweet fruits"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the smell of the Beloved's garments compared to? (Song of Solomon 4:11)",
+        "choice": [
+            "A field of lilies",
+            "The smell of Lebanon",
+            "A garden of spices",
+            "A forest of cedar"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Beloved’s garden like? (Song of Solomon 4:12)",
+        "choice": [
+            "A flowing river",
+            "A locked up spring and sealed fountain",
+            "A field of flowers",
+            "A forest of trees"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover say he has eaten? (Song of Solomon 5:1)",
+        "choice": [
+            "Bread and wine",
+            "Honeycomb with honey",
+            "Grapes and figs",
+            "Raisins and apples"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Lover's head filled with? (Song of Solomon 5:2)",
+        "choice": [
+            "Dust and dirt",
+            "Dew",
+            "Oil and perfume",
+            "Raindrops"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the watchmen do to the Beloved? (Song of Solomon 5:7)",
+        "choice": [
+            "They beat and bruised her",
+            "They comforted her",
+            "They helped her",
+            "They ignored her"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved say her beloved is like? (Song of Solomon 5:10)",
+        "choice": [
+            "White and ruddy",
+            "Dark and mysterious",
+            "Tall and strong",
+            "Short and stout"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Beloved's hair like? (Song of Solomon 5:11)",
+        "choice": [
+            "Bushy, black as a raven",
+            "Long, flowing like a river",
+            "Short, like a lion’s mane",
+            "Curly, like a lamb’s wool"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the Beloved's mouth like? (Song of Solomon 5:16)",
+        "choice": [
+            "Sweetness",
+            "A roaring river",
+            "A bitter stream",
+            "A salty sea"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved say about her relationship with her beloved? (Song of Solomon 6:3)",
+        "choice": [
+            "She is his friend and he is hers",
+            "She is his and he is hers",
+            "She is his sister and he is hers",
+            "She is his queen and he is her king"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover compare the Beloved to? (Song of Solomon 6:10)",
+        "choice": [
+            "The stars in the night",
+            "The moon, sun and morning",
+            "The wind and the rain",
+            "The ocean and the sky"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover say is held captive in the Beloved's tresses? (Song of Solomon 7:5)",
+        "choice": [
+            "The king",
+            "The queen",
+            "The city",
+            "The army"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Lover say he wants to climb up into? (Song of Solomon 7:8)",
+        "choice": [
+            "A mountain",
+            "A palm tree",
+            "A cedar tree",
+            "A tower"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved say is toward her? (Song of Solomon 7:10)",
+        "choice": [
+            "Her friends' desire",
+            "Her family's desire",
+            "Her lover's desire",
+            "The city's desire"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where does the Beloved want to go with her lover? (Song of Solomon 7:11)",
+        "choice": [
+            "To the city",
+            "To the field and villages",
+            "To the mountains",
+            "To the desert"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved say she awakened her lover under? (Song of Solomon 8:5)",
+        "choice": [
+            "The oak tree",
+            "The apple tree",
+            "The cedar tree",
+            "The fig tree"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved want her lover to set her as? (Song of Solomon 8:6)",
+        "choice": [
+            "A crown on his head",
+            "A seal on his heart and arm",
+            "A jewel in his crown",
+            "A statue in his garden"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved compare her breasts to? (Song of Solomon 8:10)",
+        "choice": [
+            "Towers",
+            "Lilies",
+            "Fountains",
+            "Mountains"
+        ],
+        "answer": "A",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved say is before her? (Song of Solomon 8:12)",
+        "choice": [
+            "Her friends",
+            "Her family",
+            "Her own vineyard",
+            "Her lover"
+        ],
+        "answer": "C",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the Beloved want her lover to be like? (Song of Solomon 8:14)",
+        "choice": [
+            "A lion on the mountains",
+            "A gazelle or young stag on the mountains of spices",
+            "A dove in the clefts of the rock",
+            "A cedar tree in the forest"
+        ],
+        "answer": "B",
+        "category": "Song of Solomon",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_SNG.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    }
+]

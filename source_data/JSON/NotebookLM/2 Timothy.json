@@ -1,0 +1,522 @@
+[
+    {
+        "question": "According to Paul, what was the source of his apostleship (2 Timothy 1:1)?",
+        "choice": [
+            "Through the promise of life",
+            "Through his own will",
+            "Through the will of God",
+            "Through his service to God"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What three things does Paul wish for Timothy in his greeting (2 Timothy 1:2)?",
+        "choice": [
+            "Love, joy and peace",
+             "Grace, mercy and peace",
+            "Faith, hope and love",
+             "Power, love and self-control"
+         ],
+        "answer": "B"
+    },
+    {
+        "question": "What was Paul's memory of Timothy associated with (2 Timothy 1:4)?",
+         "choice": [
+            "His perseverance",
+            "His teaching",
+            "His tears",
+             "His joy"
+         ],
+        "answer": "C"
+    },
+     {
+        "question": "Who does Paul mention as having sincere faith before Timothy (2 Timothy 1:5)?",
+        "choice": [
+            "Lois and Eunice",
+            "Prisca and Aquila",
+            "Phygelus and Hermogenes",
+            "Titus and Demas"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What gift does Paul remind Timothy to stir up (2 Timothy 1:6)?",
+        "choice": [
+            "The gift of knowledge",
+            "The gift of God",
+            "The gift of teaching",
+            "The gift of prophecy"
+        ],
+         "answer":"B"
+    },
+    {
+         "question": "What kind of spirit has God given us, according to Paul (2 Timothy 1:7)?",
+         "choice": [
+            "A spirit of fear",
+            "A spirit of timidity",
+            "A spirit of power, love, and self-control",
+            "A spirit of meekness"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "According to Paul, what was abolished by Christ Jesus (2 Timothy 1:10)?",
+        "choice": [
+            "Sin",
+             "Death",
+             "Suffering",
+            "Law"
+        ],
+        "answer":"B"
+    },
+     {
+        "question": "What role was Paul appointed to in relation to the Gentiles (2 Timothy 1:11)?",
+        "choice": [
+            "A judge, an apostle, and a pastor",
+            "A preacher, an apostle, and a teacher",
+            "A prophet, an evangelist and a deacon",
+            "An elder, a shepherd and a leader"
+        ],
+         "answer":"B"
+     },
+    {
+        "question": "What does Paul say he is persuaded of in relation to what he has committed to God (2 Timothy 1:12)?",
+         "choice": [
+            "That God will forget",
+            "That God will protect it",
+             "That God will return it",
+            "That God will use it"
+         ],
+        "answer": "B"
+     },
+    {
+        "question": "What pattern should Timothy hold onto, according to Paul (2 Timothy 1:13)?",
+         "choice": [
+            "The pattern of sound words",
+             "The pattern of prophecy",
+            "The pattern of prayer",
+            "The pattern of good works"
+         ],
+        "answer": "A"
+    },
+    {
+       "question": "What does Paul say should be guarded through the Holy Spirit (2 Timothy 1:14)?",
+        "choice": [
+            "Good health",
+            "The good thing committed to you",
+            "The gift of prophecy",
+            "The gifts of the spirit"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Who does Paul mention as having turned away from him (2 Timothy 1:15)?",
+        "choice": [
+            "Onesiphorus and Luke",
+            "Prisca and Aquila",
+            "Phygelus and Hermogenes",
+            "Titus and Demas"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What did Onesiphorus do for Paul (2 Timothy 1:16-17)?",
+        "choice": [
+            "He abandoned him",
+            "He often refreshed him and wasn't ashamed of Paul's chains",
+             "He betrayed him",
+             "He stole from him"
+         ],
+        "answer": "B"
+     },
+     {
+        "question": "What does Paul urge Timothy to do, drawing strength from grace (2 Timothy 2:1)?",
+        "choice": [
+            "Be strengthened in the grace",
+            "Be prideful in the gifts",
+            "Be boastful in his power",
+            "Be reliant on himself"
+        ],
+         "answer": "A"
+    },
+    {
+        "question": "What should Timothy commit to faithful men (2 Timothy 2:2)?",
+        "choice": [
+            "The things they have seen him do",
+            "The things which he has heard from Paul",
+            "The things that are revealed to him",
+            "The things they have done"
+        ],
+         "answer":"B"
+    },
+    {
+         "question": "What analogy does Paul use to describe the need for endurance in the Christian life (2 Timothy 2:3-6)?",
+         "choice": [
+            "A farmer",
+            "An athlete",
+            "A soldier",
+            "All of the above"
+         ],
+        "answer": "D"
+    },
+    {
+        "question":"What does Paul say about the Word of God in relation to his chains (2 Timothy 2:9)?",
+        "choice": [
+            "God’s word is always chained",
+            "God’s word is not chained",
+            "God’s word will be chained",
+            "God’s word is not understandable"
+        ],
+        "answer":"B"
+    },
+    {
+        "question": "What is the trustworthy saying about dying and living with Christ (2 Timothy 2:11)?",
+         "choice": [
+            "If we live with him, we will also die with him.",
+            "If we die with him, we will also live with him.",
+            "If we deny him, we will also reign with him",
+            "If we are faithless he will also be faithless"
+        ],
+         "answer":"B"
+    },
+    {
+        "question": "What should Timothy remind people not to do (2 Timothy 2:14)?",
+        "choice": [
+            "Argue about words to no profit",
+            "Engage in empty chatter",
+            "Pursue youthful lusts",
+            "Question sound doctrine"
+        ],
+         "answer": "A"
+    },
+     {
+        "question":"What does Paul say about presenting oneself to God (2 Timothy 2:15)?",
+        "choice": [
+            "Present yourself as a fool",
+             "Present yourself approved by God",
+            "Present yourself with shame",
+            "Present yourself as a child"
+        ],
+         "answer":"B"
+    },
+    {
+        "question": "What should Timothy flee from (2 Timothy 2:22)?",
+        "choice": [
+            "Youthful lusts",
+             "Righteousness",
+            "Peace with those who call on the Lord",
+             "Faith"
+        ],
+        "answer": "A"
+    },
+     {
+        "question": "What should the Lord's servant not do (2 Timothy 2:24)?",
+        "choice": [
+            "Be gentle",
+             "Be able to teach",
+            "Quarrel",
+            "Be patient"
+        ],
+         "answer":"C"
+    },
+    {
+         "question": "What will characterize the last days (2 Timothy 3:1-5)?",
+         "choice": [
+            "Grievous times",
+             "Peace and harmony",
+            "Love for God",
+            "Obedience to parents"
+         ],
+        "answer": "A"
+     },
+    {
+         "question": "What is said about the holy Scriptures (2 Timothy 3:15-16)?",
+          "choice": [
+            "They are not God-breathed",
+            "They are for correction only",
+            "They are only useful for teaching",
+            "They are God-breathed and profitable"
+          ],
+        "answer":"D"
+    },
+      {
+        "question": "What does Paul command Timothy to do in the presence of God and Christ (2 Timothy 4:1-2)?",
+        "choice": [
+            "Preach the word",
+            "Turn from the truth",
+            "Love the present world",
+            "Follow fables"
+        ],
+        "answer": "A"
+    },
+     {
+        "question": "What has Paul finished in his life (2 Timothy 4:7)?",
+        "choice": [
+            "He has finished his ministry",
+            "He has finished the course",
+            "He has finished the fight",
+            "All of the above"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is the promise that Paul refers to in the opening of his letter to Timothy (2 Timothy 1:1)?",
+        "choice": [
+            "The promise of peace",
+            "The promise of life in Christ Jesus",
+            "The promise of worldly riches",
+            "The promise of power"
+        ],
+        "answer": "B"
+    },
+    {
+       "question": "What does Paul say his service to God is like (2 Timothy 1:3)?",
+        "choice": [
+            "With an impure conscience",
+            "With a troubled mind",
+            "With a clear conscience",
+            "With a joyful heart"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is Paul's unceasing memory of Timothy associated with (2 Timothy 1:3-4)?",
+        "choice": [
+            "His love",
+            "His petitions night and day",
+             "His joy",
+             "His faith"
+        ],
+         "answer": "B"
+    },
+     {
+        "question": "What does Paul remind Timothy that he should not be ashamed of (2 Timothy 1:8)?",
+        "choice": [
+             "His past",
+             "The testimony of our Lord",
+             "His family",
+            "His weakness"
+         ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the Good News associated with (2 Timothy 1:8-10)?",
+        "choice": [
+            "Power",
+            "Immortality",
+            "Hardship",
+            "Self-Control"
+        ],
+         "answer":"B"
+    },
+    {
+        "question": "According to Paul, what is the basis of God's saving and calling us (2 Timothy 1:9)?",
+        "choice": [
+            "Our good works",
+            "Our family lineage",
+            "His own purpose and grace",
+            "Our faithfulness"
+        ],
+         "answer": "C"
+    },
+   {
+        "question": "Who does Paul say was not ashamed of his chains (2 Timothy 1:16)?",
+        "choice": [
+            "Phygelus",
+            "Hermogenes",
+            "Onesiphorus",
+             "Luke"
+        ],
+        "answer":"C"
+    },
+    {
+         "question": "Where did Onesiphorus diligently seek out Paul (2 Timothy 1:17)?",
+         "choice": [
+            "Ephesus",
+            "Antioch",
+            "Rome",
+            "Corinth"
+         ],
+        "answer":"C"
+    },
+    {
+        "question": "According to Paul, what should those who are soldiers of Christ Jesus avoid (2 Timothy 2:4)?",
+        "choice": [
+            "Entangling themselves in the affairs of life",
+            "Serving their commanders",
+             "Engaging in athletics",
+             "Working as farmers"
+        ],
+        "answer": "A"
+    },
+   {
+        "question": "What must an athlete do to be crowned (2 Timothy 2:5)?",
+        "choice": [
+            "Train hard",
+             "Be a good sportsman",
+            "Compete by the rules",
+            "Win fairly"
+        ],
+        "answer":"C"
+    },
+     {
+        "question": "What does Paul say the farmer who labors must be (2 Timothy 2:6)?",
+        "choice": [
+             "The first to get a share of the crops",
+             "The strongest in the field",
+            "The most loved",
+            "The hardest worker"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What does Paul ask Timothy to remember (2 Timothy 2:8)?",
+        "choice": [
+            "The teachings of the prophets",
+            "The risen Jesus Christ of David's offspring",
+            "The commandments of the law",
+             "The stories of the elders"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "According to Paul, what does God remain even if we are faithless (2 Timothy 2:13)?",
+        "choice": [
+            "Unforgiving",
+            "Faithful",
+             "Uncaring",
+             "Angry"
+        ],
+         "answer":"B"
+    },
+   {
+        "question": "What is the result of arguing about words, according to Paul (2 Timothy 2:14)?",
+        "choice": [
+            "To the subverting of those who hear",
+             "To the building of knowledge",
+            "To the growth of faith",
+             "To the sharing of ideas"
+        ],
+         "answer": "A"
+    },
+     {
+         "question": "What does Paul say about empty chatter (2 Timothy 2:16)?",
+         "choice": [
+            "It builds up the faith",
+            "It is harmless to others",
+            "It will go further in ungodliness",
+             "It is often useful"
+         ],
+        "answer": "C"
+     },
+    {
+        "question": "What error did Hymenaeus and Philetus make (2 Timothy 2:17-18)?",
+        "choice": [
+            "That the resurrection is already past",
+            "That the resurrection is a myth",
+             "That the resurrection will never happen",
+            "That the resurrection is for the chosen few"
+        ],
+         "answer":"A"
+    },
+    {
+        "question": "What is the seal on God’s firm foundation (2 Timothy 2:19)?",
+        "choice": [
+            "The Lord knows those who are his",
+            "Let everyone who names the name of the Lord depart from unrighteousness",
+            "Both A and B",
+            "Neither A nor B"
+        ],
+        "answer":"C"
+    },
+    {
+         "question": "What kind of vessels are in a large house, according to Paul (2 Timothy 2:20)?",
+         "choice": [
+            "Only vessels of gold",
+            "Only vessels of silver",
+            "Vessels of gold, silver, wood, and clay",
+            "Only vessels of wood and clay"
+         ],
+        "answer": "C"
+     },
+    {
+        "question": "What should one pursue along with righteousness and faith (2 Timothy 2:22)?",
+        "choice": [
+            "Lust and power",
+             "Love and peace",
+            "Wealth and fame",
+            "Pride and glory"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What should the Lord's servant do with gentleness (2 Timothy 2:25)?",
+        "choice": [
+           "Correct those who oppose him",
+            "Overlook their errors",
+            "Rebuke them harshly",
+           "Ignore their questions"
+        ],
+         "answer": "A"
+    },
+    {
+        "question": "What are some characteristics of people in the last days (2 Timothy 3:1-4)?",
+        "choice": [
+            "Lovers of self, lovers of money, boastful",
+            "Humble, poor, and meek",
+            "Obedient, loving, and kind",
+             "Selfless, generous, and righteous"
+        ],
+         "answer":"A"
+    },
+   {
+        "question": "What does Paul say about evil men and imposters (2 Timothy 3:13)?",
+         "choice": [
+             "They will be exposed",
+            "They will grow better and better",
+             "They will be corrected",
+            "They will grow worse and worse"
+         ],
+        "answer": "D"
+    },
+    {
+       "question": "What does Paul say about the holy Scriptures (2 Timothy 3:16-17)?",
+        "choice": [
+            "They are only useful for rebuke",
+            "They are only useful for correction",
+            "They are inspired by God and useful for teaching, reproof, correction, and righteousness",
+            "They are only useful for salvation"
+        ],
+         "answer": "C"
+    },
+    {
+        "question": "What will people do when they will not listen to sound doctrine (2 Timothy 4:3-4)?",
+        "choice": [
+             "They will seek out teachers who align with their desires",
+             "They will grow in knowledge",
+            "They will listen to wisdom",
+            "They will embrace the truth"
+        ],
+         "answer":"A"
+    },
+     {
+        "question": "What does Paul say he has kept (2 Timothy 4:7)?",
+        "choice": [
+            "His promise",
+            "His possessions",
+             "The faith",
+             "His strength"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who does Paul say has loved this present world and left him (2 Timothy 4:10)?",
+        "choice": [
+            "Mark",
+             "Luke",
+            "Demas",
+            "Titus"
+         ],
+        "answer":"C"
+    }
+]

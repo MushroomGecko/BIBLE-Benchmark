@@ -1,0 +1,731 @@
+[
+    {
+        "question": "In the second year of who’s reign did the word of the Lord come through Haggai (Hag 1:1)?",
+        "choice": [
+            "Cyrus",
+            "Nebuchadnezzar",
+            "Xerxes",
+            "Darius"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom did the word of the Lord come through Haggai (Hag 1:1)?",
+        "choice": [
+            "Ezra and Nehemiah",
+            "Zerubbabel and Joshua",
+            "Sanballat and Tobiah",
+            "Cyrus and Darius"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was the governor of Judah during the prophecy of Haggai (Hag 1:1)?",
+        "choice": [
+            "Zerubbabel",
+            "Joshua",
+            "Nehemiah",
+            "Ezra"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was the high priest during the prophecy of Haggai (Hag 1:1)?",
+        "choice": [
+            "Zerubbabel",
+            "Joshua",
+            "Nehemiah",
+            "Ezra"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the people say (Hag 1:2)?",
+        "choice": [
+            "It is time to build the Lord’s house",
+            "It is not time to build the Lord’s house",
+            "It is time to build the walls of Jerusalem",
+            "It is not time to build the walls of Jerusalem"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does God describe their homes (Hag 1:4)?",
+        "choice": [
+            "Houses of cut stone",
+            "Secure homes",
+            "Paneled houses",
+            "Ivory covered houses"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did the Lord object to their living in paneled houses (Hag 1:4)?",
+        "choice": [
+            "Because the Lord’s house was in ruins",
+            "Because the poor had no homes",
+            "Because their brothers were still enslaved",
+            "Because the walls had not been rebuilt"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How have they planted and harvested (Hag 1:6)?",
+        "choice": [
+            "They have planted little and harvested the whirlwind",
+            "They have planted much and harvested little",
+            "They have not planted and yet harvested much",
+            "They have planted choice vines but harvested sour grapes"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What happens when they put on clothes (Hag 1:6)?",
+        "choice": [
+            "It does not cover their shame",
+            "They are made of sackcloth",
+            "They are not warm",
+            "They have no linen"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What happens when they earn wages (Hag 1:6)?",
+        "choice": [
+            "They bury it in the ground",
+            "The wages are blown away by the wind",
+            "They are taken by their neighbors",
+            "They put it in a purse with holes in it"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Because they eat and never have enough what does the Lord exhort them to do (Hag 1:5, 7)?",
+        "choice": [
+            "Give careful thought to their ways",
+            "Turn to him",
+            "Confess their sins",
+            "Give up their foreign gods and return to the Lord"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord direct them to do in the mountains (Hag 1:8)?",
+        "choice": [
+            "Get stones for his house",
+            "Get timber for his house",
+            "Get gold and silver for his house",
+            "Offer sacrifices to him on the high places"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the Lord’s response be to their building of his house (Hag 1:8)?",
+        "choice": [
+            "He will receive their sacrifices and offerings",
+            "He will rejoice over their festivals",
+            "He will take pleasure in it and be honored",
+            "He will enter the temple and bless his people"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What had they expected (Hag 1:9)?",
+        "choice": [
+            "The Lord’s presence among his people but he did not come",
+            "Many blessings but none came",
+            "Prosperity and peace instead poverty and war prevailed",
+            "Much but it turned out to be little"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord do to what they brought home (Hag 1:9)?",
+        "choice": [
+            "He blew it away",
+            "He washed it away",
+            "It withered away",
+            "It was taken as plunder"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are they doing while the Lord’s house lies in ruins (Hag 1:9)?",
+        "choice": [
+            "Buying and selling and getting gain",
+            "Each is busy with his own house",
+            "They are rebuilding the city walls",
+            "They are sleeping in luxury"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Because they were each busy with their own houses what was withheld from them (Hag 1:10)?",
+        "choice": [
+            "The latter rains",
+            "The warmth of the sun",
+            "The dew",
+            "The early rains"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Lord called for a drought on all of the following EXCEPT (Hag 1:11)",
+        "choice": [
+            "Grain",
+            "New wine",
+            "The oil",
+            "Figs"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the remnant’s response to the message of Haggai the prophet (Hag 1:12)?",
+        "choice": [
+            "They rebelled",
+            "They would not listen",
+            "They obeyed",
+            "They attacked"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the people’s response to the voice of the Lord and the message of Haggai (Hag 1:12)?",
+        "choice": [
+            "They rejected the Lord",
+            "They feared the Lord",
+            "They turned from the Lord",
+            "They worshipped the Lord"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Haggai called (Hag 1:13)?",
+        "choice": [
+            "The Lord’s messenger",
+            "The servant of the Lord",
+            "The seer of Israel",
+            "The anointed one of the Lord"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What message did Haggai give to the people who had obeyed the Lord (Hag 1:13)?",
+        "choice": [
+            "I will bless and keep you",
+            "I am with you",
+            "I will be gracious unto you",
+            "I will deliver you"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The spirit of all of the following were stirred up by the Lord EXCEPT (Hag 1:14)",
+        "choice": [
+            "Zerubbabel",
+            "Joshua",
+            "The elders of Israel",
+            "The whole remnant of the people"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was Zerubbabel the son of (Hag 1:14)?",
+        "choice": [
+            "Sanballat",
+            "Tobiah",
+            "Jehozadak",
+            "Shealtiel"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was Joshua the son of (Hag 1:14)?",
+        "choice": [
+            "Sanballat",
+            "Tobiah",
+            "Jehozadak",
+            "Shealtiel"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the remnant begin to work on (Hag 1:14)?",
+        "choice": [
+            "The walls of the city",
+            "The house of the Lord",
+            "Laying the foundation of the palace",
+            "Rebuilding the city gates"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did the remnant begin building the temple of the Lord (Hag 1:15)?",
+        "choice": [
+            "24th day of the sixth month of the second year of Darius",
+            "10th day of the third month of the fifth year of Darius",
+            "18th day of the second month of the third year of Darius",
+            "The 7th day of the seventh month of the first year of Darius"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did the Lord come to Haggai and tell him to ask “who of you is left who saw this house in its former glory” (Hag 2:1)?",
+        "choice": [
+            "2nd day of the 10th month",
+            "21st day of the 7th month",
+            "14th day of the 5th month",
+            "10th day of the 3rd month"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Haggai was told to address all of the following about the former temple EXCEPT (Hag 2:2)?",
+        "choice": [
+            "Zerubbabel the governor",
+            "The priests",
+            "Joshua the high priest",
+            "The remnant of the people"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did the new temple look to the Lord compared to the old (Hag 2:3)?",
+        "choice": [
+            "Like a small temple",
+            "Like a shadow of the former temple",
+            "Like nothing",
+            "Like the former temple"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After pointing out that the new temple looked like nothing what did God say to Joshua the high priest (Hag 2:4)?",
+        "choice": [
+            "You should be ashamed",
+            "Weep and put on sackcloth",
+            "Rejoice and be glad",
+            "Be strong"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God say remains among them (Hag 2:5)?",
+        "choice": [
+            "The glory of the Lord",
+            "His Spirit",
+            "His name",
+            "His word"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God say he would do in a little while (Hag 2:6)?",
+        "choice": [
+            "Shake the heavens and the earth",
+            "Send his Spirit into the house they had made",
+            "Cause the pillars of this temple to tremble",
+            "Let his holy cloud descend on this house"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord say would come to the temple after he shook all nations (Hag 2:7)?",
+        "choice": [
+            "His Spirit",
+            "His blessed Son",
+            "His dark cloud",
+            "The desired of all nations"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what did the Lord say he would fill this house (Hag 2:7)?",
+        "choice": [
+            "His holiness",
+            "His Spirit",
+            "His glory",
+            "His love"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord say was his (Hag 2:8)?",
+        "choice": [
+            "The silver and the gold",
+            "The people",
+            "The priests and prophets",
+            "The remnant of the people"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God said that the glory of this house would be greater than _____ (Hag 2:9)?",
+        "choice": [
+            "The glory cloud on Mount Sinai",
+            "The glory of the former house",
+            "The glory of the heavens",
+            "The glory of his heavenly throne"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God say he would grant in this temple (Hag 2:9)?",
+        "choice": [
+            "Forgiveness",
+            "Mercy",
+            "Peace",
+            "Justice like a river"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord ask the priests about (Hag 2:10ff)?",
+        "choice": [
+            "If a person pulled a sheep out of a pit on the Sabbath would it be consecrated to the Lord",
+            "If one came out of the holy place and touched bread or oil would it be consecrated",
+            "If the high priest sacrificed a lamb on Passover would the blood consecrate that priest to the Lord",
+            "If consecrated meat in a person’s garment touched bread or wine would it be consecrated"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did the Lord ask about consecrated meat touching some bread or oil (Hag 2:11f)?",
+        "choice": [
+            "Some priests",
+            "Some prophets",
+            "The elders",
+            "The chiefs of the clans"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How can bread or oil become defiled according to Haggai 2 (Hag 2:13)?",
+        "choice": [
+            "If a person with leprosy touches it",
+            "If a person who has been defiled by touching a dead person touches it",
+            "If a person who has eaten defiled meat touches it",
+            "If a person who is a Nazirite and touched any leaven touches it"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord through Haggai say was defiled (Hag 2:14)?",
+        "choice": [
+            "The unclean water",
+            "The holy bread",
+            "Whatever they offer there",
+            "The blood of the sacrifices"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did God point out one went to the wine vat to draw fifty measures but found only twenty (Hag 2:15f)?",
+        "choice": [
+            "Before they dug the foundation of the house of the Lord",
+            "Before the gates of the temple were set",
+            "Before one sacrifice had been offered in the Lord’s temple",
+            "Before one stone was laid on another in the Lord’s temple"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did they not do even though the Lord struck them with blight and mildew (Hag 2:17)?",
+        "choice": [
+            "Turn to the Lord",
+            "Confess their sins",
+            "Begin to rebuild the temple",
+            "Cry out to the Lord for help"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the Lord do from the twenty-fourth day of the ninth month (Hag 2:19)?",
+        "choice": [
+            "Shut up the skies",
+            "Bless them",
+            "Forgive them",
+            "Welcome them into his presence"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Lord had struck the work of their hands with all of the following EXCEPT (Hag 2:17)",
+        "choice": [
+            "Blight",
+            "Mildew",
+            "Drought",
+            "Hail"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What happened on the twenty-fourth day of the ninth month (Hag 2:18)?",
+        "choice": [
+            "They offered their first sacrifice to the Lord",
+            "They consecrated the temple",
+            "They donated money for the building of the temple",
+            "They laid the foundation for the temple"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Until the twenty-fourth day of the ninth month all of the following had not borne fruit EXCEPT (Hag 2:19)",
+        "choice": [
+            "The vine",
+            "The fig tree",
+            "The olive tree",
+            "The sycamore tree",
+            "The pomegranate tree"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Lord told Haggai to tell Zerubbabel he would do all of the following EXCEPT (Hag 2:21)",
+        "choice": [
+            "Overturn royal thrones",
+            "Shatter the power of foreign kingdoms",
+            "Destroy the shields of the invaders",
+            "Overthrow chariots and their drivers"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God say he will shatter (Hag 2:22)?",
+        "choice": [
+            "The power of foreign kingdoms",
+            "The heavens and earth",
+            "Royal thrones",
+            "The temples of foreign gods"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God say he will overturn (Hag 2:22)?",
+        "choice": [
+            "The gates of the wicked",
+            "The mountains",
+            "Royal thrones",
+            "The temples of foreign gods"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How will horses and their riders fall (Hag 2:22)?",
+        "choice": [
+            "By an iron rod",
+            "By the sword of his brother",
+            "Into a deep pit",
+            "On rocks"
+        ],
+        "answer": "B",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will the Lord make like a signet ring God has chosen (Hag 2:23)?",
+        "choice": [
+            "Haggai",
+            "Joshua",
+            "Zerubbabel",
+            "Darius"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the Lord make Zerubbabel like (Hag 2:23)?",
+        "choice": [
+            "A sword",
+            "A strong tower",
+            "A purple robe",
+            "A signet ring"
+        ],
+        "answer": "D",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the Lord call Zerubbabel (Hag 2:23)?",
+        "choice": [
+            "His servant",
+            "His messenger",
+            "His ruler",
+            "His beloved"
+        ],
+        "answer": "A",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does the Lord say his has chosen (Hag 2:23)?",
+        "choice": [
+            "Haggai",
+            "Joshua",
+            "Zerubbabel",
+            "Darius"
+        ],
+        "answer": "C",
+        "category": "Haggai",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/37_Haggai_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    }
+]

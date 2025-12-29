@@ -1,0 +1,3410 @@
+[
+    {
+        "question": "What was Amos’ original vocation (Am 1:1)?",
+        "choice": [
+            "A tax-collector",
+            "A priest",
+            "A fisherman",
+            "A shepherd"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Amos was originally from what town in Judah (Am 1:1)?",
+        "choice": [
+            "Bethlehem",
+            "Hebron",
+            "Tekoa",
+            "Lachish"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did Amos receive his vision (Am 1:1)?",
+        "choice": [
+            "Three years after the locust plague",
+            "Two years after the earthquake",
+            "One year after the burning of Jerusalem",
+            "Three years after the rebuilding of the temple"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was the king of Judah during Amos’ vision (Am 1:1)?",
+        "choice": [
+            "Uzziah",
+            "Hezekiah",
+            "Manasseh",
+            "Jehoiakim"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was the king of Israel during Amos’ vision (Am 1:1)?",
+        "choice": [
+            "Pekiah",
+            "Jehu",
+            "Omri",
+            "Jeroboam"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Jeroboam, the king of Israel, was the son of _______ (Am 1:1)",
+        "choice": [
+            "Jehu",
+            "Omri",
+            "Jehoash",
+            "Basha"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amos say the Lord did from Zion (Am 1:2)?",
+        "choice": [
+            "Leaves",
+            "Rises",
+            "Roars",
+            "Shoots his arrow"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amos say the Lord did from Jerusalem (Am 1:2)?",
+        "choice": [
+            "Leaves",
+            "Thunders",
+            "Rises",
+            "Shoots his arrow"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What part of the country does the Lord say withers (Am 1:2)?",
+        "choice": [
+            "Hermon",
+            "The Valley of Jezreel",
+            "The trees along the Jordan",
+            "The top of Carmel"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For four sins God will not turn back his wrath for all of the following places EXCEPT (Am 1)",
+        "choice": [
+            "Damascus",
+            "Gaza",
+            "Ashdod",
+            "Tyre",
+            "Ammon"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Damascus do that God would not turn his wrath back for (Am 1:3)?",
+        "choice": [
+            "She took captives whole communities and sold them to Edom",
+            "She threshed Gilead with sledges with iron teeth",
+            "He ripped open the pregnant women of Gilead",
+            "He burned the bones of the king of Edom"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Gaza do that God would not turn his wrath back for (Am 1:6)?",
+        "choice": [
+            "She took captives whole communities and sold them to Edom",
+            "She threshed Gilead with sledges with iron teeth",
+            "He ripped open the pregnant women of Gilead",
+            "He burned the bones of the king of Edom"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Tyre do that God would not turn his wrath back for (Am 1:9)?",
+        "choice": [
+            "She took captives whole communities and sold them to Edom",
+            "She threshed Gilead with sledges with iron teeth",
+            "He ripped open the pregnant women of Gilead",
+            "He burned the bones of the king of Edom",
+            "She disregarded the treaty of brotherhood"
+        ],
+        "answer": "E",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Ammon do that God would not turn his wrath back for (Am 1:13)?",
+        "choice": [
+            "She took captives whole communities and sold them to Edom",
+            "She threshed Gilead with sledges with iron teeth",
+            "He ripped open the pregnant women of Gilead",
+            "He burned the bones of the king of Edom",
+            "She disregarded the treaty of brotherhood"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God said he would do all of the following because of three sins and for four against Damascus EXCEPT (Am 1:4f)?",
+        "choice": [
+            "God would send fire on the house of Hazael",
+            "Consume the fortresses of Ben-Hadad",
+            "Break down the gate of Damascus",
+            "Her king will go into exile",
+            "The people of Ararm will go into exile to Kir"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In Damascus whose fortresses will be consumed (Am 1:4)?",
+        "choice": [
+            "Hazael",
+            "Ben-Hadad",
+            "Jabin",
+            "Abimelech"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where is the king of Damascus that God will destroy (Am 1:5)?",
+        "choice": [
+            "In the Valley of Aven",
+            "In the high places of Hermon",
+            "On the slopes of Gilead",
+            "In the Yarmuk Valley"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where does the king of Damascus hold the scepter (Am 1:5)?",
+        "choice": [
+            "In Gilead",
+            "In Beth Eden",
+            "In Bethel",
+            "In Golan"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To where will Aram be exiled (Am 1:5)?",
+        "choice": [
+            "To Babylon",
+            "To Nineveh",
+            "To Kir",
+            "To Nippur"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom did Gaza sell whole communities captive (Am 1:6)?",
+        "choice": [
+            "Ammon",
+            "Moab",
+            "Aram",
+            "Edom"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following will be judgments on Gaza EXCEPT (Am 1:7f)",
+        "choice": [
+            "Consume the fortresses of Gath",
+            "Send fire upon the walls of Gaza",
+            "Destroy the king of Ashdod",
+            "Destroy the one who holds the scepter in Ashkelon",
+            "Turn God’s hand against Ekron"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following are Philistine cities God will judge EXCEPT (Am 1:7f)",
+        "choice": [
+            "Gaza",
+            "Keilah",
+            "Ashdod",
+            "Ashkelon",
+            "Ekron"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What judgment will fall on Tyre for selling communities to Edom (Am 1:10)?",
+        "choice": [
+            "An enemy from the north will come against Tyre",
+            "Plague and disease will strike the city",
+            "Fire will be sent on the walls of Tyre",
+            "The foundations of their fortresses will collapse"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Edom do that God would not turn his wrath back for (Am 1:13)?",
+        "choice": [
+            "She took captives whole communities and sold them to Edom",
+            "She pursued his brother with the sword",
+            "He ripped open the pregnant women of Gilead",
+            "He burned the bones of the king of Edom",
+            "She disregarded the treaty of brotherhood"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Because Edom pursued his brother with the sword what two cities of Edom would be consumed and burned (Am 1:12)",
+        "choice": [
+            "Heshbon and Gilead",
+            "Tekoa and Bethzur",
+            "Ekron and Gath",
+            "Teman and Bozra"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did Ammon rip open pregnant women of Gilead (Am 1:13)?",
+        "choice": [
+            "Because they hated Gilead",
+            "In order to extend their borders",
+            "In order to steal their gold",
+            "In order to set up Moloch in Gilead"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will happen to Ammon’s king (Am 1:15)?",
+        "choice": [
+            "He will have his thumbs cut off",
+            "He will be bound to an ox cart",
+            "He will go into exile",
+            "He will have his eye gouged out"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Moab do that God would not turn his wrath back for (Am 2:1)?",
+        "choice": [
+            "She took captives whole communities and sold them to Edom",
+            "She threshed Gilead with sledges with iron teeth",
+            "He ripped open the pregnant women of Gilead",
+            "He burned the bones of the king of Edom",
+            "She disregarded the treaty of brotherhood"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Judah do that God would not turn his wrath back for (Am 2:4)?",
+        "choice": [
+            "They rejected the law of the Lord",
+            "She threshed Gilead with sledges with iron teeth",
+            "He ripped open the pregnant women of Gilead",
+            "He burned the bones of the king of Edom",
+            "She disregarded the treaty of brotherhood"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Israel do that God would not turn his wrath back for (Am 2:6)?",
+        "choice": [
+            "They rejected the law of the Lord",
+            "They sold the righteous for silver",
+            "He ripped open the pregnant women of Gilead",
+            "He burned the bones of the king of Edom",
+            "She disregarded the treaty of brotherhood"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What fortresses in Moab will be consumed by fire (Am 2:2)?",
+        "choice": [
+            "Arnon",
+            "Aroer",
+            "Rabbah",
+            "Kerioth"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How will Moab go down (Am 2:2)?",
+        "choice": [
+            "With war cries and tumult",
+            "Their land will wither away",
+            "Their fortresses will be invaded by locusts",
+            "Their shepherds will be no more"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What has led Judah astray (Am 2:4)?",
+        "choice": [
+            "False prophets",
+            "False gods",
+            "Priests of Baal",
+            "Her kings"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In God’s condemnation of Judah who does God point out followed false gods in Judah (Am 2:4)?",
+        "choice": [
+            "Their kings",
+            "Their priests",
+            "Their ancestors",
+            "Their neighbors"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What judgment will God render on Jerusalem because of the sins of Judah (Am 2:5)?",
+        "choice": [
+            "Their streams will dry up",
+            "They will be smitten by pestilence",
+            "They will be led into exile",
+            "Fire will consume their fortresses"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For what does Israel sell the needy (Am 2:6)?",
+        "choice": [
+            "30 shekels of silver",
+            "A pair of sandals",
+            "An old wineskin",
+            "A clay pot"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the the Israelites do to the poor (Am 2:7)?",
+        "choice": [
+            "Trample on their heads",
+            "They steal their coats",
+            "They sell their children",
+            "They enslave them"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who do the Israelites deny justice to (Am 2:7)?",
+        "choice": [
+            "The fatherless",
+            "The priests of the Lord",
+            "The oppressed",
+            "The aliens"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What profanes God’s holy name (Am 2:7)?",
+        "choice": [
+            "A mother sacrificing her baby",
+            "A king enslaving his own people",
+            "A father selling his children to the highest bidder",
+            "A father and son using the same girl"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where do the Israelites lie down (Am 2:8)?",
+        "choice": [
+            "In the entrance of the temples of Baal",
+            "Beside every green tree",
+            "Beside every altar",
+            "On their roofs worshiping the stars"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the Israelites do in the house of their god (Am 2:8)?",
+        "choice": [
+            "Drink wine taken as fines",
+            "Eat bread taken from God’s temple",
+            "Offer the work of their hands",
+            "Offer their children as sacrifices"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does God say he had destroyed before the Israelites (Am 2:9)?",
+        "choice": [
+            "The Edomites",
+            "The Amorites",
+            "The Anakim",
+            "The Moabites"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did God describe the Amorites whom he had destroyed before Israel (Am 2:9)?",
+        "choice": [
+            "Strong as a lion and as powerful as a bear",
+            "Strong as an ox and as fast as an eagle",
+            "Tall as a cedar and strong as an oak",
+            "As large as Mount Tabor and deceptive as a snake"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What parts of Israel did God destroy (Am 2:9)?",
+        "choice": [
+            "His mountain tops and his valleys",
+            "His city walls and gates",
+            "His wheat and his barley",
+            "His fruit above and roots below"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How many years had God led Israel in the desert (Am 2:10)?",
+        "choice": [
+            "Twenty years",
+            "Thirty years",
+            "Forty years",
+            "Fifty years"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Whose land did God give Israel (Am 2:10)?",
+        "choice": [
+            "The Hittites",
+            "The Amorites",
+            "The Gergasites",
+            "The Aramaeans"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God say he had done for Israel (Am 2:10)?",
+        "choice": [
+            "Brought them out of Egypt",
+            "Gave them his law at Sinai",
+            "Split the waters of the Red Sea",
+            "Fed them with bread from heaven"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did God raise up among the Israelites (Am 2:11)?",
+        "choice": [
+            "Kings and prophets",
+            "Prophets and Nazirites",
+            "Levites and Priests",
+            "Priests and Rekabites"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Israelites do to the Nazirites (Am 2:12)?",
+        "choice": [
+            "Cut their hair",
+            "Made them touch dead bodies",
+            "Gave them wine to drink",
+            "Made them live in tents"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Israelites command the prophets (Am 2:12)?",
+        "choice": [
+            "To speak in the name of Baal",
+            "To prophesy of peace and security",
+            "To pray to God for them",
+            "To not prophesy at all"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Like what did God say he would crush Israel (Am 2:13)?",
+        "choice": [
+            "Like an ox treading out the grain",
+            "Like a rock falling on its victim",
+            "Like a cart loaded with grain",
+            "Like an iron chariot on a foot soldier"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When God judges Israel who will not be able to save his life (Am 2:14)?",
+        "choice": [
+            "The king",
+            "The warrior",
+            "Those on horse back",
+            "The priests"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When God judges Israel who will not be able to stand his ground (Am 2:15)?",
+        "choice": [
+            "The archer",
+            "The horseman",
+            "The swordsman",
+            "Those on the walls"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will not be able to save his life when the Lord judges Israel (Am 2:15)?",
+        "choice": [
+            "The archer",
+            "The horseman",
+            "The swordsman",
+            "Those on the walls"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How will the bravest warrior flee on that day (Am 2:16)?",
+        "choice": [
+            "Bruised and battered",
+            "Defeated",
+            "Naked",
+            "Shamed"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God say was unique about Israel of all the families of the earth (Am 3:2)?",
+        "choice": [
+            "They were the only ones he had chosen",
+            "They were the only ones who were righteous in his sight",
+            "They were the descendants of Abraham, his friend",
+            "They were the only ones among whom he dwelt"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How do two walk together (Am 3:3)?",
+        "choice": [
+            "With the same steps",
+            "Carrying the same load",
+            "Having agreed to do so",
+            "Sharing the same goal"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When does the lion not roar (Am 3:4)?",
+        "choice": [
+            "When he goes out of his den",
+            "When he has no prey",
+            "Right after he has caught his prey",
+            "In the night"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When does a bird fall into a trap on the ground (Am 3:5)?",
+        "choice": [
+            "When it has no food to eat",
+            "When it has no water to drink",
+            "When the trap is covered over",
+            "When the snare had been set"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How do the people in a city react when the trumpet is sounded (Am 3:6)?",
+        "choice": [
+            "They hide",
+            "They strengthen the walls",
+            "They tremble",
+            "They lock the gates"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When disaster comes to the city what/who has caused it (Am 3:6)?",
+        "choice": [
+            "Sin",
+            "The Lord",
+            "Baal",
+            "The people"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Sovereign Lord do before he does anything (Am 3:7)?",
+        "choice": [
+            "He reveals his plan to the prohpets",
+            "He warns his people",
+            "He consults with the heavenly council",
+            "He considers his ways"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How title does Amos give to the prophets to whom God reveals his plan (Am 3:7)?",
+        "choice": [
+            "His shepherds",
+            "His servants",
+            "His spokesmen",
+            "His messengers"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is the response to the lion roaring (Am 3:8)?",
+        "choice": [
+            "Fleeing",
+            "Hiding",
+            "Fear",
+            "Trembling"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What must accompany the Lord having spoken (Am 3:8)?",
+        "choice": [
+            "The people tremble",
+            "People fear the Lord",
+            "People obey",
+            "People must prophesy"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To what fortresses is the Lord proclaiming his message (Am 3:9)?",
+        "choice": [
+            "Ekron and Gath",
+            "Gilead and Shechem",
+            "Ashdod and Egypt",
+            "Assyria and Egypt"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did God declare that they should assemble (Am 3:9)?",
+        "choice": [
+            "In Jerusalem",
+            "On the mountains of Samaria",
+            "In the hill country of Lachish",
+            "In the Valley of Jezreel"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is found among the people on the mountains of Samaria (Am 3:9)?",
+        "choice": [
+            "Oppression",
+            "Injustice",
+            "Idolatry",
+            "Sin"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do those who hoard plunder not know how to do (Am 3:10)?",
+        "choice": [
+            "Justice",
+            "What is right",
+            "The will of the Lord",
+            "Be merciful"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are looted (Am 3:10)?",
+        "choice": [
+            "Their fortresses",
+            "Their homes",
+            "Their cities",
+            "Their fields"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who/what will overrun the land (Am 3:11)?",
+        "choice": [
+            "Locusts",
+            "An enemy",
+            "A drought",
+            "A famine"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will an enemy do (Am 3:11)?",
+        "choice": [
+            "Burn your city with fire",
+            "Knock down the walls of your houses",
+            "Plunder your fortresses",
+            "Loot your temple"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does a shepherd save from a lion’s mouth (Am 3:12)?",
+        "choice": [
+            "A back and a tail",
+            "A few ribs and a head",
+            "A spine and two hooves",
+            "Two leg bones and a piece of ear"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "People from what two cities will be saved like a shepherd saves from a lion (Am 3:12)?",
+        "choice": [
+            "Bethel and Shiloh",
+            "Shechem and Megiddo",
+            "Samaria and Damascus",
+            "Gilgal and Ramah"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On the day God punishes the house of Jacob what will be destroyed (Am 3:14)?",
+        "choice": [
+            "The treasuries of Gibeon",
+            "The altars of Bethel",
+            "The calf-idol of Samaria",
+            "The princes of Shechem"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On the day God punishes the house of Jacob what will be cut off (Am 3:14)?",
+        "choice": [
+            "The horns of the altar",
+            "The oaks of Shechem",
+            "The remnant of Samaria",
+            "The princes of Ephraim"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God say will be torn down on the day his punishes Israel (Am 3:15)?",
+        "choice": [
+            "The walls and gates of Samaria",
+            "The winter and summer houses",
+            "The palace of the king",
+            "The calf-idols of Bethel"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What houses will God destroy on the day he punishes Israel (Am 3:15)?",
+        "choice": [
+            "Houses made of stone",
+            "Houses of the rich and powerful",
+            "Houses adorned with ivory",
+            "Houses made of the cedars of Lebanon"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God call the women of Samaria (Am 4:1)?",
+        "choice": [
+            "Coogers of Samaria",
+            "Cows of Bashan",
+            "Snakes of the Jordan",
+            "Palace lizards"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the women of Samaria do (Am 4:1)?",
+        "choice": [
+            "Eat on beds of ivory",
+            "Worship at the temples of Baal and Asherah",
+            "Oppress the poor and crush the needy",
+            "Rob the widows and orphans of Samaria"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the women of Samaria ask from their husbands (Am 4:1)?",
+        "choice": [
+            "Bring us some drinks",
+            "Buy us jewelry of gold and silver",
+            "Give us food on plates of ivory",
+            "Provide us with dresses of fine linen"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does the Sovereign Lord say the women of Samaria will be taken away (Am 4:2)?",
+        "choice": [
+            "In cattle carts",
+            "With fishhooks",
+            "In shackles",
+            "In shameful nakedness"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How will the people of Samaria go out of the city (Am 4:3)?",
+        "choice": [
+            "In carts pulled by oxen",
+            "Through gates which are burning",
+            "Through cracks in the wall",
+            "In iron shackles"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Toward what place will the people of Samaria be cast out (Am 4:3)?",
+        "choice": [
+            "Gilead",
+            "Dan",
+            "Shechem",
+            "Harmon"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God tells the people of Samaria to go to what towns and sin (Am 4:4)?",
+        "choice": [
+            "Dan and Hazor",
+            "Shechem and Samaria",
+            "Bethel and Gilgal",
+            "Jerusalem and Bethlehem"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God tell the people of Samaria to do at Bethel and Gilgla (Am 4:4)?",
+        "choice": [
+            "Burn the houses of their gods",
+            "Sin",
+            "Offer sacrifices to Asherah",
+            "Destroy the altars"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God commands the people of Samaria to bring what to Bethel every three years (Am 4:4)?",
+        "choice": [
+            "Tithes",
+            "Offerings",
+            "Their grain",
+            "Their gold and silver"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God tell the people of Samaria to burn as a thank offering (Am 4:5)?",
+        "choice": [
+            "Wheat and barley",
+            "Leavened bread",
+            "Their sins",
+            "Sheep and goats"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In satire what does God tell the people of Samaria to brag about (Am 4:5)?",
+        "choice": [
+            "Their ivory couches",
+            "Their calf-idol",
+            "Their freewill offerings",
+            "Their flocks and herds"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God give the people of Israel in every city (Am 4:6)?",
+        "choice": [
+            "Bald heads",
+            "War",
+            "Sickness",
+            "Empty stomachs"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What would Israel not do even though God gave them the lack of bread in every town (Am 4:6)?",
+        "choice": [
+            "They would not confess their sin",
+            "They would not forsake their sin",
+            "They would not return to the Lord",
+            "They would not put away their calf-idol"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God withhold from Israel (Am 4:7)?",
+        "choice": [
+            "Manna",
+            "The rain",
+            "The harvests",
+            "Safety"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God send on one town and not another (Am 4:7)?",
+        "choice": [
+            "Rain",
+            "Judgment",
+            "Locusts",
+            "An earthquake"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why will people stagger from one town to another (Am 4:8)?",
+        "choice": [
+            "For a glass of wine",
+            "For water",
+            "For bread and wine",
+            "For new gods"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "While they did not have enough to drink yet what did they still refuse to do (Am 4:8)?",
+        "choice": [
+            "They would not confess their sin",
+            "They would not forsake their sin",
+            "They would not return to the Lord",
+            "They would not put away their calf-idol"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God strike with blight and mildew (Am 4:9)?",
+        "choice": [
+            "Their fields",
+            "Their wheat and barley",
+            "The walls of their houses",
+            "Their gardens and vineyards"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the locusts devour (Am 4:9)?",
+        "choice": [
+            "Wheat and barley",
+            "Palm trees",
+            "Fig and olive trees",
+            "Vines and gardens"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Even though the locusts ate their fig and olive trees yet what did Israel fail to do (Am 4:9)?",
+        "choice": [
+            "They would not confess their sin",
+            "They would not forsake their sin",
+            "They would not return to the Lord",
+            "They would not put away their calf-idol"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God send among the people of Israel like he did in Egypt (Am 4:10)?",
+        "choice": [
+            "Manna",
+            "Plagues",
+            "Deliverance",
+            "Signs by day and night"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what were their young men killed (Am 4:10)?",
+        "choice": [
+            "With the sword",
+            "With stones",
+            "With hunger",
+            "With draught"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did God overthrow some of them (Am 4:11)?",
+        "choice": [
+            "As he overthrew Egypt",
+            "As he over threw Sodom and Gomorrah",
+            "As he over threw Jericho",
+            "As he over threw the Amorites"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Even though God overthrew them what have they not done (Am 4:11)?",
+        "choice": [
+            "They would not confess their sin",
+            "They would not forsake their sin",
+            "They would not return to the Lord",
+            "They would not put away their calf-idol"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Because God is bringing this judgment on Israel what should they prepare for (Am 4:12)?",
+        "choice": [
+            "To be taken into exile",
+            "To be ground into dust",
+            "To face God’s judgment",
+            "To meet their God"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "he whose name is the Lord God Almighty does all of the following EXCEPT (Am 4:13)",
+        "choice": [
+            "Forms the mountains",
+            "Creates the wind",
+            "Walks on the waves of the sea",
+            "Turns dawn to darkness",
+            "Treads the high places of the earth"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is part of the lament given to the house of Israel (Am 5:2)?",
+        "choice": [
+            "The Virgin Israel is fallen never to rise again",
+            "The leaders of Samaria are exiled never to return",
+            "The innocent of Israel are held captive in Samaria",
+            "Jezreel has swept away the seed of Israel to foreign lands"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Virgin of Israel not have (Am 5:2)?",
+        "choice": [
+            "Any one to heal her",
+            "Any one to lift her up",
+            "Any one to provide her food and raiment",
+            "Any one to give her rest"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How many will the city that marches out one thousand strong have left (Am 5:3)?",
+        "choice": [
+            "None",
+            "Ten",
+            "One hundred",
+            "Five hundred"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did God tell Israel they would be able to live (Am 5:4)?",
+        "choice": [
+            "Repent",
+            "Return to the Lord",
+            "Put away their idols",
+            "Seek God"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God tell Israel not to seek (Am 5:5)?",
+        "choice": [
+            "Shechem",
+            "Samaria",
+            "Bethel",
+            "Jezreel"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did God tell Israel not to go (Am 5:5)?",
+        "choice": [
+            "Jezreel and Shechem",
+            "Gilgal and Beersheba",
+            "Gibeon and Ramah",
+            "Bethel and Samaria"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will happen to Bethel (Am 5:5)?",
+        "choice": [
+            "It will be reduced to nothing",
+            "It will go into exile",
+            "It will be burned to the ground",
+            "Its walls will be broken down"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will happen to Gilgal (Am 5:5)?",
+        "choice": [
+            "It will be reduced to nothing",
+            "It will go into exile",
+            "It will be burned to the ground",
+            "Its walls will be broken down"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God exhorts them to seek the Lord and live otherwise through what will he sweep through like a fire (Am 5:6)?",
+        "choice": [
+            "The gates of Bethel",
+            "The walls of Shechem",
+            "The house of Joseph",
+            "The high places of Samaria"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God accuse Israel of doing to justice (Am 5:7)?",
+        "choice": [
+            "Ignoring it",
+            "Covering it over with injustice",
+            "Burying it in the ground",
+            "Turning it into bitterness"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God accuse Israel of doing to righteousness (Am 5:7)?",
+        "choice": [
+            "Ignoring it",
+            "Covering it over with injustice",
+            "Casting it to the ground",
+            "Turning it into bitterness"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The one whose name is the Lord is described as doing all of the following EXCEPT (Am 5:8)",
+        "choice": [
+            "Made Pleiades and Orion",
+            "Made the waves on the sea",
+            "Turns blackness into dawn",
+            "Darkens day into night"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God do with the waters of the sea (Am 5:8)?",
+        "choice": [
+            "He pours them over the face of the land",
+            "Causes them to swell like mountains",
+            "Calms them with his word",
+            "Sets their boundary that they cannot pass"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God bring to ruin (Am 5:9)?",
+        "choice": [
+            "The high places of Jacob",
+            "The fortified city",
+            "The walls of Samaria",
+            "The gates of Bethel"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does Israel hate (Am 5:10)?",
+        "choice": [
+            "Anyone who does good",
+            "Those who follow the ways of the Lord",
+            "One who reproves in court",
+            "The righteous"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does Israel despise (Am 5:10)?",
+        "choice": [
+            "Anyone who does good",
+            "Those who follow the ways of the Lord",
+            "One who changes weights to sell",
+            "The one who speaks the truth"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the Israelites do to the poor (Am 5:11)?",
+        "choice": [
+            "Steal their coats",
+            "Do not give them justice",
+            "Trample on them",
+            "Take their land"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the Israelites do to the poor (Am 5:11)?",
+        "choice": [
+            "Steal their coats",
+            "Do not give them justice",
+            "Take their land",
+            "Force them to give up their grain"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where will the Israelites that abuse the poor not live (Am 5:11)?",
+        "choice": [
+            "In their stone mansions",
+            "In the palaces of Samaria",
+            "In rooms over the city gates",
+            "In their cedar palaces"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God know concerning the Israelites (Am 5:12)?",
+        "choice": [
+            "Their filth",
+            "How great their sins are",
+            "How they steal from the poor",
+            "How they build idols in Bethel"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where do they deprive the poor of justice (Am 5:12)?",
+        "choice": [
+            "In the streets",
+            "In their own homes",
+            "In the courts",
+            "Beside the altar"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When the righteous are oppressed what does the prudent person do (Am 5:13)?",
+        "choice": [
+            "He speaks truth to power",
+            "He defends the fatherless and widows",
+            "He roars like a lion",
+            "He keeps quiet"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are the Israelites to do in order that they may live (Am 5:14)?",
+        "choice": [
+            "Seek good, not evil",
+            "Promote justice",
+            "Refuse to take bribes",
+            "Speak truth to power"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will be the result of seeking good, not evil (Am 5:14)?",
+        "choice": [
+            "God will be with you",
+            "You will find good",
+            "You will avoid the judgment of evil",
+            "You will live in the land"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are they to hate (Am 5:15)?",
+        "choice": [
+            "The calf-god at Bethel",
+            "The leaders of Samaria",
+            "Evil",
+            "Injustice"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On whom may God have mercy if there is justice in the courts (Am 5:15)?",
+        "choice": [
+            "Judah",
+            "The inhabitants of Samaria",
+            "The children of Jacob",
+            "The remnant of Joseph"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will be found in all the streets (Am 5:16)?",
+        "choice": [
+            "Sounds of joy",
+            "The cries of babies",
+            "Wailing",
+            "Sounds of foot soldiers marching"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will be summoned to weep (Am 5:16)?",
+        "choice": [
+            "Soldiers",
+            "Farmers",
+            "Widows",
+            "Merchants"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When will there be wailing in all the vineyards (Am 5:17)?",
+        "choice": [
+            "When God passes through their midst",
+            "In that day",
+            "At the time of harvest",
+            "When they are turned to ashes"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do those upon whom God pronounces a woe long for (Am 5:18)?",
+        "choice": [
+            "Injustice",
+            "The day of the Lord",
+            "Victory",
+            "Bribes"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will characterize the day of the Lord (Am 5:18)?",
+        "choice": [
+            "Justice",
+            "Light",
+            "Darkness",
+            "Judgment"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After they flee from a lion what will they meet (Am 5:19)?",
+        "choice": [
+            "A tiger",
+            "A viper",
+            "Leopard",
+            "A bear"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Having escaped a lion and a bear what will they have happen to them (Am 5:19)?",
+        "choice": [
+            "They will be drowned in a flood",
+            "A whirlwind will destroy their home",
+            "A snake will bite them",
+            "A vulture will consume them"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will be characterized by darkness (Am 5:20)?",
+        "choice": [
+            "The Sabbath day",
+            "The day of the Lord",
+            "Their religious festivals",
+            "Their sacrifices at Bethel"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God say he despises and hates (Am 5:21)?",
+        "choice": [
+            "Their religious feasts",
+            "Their prayers and sacrifices",
+            "Their tithes and offerings",
+            "Their priests"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God says he will not regard or accept all of the following offerings EXCEPT (Am 5:22)",
+        "choice": [
+            "Burnt offerings",
+            "Sin offerings",
+            "Grain offerings",
+            "Fellowship offerings"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To what will God not listen (Am 5:23)?",
+        "choice": [
+            "The celebrations at their feasts",
+            "Their cries for help",
+            "The music of their harps",
+            "Their prayers"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God said he desires that what does justice do (Am 5:24)?",
+        "choice": [
+            "Destroys all those who accept bribes",
+            "Soars like an eagle",
+            "Is planted in the land",
+            "Rolls on like a river"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God said he desires that righteousness _______ (Am 5:24)?",
+        "choice": [
+            "Rolls on like a never failing stream",
+            "Soars like an eagle",
+            "Is planted in the land",
+            "Comes on them like a bandit"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God said they had lifted up all of the following EXCEPT (Am 5:26)",
+        "choice": [
+            "The star of their god",
+            "Their king",
+            "The pedestal of their idols",
+            "The altars of foreign gods"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Because they had lifted up the pedestal of their idols what would be God response (Am 5:27)?",
+        "choice": [
+            "They would receive the plagues of Egypt",
+            "They would be buried beside their high places",
+            "They would exiled beyond Damascus",
+            "They would receive no rain"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why are those in Zion given a “Woe” (Am 6:1)?",
+        "choice": [
+            "Because they are rebellious",
+            "Because they do not keep the decrees of the Lord",
+            "Because they are complacent",
+            "Because they are stubborn"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why are those on Mount Samaria given a “Woe” (Am 6:1)?",
+        "choice": [
+            "They are always scheming evil",
+            "They feel secure",
+            "They trust in their walls",
+            "They serve other gods"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The prophet advises Israel to go to all of the following places at look at them EXCEPT (Am 6:2)",
+        "choice": [
+            "Haran",
+            "Calneh",
+            "Hamath",
+            "Gath"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Gath is in what region (Am 6:2)?",
+        "choice": [
+            "Gilead",
+            "Philistia",
+            "The Negev",
+            "Jezreel"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the Israelites bring near (Am 6:3)?",
+        "choice": [
+            "The evil day",
+            "Drought and famine",
+            "The reign of terror",
+            "The day of the Lord"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On what do the people of Israel lie (Am 6:4)?",
+        "choice": [
+            "Soft chairs",
+            "The ground",
+            "On marble couches",
+            "Beds inlaid with ivory"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On what do the people of Israel dine (Am 6:4)?",
+        "choice": [
+            "Choice lambs",
+            "Bulls of Bashan",
+            "Imported fruits",
+            "Vegetables from Egypt"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the people of Israel do in terms of music (Am 6:5)?",
+        "choice": [
+            "They play their guitars",
+            "They strum on their harps",
+            "They sound their trumpets",
+            "They play their flutes"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who do the Israelites strum on their harps like (Am 6:5)?",
+        "choice": [
+            "Solomon",
+            "Asaph",
+            "David",
+            "Heman"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How do the Israelites drink wine (Am 6:6)?",
+        "choice": [
+            "By the bucket",
+            "By the stein",
+            "By the goblet",
+            "By the bowlful"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do the Israelites not grieve over (Am 6:6)?",
+        "choice": [
+            "The ruin of Joseph",
+            "The sins of Samaria",
+            "The high places of Gibeon",
+            "The calves of Bethel"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What punishment will come on Israel ending their feasting (Am 6:7)?",
+        "choice": [
+            "They will face draught",
+            "They will go into exile",
+            "They will face pestience",
+            "They will invaded by locusts"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will end for the Israelites (Am 6:7)?",
+        "choice": [
+            "Their rebellions",
+            "Their worship of other gods",
+            "Their feasting and lounging",
+            "Their abuse of the poor"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord God Almighty abhor (Am 6:7)?",
+        "choice": [
+            "The injustice of Israel",
+            "The altars of Bethel",
+            "The high placed of Ramah",
+            "The pride of Jacob"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord God Almighty detest (Am 6:7)?",
+        "choice": [
+            "The fortresses of Jacob",
+            "The gates of Samaria",
+            "The altars of Bethel",
+            "The high places of Gibeon"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When God delivers up the city what will happen (Am 6:9)?",
+        "choice": [
+            "All their children will be taken away",
+            "Ten men in a house will die",
+            "Women will shave their heads",
+            "Smoke will rise from their cities"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will a relative do for those in one house (Am 6:10)?",
+        "choice": [
+            "Set them free",
+            "Allow them to escape",
+            "Carry out and burn their bodies",
+            "Bring them food and water"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why will a relative in a house tell the one hiding there to not to mention (Am 6:10)?",
+        "choice": [
+            "The name of Baal",
+            "The Assyrians",
+            "The false prophets",
+            "The name of the Lord"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What has God given the command and smash into pieces (Am 6:11)?",
+        "choice": [
+            "The great house",
+            "The walls of Samaria",
+            "The gates of Shechem",
+            "The altars of Bethel"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God asks rhetorically if horses run where (Am 6:12)?",
+        "choice": [
+            "On sand",
+            "On crocky crags",
+            "In open fields",
+            "On the streets of Samaria"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God asks rhetorically if oxen do what on rocky crags (Am 6:12)?",
+        "choice": [
+            "Stumble",
+            "Run",
+            "Plow",
+            "Feed"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God accuse Israel of turning justice into (Am 6:12)?",
+        "choice": [
+            "Wickedness",
+            "Gall",
+            "Rotten fruit",
+            "Poison"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God accuse Israel of turning the fruit of righteousness into (Am 6:12)?",
+        "choice": [
+            "Rottenness",
+            "Injustice",
+            "Bitterness",
+            "Sour grapes"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what, does God say, they rejoice (Am 6:13)?",
+        "choice": [
+            "The calves at Bethel",
+            "Their conquest of Lo Debar",
+            "The walls of Samaria",
+            "The vines of Jezreel"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Israel claim about Karnaim (Am 6:13)?",
+        "choice": [
+            "They took it by their own strength",
+            "They burned it to the ground",
+            "They exiled its people to Samaria",
+            "They pulled down its walls"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "From where will the nation God is raising up do from Lebo Hamath to the Arabah (Am 6:14)?",
+        "choice": [
+            "Pursue them",
+            "Oppress them",
+            "Slaughter them",
+            "Exile them"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the Lord preparing just after the king’s share had been harvested (Am 7:1)?",
+        "choice": [
+            "An enemy from the north",
+            "Fire from heaven",
+            "A three year drought",
+            "A swarm of locusts"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When was the Lord preparing a swarm of locusts (Am 7:1)?",
+        "choice": [
+            "Just after the king’s share had been harvested",
+            "Just before the wheat and barley harvest",
+            "While the gleaning of the fields was being completed",
+            "Just before the grape harvest"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did Amos cry out to God (Am 7:2)?",
+        "choice": [
+            "Just after the Ammonites has stolen their wheat",
+            "Just after the locusts had stripped the land clean",
+            "After the second year of the drought had been sent from the Lord",
+            "After the Midianites had burned their fields"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amos cry out after the locusts had stripped the land clean (Am 7:2)?",
+        "choice": [
+            "How long, O Lord, how long",
+            "Forgive us, and be merciful to Jacob",
+            "How can Jacob survive?  He is so small",
+            "Will you condemn the righteous with the wicked?"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord do after Amos cried out, “How can Jacob survive?” (Am 7:3)?",
+        "choice": [
+            "The Lord relented",
+            "The Lord forgave Israel’s sins",
+            "Israel repented",
+            "Israel sought the Lord"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God say to Amos after Amos cried out about the locusts plague (Am 7:3)?",
+        "choice": [
+            "I have forgiven them as you asked",
+            "This will not happen",
+            "I will cause an east wind to blow the locusts away",
+            "I am a merciful God"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was the second judgment on Israel that God showed Amos (Am 7:4)?",
+        "choice": [
+            "The people being taken into exile",
+            "An enemy from the north attacking Samaria",
+            "Judgment by fire that devoured the land",
+            "A three year drought that dried up the land"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amos cry out after he saw the fire devour the land (Am 7:4)?",
+        "choice": [
+            "How long, O Lord, how long",
+            "How can Jacob survive?  He is so small",
+            "Forgive us, and be merciful to Jacob",
+            "Will you condemn the righteous with the wicked?"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord have in his hand next to the wall that he showed Amos (Am 7:7)?",
+        "choice": [
+            "A sword",
+            "A measuring line",
+            "A chisel",
+            "A plumb line"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was especially noted about the wall that the Lord showed Amos (Am 7:7)?",
+        "choice": [
+            "It was built true to plumb",
+            "It was unstable",
+            "It was broken down",
+            "Only the foundation was laid"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord ask Amos after he showed him the wall (Am 7:8)?",
+        "choice": [
+            "How long will Israel rebel against me?",
+            "What do you see, Amos?",
+            "Why is this wall true to plumb, Amos?",
+            "Will this wall really protect my people, Amos?"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord say he was setting among his people Israel (Am 7:8)?",
+        "choice": [
+            "A pillar",
+            "A judgment seat",
+            "A plumb line",
+            "A measuring stick"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord say he would destroy (Am 7:9)?",
+        "choice": [
+            "The calves of Bethel",
+            "The altars of Shiloh",
+            "The harvests of Jacob",
+            "The high places of Isaac"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Lord say he would bring to ruin (Am 7:9)?",
+        "choice": [
+            "The altars of Bethel",
+            "The high places of Ramah",
+            "The sanctuaries of Israel",
+            "The idols of Shechem"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Against whom did the Lord say he would raise his sword (Am 7:9)?",
+        "choice": [
+            "The kingdom of Jehu",
+            "The house of Jeroboam",
+            "The house of Omri",
+            "The descendants of Ahab"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who was the priest of Bethel (Am 7:10)?",
+        "choice": [
+            "Amaziah",
+            "Abiathar",
+            "Phineas",
+            "Eleazar"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Amaziah was the priest of what town (Am 7:10)?",
+        "choice": [
+            "Shiloh",
+            "Bethel",
+            "Samaria",
+            "Shechem"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What message did Amaziah send to king Jeroboam (Am 7:10)?",
+        "choice": [
+            "Amos prophesying the death of my lord the king",
+            "Amos is speaking against the calves of Bethel",
+            "Amos is raising a conspiracy against you",
+            "Amos is prophesying against the king’s palace"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amaziah say Amos was prophesying against the king (Am 7:11)?",
+        "choice": [
+            "Jeroboam would be slain by the king of Aram",
+            "Dogs would eat the flesh of Jeroboam",
+            "Jeroboam’s own children would slay him",
+            "Jeroboam would die by the sword"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amaziah say Amos said concerning Israel (Am 7:11)?",
+        "choice": [
+            "They would die by the sword",
+            "They would face three years of famine",
+            "They would go into exile",
+            "Their cities would be burned by their enemies"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did Amaziah tell Amos to go back to (Am 7:12)?",
+        "choice": [
+            "Sheol",
+            "Judah",
+            "Shiloh",
+            "Jerusalem"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amaziah say Amos should do when he returned to Judah (Am 7:12)?",
+        "choice": [
+            "Earn his bread and prophesy there",
+            "Tell them they needed to repent",
+            "Warn them of God’s coming judgment",
+            "Tell their king he would die by the sword"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did Amaziah tell Amos not to prophesy any more (Am 7:13)?",
+        "choice": [
+            "At Bethel",
+            "At Samaria",
+            "At Shiloh",
+            "At Gilgal"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did Amaziah tell Amos not to prophesy at Bethel (Am 7:13)?",
+        "choice": [
+            "Because the altar of the calf god was there",
+            "Because it was the home of Amaziah",
+            "Because it was the king’s sanctuary",
+            "Because it was holy to the God of Jacob"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amaziah call Amos when he told him to get out of Israel and return to Judah (Am 7:12)?",
+        "choice": [
+            "A prophet",
+            "A broken reed",
+            "A fool",
+            "A seer",
+            "A priest or a judge in Israel",
+            "A prophet of Baal",
+            "A prophet or a prohpet’s son",
+            "A seer or one of the sons of the seers"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Amos before he was sent to speak God’s word to Israel (Am 7:14)?",
+        "choice": [
+            "A wood cutter from Tekoa",
+            "A care taker of sycamore-fig trees",
+            "A dyer of wool and fine linen",
+            "A priest in Jerusalem"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Amos before he was sent to speak God’s word to Israel (Am 7:14)?",
+        "choice": [
+            "A shepherd",
+            "A wood cutter from Tekoa",
+            "A dyer of wool and fine linen",
+            "A priest in Jerusalem"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What had God commanded Amos to do (Am 7:15)?",
+        "choice": [
+            "Go prophesy to the people of Israel",
+            "Go warn the people of Bethel",
+            "Go pronounce judgment on the people of Samaria",
+            "Go speak to the king of Israel"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who told Amos, “stop preaching against the house of Isaac” (Am 7:16)?",
+        "choice": [
+            "Gemariah, the prophet",
+            "Abiathar, the scribe",
+            "Amaziah, the priest",
+            "Sanballat, the king’s servant"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amos tell Amaziah would happen to him (Am 7:17)?",
+        "choice": [
+            "He would be blind for three days",
+            "He would be slain by the sword",
+            "His house would be burned with fire",
+            "His wife would become a prostitute"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amos tell Amaziah would happen to him (Am 7:17)?",
+        "choice": [
+            "He would be blind for three days",
+            "His children would be slain by the sword",
+            "His house would be burned with fire",
+            "He would be eaten by the birds of the air"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amos tell Amaziah would happen to him (Am 7:17)?",
+        "choice": [
+            "He would be blind for three days",
+            "He would be slain by the sword",
+            "He would die in a pagan country",
+            "His house would be burned with fire"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amos tell Amaziah would happen to him (Am 7:17)?",
+        "choice": [
+            "He would be blind for three days",
+            "His land would be divided up",
+            "He would be slain by the sword",
+            "His house would be burned with fire"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Amos predict would happen to Israel after telling what would happen to Amaziah (Am 7:17)?",
+        "choice": [
+            "They would go into exile",
+            "It would be burned with fire",
+            "They would return to Egypt",
+            "They would be slain by the sword"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Which of the following did the Lord show Amos (Am 8:1)?",
+        "choice": [
+            "A new wine skin full of wine",
+            "A basket of ripe fruit",
+            "A jug of olive oil",
+            "A cluster of rotten grapes"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did the Lord interpret the basket of ripe fruit to Amos (Am 8:2)?",
+        "choice": [
+            "The time is ripe for the day of the Lord",
+            "The fruit is ripe but as Israel it is bitter when eaten",
+            "The time is ripe for God to no longer spare Israel",
+            "The time is ripe for judgment to fall on the house of Samaria"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will happen in “that day” (Am 8:3)?",
+        "choice": [
+            "The fruit in Israel’s fields will be burned",
+            "The walls of the city will be knocked down",
+            "Celebrations in the city gate will turn into exile",
+            "Songs in the temple will be turned to wailing"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will happen in “that day” (Am 8:3)?",
+        "choice": [
+            "Many bodies will be flung everwhere",
+            "The fruit in Israel’s fields will be burned",
+            "The walls of the city will be knocked down",
+            "Celebrations in the city gate will turn into exile"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What evil of this people does the Lord use to address them (Am 8:4)?",
+        "choice": [
+            "You who built altars to the stars",
+            "You who trample the needy",
+            "You who return to Egypt",
+            "You who go after other gods"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did they want the New Moon festival to be over (Am 8:5)?",
+        "choice": [
+            "So they could steal meat",
+            "So they could deceive their neighbors",
+            "So they could sell grain",
+            "So they could move the boundary markers of the poor"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did they want the Sabbath to be end (Am 8:5)?",
+        "choice": [
+            "So that they could take advantage of widows",
+            "So that they could lie to their neighbors",
+            "So that they could sell pigeons",
+            "So that they could market wheat"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did they cheat people (Am 8:5)?",
+        "choice": [
+            "By dishonest scales",
+            "By selling unripe fruit",
+            "By giving moldy bread",
+            "By selling rotten meat"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did they cheat people (Am 8:5)?",
+        "choice": [
+            "By selling unripe fruit as if it was ripe",
+            "By skimping the measure and boosting the price",
+            "By giving moldy bread after wiping it clean",
+            "By selling rotten meat as though it were freshly cut"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For what did they buy the needy (Am 8:6)?",
+        "choice": [
+            "A sheep skin coat",
+            "A linen belt",
+            "A pair of sandals",
+            "A wool turban"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For what did they buy the poor (Am 8:6)?",
+        "choice": [
+            "Copper",
+            "A linen belt",
+            "Silver",
+            "Gold"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did they mix in to the wheat they were selling (Am 8:6)?",
+        "choice": [
+            "The chaff",
+            "The stalks",
+            "Stones",
+            "The weepings"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "By what does the Lord swear he will never forget anything they have done (Am 8:7)?",
+        "choice": [
+            "By the Pride of Jacob",
+            "By the word of the Lord",
+            "By the temple of the Lord",
+            "By hand of Abraham"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the Lord swear by the Pride of Jacob (Am 8:7)?",
+        "choice": [
+            "He would call them to judgment for selling the poor",
+            "He would never forget anything they had done",
+            "Their rebellions at Dan and Bethel",
+            "Their turning away from the Lord their God"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will happen to the whole land as a result of Israel selling the poor (Am 8:8)?",
+        "choice": [
+            "The land will not receive rain",
+            "The land will be burned",
+            "The land will tremble",
+            "The land will weep"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When the judgment comes on Israel what will the land become like (Am 8:8)?",
+        "choice": [
+            "The setting of the sun which will rise no more",
+            "Rotten figs",
+            "A desert storm blowing in from the east",
+            "The rising and skinking of the Nile"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In that day what will the Sovereign Lord do (Am 8:9)?",
+        "choice": [
+            "The sun will go down at noon",
+            "Hail will destroy the wheat",
+            "Locusts will eat their vineyards",
+            "The stars will cease to shine"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On that day what will do to their religious feasts (Am 8:10)?",
+        "choice": [
+            "Turn them into darkness",
+            "Turn them into mourning",
+            "Give them over to their enemies",
+            "Send them into a foreign land to celebrate them"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On that day what does the Lord say he will make them all wear (Am 8:10)?",
+        "choice": [
+            "Ashes",
+            "Dust on their heads",
+            "Sackcloth",
+            "Rags"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On that day like what will they mourn (Am 8:10)?",
+        "choice": [
+            "Like mourning for a parent",
+            "Like mourning for a still born baby",
+            "Like mourning for one’s beloved",
+            "Like mourning for an only son"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In the days that are coming what will God send through the land (Am 8:11)?",
+        "choice": [
+            "A famine of food",
+            "A famine of thirst",
+            "A famine of hearing the words of the Lord",
+            "A famine of justice and righteousness flowing like a river"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will people stagger from sea to sea in search of (Am 9:12)?",
+        "choice": [
+            "Baskets of fruit",
+            "The word of the Lord",
+            "New wine and old",
+            "Justice"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where will people wander looking for the word of the Lord (Am 8:12)?",
+        "choice": [
+            "From north to east",
+            "From north to south",
+            "From east to west",
+            "From Dan to Beersheba"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In that day what will happen to lovely young women and strong young men (Am 8:13)?",
+        "choice": [
+            "They will run to their homes",
+            "They will faint because of thirst",
+            "They will hide in caves in the mountains",
+            "They will cry out for help"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "By what do the Israelites swear (Am 9:14)?",
+        "choice": [
+            "The Pride of Jacob",
+            "The ivory throne of Shechem",
+            "The shame of Samaria",
+            "The calves of Bethel"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "By what god will the people of Israel swear (Am 9:14)?",
+        "choice": [
+            "Chemosh, the god of the Moabites",
+            "The god of Beersheba",
+            "The god of Gilead",
+            "Moloch, the god of the Ammonites"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did Amos see the Lord standing (Am 9:1)?",
+        "choice": [
+            "Beside the altar",
+            "In the Most Holy Place",
+            "On a mountain top",
+            "On the threshing floor"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Amos told to strike (Am 9:1)?",
+        "choice": [
+            "The altar",
+            "The tops of the pillars",
+            "The pavement at the city gate",
+            "The olive tree in the King’s Valley"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will happen to those that are left after the thresholds shake (Am 9:1)?",
+        "choice": [
+            "They will be crushed by the rocks",
+            "They will flee in horror",
+            "They will be killed by the sword",
+            "They will be sent into exile"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where will God’s hand take them (Am 9:2)?",
+        "choice": [
+            "To a foreign country",
+            "From the walls of their cities",
+            "From the mountain tops",
+            "From the depths of the grave"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "From where will God bring them down (Am 9:2)?",
+        "choice": [
+            "From the heavens",
+            "From the mountain tops",
+            "From their fortified towers",
+            "From their eagle’s nest"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will God do with those who seek to hide on top of Carmel (Am 9:3)?",
+        "choice": [
+            "He will send the former rains on them",
+            "He will hunt them down and seize them",
+            "He will cause hail to fall on them from the heavens",
+            "He will send fire into the caves where they hide"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will God do to those who hide at the bottom of the sea (Am 9:3)?",
+        "choice": [
+            "The waves of the sea will roll over them",
+            "A great fish will swallow them",
+            "A serpent will bite them",
+            "The sword will pursue them"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When will God command the sword to slay them (Am 9:4)?",
+        "choice": [
+            "When they flee to the desert and hide in the caves",
+            "When they lock their city gates",
+            "When they seek their gods at Dan and Bethel",
+            "When their enemies have driven them into exile"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How will God fix his eyes upon them (Am 9:4)?",
+        "choice": [
+            "For good",
+            "For judgment",
+            "For evil",
+            "For forgiveness"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Amos say happens when the Lord Almighty touches the earth (Am 9:5)?",
+        "choice": [
+            "It becomes holy",
+            "It melts",
+            "It turns to dust",
+            "It is blown away"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Like what does the whole land react (Am 9:5)?",
+        "choice": [
+            "Trembles like a leaf",
+            "Become a desert",
+            "Rises like the Nile",
+            "Flows like the Jordan"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where does God build a lofty palace (Am 9:6)?",
+        "choice": [
+            "In Zion",
+            "On Mount Carmel",
+            "On the Mount of Olives",
+            "In the heavens"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where does God get the water to pour out on the face of the land (Am 9:6)?",
+        "choice": [
+            "He calls for the waters of the sea",
+            "He brings them down from heaven",
+            "He sends them forth from his palace",
+            "He rides the clouds sending rain on the earth"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God says the Israelites are the same to him as what group (Am 9:7)?",
+        "choice": [
+            "The Midianites",
+            "The Cushites",
+            "The Ammonites",
+            "The Philistines"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did God bring the Philistines from as he brought Israel out of Egypt (Am 9:7)?",
+        "choice": [
+            "Kir",
+            "Haran",
+            "Caphtor",
+            "Lebanon"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did God bring the Arameans from as he brought Israel out of Egypt (Am 9:7)?",
+        "choice": [
+            "Kir",
+            "Haran",
+            "Caphtor",
+            "Lebanon"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the Lord do to the sinful kingdom (Am 9:8)?",
+        "choice": [
+            "Send the sword to slay it",
+            "Destroy it from the face of the earth",
+            "Burn it with fire",
+            "Send foreign armies against it"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will God not totally do to the house of Jacob (Am 9:8)?",
+        "choice": [
+            "Knock down all their walls",
+            "Split the altars of Bethel",
+            "Destroy it",
+            "Send it into exile"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How will God separate the sinners among his people (Am 9:9)?",
+        "choice": [
+            "Winnow the grain and the chaff is blown away",
+            "Cut down the tree but not destroy the roots",
+            "Eat only some of the grapes",
+            "Shake Israel in a sieve like grain"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the sinners whom God will slay say (Am 9:10)?",
+        "choice": [
+            "Disaster will not overtake or meet us",
+            "God will forgive us and send us rain in its season",
+            "It is only a little sin",
+            "He will soon relent"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will God restore in that day (Am 9:11)?",
+        "choice": [
+            "Israel’s defiled throne",
+            "David’s fallen tent",
+            "Jeroboam’s burned palace",
+            "Israel’s altars"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why will God restore David’s fallen tent (Am 9:12)?",
+        "choice": [
+            "So they can live in peace and security",
+            "So they once again can journey to Zion",
+            "So they can posess the remnant of Edom",
+            "So they can follow the ways of the Lord"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does the Lord describe himself when they will possess the remnant of Edom (Am 9:12)?",
+        "choice": [
+            "The one who hears their cries",
+            "The one who sits in the heavens",
+            "The one who rides the clouds",
+            "The one who does these things"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God says the days are coming when who will overtake the reaper (Am 9:13)?",
+        "choice": [
+            "The plowman",
+            "The harvester",
+            "The ox that threshes the grain",
+            "The priest"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will flow from the mountains in the days that are coming (Am 9:13)?",
+        "choice": [
+            "Olive oil",
+            "Milk and honey",
+            "New wine",
+            "Rain"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does God say he will bring back in the days that are coming (Am 9:14)?",
+        "choice": [
+            "His beloved",
+            "His lost children",
+            "His scattered servants",
+            "His exiled people Israel"
+        ],
+        "answer": "D",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God say will be rebuilt in the days that are coming (Am 9:14)?",
+        "choice": [
+            "The walls of Jerusalem",
+            "The ruined cities",
+            "The broken altars",
+            "The gates of Samaria"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the people of Israel plant in those coming days (Am 9:14)?",
+        "choice": [
+            "Vineyards",
+            "Olive groves",
+            "Fig trees",
+            "Fields of grain"
+        ],
+        "answer": "A",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will God do to Israel in those coming days (Am 9:15)?",
+        "choice": [
+            "Return Israel from exile",
+            "Rescue Israel from the hands of foreigners",
+            "Plant Israel in their own land",
+            "Harvest plenty from Israel’s fields"
+        ],
+        "answer": "C",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will never happen to Israel again in those coming days (Am 9:15)?",
+        "choice": [
+            "They will never be defeated again",
+            "They will never be uprooted",
+            "They will never face drought and famine",
+            "They will never be rejected"
+        ],
+        "answer": "B",
+        "category": "Amos",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2021/05/30_Amos_MCQuestions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    }
+]

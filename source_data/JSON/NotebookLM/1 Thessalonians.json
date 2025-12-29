@@ -1,0 +1,832 @@
+[
+    {
+        "question": "Who are the authors of the first letter to the Thessalonians (1 Thessalonians 1:1)?",
+        "choice": [
+            "Paul and Silas",
+            "Paul, Silvanus, and Timothy",
+             "Paul and Timothy",
+            "Paul, Silas, and Timothy"
+           ],
+        "answer": "B"
+    },
+    {
+        "question": "What did Paul, Silvanus, and Timothy always do for the Thessalonians (1 Thessalonians 1:2)?",
+        "choice": [
+            "Mention them in their letters",
+            "Mention them in their prayers",
+            "Give thanks to God for them",
+            "Pray for them"
+         ],
+        "answer": "C"
+    },
+    {
+        "question": "What three things did Paul remember about the Thessalonians without ceasing (1 Thessalonians 1:3)?",
+        "choice": [
+           "Their work of faith, labor of love, and perseverance of hope",
+           "Their faith, love, and hope",
+            "Their work of faith, love, and hope",
+            "Their labor of love, perseverance of hope, and love"
+        ],
+        "answer": "A"
+    },
+    {
+       "question": "How did the Good News come to the Thessalonians (1 Thessalonians 1:5)?",
+        "choice": [
+            "In word only",
+            "In power and in the Holy Spirit",
+            "With much assurance",
+            "In word, power and the Holy Spirit, and with much assurance"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What did the Thessalonians become imitators of (1 Thessalonians 1:6)?",
+        "choice": [
+            "The apostles only",
+            "The Lord and the apostles",
+             "Paul only",
+             "The Lord only"
+           ],
+        "answer": "B"
+    },
+    {
+        "question": "What had the word of the Lord done through the Thessalonians (1 Thessalonians 1:8)?",
+        "choice": [
+           "It had gone out to every place",
+            "It was declared only in Macedonia",
+            "It was only declared in Achaia",
+           "It had gone out only in Macedonia and Achaia"
+        ],
+         "answer":"A"
+    },
+     {
+        "question": "What did the Thessalonians turn from to serve God (1 Thessalonians 1:9)?",
+        "choice": [
+            "Their old lives",
+            "The traditions of men",
+             "Idols",
+            "The law"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who does Paul say delivers us from the wrath to come (1 Thessalonians 1:10)?",
+        "choice": [
+             "God",
+            "The Holy Spirit",
+            "Jesus",
+            "An angel"
+         ],
+         "answer": "C"
+    },
+    {
+        "question": "Where had Paul and his companions been shamefully treated before visiting Thessalonica (1 Thessalonians 2:2)?",
+        "choice": [
+            "Corinth",
+            "Athens",
+            "Philippi",
+            "Jerusalem"
+        ],
+        "answer": "C"
+    },
+     {
+        "question":"What was the nature of Paul’s exhortation (1 Thessalonians 2:3)?",
+        "choice": [
+            "Of error, uncleanness, and deception",
+            "Not of error, uncleanness, or deception",
+           "Of error and deception",
+           "Of uncleanness and deception"
+        ],
+         "answer": "B"
+     },
+    {
+       "question": "Whose approval did Paul and his companions seek in their ministry (1 Thessalonians 2:4)?",
+       "choice": [
+            "The people's approval",
+            "Their own approval",
+           "God's approval",
+            "The apostle's approval"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What did Paul and his companions not use when speaking to the Thessalonians (1 Thessalonians 2:5)?",
+        "choice": [
+            "Words of truth",
+            "Words of flattery",
+            "Words of wisdom",
+            "Words of power"
+        ],
+        "answer": "B"
+    },
+    {
+         "question": "How did Paul and his companions behave among the Thessalonians (1 Thessalonians 2:7)?",
+        "choice": [
+           "Harshly",
+           "Like a nursing mother",
+           "Like a strict father",
+            "With authority"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Besides the Good News, what else were Paul and his companions willing to impart to the Thessalonians (1 Thessalonians 2:8)?",
+        "choice": [
+            "Their possessions",
+            "Their wisdom",
+             "Their own souls",
+             "Their time"
+          ],
+        "answer": "C"
+    },
+    {
+        "question": "What did Paul and his companions work to avoid being to the Thessalonians (1 Thessalonians 2:9)?",
+        "choice": [
+            "A burden",
+            "A distraction",
+            "A nuisance",
+            "A problem"
+        ],
+        "answer":"A"
+    },
+    {
+        "question": "What did Paul and his companions do for each of the Thessalonians (1 Thessalonians 2:11)?",
+         "choice": [
+            "Exhorted, comforted, and implored",
+            "Exhorted, judged, and taught",
+            "Prayed for and provided for",
+            "Led, provided for, and judged"
+        ],
+        "answer": "A"
+    },
+    {
+      "question": "What did the Thessalonians accept the word of the message as (1 Thessalonians 2:13)?",
+        "choice": [
+           "The word of the apostles",
+            "The word of men",
+           "God's word",
+            "A good message"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What hindered Paul from returning to the Thessalonians (1 Thessalonians 2:18)?",
+        "choice": [
+           "The Roman government",
+            "Satan",
+            "The Jewish leaders",
+            "His own fear"
+         ],
+        "answer": "B"
+    },
+     {
+        "question": "What did Paul send Timothy to do for the Thessalonians (1 Thessalonians 3:2)?",
+        "choice": [
+            "To comfort them only",
+            "To establish them only",
+           "To establish and comfort them concerning their faith",
+            "To teach them"
+        ],
+         "answer": "C"
+    },
+     {
+        "question": "What did Timothy bring back to Paul (1 Thessalonians 3:6)?",
+         "choice": [
+           "Glad news of their faith, love, and good memories",
+            "Money for Paul's ministry",
+            "A request for Paul to return",
+             "A report of their problems"
+         ],
+         "answer": "A"
+    },
+     {
+        "question": "What did Paul pray for the Thessalonians to increase and abound in (1 Thessalonians 3:12)?",
+        "choice": [
+            "Faith",
+             "Love toward one another and all men",
+            "Hope",
+           "Joy"
+        ],
+         "answer":"B"
+    },
+     {
+        "question": "What does Paul say is God's will for the Thessalonians (1 Thessalonians 4:3)?",
+        "choice": [
+           "Their prosperity",
+            "Their sanctification",
+            "Their peace",
+            "Their happiness"
+        ],
+         "answer": "B"
+    },
+      {
+        "question": "What should believers abstain from (1 Thessalonians 4:3)?",
+        "choice": [
+            "Worldly pleasures",
+            "Sexual immorality",
+           "Unwholesome relationships",
+           "Greed"
+         ],
+        "answer": "B"
+    },
+    {
+         "question":"What will happen to the dead in Christ when the Lord descends from heaven (1 Thessalonians 4:16)?",
+         "choice":[
+            "They will be judged",
+            "They will rise first",
+            "They will be forgotten",
+            "They will be caught up in the clouds"
+         ],
+         "answer":"B"
+     },
+     {
+        "question": "What does Paul say the day of the Lord will come like (1 Thessalonians 5:2)?",
+        "choice": [
+            "A thief in the night",
+             "A wedding feast",
+            "A storm",
+           "A new day"
+         ],
+        "answer": "A"
+    },
+    {
+        "question": "Who are the authors of the letter to the Thessalonians (1 Thessalonians 1:1)?",
+        "choice": [
+            "Paul and Timothy",
+            "Paul and Silvanus",
+            "Paul, Silvanus, and Timothy",
+            "Silvanus and Timothy"
+         ],
+         "answer": "C"
+    },
+    {
+        "question": "To whom is the letter addressed (1 Thessalonians 1:1)?",
+        "choice": [
+            "The assembly of Philippi",
+            "The assembly of Thessalonians in God the Father and the Lord Jesus Christ",
+             "The churches of Judea",
+            "The churches of Galatia"
+        ],
+        "answer": "B"
+    },
+    {
+        "question":"What three things does Paul remember about the Thessalonians (1 Thessalonians 1:3)?",
+         "choice": [
+             "Their faith, hope and love",
+             "Their work of faith, labor of love, and perseverance of hope",
+             "Their love, joy, and peace",
+            "Their generosity, kindness, and patience"
+         ],
+         "answer":"B"
+    },
+   {
+        "question": "What does Paul say about the Thessalonians in terms of being chosen (1 Thessalonians 1:4)?",
+        "choice": [
+            "They are not chosen",
+            "They are chosen by God",
+             "They chose God",
+            "They are chosen by the church"
+        ],
+        "answer":"B"
+    },
+    {
+        "question": "How did the Good News come to the Thessalonians (1 Thessalonians 1:5)?",
+         "choice": [
+             "In word only",
+             "In power, in the Holy Spirit, and with much assurance",
+            "In a quiet and gentle way",
+            "With much fanfare"
+         ],
+         "answer": "B"
+    },
+   {
+        "question": "Of whom did the Thessalonians become imitators (1 Thessalonians 1:6)?",
+        "choice": [
+           "Only Paul",
+           "Only the Lord",
+            "Paul and the Lord",
+           "The apostles"
+        ],
+        "answer":"C"
+    },
+    {
+        "question": "How did the Thessalonians receive the word (1 Thessalonians 1:6)?",
+        "choice": [
+            "With joy",
+            "In much affliction, with joy of the Holy Spirit",
+            "With indifference",
+            "With doubt"
+        ],
+        "answer": "B"
+    },
+    {
+        "question":"To whom did the Thessalonians become an example (1 Thessalonians 1:7)?",
+         "choice": [
+           "To all who believe in Macedonia and in Achaia",
+           "To the churches in Judea",
+            "To the churches in Asia Minor",
+            "To the Roman Empire"
+        ],
+        "answer":"A"
+   },
+   {
+        "question": "What had gone out from the Thessalonians (1 Thessalonians 1:8)?",
+        "choice": [
+            "Their financial support",
+           "The word of the Lord and their faith toward God",
+            "Their missionaries",
+           "Their offerings"
+        ],
+         "answer":"B"
+    },
+    {
+        "question": "What did the Thessalonians turn from (1 Thessalonians 1:9)?",
+        "choice": [
+            "The Law",
+             "Idols",
+            "Their previous lives",
+             "Their families"
+         ],
+         "answer":"B"
+    },
+    {
+       "question": "What are the Thessalonians waiting for (1 Thessalonians 1:10)?",
+        "choice": [
+            "The coming of John the Baptist",
+           "God's Son from heaven, whom he raised from the dead: Jesus",
+            "The coming of the Roman Emperor",
+             "The end of the world"
+         ],
+        "answer": "B"
+    },
+    {
+        "question": "What does Jesus deliver us from (1 Thessalonians 1:10)?",
+        "choice": [
+            "Sickness",
+            "Poverty",
+            "The wrath to come",
+            "Persecution"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Where had Paul and his companions been shamefully treated (1 Thessalonians 2:2)?",
+        "choice": [
+            "In Athens",
+            "In Thessalonica",
+            "In Philippi",
+            "In Corinth"
+        ],
+        "answer": "C"
+    },
+   {
+        "question":"What was Paul's exhortation not of (1 Thessalonians 2:3)?",
+        "choice": [
+            "Error, uncleanness, or deception",
+             "Love, peace, or joy",
+            "Faith, hope, or love",
+            "Holiness, righteousness, or blamelessness"
+        ],
+        "answer":"A"
+    },
+     {
+        "question": "Whom did Paul and his companions seek to please (1 Thessalonians 2:4)?",
+        "choice": [
+            "Men",
+           "God",
+            "Themselves",
+            "The church"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What did Paul and his companions not use (1 Thessalonians 2:5)?",
+        "choice": [
+            "Words of flattery or a cloak of covetousness",
+             "Words of wisdom or power",
+             "Words of truth or conviction",
+            "Words of love or mercy"
+        ],
+        "answer": "A"
+   },
+   {
+        "question": "What did Paul and his companions not seek (1 Thessalonians 2:6)?",
+         "choice": [
+            "Financial support",
+            "Help from the church",
+            "Glory from men",
+             "A place to rest"
+         ],
+         "answer": "C"
+    },
+    {
+        "question": "How did Paul and his companions behave among the Thessalonians (1 Thessalonians 2:7)?",
+        "choice": [
+           "With authority",
+            "With gentleness, like a nursing mother",
+            "With harshness",
+            "With indifference"
+         ],
+         "answer": "B"
+    },
+    {
+        "question": "What were Paul and his companions pleased to impart to the Thessalonians (1 Thessalonians 2:8)?",
+        "choice": [
+            "Only the Good News of God",
+             "Not only the Good News of God, but also their own souls",
+            "Only their wisdom",
+             "Only their teachings"
+        ],
+        "answer":"B"
+    },
+    {
+        "question":"Why did Paul and his companions work night and day (1 Thessalonians 2:9)?",
+        "choice": [
+            "To earn a living",
+           "That they might not burden any of the Thessalonians",
+             "To set an example of hard work",
+            "To gain power and influence"
+         ],
+         "answer":"B"
+    },
+    {
+        "question": "How did Paul and his companions behave toward the believers (1 Thessalonians 2:10)?",
+        "choice": [
+            "Holily, righteously, and blamelessly",
+            "Strictly and harshly",
+            "With favoritism",
+             "With indifference"
+         ],
+        "answer": "A"
+    },
+    {
+       "question": "How did Paul and his companions treat the Thessalonians as a father would (1 Thessalonians 2:11)?",
+        "choice": [
+            "They ignored them",
+            "They exhorted, comforted, and implored every one of them",
+            "They were harsh with them",
+           "They were distant from them"
+        ],
+         "answer":"B"
+    },
+   {
+        "question": "What was the purpose of Paul's exhortation (1 Thessalonians 2:12)?",
+        "choice": [
+            "That they should walk worthily of God",
+            "That they should become wealthy",
+            "That they should become powerful",
+           "That they should become famous"
+        ],
+        "answer":"A"
+    },
+    {
+        "question":"How did the Thessalonians accept the word of the message of God (1 Thessalonians 2:13)?",
+        "choice": [
+            "As the word of men",
+             "As it is in truth, God’s word",
+           "With doubt and skepticism",
+            "With fear and trembling"
+        ],
+         "answer":"B"
+    },
+    {
+        "question": "Who hindered Paul from visiting the Thessalonians (1 Thessalonians 2:18)?",
+        "choice": [
+            "The Roman government",
+            "Satan",
+             "The Jews",
+            "His own sickness"
+        ],
+         "answer": "B"
+    },
+        {
+        "question": "Who did Paul send to the Thessalonians from Athens (1 Thessalonians 3:2)?",
+        "choice": [
+            "Silvanus",
+            "Timothy",
+            "Luke",
+             "John"
+        ],
+        "answer": "B"
+    },
+      {
+        "question":"What was Timothy sent to do (1 Thessalonians 3:2)?",
+        "choice": [
+            "To collect money for the church",
+           "To establish and comfort them concerning their faith",
+            "To start new churches",
+            "To argue about theological issues"
+         ],
+        "answer":"B"
+    },
+    {
+       "question": "Why was Paul concerned about the Thessalonians' faith (1 Thessalonians 3:5)?",
+        "choice": [
+           "That they might have lost their faith",
+            "That the tempter had tempted them, and his labor would be in vain",
+            "That they were not reading the scriptures",
+            "That they were not praying enough"
+        ],
+         "answer": "B"
+    },
+   {
+        "question": "What news did Timothy bring to Paul (1 Thessalonians 3:6)?",
+        "choice": [
+            "News of their wealth and prosperity",
+           "Glad news of their faith and love, and that they have good memories of Paul and his companions",
+            "News that they had turned away from the faith",
+            "News of their conflict and strife"
+        ],
+        "answer": "B"
+    },
+    {
+       "question": "What was Paul's reaction to the good news brought by Timothy (1 Thessalonians 3:7)?",
+        "choice": [
+           "He was indifferent",
+           "He was comforted in all his distress and affliction through their faith",
+            "He was angry",
+            "He was jealous"
+        ],
+         "answer":"B"
+    },
+       {
+        "question": "What did Paul pray for the Thessalonians (1 Thessalonians 3:10)?",
+        "choice": [
+            "That they might see his face and perfect what is lacking in their faith",
+            "That they might become wealthy",
+            "That they might gain power",
+             "That they might not be persecuted"
+        ],
+         "answer":"A"
+    },
+   {
+        "question": "What does Paul ask the Lord to make the Thessalonians do (1 Thessalonians 3:12)?",
+        "choice": [
+           "To increase and abound in love toward one another and toward all men",
+            "To become rich",
+            "To be leaders",
+            "To be famous"
+        ],
+        "answer":"A"
+    },
+    {
+        "question":"What does Paul pray that God will establish (1 Thessalonians 3:13)?",
+        "choice": [
+            "Their power",
+            "Their wealth",
+            "Their hearts blameless in holiness",
+             "Their earthly possessions"
+        ],
+         "answer":"C"
+    },
+    {
+        "question": "What does Paul urge the Thessalonians to do in regards to their walk with God (1 Thessalonians 4:1)?",
+        "choice": [
+            "To continue as they are",
+            "To walk in new ways",
+            "To abound more and more",
+            "To walk in love"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What instructions did Paul and his companions give the Thessalonians through the Lord Jesus (1 Thessalonians 4:2)?",
+        "choice": [
+            "Instructions on prayer",
+            "Instructions on love",
+             "Instructions on how to walk and please God",
+            "Instructions on giving"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "In what way should each person control their own body (1 Thessalonians 4:4)?",
+        "choice": [
+            "In their own way",
+            "In sanctification and honor",
+            "In the passion of lust",
+            "As the Gentiles do"
+        ],
+         "answer": "B"
+    },
+    {
+        "question": "Why does Paul say that one should not take advantage of or wrong a brother or sister (1 Thessalonians 4:6)?",
+        "choice": [
+            "Because the church will be upset",
+             "Because the Lord is an avenger in all these things",
+            "Because it is bad manners",
+            "Because the law forbids it"
+        ],
+        "answer":"B"
+    },
+    {
+        "question": "What did God call us for (1 Thessalonians 4:7)?",
+         "choice": [
+             "For uncleanness",
+            "For sanctification",
+             "For service",
+            "For judgement"
+         ],
+        "answer":"B"
+    },
+   {
+        "question": "What does Paul say about brotherly love (1 Thessalonians 4:9)?",
+        "choice": [
+            "They have no need for him to write to them about it",
+            "They must do better at it",
+            "They must pray for it",
+            "They have no love"
+         ],
+         "answer": "A"
+   },
+    {
+        "question": "Where were the brothers to whom the Thessalonians were showing brotherly love located (1 Thessalonians 4:10)?",
+        "choice": [
+            "In Thessalonica",
+            "In Achaia",
+           "In all of Macedonia",
+            "In Philippi"
+        ],
+         "answer": "C"
+    },
+    {
+        "question": "What should the Thessalonians make their ambition (1 Thessalonians 4:11)?",
+        "choice": [
+           "To be wealthy",
+           "To lead a quiet life, do their own business, and work with their hands",
+            "To be leaders in the church",
+            "To be popular"
+        ],
+        "answer":"B"
+    },
+    {
+        "question": "What did Paul not want the Thessalonians to be ignorant about (1 Thessalonians 4:13)?",
+        "choice": [
+            "Those who have fallen asleep",
+            "Those who have denied the faith",
+            "Those who have rejected the faith",
+            "Those who have left the church"
+        ],
+        "answer": "A"
+    },
+    {
+       "question": "What will God bring with Jesus (1 Thessalonians 4:14)?",
+        "choice": [
+            "Angels",
+            "Those who have fallen asleep in Jesus",
+            "His glory",
+            "His Kingdom"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What will accompany the Lord's descent from heaven (1 Thessalonians 4:16)?",
+        "choice": [
+            "A trumpet call only",
+            "A shout and the voice of the archangel only",
+            "A shout, the voice of the archangel, and God’s trumpet",
+            "A trumpet call and a host of angels"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who will be caught up together in the clouds to meet the Lord in the air (1 Thessalonians 4:17)?",
+        "choice": [
+            "The dead only",
+            "The living only",
+            "Those who are alive and remain and the dead in Christ",
+            "Only the righteous"
+        ],
+        "answer": "C"
+    },
+    {
+        "question":"What should the Thessalonians do with the words of comfort regarding the Lord's return (1 Thessalonians 4:18)?",
+         "choice": [
+            "Keep them to themselves",
+             "Comfort one another with these words",
+            "Write them down for others",
+            "Forget them"
+         ],
+         "answer":"B"
+    },
+    {
+        "question": "What does Paul say the Thessalonians know well about the day of the Lord (1 Thessalonians 5:2)?",
+         "choice": [
+             "When it will come",
+            "That it will come like a thief in the night",
+            "How to avoid it",
+            "How to prepare for it"
+         ],
+         "answer": "B"
+     },
+    {
+        "question": "What will come upon those who are saying, “Peace and safety” (1 Thessalonians 5:3)?",
+         "choice": [
+            "Sudden destruction",
+             "Great joy",
+            "A time of peace",
+            "A time of refreshing"
+         ],
+         "answer": "A"
+    },
+     {
+        "question": "What does Paul say the believers are not (1 Thessalonians 5:4)?",
+        "choice": [
+           "Children of the night",
+           "In darkness",
+            "Of the day",
+           "In light"
+        ],
+        "answer": "B"
+    },
+   {
+        "question": "To what does Paul compare believers as children of the day (1 Thessalonians 5:5)?",
+        "choice": [
+            "Children of light",
+            "Children of darkness",
+             "Children of the world",
+            "Children of the night"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What does Paul urge believers to do instead of sleeping (1 Thessalonians 5:6)?",
+        "choice": [
+            "Dream",
+            "Watch and be sober",
+            "Run",
+            "Hide"
+        ],
+        "answer": "B"
+    },
+     {
+        "question": "What should believers put on as a breastplate and helmet (1 Thessalonians 5:8)?",
+        "choice": [
+           "Righteousness and truth",
+            "Faith and love as a breastplate, and the hope of salvation as a helmet",
+            "Love and joy",
+            "Peace and patience"
+         ],
+         "answer": "B"
+    },
+     {
+        "question": "What has God not appointed believers to (1 Thessalonians 5:9)?",
+        "choice": [
+            "Salvation",
+           "Wrath",
+            "Service",
+            "Holiness"
+         ],
+         "answer":"B"
+    },
+     {
+        "question": "What should believers do for one another (1 Thessalonians 5:11)?",
+        "choice": [
+            "Rebuke each other",
+            "Build each other up",
+           "Judge each other",
+            "Compete with each other"
+        ],
+        "answer":"B"
+    },
+    {
+       "question": "What does Paul urge the Thessalonians to know (1 Thessalonians 5:12)?",
+        "choice": [
+            "Those who are wealthy",
+            "Those who are in power",
+             "Those who labor among them and are over them in the Lord",
+            "Those who are new in the faith"
+        ],
+        "answer":"C"
+    },
+    {
+        "question":"What does Paul urge the Thessalonians to do with those who are disorderly (1 Thessalonians 5:14)?",
+        "choice": [
+            "Excommunicate them",
+            "Admonish them",
+            "Ignore them",
+            "Judge them"
+        ],
+        "answer":"B"
+    },
+    {
+        "question": "What should believers always follow after (1 Thessalonians 5:15)?",
+        "choice": [
+            "That which is good for one another and for all",
+            "Their own desires",
+            "Their personal ambition",
+            "The teachings of men"
+        ],
+         "answer": "A"
+    },
+    {
+        "question": "What does Paul urge the Thessalonians to do in everything (1 Thessalonians 5:18)?",
+        "choice": [
+            "Give thanks",
+            "Pray",
+            "Rejoice",
+            "Be patient"
+        ],
+        "answer": "A"
+    }
+]

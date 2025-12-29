@@ -1,0 +1,3462 @@
+[
+    {
+        "question": "By what was Paul an apostle of Christ Jesus (Eph. 1:1)",
+        "choice": [
+            "By the grace of our Lord Jesus Christ",
+            "By faith which is in Christ Jesus",
+            "By the will of God",
+            "By the Spirit"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The book of Ephesians is address to _________ in Ephesus (Eph. 1:1)",
+        "choice": [
+            "All who live",
+            "God’s holy people",
+            "Those who are called in Christ Jesus",
+            "The chosen in Christ"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In the greeting, what does Paul say is from God our Father and the Lord Jesus Christ (Eph. 1:2)",
+        "choice": [
+            "Grace and peace",
+            "Grace and truth",
+            "Faith and love",
+            "Righteousness and holiness"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what has God blessed the Ephesians in the heavenly realms (Eph. 1:3)",
+        "choice": [
+            "With strength and life",
+            "With every spiritual blessing",
+            "With all grace in Christ Jesus",
+            "With the anointing of the spirit"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where has God blessed the Ephesians with every spiritual blessing (Eph. 1:3)",
+        "choice": [
+            "In all the earth",
+            "In the holies of holies",
+            "In heavenly realms",
+            "In his body which is the church"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did the Father do for us before the creation of the world (Eph. 1:4)",
+        "choice": [
+            "Loved us",
+            "Called us",
+            "Redeemed us",
+            "Chose us"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did the Father chose us in Christ (Eph. 1:4)",
+        "choice": [
+            "Before Christ died for our sins",
+            "Before he breathed into life into all",
+            "Before the creation of the world",
+            "Before he made the land and seas"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For what did the Father choose us before the creation of the world (Eph. 1:4)",
+        "choice": [
+            "To be righteous and spiritual",
+            "To be holy and blameless",
+            "To be loving and truthful",
+            "To live with all uprightness and gentleness"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In love to what did the Father predestine us according to the pleasure of his will (Eph. 1:5)",
+        "choice": [
+            "For adoption to sonship",
+            "For redemption unto righteousness",
+            "To be a kingdom of priests",
+            "To follow Christ Jesus"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What has the Father given us freely in the One he loves (Eph. 1:6)",
+        "choice": [
+            "The forgiveness of sin",
+            "The praise of his glorious grace",
+            "The light on our path from the Father of lights",
+            "The riches of his love"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In whom/what has the Father has given us freely the praise of his glorious grace (Eph. 1:6)",
+        "choice": [
+            "In the Spirit which indwells us",
+            "In mercy to all who believe",
+            "In the One he loves",
+            "In his one and only Son"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Through what do we have redemption (Eph. 1:7)",
+        "choice": [
+            "Through faith",
+            "Through his mercy",
+            "Through the washing of our souls",
+            "Through his blood"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What do we have in redemption through his blood (Eph. 1:7)",
+        "choice": [
+            "Grace and truth",
+            "The light of God",
+            "The forgiveness of sins",
+            "A seat in the heaven"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "According to what do we have forgiveness of sin which was lavished on us (Eph. 1:7)",
+        "choice": [
+            "The bounty of God’s love",
+            "The riches of God’s grace",
+            "The deep mercy of God",
+            "The cleansing of Christ’s blood"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what were the riches of God’s grace lavished upon us (Eph. 1:8)",
+        "choice": [
+            "All wisdom and understanding",
+            "All forgiveness and cleansing",
+            "All holiness and righteousness",
+            "All gentleness and meekness"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God make known to us with all wisdom and understanding (Eph 1:9)",
+        "choice": [
+            "His irresistible calling",
+            "The mystery of his will",
+            "The greatness of his grace",
+            "The forgiveness of sins"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When was the mystery of God’s will to be put into effect (Eph. 1:10)",
+        "choice": [
+            "When God’s word had been manifest",
+            "When Christ died for our sins according to the Scripture",
+            "When the times reach their fulfillment",
+            "When the end of all things had come"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why would the mystery of his will be put into effect (Eph. 1:10)",
+        "choice": [
+            "To unite the church as one body",
+            "To fulfill the word of God",
+            "To show God’s eternal grace",
+            "To bring unity to all things"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "We were chosen and were ___________ according to the plan of him who works out everything in conformity to the purpose of his will (Eph. 1:11)",
+        "choice": [
+            "Loved",
+            "Redeemed",
+            "Predestined",
+            "Forgiven"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In conformity to what does God work out everything (Eph. 1:11)",
+        "choice": [
+            "The unity of his body the church",
+            "The purpose of his will",
+            "His eternal word",
+            "The goodness of his grace"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For what are those who put their hope in Christ (Eph. 1:12)",
+        "choice": [
+            "For the praise of his glory",
+            "For lights in a dark world",
+            "For the unity of the church",
+            "For the forgiveness of sins"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who were for the praise of his glory (Eph. 1:12)",
+        "choice": [
+            "Those who believe on the Son of God",
+            "Those who first put their hope in Christ",
+            "Those who were called according to his purpose",
+            "Those who once were a far off"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When the Ephesians believed, what does Paul say happened to them (Eph. 1:13)",
+        "choice": [
+            "Their sins were forgiven",
+            "They were justified in Christ Jesus",
+            "They were marked with a seal",
+            "They were given eternal life"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Paul describe the seal by which the Ephesians were marked (Eph. 1:13)",
+        "choice": [
+            "The precious blood of Jesus",
+            "The circumcision of the heart",
+            "The love of God",
+            "The promised Holy Spirit"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Paul describe the mark by which believers are sealed even the promised Holy Spirit (Eph. 1:14)",
+        "choice": [
+            "An advocate for believers",
+            "A sign of the promise of God’s love",
+            "A deposit guaranteeing our inheritance",
+            "A sign of the covenant which was in Christ Jesus"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who is the deposit guaranteeing our inheritance (Eph. 1:14)",
+        "choice": [
+            "Christ Jesus",
+            "The Holy Spirit",
+            "God the Father",
+            "The apostle Paul"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The Spirit is the guarantee of our inheritance at what time (Eph. 1:14)",
+        "choice": [
+            "The redemption of those who are God’s possession",
+            "When Christ takes the throne on the right hand of the Father",
+            "The imputation of Christ’s righteousness on believers",
+            "The return of Jesus to receive us into glory"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul say he had heard about the Ephesians (Eph. 1:15)",
+        "choice": [
+            "Their love towards Paul",
+            "Their faith in the Lord Jesus",
+            "Their concern for all the saints",
+            "Their endurance in hardships"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul say he had heard about the Ephesians (Eph. 1:15)",
+        "choice": [
+            "Their grace towards the poor",
+            "Their concern for all the saints",
+            "Their love for all God’s people",
+            "Their endurance in hardships"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What has Paul not stopped doing (Eph. 1:16)",
+        "choice": [
+            "Seeking their good",
+            "Praising God on their behalf",
+            "Sacrificing for the Ephesians day and night",
+            "Giving thanks for the Ephesians"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul keep asking the glorious Father might give to the Ephesians (Eph. 1:17)",
+        "choice": [
+            "The forgiveness of sins",
+            "All power and might in Christ Jesus",
+            "The Spirit of wisdom and revelation",
+            "The Spirit of humility and kindness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To what end does Paul keep asking that God would give them the Spirit of wisdom and revelation (Eph. 1:17)",
+        "choice": [
+            "So that they might love one another",
+            "So that they might know him better",
+            "So that they would walk in the footsteps of Jesus",
+            "So that they would become what they are"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul says that he prays that what would be enlightened (Eph. 1:28)",
+        "choice": [
+            "The eyes of their heart",
+            "The thoughts of their mind",
+            "Their faith and hope",
+            "Their understanding of his will"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul pray they may know and to which he had called them (Eph. 1:28)",
+        "choice": [
+            "Love",
+            "Hope",
+            "Joy",
+            "Peace"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "God has called them to the hope which is described as the ___________ (Eph. 1:18)",
+        "choice": [
+            "Seal of the promised Holy Spirit",
+            "The kindness of his grace",
+            "Riches of his glorious inheritance in his holy people",
+            "The greatness and fullness of his grace in Christ Jesus"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To what has God called them for those who have believed (Eph. 1:19)",
+        "choice": [
+            "His holiness and righteousness",
+            "His greatness which is beyond measure",
+            "His forgiveness and light",
+            "His incomparably great power"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After God raised Jesus, where did God seat him (Eph. 1:20)",
+        "choice": [
+            "On his throne above all creation",
+            "Above every king and priest and prophet",
+            "At his right hand in the heavenly realms",
+            "At the head of the body the church"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "After God raised Jesus, God seated him above all rule and authority, power and _______ (Eph. 1:21)",
+        "choice": [
+            "Principality",
+            "Dominion",
+            "Judge",
+            "Kingdom"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Jesus was given a __________ far above not only in this age but in the age to come (Eph. 1:21)",
+        "choice": [
+            "Name",
+            "Crown",
+            "Garment",
+            "Throne"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where did God place all things (Eph. 1:22)",
+        "choice": [
+            "Under the mountain of God",
+            "Under Christ’s feet",
+            "Under the control of the Spirit",
+            "In his hands"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Christ appointed to be (Eph. 1:22)",
+        "choice": [
+            "The son of God and son of God",
+            "The great high priest",
+            "The head over everything for the church",
+            "The king on the throne of his father David"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How is the church described in relation to Christ (Eph. 1:23)",
+        "choice": [
+            "His blessing",
+            "His crown",
+            "His gift",
+            "His body"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How is Christ’s body described (Eph. 1:23)",
+        "choice": [
+            "The fullness of him who fills everything",
+            "The perfect which guides us in truth",
+            "The love of God incarnate",
+            "The manifestation of God’s glory and truth"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what does Paul say the Ephesians are dead (Eph. 2:1)",
+        "choice": [
+            "In their worldly desires",
+            "In their trespasses and sins",
+            "In the lusts of their past lives",
+            "In their fleshly bodies"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How is the spirit who is at work in those who are disobedient described (Eph 2:2)",
+        "choice": [
+            "The king of this world",
+            "The master of those who are slaves to sin",
+            "The ruler of the kingdom of the air",
+            "The prince of this world"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In whom is the spirit of the ruler of the kingdom of the air at work (Eph. 2:2)",
+        "choice": [
+            "Those who have turned away",
+            "Those who desire the pleasures of this world",
+            "Those who are dead in sin",
+            "Those who are disobedient"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "By nature what does Paul say we deserve (Eph. 2:3)",
+        "choice": [
+            "Death",
+            "Judgment",
+            "Wrath",
+            "Forgiveness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Among what did we all live at one time (Eph. 2:3)",
+        "choice": [
+            "Rebelling against God",
+            "Gratifying the cravings of our flesh",
+            "Serving filthy money",
+            "Pursuing our own desires and not those of the Spirit"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what is God rich (Eph. 2:4)",
+        "choice": [
+            "Mercy",
+            "Forgiveness",
+            "Love",
+            "Kindness"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does God have that is great toward us (Eph. 2:4)",
+        "choice": [
+            "Compassion",
+            "Love",
+            "Forgiveness",
+            "Rewards"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Even when we were dead in trespasses what did God make us with Christ (Eph. 2:5)",
+        "choice": [
+            "Alive",
+            "Forgiven",
+            "To serve and rule",
+            "Righteous"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what were we dead when God made us alive with Christ (Eph. 2:5)",
+        "choice": [
+            "Lust",
+            "Trespasses",
+            "Unrighteousness",
+            "Injustice"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "By what have we been saved (Eph. 2:5, 8)",
+        "choice": [
+            "By faith",
+            "By the blood of Christ",
+            "By grace",
+            "By mercy"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The grace by which we are saved through faith is not from what (Eph. 2:8)",
+        "choice": [
+            "This world",
+            "Works",
+            "The Spirit",
+            "Ourselves"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "While we are saved by grace, what are we saved through (Eph. 2:8)",
+        "choice": [
+            "Works",
+            "Following Jesus",
+            "Faith",
+            "God’s calling"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is the grace that saves us (Eph. 2:8)",
+        "choice": [
+            "It is eternal",
+            "It is a gift of God",
+            "It is the seal of our salvation",
+            "It is perfect"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why is grace through faith a gift and not by works (Eph. 2:9)",
+        "choice": [
+            "So no one can boast",
+            "So that God receives all the glory",
+            "So that it is by Christ’s blood",
+            "So that all may give thanks"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why are we created in Christ Jesus (Eph. 2:10)",
+        "choice": [
+            "To seek his kingdom and his righteousness",
+            "To do good works",
+            "To sit with him in the heavenly realms",
+            "To praise him"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "We are God’s ________ created in Christ Jesus for good works (Eph. 2:10)",
+        "choice": [
+            "Gift",
+            "Image",
+            "Handiwork",
+            "Servants"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What were the Gentiles formerly called (Eph. 2:11)",
+        "choice": [
+            "Pagans",
+            "Defiled",
+            "Unbelievers",
+            "Uncircumcised"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is done in the body by human hands (Eph. 2:11)",
+        "choice": [
+            "Lust",
+            "Sins of the flesh",
+            "Circumcision",
+            "Evil"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What were the Ephesians foreigners to (Eph. 2:12)",
+        "choice": [
+            "The history of the people of God",
+            "The covenants of promise",
+            "The grace of God",
+            "The call of our Lord Jesus Christ"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When the Ephesians were separate from Christ, from what were they excluded (Eph. 2:12)",
+        "choice": [
+            "The citizenship in Israel",
+            "The promises give to Abraham",
+            "The seal of the Holy Spirit",
+            "The household of God"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In the world the Ephesians who at that time were separated from Christ were without what in the world (Eph. 2:12)",
+        "choice": [
+            "Joy",
+            "Hope",
+            "Love",
+            "Grace"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How were those who were once far away brought near (Eph. 2:13)",
+        "choice": [
+            "By the promises of God",
+            "By the grace of God",
+            "By the blood of Christ",
+            "By the seal of the Spirit"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Christ destroy making the two groups one (Eph. 2:14)",
+        "choice": [
+            "The gate separation",
+            "The chasm",
+            "The warfare battle lines",
+            "The wall of hostility"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Christ set aside in his flesh making the two groups one (Eph. 2:15)",
+        "choice": [
+            "The covenant of works",
+            "Circumcision of the flesh",
+            "The law with its commands",
+            "The enmity between Jews and Gentiles"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was Christ trying to make by creating one new humanity (Eph. 2:15)",
+        "choice": [
+            "A community of faith",
+            "Peace",
+            "A kingdom of priests",
+            "One body"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Through what did Christ seek to reconcile both groups to God (Eph. 2:16)",
+        "choice": [
+            "Through the cross",
+            "Through his blood",
+            "Through grace",
+            "Through peace"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Christ put to death through the cross (Eph. 2:16)",
+        "choice": [
+            "Their distrust",
+            "Their hostility",
+            "Their separation",
+            "Their arrogance"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Christ preach both to those who were far away and those who were near (Eph. 2:17)",
+        "choice": [
+            "Peace",
+            "Reconciliation",
+            "Redemption",
+            "Repenance"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom did Christ preach peace (Eph. 2:17)",
+        "choice": [
+            "The uncircumcised",
+            "Those who were far away",
+            "Those who believed in him",
+            "Those who were called"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom do both Jews and Gentiles have access (Eph. 2:18)",
+        "choice": [
+            "Jesus Christ",
+            "Each other",
+            "The Father",
+            "The Spirit"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "By what do both Jews and Gentiles have access to the Father (Eph. 2:18)",
+        "choice": [
+            "One faith",
+            "One cross",
+            "One high priest",
+            "One Spirit"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul tell the Ephesians they are no longer (Eph. 2:19)",
+        "choice": [
+            "Sinners",
+            "Citizens",
+            "Foreigners",
+            "Poor"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul say the Ephesians were not members of (Eph. 2:19)",
+        "choice": [
+            "God’s kingdom",
+            "God’s household",
+            "Heavenly realms",
+            "Spiritual community"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who does Paul tell the Ephesians they are fellow citizens with (Eph. 2:19)",
+        "choice": [
+            "God’s people",
+            "The priests of God",
+            "The community of faith",
+            "The church of Christ"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who did Paul say was the foundation built upon (Eph. 2:20)",
+        "choice": [
+            "The Scripture",
+            "Apostles and prophets",
+            "Jews and Gentiles",
+            "The grace of God"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul call Jesus after saying the foundation was built on the apostles and prophets (Eph. 2:20)",
+        "choice": [
+            "The vine",
+            "The good shepherd",
+            "The chief cornerstone",
+            "The only gate"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the whole building joint together become in the Lord (Eph. 2:21)",
+        "choice": [
+            "A royal priesthood",
+            "A family of God",
+            "One body",
+            "A holy temple"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say they are being built to become (Eph. 2:22)",
+        "choice": [
+            "A holy nation in Christ Jesus",
+            "Kingdom of priests",
+            "A dwelling in which God lives",
+            "A heavenly Zion in which all live as one"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul call himself for the sake of the Gentiles (Eph. 3:1)",
+        "choice": [
+            "A disciple",
+            "A servant",
+            "A prisoner",
+            "A shepherd"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why does Paul call himself a prisoner (Eph. 3:1)",
+        "choice": [
+            "For the sake of you Gentiles",
+            "For the sake of Jesus Christ",
+            "For the sake of the grace of god",
+            "For the sake of the elect"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say was given to him by revelation (Eph. 3:2)",
+        "choice": [
+            "His apostleship",
+            "The administration of God’s grace",
+            "The covenant of promise to the Gentiles",
+            "Wisdom and understanding"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What was made known to Paul by revelation (Eph 3:2f)",
+        "choice": [
+            "Knowledge",
+            "The Holy Spirit",
+            "The mystery",
+            "The promise"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will the Ephesians understand by reading Paul’s epistle (Eph. 3:4)",
+        "choice": [
+            "His ministry among them",
+            "His calling and election",
+            "His wisdom received from the Spirit",
+            "His insight into the mystery of Christ"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom has the mystery of Christ been revealed (Eph. 3:5)",
+        "choice": [
+            "Only to Paul as a messenger of Christ",
+            "The whole church of our Lord Jesus Christ",
+            "God’s holy apostles and prophets",
+            "The bishops and elders of Christ"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom was the mystery of Christ not made known (Eph. 3:5)",
+        "choice": [
+            "To those who believe",
+            "To people in other generations",
+            "To all who are called in Christ",
+            "To those who received the old covenant"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say the mystery is that was revealed by the Spirit (Eph. 3:6)",
+        "choice": [
+            "That the Gentiles are heirs with Israel",
+            "That God should save all who believe",
+            "That the Spirit was now open to all",
+            "The forgiveness of sins through Jesus Christ"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "By what means was the mystery revealed to God’s holy apostles and prophets (Eph. 3:5)",
+        "choice": [
+            "By dreams and visions",
+            "By the Spirit",
+            "By the word of God",
+            "By grace"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the mystery indicate that the Gentiles are now sharers in (Eph. 3:6)",
+        "choice": [
+            "The new covenant by the blood of Christ",
+            "The indwelling of the Spirit",
+            "The promise in Christ Jesus",
+            "The calling and election"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Through what are the Gentiles now heirs together with Israel (Eph. 3:6)",
+        "choice": [
+            "Through the grace of God",
+            "Through the work of the Spirit",
+            "Through faith",
+            "Through the gospel"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What metaphor does Paul use to show that the Gentiles are now heirs together with Israel (Eph. 3:6)",
+        "choice": [
+            "An olive tree",
+            "Fruit",
+            "A body",
+            "A temple"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Through what did Paul become a servant of this gospel (Eph. 3:7)",
+        "choice": [
+            "Through the calling of God",
+            "Through the work of God’s power",
+            "Through the Spirit",
+            "Through the forgiveness offered in Christ"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul become by the gift of God’s grace (Eph. 3:7)",
+        "choice": [
+            "A servant of the gospel",
+            "A disciple of Christ",
+            "An apostle of God’s grace",
+            "A messenger of God’s promise"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What grace was Paul given to preach to the Gentiles (Eph. 3:8)",
+        "choice": [
+            "The grace of God",
+            "The boundless riches of Christ",
+            "The forgiveness of sins to all who believe",
+            "The regeneration of the Spirit"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What position did Paul say he had among all the Lord’s people (Eph. 3:8)",
+        "choice": [
+            "The greatest apostle",
+            "The shepherd",
+            "The least",
+            "A brother to all"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where was the administration of this mystery hidden (Eph. 3:9)",
+        "choice": [
+            "In the promise",
+            "In the seal of the Spirit",
+            "In Christ Jesus",
+            "In God"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How was God described in whom the administration was hidden (Eph. 3:9)",
+        "choice": [
+            "As the one who made Paul an apostle",
+            "As the one who forgave our sins",
+            "As the one who created all things",
+            "As the one who chose us in Christ"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God intend to make known now through the church (Eph. 3:10)",
+        "choice": [
+            "The righteousness of God",
+            "The wisdom of God",
+            "The grace of God",
+            "The faithfulness of God"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Through what did God intend to make known the wisdom of God (Eph. 3:10)",
+        "choice": [
+            "Through the church",
+            "Through the Spirit",
+            "Through Paul",
+            "Through the Scriptures"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To whom was the wisdom of God made known through the church (Eph. 3:10)",
+        "choice": [
+            "To the authorities of this world",
+            "To rulers in heavenly realms",
+            "To all who believe",
+            "To both Jews and Gentiles"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Through what may we approach God (Eph. 3:12)",
+        "choice": [
+            "Through the Spirit",
+            "Through hope",
+            "Through faith",
+            "Through grace"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How may we approach God through faith (Eph. 3:12)",
+        "choice": [
+            "With hope and holiness",
+            "With fear and trembling",
+            "With thankfulness and hope",
+            "With freedom and confidence"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did God accomplish in Christ Jesus our Lord (Eph. 3:11)",
+        "choice": [
+            "His eternal mystery",
+            "His redemption",
+            "His eternal purpose",
+            "His eternal salvation"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul say was the Ephesians glory (Eph. 3:13)",
+        "choice": [
+            "The gospel of Christ",
+            "Paul’s sufferings",
+            "God’s grace",
+            "The mystery now revealed"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul do before the Father from whom every family derives its name (Eph. 3:14)",
+        "choice": [
+            "He kneels",
+            "He lifts his hands",
+            "He bows",
+            "He prostrates himself"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does every family in heaven and earth derive from the Father (Eph. 3:14)",
+        "choice": [
+            "Its boundary",
+            "Its name",
+            "Its inheritance",
+            "Its law"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where does Paul pray they may be strengthened (Eph. 3:16)",
+        "choice": [
+            "In their faith",
+            "In their commitment to Christ",
+            "In their inner being",
+            "In their spirit"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Through what does Paul pray they may be strengthened in their inner spirit (Eph. 3:16)",
+        "choice": [
+            "Through the word of his grace",
+            "Through the gospel",
+            "Through hope",
+            "Through his Spirit"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Through what does Christ dwell in their hearts (Eph. 3:17)",
+        "choice": [
+            "Through the mystery of Christ",
+            "Through all things",
+            "Through faith",
+            "Through grace"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Where does Paul pray Christ may dwell (Eph. 3:17)",
+        "choice": [
+            "In the church",
+            "In their hearts",
+            "In their bodies",
+            "In heavenly realms"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul pray they be rooted in (Eph. 3:17)",
+        "choice": [
+            "In love",
+            "In faith",
+            "In their calling",
+            "In the grace of God"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul pray they, along with the Lord’s holy people, may grasp (Eph. 3:18)",
+        "choice": [
+            "The grace of God",
+            "The love of Christ",
+            "The indwelling of the Spirit",
+            "The wisdom of God"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say love surpasses (Eph. 3:19)",
+        "choice": [
+            "Faith",
+            "Hope",
+            "Knowledge",
+            "Wisdom"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul pray they will be filled with (Eph. 3:19)",
+        "choice": [
+            "The Spirit of God",
+            "The knowledge of Jesus Christ",
+            "The grace of the Father",
+            "The fullness of God"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say God is able to do immeasurably more than (Eph. 3:20)",
+        "choice": [
+            "More than we could hope for",
+            "More than the sand of the sea",
+            "More than we ask or image",
+            "More than the heights of heaven"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say is at work in us more than we can ask or imagine (Eph. 3:20)",
+        "choice": [
+            "God’s spirit",
+            "God’s power",
+            "God’s grace",
+            "God’s calling and election"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should be to God in the church throughout all generations (Eph. 3:21)",
+        "choice": [
+            "Glory",
+            "Grace",
+            "Love",
+            "The gospel"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "As what does Paul write the Ephesians, urging them to live a life worthy of their calling (Eph. 4:1)",
+        "choice": [
+            "As an apostle",
+            "As a servant of Christ",
+            "As a prisoner",
+            "As a messenger of the gospel"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul urge them to live a life worthy of (Eph. 4:1)",
+        "choice": [
+            "The gift they have been given",
+            "The calling they had received",
+            "The grace that they had received",
+            "The promise they had been promised"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul tell them to be completely (Eph. 4:2)",
+        "choice": [
+            "Humble and gentle",
+            "Filled with the Spirit",
+            "Gracious and kind",
+            "Faithful and trustworthy"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul urge the Ephesians to do in love (Eph. 4:2)",
+        "choice": [
+            "Forgive one another",
+            "Bear with one another",
+            "All things",
+            "Submit to one another"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul tell the Ephesians they should make every effort to keep (Eph. 4:3)",
+        "choice": [
+            "The bond of love",
+            "The truth of the gospel",
+            "The unity of the Spirit",
+            "All righteousness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul tell them they were called to (Eph. 4:4)",
+        "choice": [
+            "The paths of righteousness",
+            "Heavenly realms",
+            "Christ",
+            "One hope"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Paul parallel to there being one body (Eph. 4:4)",
+        "choice": [
+            "One calling in Christ",
+            "One gospel",
+            "One Spirit",
+            "One grace"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul says there is one Lord, one faith and one ________ (Eph. 4:5)",
+        "choice": [
+            "Cup",
+            "Baptism",
+            "Savior",
+            "Gospel"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Paul describe the one God and Father as (Eph. 4:6)",
+        "choice": [
+            "Over all and through all",
+            "The one who calls us in Christ Jesus",
+            "The head of the body",
+            "The king in the heavenly realms"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How much grace has each one of us been given (Eph. 4:7)",
+        "choice": [
+            "As much as is needed",
+            "As Christ apportioned it",
+            "As the Father has poured it out on us",
+            "As the Spirit has delivered it"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say has been given to each one of us (Eph. 4:7)",
+        "choice": [
+            "Peace",
+            "Righteousness",
+            "Grace",
+            "Forgiveness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When Christ ascended on high what did he take (Eph. 4:8)",
+        "choice": [
+            "Many gifts of the Spirit",
+            "His seat in the heavenly realms",
+            "Many crowns",
+            "Many captives"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When did Christ give gifts to his people (Eph. 4:8)",
+        "choice": [
+            "When he sent the Spirit",
+            "When he sat at the Father’s right hand",
+            "When he ascended on high",
+            "When he rose from the dead"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To where did Christ descend (Eph. 4:9)",
+        "choice": [
+            "To the depths of the sea",
+            "To lower, earthly regions",
+            "To the depths of the earth",
+            "Into the grave"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did Christ ascend higher than all the heavens (Eph. 4:10)",
+        "choice": [
+            "To fill the whole universe",
+            "To be with his Father",
+            "To become Lord of all",
+            "To overcome the power of Satan"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul says, Christ gave all of the following EXCEPT (Eph. 4:11)",
+        "choice": [
+            "Apostles",
+            "Elders",
+            "Prophets",
+            "Evangelists",
+            "Pastors"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why the Christ give apostles and prophets (Eph. 4:12)",
+        "choice": [
+            "To lead the church to the fullness of love",
+            "To instruct the body of Christ",
+            "To equip his people for works of service",
+            "To bring the church into one body"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why the Christ give apostles and prophets (Eph. 4:12)",
+        "choice": [
+            "So that all the members of Christ’s body may be one",
+            "So that the peace of God may reign",
+            "So that the people of God may complete their calling",
+            "So that the body of Christ may be built up"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What did Christ give apostles and prophets for the attaining of (Eph. 4:13)",
+        "choice": [
+            "The fulfilling of all righteousness",
+            "The holiness of the Father and peace of the Spirit",
+            "The whole measure of the fullness of Christ",
+            "The complete unity of the body of Christ"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What unity does Paul describe that we will reach being equipped by evangelists and pastors (Eph. 4:13)",
+        "choice": [
+            "Unity in vision and message",
+            "Unity in the faith and knowledge of the Son of God",
+            "Unity in belief and goals for which they were strive",
+            "Unity in mind and body for the full church of Christ"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The goal of the unity in faith and knowledge of the Son of God was to become _______ (Eph. 4:13)",
+        "choice": [
+            "Mature",
+            "Complete",
+            "Whole",
+            "Righteous"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "If we become mature, what will we no longer be (Eph. 4:14)",
+        "choice": [
+            "Gullible",
+            "Infants",
+            "Immature",
+            "Unstable"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When we are no longer infants, what will not happen (Eph. 4:14)",
+        "choice": [
+            "We will not believe every false doctrine and teaching",
+            "We will not be led astray as little children",
+            "We will not be tossed back and forth by the waves",
+            "We will not swing from one side to the other"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What kind of wind will not blow us here and there if we are mature (Eph. 4:14)",
+        "choice": [
+            "Apostasy",
+            "Lie and deception",
+            "Evil",
+            "Teaching"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To what end do people use cunning and craftiness (Eph. 4:14)",
+        "choice": [
+            "Deceptive ensnaring",
+            "Treacherousness",
+            "Deceitful scheming",
+            "Wickedness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should be spoken in love (Eph 4:15)",
+        "choice": [
+            "Everything",
+            "The truth",
+            "The word of God",
+            "Rebuke"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Christ is said to be what part of the body (Eph. 4:15)",
+        "choice": [
+            "The head",
+            "The eyes",
+            "The hands",
+            "The strength"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What must each part of the body do (Eph. 4:16)",
+        "choice": [
+            "Its function",
+            "Its work",
+            "Its calling",
+            "Its assignment"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "By what is the body joined and held together (Eph. 4:16)",
+        "choice": [
+            "By the head",
+            "By every thought and intent of the heart",
+            "By every supporting ligament",
+            "By every muscle"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does the body do in love (Eph. 4:16)",
+        "choice": [
+            "Cares for its members",
+            "Moves according to its head",
+            "Feeds and nourishes itself",
+            "Grows and builds itself up"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "As what must they no longer live their lives (Eph. 4:17)",
+        "choice": [
+            "As foreigners",
+            "As outsiders",
+            "As Gentiles",
+            "As Jews"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How do the Gentiles live (Eph. 4:17)",
+        "choice": [
+            "In sin",
+            "In the futility of their thinking",
+            "In opposition to the truth of Christ",
+            "With no understanding of the law"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "From what are the Gentiles separated (Eph. 4:18)",
+        "choice": [
+            "The life of God",
+            "The body of Christ",
+            "Their own evil hearts",
+            "The gospel of Christ"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what are the Gentiles darkened (Eph. 4:18)",
+        "choice": [
+            "Their wisdom",
+            "Their understanding",
+            "Their thoughts",
+            "Their walk"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is the ignorance of the Gentiles is due to (Eph. 4:18)",
+        "choice": [
+            "Their rejection of the law of God",
+            "The calling of Christ",
+            "The hardening of their hearts",
+            "Their resolute commitment to folly"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To what have the Gentiles given themselves over to (Eph. 4:19)",
+        "choice": [
+            "Evil",
+            "Wickedness",
+            "Uncleanness",
+            "Sensuality"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are the Gentiles full of (Eph. 4:19)",
+        "choice": [
+            "Wickedness",
+            "Uncleaness",
+            "Greed",
+            "Selfishness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what do the Gentiles indulge (Eph. 4:19)",
+        "choice": [
+            "All the vices of the body",
+            "Every kind of impurity",
+            "The wickedness of their hearts",
+            "Their lusts and evil desires"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How were the Ephesians taught (Eph. 4:20)",
+        "choice": [
+            "According to the truth that is in Jesus",
+            "According to the mercies of God",
+            "According to the indwelling Holy Spirit",
+            "According to their calling in Christ"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What were the Ephesians taught to put off (Eph. 4:22)",
+        "choice": [
+            "The torn garments",
+            "Their old self",
+            "The soil of this world",
+            "Their lustful thoughts"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "By what was their old selves corrupted (Eph. 4:22)",
+        "choice": [
+            "Evil thoughts",
+            "The lack of understanding",
+            "Deceitful desires",
+            "Rebellion against everything that is good"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For what was the new self created (Eph. 4:24)",
+        "choice": [
+            "To glorify God forever",
+            "To follow Christ our head",
+            "To become part of the body",
+            "To be like God"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How is the new self created to be like God (Eph. 4:24)",
+        "choice": [
+            "The renewing of our minds",
+            "Grace and mercy",
+            "True righteousness and holiness",
+            "Grace and truth in Christ"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul tell them each of them must do to their neighbors (Eph. 4:25)",
+        "choice": [
+            "Proclaim the gospel",
+            "Speak truthfully",
+            "Love them like ourselves",
+            "Forgive them in the Lord"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are we not to do in our anger (Eph. 4:26)",
+        "choice": [
+            "Sin",
+            "Harm our neighbor",
+            "Murder",
+            "Abuse others"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "When one is angry, what should they not do (Eph. 4:26)",
+        "choice": [
+            "Violate others",
+            "Let the sun go down",
+            "Pursue revenge",
+            "Forsake gathering together"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is not to be given to the devil (Eph. 4:27)",
+        "choice": [
+            "One thought",
+            "One moment",
+            "A foothold",
+            "A path"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What must a person who no longer steals do (Eph. 4:28)",
+        "choice": [
+            "Repay what was stolen",
+            "Not get angry when they are caught",
+            "Resist the devil so that he flees",
+            "Work with their own hands"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why should those who used to steal work (Eph. 4:28)",
+        "choice": [
+            "So that they can follow Paul’s example",
+            "So that they can follow Christ",
+            "So they can share with those in need",
+            "So they can repay what they have stolen"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should not come out of your mouth (Eph. 4:29)",
+        "choice": [
+            "Slander against a neighbor",
+            "Any unwholesome talk",
+            "Gossip",
+            "Treacherous words"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should one not do to the Holy Spirit of God (Eph. 4:30)",
+        "choice": [
+            "Grieve",
+            "Spurn",
+            "Reject",
+            "Harden one’s heart"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following are listed as vices to be gotten rid of EXCEPT (Eph. 4:31)",
+        "choice": [
+            "Bitterness",
+            "Envy",
+            "Rage",
+            "Slander",
+            "Malice"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should we be to one another (Eph. 4:32)",
+        "choice": [
+            "Wise and understanding",
+            "A messenger of Christ",
+            "Kind and compassionate",
+            "Strong and steadfast"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should we do just as in Christ God did (Eph. 4:32)",
+        "choice": [
+            "Love one another",
+            "Speak to one another in spiritual songs and words",
+            "Correct and guide one another",
+            "Forgive each other"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Whose example does Paul say to follow as loved children (Eph. 5:1)",
+        "choice": [
+            "David’s",
+            "God’s",
+            "Paul’s",
+            "Christ’s"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what way does Paul tell the Ephesians to walk (Eph. 5:2)",
+        "choice": [
+            "In the way of righteousness",
+            "In the way of truth",
+            "In the way of love",
+            "In the way of forgiveness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Christ offer himself up for us in love (Eph. 5:2)",
+        "choice": [
+            "As a tender lamb of God",
+            "As an aroma pleasing to the Lord",
+            "Shedding his own blood as a lamb without spot and blemish",
+            "As a fragrant offering and sacrifice"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Paul say Christ loved us as a model we are to follow (Eph. 5:2)",
+        "choice": [
+            "Forgiving our sins and all who believe",
+            "In grace and truth",
+            "Gave himself up for us",
+            "With prayers and supplications to God"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul tells them there must not even be a hint of all of the following among them EXCEPT (Eph. 5:3)",
+        "choice": [
+            "Sexual immorality",
+            "Bitterness",
+            "Greed",
+            "Impurity"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul lists all of the following as out of place EXCEPT (Eph. 5:4)",
+        "choice": [
+            "Lies",
+            "Obscenity",
+            "Foolish talk",
+            "Coarse joking"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For whom does Paul say greed and impurity are improper (Eph. 5:3)",
+        "choice": [
+            "The pure body of Christ",
+            "God’s holy people",
+            "Those who are called",
+            "Followers of the way"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Instead of coarse joking and foolish talk, what does Paul say should be (Eph. 5:4)",
+        "choice": [
+            "Praise",
+            "Wholesome words",
+            "Thanksgiving",
+            "Truthfulness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following are listed as not having any inheritance in the kingdom of Christ EXCEPT (Eph. 5:5)",
+        "choice": [
+            "No immoral person",
+            "No impure person",
+            "No greedy person",
+            "No slanderous person"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Paul label people who are immoral, impure and greedy (Eph. 5:5)",
+        "choice": [
+            "As wicked",
+            "As uncircumcised of heart",
+            "As idolaters",
+            "As ungodly"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what do people who are immoral, impure and greedy not have an inheritance in (Eph. 5:5)",
+        "choice": [
+            "Those God has called",
+            "The kingdom of Christ and God",
+            "The land of the righteous",
+            "The body of Christ"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what does Paul warn them not to be deceived (Eph. 5:6)",
+        "choice": [
+            "Empty words",
+            "Treacherous words",
+            "Slanderous words",
+            "Denials of Christ"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say comes on the disobedient (Eph. 5:6)",
+        "choice": [
+            "God’s judgment",
+            "God’s wrath",
+            "God’s punishment",
+            "God’s disappointment"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "On whom does Paul say the wrath of God comes (Eph. 5:6)",
+        "choice": [
+            "The wicked",
+            "The greedy",
+            "The disobedient",
+            "The sexually impure"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What kind of children should they live as (Eph. 5:8)",
+        "choice": [
+            "Obedient",
+            "Holy and blameless",
+            "Faithful",
+            "Light"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "All of the following are listed as the fruit of light EXCEPT (Eph. 5:9)",
+        "choice": [
+            "Goodness",
+            "Righteousness",
+            "Faithfulness",
+            "Truth"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul tell them they should find out (Eph. 5:10)",
+        "choice": [
+            "What the Spirit whispers",
+            "What pleases God",
+            "The way of righteousness",
+            "How to enter the kingdom"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what does Paul tell them not to have anything to do with (Eph. 5:11)",
+        "choice": [
+            "The fruitless deeds of darkness",
+            "The wickedness of this world",
+            "Greed and impurity",
+            "Evil deeds of the disobedient"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say they should do to the fruitless deeds of darkness (Eph. 5:11)",
+        "choice": [
+            "Flee them",
+            "Expose them",
+            "Overcome them",
+            "Destroy them"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is shameful even to mention (Eph. 5:12)",
+        "choice": [
+            "The works of the evil one",
+            "What they do upon whom the wrath of God comes",
+            "What the disobedient do in secret",
+            "The deeds of darkness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What becomes visible (Eph. 5:13)",
+        "choice": [
+            "Everything revealed on that final day",
+            "The deeds of darkness",
+            "All the wonderful works of God",
+            "Everything exposed to the light"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What will Christ do on the sleeper and dead (Eph. 5:14)",
+        "choice": [
+            "Breath on them",
+            "Shake them",
+            "Shine on them",
+            "Anoint them"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will Christ shine on as it is said (Eph. 5:14)",
+        "choice": [
+            "The righteous and the unrighteous",
+            "The sleeper and dead",
+            "The workers of iniquity",
+            "Those doing the deeds of darkness"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why should one make the most of every opportunity (Eph. 5:16)",
+        "choice": [
+            "Because the days are evil",
+            "Because Christ is returning",
+            "Because the time is short",
+            "Because it may not come again"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul tells them they should be careful to live as ________ (Eph. 5:15)",
+        "choice": [
+            "Holy",
+            "Wise",
+            "Righteous",
+            "Examples"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul suggest they should understand rather than being foolish (Eph. 5:17)",
+        "choice": [
+            "How great the mystery of God is",
+            "The depths of Christ love",
+            "What the Lord’s will is",
+            "The path of the righteous"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say they should do rather than getting drunk (Eph. 5:18)",
+        "choice": [
+            "Be sober in word and deed",
+            "Submit to Christ",
+            "Examine themselves",
+            "Be filled with the Spirit"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say they should not do as opposed being filled with the Spirit (Eph. 5:18)",
+        "choice": [
+            "Destroy Christ’s body",
+            "Follow empty words",
+            "Get drunk",
+            "Be filled with uncleanness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "To what does drunkenness lead (Eph. 5:18)",
+        "choice": [
+            "Impurity",
+            "Debauchery",
+            "Greed",
+            "Intemperance"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul tells them they should speak to one another in all of the following manners EXCEPT (Eph. 5:19)",
+        "choice": [
+            "Praise",
+            "Psalms",
+            "Hymns",
+            "Songs from the Spirit"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should they do from their heart to the Lord (Eph. 5:19)",
+        "choice": [
+            "Fast and pray",
+            "Sing and make music",
+            "Rejoice and praise",
+            "Seek and ask"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul say they should always do to God the Father (Eph. 5:20)",
+        "choice": [
+            "Trust",
+            "Submit",
+            "Give thanks",
+            "Rejoice"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Paul say we should give thanks in everything to God (Eph. 5:20)",
+        "choice": [
+            "With meekness and soberness",
+            "In the power of the Holy Spirit",
+            "With bowed heads before the Father",
+            "In the name of our Lord Jesus Christ"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why should they submit to one another (Eph. 5:21)",
+        "choice": [
+            "Because they submit to God",
+            "Following Christ’s example",
+            "Out of reverence for Christ",
+            "Out of the fear of the Lord"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul direct wives to do (Eph. 5:22)",
+        "choice": [
+            "Be united with their husbands",
+            "Submit to their own husbands",
+            "Love their husbands with all their hearts",
+            "Become one with their husbands"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How were wives to submit to their husbands (Eph. 5:22)",
+        "choice": [
+            "As to the Lord",
+            "As led by the Spirit",
+            "As to Christ their head",
+            "As the church does to Christ"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What metaphor does Paul use to the husband’s relationship to his wife (Eph. 5:23)",
+        "choice": [
+            "Heart",
+            "Head",
+            "Source",
+            "King"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How is Christ’s relationship to the church described? He is it’s _______ (Eph. 5:23)",
+        "choice": [
+            "Foundation",
+            "Heart",
+            "Head",
+            "King"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The church is described as Christ’s _______ (Eph. 5:23)",
+        "choice": [
+            "Heart",
+            "Robe",
+            "Wife",
+            "Body"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should the church do to Christ (Eph. 5:24)",
+        "choice": [
+            "Listen to",
+            "Obey",
+            "Submit",
+            "Follow"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What are husbands to do for their wives (Eph. 5:25)",
+        "choice": [
+            "Listen to them",
+            "Love them",
+            "Nurture them",
+            "Honor them"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Christ love the church (Eph. 5:25)",
+        "choice": [
+            "He gave himself up for her",
+            "He shed his precious blood for her",
+            "He brought her to himself",
+            "He protected her"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why did Christ give himself up for the church (Eph. 5:26)",
+        "choice": [
+            "To make her obedient",
+            "To make her holy",
+            "To make her his",
+            "To make her without spot and blemish"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How did Christ cleanse the church (Eph. 5:26)",
+        "choice": [
+            "By anointing her with the oil of the Spirit",
+            "By sending his Spirit to purify her without spot",
+            "By the washing with water through the word",
+            "By shedding his own precious blood for her"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Christ presented the church to himself in all of the following ways EXCEPT (Eph. 5:27)",
+        "choice": [
+            "Without stain or wrinkle",
+            "Without blemish",
+            "Holy and blameless",
+            "Pure and undefiled"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How should husbands love their wives (Eph. 5:28)",
+        "choice": [
+            "As much as they love other members of the church",
+            "As much as they love the things of this world",
+            "As much as they love their own bodies",
+            "As much as they love Christ"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What has no one ever hated (Eph. 5:29)",
+        "choice": [
+            "Money",
+            "Their own body",
+            "Their own possessions",
+            "Their own home"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Of what are we members (Eph. 5:30)",
+        "choice": [
+            "Christ’s body",
+            "The olive tree",
+            "The congregation of the righteous",
+            "The redeemed community"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For his wife, whom should a man leave (Eph. 5:31)",
+        "choice": [
+            "His possessions",
+            "His father and mother",
+            "His house and home",
+            "His selfish desires"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In marriage, what do the two become (Eph. 5:31)",
+        "choice": [
+            "One soul",
+            "One mind",
+            "One flesh",
+            "One heart"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In speaking of the unity in marriage, what profound mystery is Paul speaking about (Eph. 5:32)",
+        "choice": [
+            "The union of a man and a woman",
+            "The heavenly and earthly kingdoms",
+            "The union of the trinity",
+            "Christ and the church"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What must the wife do for her husband (Eph. 5:33)",
+        "choice": [
+            "Forgive him",
+            "Give herself to him",
+            "Respect him",
+            "Cherish him"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How much must the husband love his wife (Eph. 5:33)",
+        "choice": [
+            "As much as he loves the church",
+            "As much as he loves himself",
+            "As much as he loves Christ",
+            "As much as he loves his father and mother"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is right for children to do (Eph. 6:1)",
+        "choice": [
+            "Obey their parents",
+            "Submit to their parents",
+            "Follow their parents’ example",
+            "Listen to their elders"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Honoring your father and mother is the first commandment with what (Eph. 6:2)",
+        "choice": [
+            "An oath",
+            "A promise",
+            "A punishment",
+            "A reward"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is the first commandment with a promise (Eph. 6:2)",
+        "choice": [
+            "You should not lie",
+            "You should not covet",
+            "Honor your father and mother",
+            "Keep the Sabbath holy"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "The commandment to honor one’s father and mother will result in _____ (Eph. 6:3)",
+        "choice": [
+            "Prosperity",
+            "Success",
+            "Favor with God",
+            "Long life"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should fathers not do to their children (Eph. 6:4)",
+        "choice": [
+            "Criticize",
+            "Rebuke",
+            "Exasperate",
+            "Abuse"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should fathers do for their children (Eph. 6:4)",
+        "choice": [
+            "Give them an inheritance in the Lord and in the church",
+            "Bring them up in the training and instruction of the Lord",
+            "Guide them into the fear of the Lord and teach them wisdom",
+            "Train them in the way they should go so they may live long"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should slaves do to their masters (Eph. 6:5)",
+        "choice": [
+            "Obey them",
+            "Submit to them",
+            "Pray for them",
+            "Serve them well"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What attitude should slaves have toward their masters (Eph. 6:5)",
+        "choice": [
+            "Joy and thanksgiving",
+            "Respect and fear",
+            "Humility and kindness",
+            "Thankfulness and contentment"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How should slaves not obey their masters (Eph. 6:6)",
+        "choice": [
+            "Not with a bitter heart",
+            "Not out of envy and jealousy",
+            "Not just to win their favor",
+            "Not just superficially"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How should Christian slaves serve their masters (Eph. 6:7)",
+        "choice": [
+            "Sincerely",
+            "Absolutely",
+            "Humbly",
+            "Wholeheartedly"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How should Christian slaves serve their masters (Eph. 6:7)",
+        "choice": [
+            "As if they were an honorable king",
+            "As if they were their parents",
+            "As if serving the Lord",
+            "As if serving their wives"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For slaves what will the Lord reward (Eph. 6:8)",
+        "choice": [
+            "Faithful service in the name of Christ",
+            "Whatever good they do",
+            "Humility in Christ",
+            "Loyalty and service in the name of Christ"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should masters not do to their slaves (Eph. 6:9)",
+        "choice": [
+            "Threaten them",
+            "Beat them",
+            "Be harsh with them",
+            "Work them beyond measure"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should masters keep in mind (Eph. 6:9)",
+        "choice": [
+            "They all serve the same king",
+            "That both of them have a Master in heaven",
+            "That Christ died for both of them",
+            "That they are now brothers and sisters in Christ"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is not found with their Master in heaven (Eph. 6:9)",
+        "choice": [
+            "Wickedness",
+            "Bonds",
+            "Favoritism",
+            "Unrighteousness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In what should we be strong (Eph. 6:10)",
+        "choice": [
+            "In our faith",
+            "In our love",
+            "In the calling by which you were called",
+            "In the Lord’s mighty power"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why should they put on the full armor of God (Eph. 6:11)",
+        "choice": [
+            "So that they may be victorious on the day of Christ",
+            "So that they may protect themselves from evil",
+            "So that they may stand against the devil’s schemes",
+            "So that they may fulfill the fullness of Christ"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should they do to stand against the devil’s schemes (Eph. 6:11)",
+        "choice": [
+            "Resist the devil so that he flees",
+            "Put on the full armor of God",
+            "Come into the fortress of God",
+            "Trust God as their rock"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is our struggle not with (Eph. 6:12)",
+        "choice": [
+            "Flesh and blood",
+            "Kings and rulers of this world",
+            "Warriors of the flesh",
+            "The principles of earthly realms"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is our struggle against (Eph. 6:12)",
+        "choice": [
+            "Lusts of the flesh and blood",
+            "Rulers of this dark world",
+            "Pride of life",
+            "The forces of the evil one"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is our struggle against (Eph. 6:12)",
+        "choice": [
+            "Lusts of the flesh and blood",
+            "Pride of life conquering this dark world",
+            "Spiritual forces of evil in heavenly realms",
+            "The armies of the evil one in this world"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should one put on so that they may stand when the day of evil comes (Eph. 6:13)",
+        "choice": [
+            "The grace and mercy of God",
+            "The redemption in Christ",
+            "Shield of righteousness",
+            "The full armor of God"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What belt is to be buckled around your waist as part of the full armor of God (Eph. 6:14)",
+        "choice": [
+            "The belt mercy",
+            "The belt of justice",
+            "The belt of truth",
+            "The belt of holiness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should be in place from the full armor of God (Eph. 6:14)",
+        "choice": [
+            "The shoes of the gospel",
+            "The breastplate of righteousness",
+            "The sword of truth",
+            "The belt of the word of God"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should your feet be fitted with making them ready (Eph. 6:15)",
+        "choice": [
+            "The gospel of peace",
+            "The righteousness of God",
+            "Steadfast love",
+            "Sandals of salvation"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What kind of shield was part of the full armor of God (Eph. 6:16)",
+        "choice": [
+            "Truth",
+            "Faith",
+            "Justice",
+            "Holiness"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What can the shield of faith do (Eph. 6:16)",
+        "choice": [
+            "Defend against the darts of the devil",
+            "Resist the wiles of the rulers of this dark world",
+            "Extinguish the flaming arrows of the evil one",
+            "Protect your heart and mind"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In the armor of God, what is the helmet (Eph. 6:17)",
+        "choice": [
+            "Righteousness",
+            "Peace",
+            "Justice",
+            "Salvation"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "In the armor of God, what is the sword (Eph. 6:17)",
+        "choice": [
+            "The truth",
+            "Righteousness",
+            "The Spirit",
+            "The gifts of the Spirit"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What is the sword of the Spirit (Eph. 6:17)",
+        "choice": [
+            "The peace of Christ",
+            "The word of God",
+            "The gifts of the Spirit",
+            "The proclamation of the gospel"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What should one do on all occasions (Eph. 6:18)",
+        "choice": [
+            "Pray",
+            "Sing",
+            "Submit",
+            "Rejoice"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "For what should one always pray with all kinds of prayers and requests (Eph. 6:18)",
+        "choice": [
+            "For those in need",
+            "For the Lord’s people",
+            "For those who are called",
+            "For those who cannot stand"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul want the Ephesians to pray for him (Eph. 6:19)",
+        "choice": [
+            "That he might be able to preach the gospel in Rome",
+            "That he may himself put on the whole armor of God",
+            "That he may make known the mystery of the gospel",
+            "That he may not fall away as many of Israel did"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Paul ask them to pray that he might make known the mystery of the gospel (Eph. 6:19f)",
+        "choice": [
+            "With joy",
+            "With power",
+            "Honestly",
+            "Fearlessly"
+        ],
+        "answer": "D",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "How does Paul describe his own situation at the end of the book of Ephesians (Eph. 6:20)",
+        "choice": [
+            "An apostle of the mystery of the gospel",
+            "A soldier of Christ in full armor",
+            "An ambassador in chains",
+            "A servant of Christ"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Who will tell the Ephesians everything so they may know how Paul is doing (Eph. 6:21)",
+        "choice": [
+            "Epaphroditus",
+            "Tychicus",
+            "Aquila",
+            "Phoebe"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "What does Paul call Tychicus (Eph. 6:21)",
+        "choice": [
+            "The dear brother and faithful servant",
+            "Our co-worker in Christ",
+            "A hard worker for the Lord and for them",
+            "His dear friend and brother in the Lord"
+        ],
+        "answer": "A",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Why Paul was sending Tychicus to the Ephesians (Eph. 6:22)",
+        "choice": [
+            "So that he may have some fruit among them",
+            "So that he may encourage them",
+            "So that he may call them to repentance",
+            "So that he may present the gospel to them"
+        ],
+        "answer": "B",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "With what does Paul bless them from God the Father (Eph. 6:23)",
+        "choice": [
+            "Hope and grace",
+            "Grace and truth",
+            "Love with faith",
+            "Gentleness and meekness"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    },
+    {
+        "question": "Paul commends grace to all who love Christ in what manner (Eph. 6:24)",
+        "choice": [
+            "Hopeful joy",
+            "Grace and truth",
+            "Undying love",
+            "Wisdom and understanding"
+        ],
+        "answer": "C",
+        "category": "Ephesians",
+        "source": "https://biblicalelearning.org/wp-content/uploads/2023/04/10_Ephesians-Questions.pdf",
+        "qa_extraction": "Obtained directly from the source."
+    }
+]

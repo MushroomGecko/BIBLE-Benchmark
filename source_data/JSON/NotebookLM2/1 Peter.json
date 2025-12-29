@@ -1,0 +1,652 @@
+[
+    {
+        "question": "To whom is Peter's first letter addressed (1 Peter 1:1)?",
+        "choice": [
+            "To the elders of the church in Jerusalem",
+            "To the chosen ones living as foreigners in the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia",
+            "To the Roman authorities",
+            "To the prophets of Israel"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 1:2, what is the purpose of the sanctification of the Spirit?",
+        "choice": [
+            "That you may have wealth and prosperity",
+            "That you may have worldly wisdom",
+            "That you may obey Jesus Christ and be sprinkled with his blood",
+            "That you may have a long and comfortable life"
+        ],
+        "answer": "C",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the living hope that believers have through the resurrection of Jesus Christ (1 Peter 1:3)?",
+        "choice": [
+            "A life of earthly riches",
+            "A life free of any trouble",
+            "A life of worldly influence",
+            "A new birth to a living hope"
+        ],
+        "answer": "D",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Where is the incorruptible inheritance reserved for believers (1 Peter 1:4)?",
+        "choice": [
+            "In the hearts of men",
+            "In the temples of the world",
+            "In Heaven",
+            "On Earth"
+        ],
+        "answer": "C",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 1:6, believers greatly rejoice even when they are experiencing what?",
+        "choice": [
+            "A time of great comfort",
+            "A time of uninterrupted joy",
+            "A time of great wealth and prosperity",
+            "Various trials"
+        ],
+        "answer": "D",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the purpose of the various trials that believers face according to 1 Peter 1:7?",
+        "choice": [
+            "To result in praise, glory, and honor at the revelation of Jesus Christ",
+            "To test their endurance and patience",
+            "To make them feel sorrow and despair",
+            "To test the strength of their faith"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 1:8, what is the relationship between love and seeing Jesus?",
+        "choice": [
+            "It is possible to love Jesus without having seen him",
+            "It is possible to love Jesus only after you see him",
+            "It is possible to love Jesus only if he appears in your dreams",
+            "It is impossible to love Jesus without having seen him"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the result of the faith of believers, according to 1 Peter 1:9?",
+        "choice": [
+            "The salvation of their souls",
+            "Earthly success",
+            "Great wealth and influence",
+            "A life free of trials"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the prophets search diligently concerning salvation (1 Peter 1:10)?",
+        "choice": [
+            "The precise time when the temple in Jerusalem would be destroyed",
+            "The specific date of their own deaths",
+            "The grace that would come to you",
+            "The date of the birth of Christ"
+        ],
+        "answer": "C",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 1:11, what did the Spirit of Christ in the prophets point to?",
+        "choice": [
+            "The establishment of the Roman Empire",
+            "The specific prophecies they had received from God",
+            "The sufferings of Christ and the glories that would follow them",
+            "The exact number of years before the end times"
+        ],
+        "answer": "C",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 1:13, what should believers do to prepare their minds for action?",
+        "choice": [
+            "Set their hope fully on the grace that will be brought to them at the revelation of Jesus Christ",
+            "Engage in worldly activities without reservation",
+            "Seek out ways to amass wealth and power",
+            "Focus only on their personal needs"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "As children of obedience, what should believers not conform themselves to (1 Peter 1:14)?",
+        "choice": [
+            "The teachings of the apostles",
+            "Their former lusts as in their ignorance",
+            "The will of God as revealed in scriptures",
+            "The loving guidance of the Holy Spirit"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does 1 Peter 1:16 quote from the Old Testament, that calls believers to be holy?",
+        "choice": [
+            "Exodus 20:1-17",
+            "Leviticus 11:44-45",
+            "Deuteronomy 6:4-9",
+            "Psalms 23:1-6"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "How should believers live their lives as foreigners here, according to 1 Peter 1:17?",
+        "choice": [
+            "In a state of constant fear of earthly authorities",
+            "In reverent fear, knowing that God judges according to each man’s work",
+            "With complete abandon and disregard for the law",
+            "Without any sense of accountability to God"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What were believers redeemed with, according to 1 Peter 1:18-19?",
+        "choice": [
+            "Corruptible things like silver or gold",
+            "Precious blood, as of a lamb without blemish or spot, the blood of Christ",
+            "The good works and deeds they accomplished in their lives",
+            "Nothing, they were not redeemed"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 1:22, what should believers do after purifying their souls?",
+        "choice": [
+            "Love one another from the heart fervently",
+            "Seek revenge on those who hurt them",
+            "Isolate themselves from others",
+            "Compete with others"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 2:2, what should newborn babies desire?",
+        "choice": [
+            "The pure spiritual milk",
+            "The praise of others",
+            "The wealth of the world",
+            "The power of this world"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 2:4, what is the living stone that believers are called to come to?",
+        "choice": [
+            "A stone that was rejected by men, but chosen by God",
+            "A stone that is easily broken and changed",
+            "A stone that is made of precious metals",
+            "A stone that crumbles with age"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What are believers built up as, according to 1 Peter 2:5?",
+        "choice": [
+            "A political movement",
+            "A spiritual house and holy priesthood",
+            "A group of revolutionaries",
+            "An earthly kingdom of wealth and power"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 2:9, what are believers?",
+        "choice": [
+            "A chosen race, a royal priesthood, a holy nation, a people for God’s own possession",
+            "A group of individuals striving for worldly success",
+            "An assembly of people seeking political power",
+            "A secret society of people without purpose"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does 1 Peter 2:11 urge believers to abstain from?",
+        "choice": [
+            "Fleshly lusts which war against the soul",
+            "Acts of charity and kindness",
+            "Community gatherings and worship",
+            "The guidance of the Holy Spirit"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 2:13, what should believers subject themselves to?",
+        "choice": [
+            "Every ordinance of man for the Lord’s sake",
+            "The evil schemes of the wicked",
+            "The whims and desires of the wealthy",
+            "The authority of the ungodly"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 2:16, believers are to live as free people, but not using freedom as a cloak for what?",
+        "choice": [
+            "Wickedness",
+            "Acts of kindness",
+            "Acts of righteousness",
+            "Acts of charity"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 2:21, what did Christ leave believers?",
+        "choice": [
+            "An earthly kingdom of power and glory",
+            "An example, that they should follow his steps",
+            "A large inheritance of material wealth",
+            "Nothing, He left them alone."
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the incorruptible adornment of the heart, as described in 1 Peter 3:4?",
+        "choice": [
+            "A life of wealth, fame and power",
+            "A life of rebellion and self-interest",
+            "A gentle and quiet spirit",
+            "Outward adornments, like fine clothing and jewelry"
+        ],
+        "answer": "C",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 3:7, what should husbands do in their relationship with their wives?",
+        "choice": [
+            "Live with them according to knowledge, giving honor to the woman as to the weaker vessel",
+            "Treat them with disdain and contempt",
+            "Ignore their needs and feelings",
+            "Rule over them with an iron fist"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 3:8, what should be the attitude of all believers towards one another?",
+        "choice": [
+            "Like-minded, compassionate, loving as brothers, tenderhearted, courteous",
+            "Self-seeking, arrogant and unforgiving",
+            "Indifferent and uncaring",
+            "Hostile and competitive"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What should believers do instead of rendering evil for evil or insult for insult, according to 1 Peter 3:9?",
+        "choice": [
+            "Seek revenge",
+            "Bless others",
+            "Ignore those who have wronged you",
+            "Speak ill of those who have spoken ill of you"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 3:10-12, what does it mean to love life and see good days?",
+        "choice": [
+            "To seek wealth and power",
+            "To enjoy worldly pleasures",
+            "To keep your tongue from evil and your lips from speaking deceit and to seek peace",
+            "To ignore the world and only focus on yourself"
+        ],
+        "answer": "C",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 3:14, what does it mean to be blessed even when suffering for righteousness' sake?",
+        "choice": [
+            "To be exempt from trials and tribulations",
+            "To be admired and honored by the world",
+            "To not fear what they fear, nor be troubled",
+            "To have a life of earthly ease and comfort"
+        ],
+        "answer": "C",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 3:15, what should believers always be ready to give?",
+        "choice": [
+            "A reason for the hope that is in them, with humility and fear",
+            "A long list of complaints against others",
+            "An apology for being different",
+            "A detailed explanation of the flaws of others"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 3:18, why did Christ suffer for sins?",
+        "choice": [
+            "To punish humanity",
+            "To bring believers to God",
+            "To show his power over death",
+            "To prove that he was righteous"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 3:20, who were the spirits in prison that Christ preached to?",
+        "choice": [
+            "The souls of those who had lived during the time of Noah and were disobedient",
+            "The demons and fallen angels",
+            "The souls of those who had lived during the time of Moses",
+            "The souls of those who had lived during the time of David"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is the symbol of baptism that saves believers, according to 1 Peter 3:21?",
+        "choice": [
+            "The putting away of the filth of the flesh",
+            "The answer of a good conscience toward God through the resurrection of Jesus Christ",
+            "The practice of religious rituals",
+            "The accumulation of material wealth"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 4:1, what should believers arm themselves with, since Christ suffered in the flesh?",
+        "choice": [
+            "The same mind that Christ had",
+            "The weapons of this world",
+            "A desire for revenge",
+            "The wisdom of this world"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 4:2, what should believers no longer live for?",
+        "choice": [
+            "The lusts of men, but for the will of God",
+            "The pursuit of earthly pleasures",
+            "The accumulation of wealth and power",
+            "Their own self-interests"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 4:7, what is near?",
+        "choice": [
+            "The beginning of all things",
+            "The end of all things",
+            "The beginning of sorrows",
+            "The time of great prosperity"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What should believers be earnest in, above all things according to 1 Peter 4:8?",
+        "choice": [
+            "Their pursuit of wealth and power",
+            "Their love among themselves",
+            "Their pursuit of political power",
+            "Their own personal needs"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 4:10, how should believers employ the gifts they have received?",
+        "choice": [
+            "In serving one another, as good managers of the grace of God",
+            "In serving their own self-interests",
+            "In gaining wealth and power for themselves",
+            "In seeking to be served by others"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 4:12, how should believers respond to fiery trials?",
+        "choice": [
+            "Be astonished, as though a strange thing happened to them",
+            "Rejoice, because they are partakers of Christ’s sufferings",
+            "Curse God and turn away from faith",
+            "Despair and be filled with anxiety"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 4:16, what should believers do if they suffer for being a Christian?",
+        "choice": [
+            "Be ashamed and hide their faith",
+            "Glorify God in this matter",
+            "Curse God and turn away from faith",
+            "Seek revenge on their persecutors"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 4:19, what should those who suffer according to the will of God do?",
+        "choice": [
+            "Entrust their souls to God, as to a faithful Creator",
+            "Seek revenge on their persecutors",
+            "Curse God and turn away from faith",
+            "Despair and give up"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 5:2, how should elders shepherd the flock of God?",
+        "choice": [
+            "Under compulsion, not voluntarily",
+            "Willingly, not for dishonest gain",
+            "For personal profit and advantage",
+            "With a desire to control and dominate"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 5:5, what does God give to the humble?",
+        "choice": [
+            "Power and authority",
+            "Grace",
+            "Wealth and material possessions",
+            "Fame and worldly recognition"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does 1 Peter 5:7 encourage believers to do with their worries?",
+        "choice": [
+            "Keep them to themselves",
+            "Cast them all on God, because He cares for you",
+            "Ignore them and hope they go away",
+            "Share them with everyone they meet"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 5:8, who is the believer's adversary?",
+        "choice": [
+            "The Roman authorities",
+            "The devil, who walks around like a roaring lion",
+            "The government and legal system",
+            "Other believers and spiritual leaders"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 5:9, how should believers withstand their adversary?",
+        "choice": [
+            "By seeking wealth and power",
+            "Steadfast in their faith, knowing that their brothers are undergoing the same sufferings",
+            "By ignoring the existence of the devil",
+            "By engaging in violence and warfare"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 5:10, what will the God of all grace do after believers have suffered a little while?",
+        "choice": [
+            "Perfect, establish, strengthen, and settle them",
+            "Abandon them and leave them to their own devices",
+            "Reward them with earthly riches and success",
+            "Ignore their suffering and not help them"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 1 Peter 5:12, who helped Peter write this letter?",
+        "choice": [
+            "Silvanus, a faithful brother",
+            "Mark, his son",
+            "The elders of the church in Jerusalem",
+            "An unnamed scribe"
+        ],
+        "answer": "A",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does 1 Peter 5:14 encourage believers to do?",
+        "choice": [
+            "Judge one another harshly",
+            "Greet one another with a kiss of love",
+            "Avoid all physical contact with others",
+            "Isolate themselves and avoid all fellowship"
+        ],
+        "answer": "B",
+        "category": "1 Peter",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_1PE.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    }
+]

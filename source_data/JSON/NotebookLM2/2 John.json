@@ -1,0 +1,288 @@
+[
+    {
+        "question": "Who is the author of the second letter of John identified as (2 John 1)?",
+        "choice": [
+            "Apostle Paul",
+            "The elder",
+            "John the Baptist",
+            "Timothy"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "To whom is the second letter of John addressed (2 John 1)?",
+        "choice": [
+            "The church at Ephesus",
+            "A chosen lady and her children",
+            "All believers",
+            "The church leaders"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why does the author say he loves the recipient of the letter (2 John 1)?",
+        "choice": [
+            "Because they are wealthy",
+            "Because they are powerful",
+            "In truth",
+            "Because they are well-known"
+        ],
+        "answer": "C",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 2 John, who else loves the recipient (2 John 1)?",
+        "choice": [
+            "Only the author",
+            "The apostles",
+            "All who know the truth",
+            "The angels"
+        ],
+        "answer": "C",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the author say will remain with them forever (2 John 2)?",
+        "choice": [
+            "Faith",
+            "The truth",
+            "Hope",
+            "Love"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What three things will be with them from God the Father and from the Lord Jesus Christ (2 John 3)?",
+        "choice": [
+            "Faith, hope, and love",
+            "Grace, mercy, and peace",
+            "Power, glory and honor",
+            "Wisdom, knowledge and understanding"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What was the author's great joy concerning the recipient's children (2 John 4)?",
+        "choice": [
+            "That they are wealthy",
+            "That they are walking in truth",
+            "That they are famous",
+            "That they are powerful"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What commandment does the author say they had from the beginning (2 John 5)?",
+        "choice": [
+            "To love one another",
+            "To observe the Sabbath",
+            "To be baptized",
+            "To give tithes"
+        ],
+        "answer": "A",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the author define as love (2 John 6)?",
+        "choice": [
+            "Sacrificing for others",
+            "Walking according to His commandments",
+            "Having faith",
+            "Being kind to all"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What did the recipients hear from the beginning, concerning love (2 John 6)?",
+        "choice": [
+            "That they should walk in it",
+            "That they should forgive all",
+            "That they should serve others",
+            "That they should have hope"
+        ],
+        "answer": "A",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Who are the deceivers that have gone out into the world (2 John 7)?",
+        "choice": [
+            "Those who confess Jesus Christ came in the flesh",
+            "Those who don't confess Jesus Christ came in the flesh",
+            "Those who deny the existence of God",
+            "Those who preach a different gospel"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What is a deceiver also called according to 2 John (2 John 7)?",
+        "choice": [
+            "The false prophet",
+            "The Antichrist",
+            "The hypocrite",
+            "The heretic"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the author warn the recipients to watch themselves for (2 John 8)?",
+        "choice": [
+            "That they don't lose what they have accomplished",
+            "That they don't suffer persecution",
+            "That they don't become prideful",
+            "That they don't lose their faith"
+        ],
+        "answer": "A",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the author say they should receive if they watch themselves (2 John 8)?",
+        "choice": [
+            "Eternal life",
+            "A full reward",
+            "Spiritual gifts",
+            "Great wisdom"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does a person who transgresses and does not remain in the teaching of Christ not have (2 John 9)?",
+        "choice": [
+            "Eternal life",
+            "God",
+            "Love",
+            "Peace"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "According to 2 John, who does one have if they remain in the teaching of Christ (2 John 9)?",
+        "choice": [
+            "The Holy Spirit",
+            "The Father and the Son",
+            "The angels",
+            "All of the above"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What should the recipients not do to someone who does not bring the teaching of Christ (2 John 10)?",
+        "choice": [
+            "Not give him food",
+            "Not receive him into their house nor welcome him",
+            "Not offer him shelter",
+            "Not speak to him"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the author say happens when someone welcomes a person who doesn't bring the teaching of Christ (2 John 11)?",
+        "choice": [
+            "They are blessed",
+            "They participate in his evil deeds",
+            "They learn the truth",
+            "They have more faith"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Why does the author prefer not to write with paper and ink (2 John 12)?",
+        "choice": [
+            "Because he dislikes writing",
+            "Because he prefers to speak face to face",
+            "Because he is too busy",
+            "Because he doesn't have the materials"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What does the author hope will be made full by seeing them face to face (2 John 12)?",
+        "choice": [
+            "Their faith",
+            "Their joy",
+            "Their love",
+            "Their wisdom"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "Whose children greet the recipient in the conclusion of the letter (2 John 13)?",
+        "choice": [
+            "The author's",
+            "Your chosen sister's",
+            "The elder's",
+            "The church's"
+        ],
+        "answer": "B",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    },
+    {
+        "question": "What word concludes the second letter of John (2 John 13)?",
+        "choice": [
+            "Amen",
+            "Peace",
+            "Love",
+            "Grace"
+        ],
+        "answer": "A",
+        "category": "2 John",
+        "source": "https://ebible.org/pdf/eng-web/eng-web_2JN.pdf",
+        "qa_extraction": "Generated via NotebookLM given the source."
+    }
+]

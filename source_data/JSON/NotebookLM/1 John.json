@@ -1,0 +1,553 @@
+[
+    {
+        "question": "What did the author's hands touch concerning the Word of life? (1 John 1:1)",
+        "choice": [
+            "The bread of life",
+            "The scriptures",
+            "The body of Christ",
+            "That which we have seen"
+          ],
+        "answer": "C"
+    },
+    {
+        "question": "What was revealed, according to 1 John 1:2?",
+        "choice": [
+           "The eternal life",
+            "The coming judgment",
+             "The end of the world",
+             "The Holy Spirit"
+           ],
+         "answer": "A"
+    },
+     {
+        "question": "What is the message that the author announces, according to 1 John 1:5?",
+        "choice": [
+            "God is love",
+            "God is just",
+            "God is light",
+            "God is merciful"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What does the blood of Jesus Christ do for us? (1 John 1:7)",
+        "choice": [
+            "Cleanses us from all unrighteousness",
+            "Gives us eternal life",
+             "Cleanses us from all sin",
+            "Gives us joy"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "According to 1 John 1:9, what does God do if we confess our sins?",
+        "choice": [
+            "He ignores us",
+            "He forgives our sins and cleanses us from all unrighteousness",
+            "He punishes us",
+            "He forgets our sins"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does it mean if we say we have not sinned? (1 John 1:10)",
+        "choice": [
+            "We are righteous",
+            "We are telling the truth",
+            "We make God a liar",
+             "We are humble"
+        ],
+         "answer":"C"
+    },
+    {
+        "question": "Who is our Counselor with the Father if anyone sins? (1 John 2:1)",
+        "choice": [
+            "The Holy Spirit",
+            "John the Baptist",
+             "Jesus Christ, the righteous",
+            "An angel"
+        ],
+        "answer": "C"
+    },
+     {
+        "question": "For whose sins is Jesus the atoning sacrifice? (1 John 2:2)",
+        "choice": [
+             "Only for the author's",
+            "For those who are righteous",
+            "For the whole world",
+            "Only for the believers"
+
+        ],
+        "answer": "C"
+    },
+    {
+        "question":"How do we know that we know him? (1 John 2:3)",
+        "choice": [
+            "If we keep his commandments",
+             "If we have visions",
+            "If we have a lot of money",
+            "If we perform miracles"
+           ],
+        "answer":"A"
+    },
+    {
+        "question": "What does the author say about someone who claims to know God but doesn't keep his commandments? (1 John 2:4)",
+        "choice": [
+             "They are wise",
+            "They are a prophet",
+             "They are a liar",
+            "They are righteous"
+        ],
+       "answer": "C"
+    },
+    {
+        "question": "What old commandment did the author write about? (1 John 2:7)",
+         "choice": [
+            "To love the world",
+            "To hate your enemies",
+            "The word which they heard from the beginning",
+            "To keep the Sabbath"
+         ],
+        "answer": "C"
+    },
+    {
+        "question": "According to 1 John 2:9, where is one who says he is in the light but hates his brother?",
+        "choice": [
+            "In heaven",
+            "In the light",
+            "In the darkness",
+             "With God"
+        ],
+        "answer": "C"
+    },
+     {
+        "question":"What does the author say about someone who loves his brother? (1 John 2:10)",
+        "choice": [
+            "They remain in the dark",
+           "They remain in the light",
+            "They have cause for stumbling",
+           "They hate God"
+        ],
+        "answer":"B"
+    },
+     {
+         "question": "What has overcome the evil one? (1 John 2:13-14)",
+         "choice":[
+            "The young men",
+            "The old men",
+            "The little children",
+             "The love of God"
+        ],
+         "answer": "A"
+     },
+    {
+        "question": "According to 1 John 2:15, what should we not love?",
+        "choice": [
+            "Our brothers",
+             "The world or the things in the world",
+            "The Father",
+             "Our neighbor"
+        ],
+        "answer": "B"
+    },
+    {
+         "question": "What is passing away with its lusts? (1 John 2:17)",
+         "choice": [
+            "The Holy Spirit",
+            "The love of God",
+            "The world",
+             "Eternal life"
+            ],
+        "answer": "C"
+    },
+     {
+        "question": "What did the author say about the Antichrist in 1 John 2:18?",
+        "choice": [
+             "He has already come",
+            "He will never come",
+            "He is a mythical being",
+            "He is the son of God"
+        ],
+        "answer": "A"
+    },
+    {
+       "question": "What does the author say about those who went out from the group of believers? (1 John 2:19)",
+        "choice": [
+            "They were always among them",
+            "They never belonged to them",
+            "They were weak in faith",
+            "They will come back"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does the anointing from the Holy One give? (1 John 2:20)",
+         "choice": [
+            "Eternal life",
+            "Knowledge",
+            "Miraculous powers",
+            "Great wealth"
+        ],
+        "answer": "B"
+    },
+      {
+        "question": "Who is a liar according to 1 John 2:22?",
+        "choice": [
+           "He who denies the Father",
+            "He who denies the Son",
+             "He who denies that Jesus is the Christ",
+            "He who denies the Holy Spirit"
+           ],
+        "answer": "C"
+    },
+    {
+        "question":"According to 1 John 2:27, what does the anointing teach about?",
+        "choice": [
+            "Some things",
+             "All things",
+            "The things of the world",
+            "Only about love"
+        ],
+         "answer": "B"
+     },
+    {
+        "question": "What does everyone who practices righteousness have? (1 John 2:29)",
+        "choice": [
+             "Been born of him",
+             "Been chosen",
+            "Been given great wealth",
+            "Been given great power"
+           ],
+        "answer":"A"
+    },
+     {
+        "question": "Why does the world not know the children of God? (1 John 3:1)",
+         "choice": [
+            "They hate them",
+            "The world is evil",
+            "It didn’t know him",
+            "They are not of the world"
+         ],
+        "answer": "C"
+    },
+     {
+        "question": "What is sin according to 1 John 3:4?",
+        "choice": [
+            "Lawlessness",
+            "Disobedience",
+             "Pride",
+            "Hatred"
+        ],
+        "answer":"A"
+    },
+    {
+        "question":"What does the author say about someone who hates his brother? (1 John 3:15)",
+        "choice": [
+            "He has eternal life",
+           "He is a murderer",
+            "He is righteous",
+           "He is blessed"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "According to 1 John 3:16, how do we know love?",
+        "choice": [
+            "Because we love ourselves",
+            "Because he laid down his life for us",
+            "Because we keep the law",
+            "Because we love the world"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "According to 1 John 3:20, if our heart condemns us, what does the author say about God?",
+        "choice": [
+            "God doesn't care",
+            "God is greater than our heart, and knows all things",
+            "God will also condemn us",
+            "God is not aware of our hearts"
+        ],
+        "answer": "B"
+    },
+    {
+       "question": "What does the author say we receive from God when we keep his commandments? (1 John 3:22)",
+        "choice": [
+            "Whatever we ask",
+            "Nothing",
+            "Punishment",
+             "Condemnation"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is God's commandment according to 1 John 3:23?",
+         "choice": [
+            "To love the world",
+            "To believe in the name of his Son, Jesus Christ, and love one another",
+            "To hate our enemies",
+            "To only love God"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "How do we know that God remains in us, according to 1 John 3:24?",
+        "choice": [
+            "By our good works",
+            "By the Spirit which he gave us",
+            "By our wealth",
+            "By our wisdom"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "According to 1 John 4:1, what should we do with every spirit?",
+        "choice": [
+            "Test the spirits, whether they are of God",
+            "Believe every spirit",
+             "Ignore them all",
+            "Follow them blindly"
+        ],
+        "answer":"A"
+    },
+    {
+        "question": "According to 1 John 4:2, how do we know the Spirit of God?",
+        "choice": [
+            "Every spirit who performs miracles",
+            "Every spirit who confesses that Jesus Christ has come in the flesh is of God",
+            "Every spirit who speaks in tongues",
+            "Every spirit who denies the body"
+        ],
+        "answer": "B"
+    },
+     {
+        "question": "What spirit is it when one does not confess that Jesus Christ has come in the flesh? (1 John 4:3)",
+        "choice": [
+            "The spirit of truth",
+            "The spirit of God",
+            "The spirit of the Antichrist",
+            "The spirit of love"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "According to 1 John 4:4, who is greater: he who is in the world, or he who is in you?",
+        "choice": [
+            "He who is in the world",
+            "He who is in you",
+            "They are equal",
+             "It is not clear"
+        ],
+        "answer": "B"
+    },
+   {
+        "question": "According to 1 John 4:8, what is God?",
+        "choice": [
+            "Light",
+             "Love",
+            "Truth",
+            "Mercy"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "According to 1 John 4:9, how was God's love revealed in us?",
+        "choice": [
+            "By our love for God",
+             "That God has sent his only born Son into the world that we might live through him",
+            "By our works of righteousness",
+            "By our obedience to the law"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does the author call Jesus in 1 John 4:14?",
+        "choice": [
+            "Savior of the world",
+            "The King of Kings",
+            "The Good Shepherd",
+            "The Creator of the world"
+        ],
+        "answer": "A"
+    },
+   {
+        "question": "What does the author say about the one who remains in love in 1 John 4:16?",
+        "choice": [
+            "They are without sin",
+            "They remain in God, and God remains in him",
+            "They have no fear",
+            "They will be wealthy"
+         ],
+        "answer": "B"
+   },
+    {
+        "question": "According to 1 John 4:18, what does perfect love do?",
+        "choice": [
+            "Casts out fear",
+            "Creates fear",
+            "Hides fear",
+            "Induces fear"
+        ],
+        "answer": "A"
+    },
+     {
+        "question": "According to 1 John 4:19, why do we love?",
+        "choice": [
+            "Because it is our nature",
+             "Because he first loved us",
+            "Because we are commanded to",
+            "Because we want to"
+        ],
+        "answer": "B"
+    },
+   {
+        "question": "What does the author say about a man who says, “I love God,” and hates his brother? (1 John 4:20)",
+        "choice": [
+             "He is righteous",
+             "He is a liar",
+            "He is mistaken",
+            "He is a prophet"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "According to 1 John 5:1, what has been born of God?",
+         "choice": [
+            "Whoever believes that Jesus is the Christ",
+            "Those who are without sin",
+            "Those who have love",
+            "Those who keep the law"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "According to 1 John 5:3, what is loving God?",
+        "choice": [
+            "To love the world",
+            "To keep his commandments",
+            "To love our enemies",
+            "To love ourselves"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "According to 1 John 5:4, what overcomes the world?",
+         "choice": [
+            "Our knowledge",
+            "Our faith",
+            "Our good works",
+            "Our great wealth"
+         ],
+        "answer":"B"
+    },
+    {
+        "question": "According to 1 John 5:5, who is he who overcomes the world?",
+        "choice": [
+            "He who believes that Jesus is the Son of God",
+            "He who is wealthy",
+             "He who is famous",
+             "He who is without sin"
+        ],
+        "answer": "A"
+    },
+     {
+         "question": "According to 1 John 5:6, how did Jesus Christ come?",
+         "choice": [
+            "By water only",
+            "By blood only",
+            "By water and blood",
+            "By spirit only"
+        ],
+         "answer": "C"
+     },
+   {
+        "question": "According to 1 John 5:10, what does the one who believes in the Son of God have?",
+        "choice": [
+            "The testimony in himself",
+             "Unlimited wealth",
+            "The power to perform miracles",
+           "The ability to fly"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "According to 1 John 5:11, what did God give to us?",
+        "choice": [
+            "Eternal life, and this life is in his Son",
+             "Unlimited wealth",
+            "The power to perform miracles",
+           "The ability to fly"
+        ],
+        "answer": "A"
+    },
+  {
+        "question":"According to 1 John 5:13, why has the author written these things?",
+        "choice": [
+            "That we may know that we have eternal life, and that we may continue to believe in the name of the Son of God",
+            "That we may be wealthy",
+             "That we may be powerful",
+             "That we may be famous"
+         ],
+        "answer": "A"
+   },
+  {
+        "question": "According to 1 John 5:14, what is the boldness that we have toward God?",
+         "choice": [
+            "That if we ask anything according to his will, he listens to us",
+            "That we may do whatever we want",
+            "That we may ignore his will",
+            "That we can never be wrong"
+         ],
+         "answer": "A"
+     },
+    {
+        "question": "According to 1 John 5:16, what should we do if we see a brother sinning a sin not leading to death?",
+        "choice": [
+            "We should ignore it",
+            "We should ask, and God will give him life",
+            "We should judge him",
+             "We should join him"
+        ],
+        "answer": "B"
+    },
+   {
+        "question": "According to 1 John 5:18, what does the one who is born of God not do?",
+        "choice": [
+            "Doesn't sin",
+            "Seeks fame",
+            "Hoards wealth",
+            "Ignores their neighbor"
+         ],
+         "answer": "A"
+   },
+    {
+        "question": "According to 1 John 5:19, where does the whole world lie?",
+         "choice": [
+            "In the power of God",
+            "In the power of the evil one",
+             "In peace and harmony",
+            "In a state of grace"
+        ],
+        "answer": "B"
+    },
+   {
+        "question": "According to 1 John 5:20, what has the Son of God given us?",
+        "choice": [
+            "An understanding, that we know him who is true",
+            "The ability to fly",
+             "Unlimited wealth",
+            "Power over others"
+        ],
+        "answer": "A"
+   },
+    {
+        "question": "According to 1 John 5:21, what should the little children keep themselves from?",
+        "choice": [
+            "The world",
+            "Idols",
+            "The truth",
+            "Love"
+        ],
+        "answer": "B"
+    }
+]
