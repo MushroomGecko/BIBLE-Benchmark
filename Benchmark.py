@@ -1,10 +1,12 @@
 from datetime import datetime
 import json
 import ollama
+from llama_cpp import Llama
 import re
 import string
 import time
 
+### OLLAMA MODELS ###
 # model = "gemma3:1b"
 # model = "granite3.1-moe:1b-instruct-q4_K_M"
 # model = "llama3.2:1b-instruct-q4_K_M"
@@ -28,8 +30,44 @@ import time
 # model = "gemma3:4b"
 model = "gemma3n:e2b-it-q4_K_M"
 
+### LLAMA CPP MODELS ###
+model = {"repo_id": "LiquidAI/LFM2-2.6B-Exp-GGUF", "filename": "LFM2-2.6B-Exp-Q4_K_M.gguf"}
+
 # If Qwen3 (not the Thinking ot Instruct variant) is the model being tested, set to `/think` for thinking or `/no_think` to turn thinking off
 think_enable = ""
+
+# Choose the runner
+# runner = "ollama"
+runner = "llama_cpp"
+
+def generate_ollama(model, user_prompt, system_prompt):
+    return ollama.generate(model=model,
+                           prompt=user_prompt,
+                           system=system_prompt,
+                           keep_alive=-1)["response"]
+
+def generate_llama_cpp(llm, model, user_prompt, system_prompt):
+    response = llm.create_chat_completion(
+        messages = [
+            {
+                "role": "system",
+                "content": system_prompt
+            },
+            {
+                "role": "user",
+                "content": user_prompt
+            }
+        ]
+    )
+    return response["choices"][0]["message"]["content"]
+
+if runner == "llama_cpp":
+    llm = Llama.from_pretrained(
+        repo_id=model["repo_id"],
+        filename=model["filename"],
+        )
+else:
+    llm = None
 
 alphabet_to_index = {}
 index_to_alphabet = {}
@@ -76,10 +114,10 @@ with open('final.json', 'r', encoding='utf-8') as file:
                            f"{choice_string}\n"
                            f"Provide only the letter corresponding to the correct answer.{think_enable}")
 
-            response = ollama.generate(model=model,
-                                       prompt=user_prompt,
-                                       system=system_prompt,
-                                       keep_alive=-1)["response"]
+            if runner == "ollama":
+                response = generate_ollama(model, user_prompt, system_prompt)
+            elif runner == "llama_cpp":
+                response = generate_llama_cpp(llm, model, user_prompt, system_prompt)
 
             think_tag = '</think>'
             if think_tag in response:
