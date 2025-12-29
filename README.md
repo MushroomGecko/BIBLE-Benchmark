@@ -121,6 +121,25 @@ This script evaluates AI models on the BIBLE benchmark dataset using the [Ollama
 3. Run: `python Benchmark.py`
 4. Results will be saved to `Results/{model_name}.json`
 
+**Output (`Results/` Directory):**
+Each benchmark run produces a JSON file named after the tested model. Each file contains:
+- `category`: The Bible book or theme category
+- `question`: The question asked
+- `choices`: The multiple-choice options
+- `model_response`: The model's response (processed and cleaned)
+- `correct_answer`: The correct answer letter
+- `is_correct`: Boolean indicating if the model answered correctly
+- `did_obey`: Boolean indicating if the model followed the single-letter-only instruction
+- `source`: The source URL of the question
+- Summary statistics at the end:
+  - `total_questions`: Total number of questions in the benchmark
+  - `overall_correct`: Number of correct answers
+  - `percent_correct`: Accuracy percentage
+  - `overall_obeyed`: Number of responses that followed instructions
+  - `percent_obeyed`: Instruction adherence percentage
+  - `total_time`: Total execution time
+  - `average_time`: Average time per question
+
 **Models Tested:**
 The script includes commented examples of various models that can be tested, including:
 - Qwen3 series (0.6b, 1.7b, 4b variants)
