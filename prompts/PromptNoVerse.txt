@@ -1,0 +1,60 @@
+Generate 25 multiple-choice questions that comprehensively cover biblical measurements using the provided text.
+
+Each question must focus on biblical units of weight, length, volume, or currency.
+The provided text does not contain Bible verses, so do NOT explicitly require Bible verse references in the questions.
+Each question must cite the PDF the question originates from.
+The correct answer should be randomly positioned within the choices rather than always appearing in the first position.
+Follow the JSON format below:
+```
+[
+    {
+        "question": "QUESTION TEXT HERE",
+        "choice": [
+            "ANSWER CHOICE A",
+            "ANSWER CHOICE B",
+            "ANSWER CHOICE C",
+            "ANSWER CHOICE D"
+        ],
+        "answer": "LETTER CORRESPONDING TO CORRECT CHOICE",
+        "source": "measurements.pdf"
+    },
+    ...
+]
+```
+
+Example Format (Use only as a reference for structure and formatting, not for content):
+```
+[
+    {
+        "question": "What happened to David when he got old?",
+        "choice": [
+            "He could not see",
+            "He could not hear",
+            "He could not stay warm",
+            "He could not walk"
+        ],
+        "answer": "C",
+        "source": "1kings.pdf"
+    },
+    {
+        "question": "What did King David initially use to try to keep warm?",
+        "choice": [
+            "Sheepskins",
+            "Covers",
+            "Cloaks",
+            "A small fire"
+        ],
+        "answer": "B",
+        "source": "1kings.pdf"
+    },
+    {
+        ...
+    }
+]
+```
+
+Important Notes:
+- Your questions and answers MUST be transformed in a way that does not infringe on the copyright of the PDF.
+- The correct answer must be randomly placed within the choices rather than always appearing in the same position.
+- Each letter choice (A, B, C, D) must be used equally.
+- Avoid using predictable patterns when assigning the correct answer.

@@ -116,6 +116,48 @@ The following scripts handle the data pipeline in sequence:
 
 ---
 
+## 📝 Prompt Templates
+
+Two prompt templates are used to generate questions via **NotebookLM**. They are located in the `prompts/` directory:
+
+### PromptVerse.txt
+
+Used for Bible books and categories with verse references.
+
+**Key Features:**
+- Instructs NotebookLM to generate 25 multiple-choice questions per input
+- Requires questions to **reference Bible verse(s)** they are derived from (e.g., "1 Kings 1:1")
+- Specifies JSON schema format for output consistency
+- Ensures randomized answer positioning to avoid predictable patterns
+- Requires balanced distribution of correct answers (A, B, C, D equally)
+- Includes copyright protection guidance for generated content
+- No bolded text in questions
+
+**Usage:**
+Used when generating questions for Bible books and topics with specific scripture references.
+
+### PromptNoVerse.txt
+
+Used for measurement-based categories without explicit verse references.
+
+**Key Features:**
+- Instructs NotebookLM to generate 25 multiple-choice questions per input
+- Focuses on biblical **units of weight, length, volume, or currency**
+- Does NOT require explicit Bible verse references in questions
+- Questions must cite the PDF they originate from
+- Specifies JSON schema format for output consistency
+- Ensures randomized answer positioning to avoid predictable patterns
+- Requires balanced distribution of correct answers (A, B, C, D equally)
+- Includes copyright protection guidance for generated content
+
+**Usage:**
+Used when generating questions for categories like Measurements that don't have verse-specific content.
+
+**Output Location:**
+The output from NotebookLM following either prompt is stored in `source_data/JSON/NotebookLM/` before being transformed by `NotebookLMDataset.py`.
+
+---
+
 ## 🧪 Benchmarking & Evaluation
 
 ### Benchmark.py

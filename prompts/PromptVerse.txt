@@ -1,0 +1,61 @@
+Generate 25 multiple-choice questions that comprehensively cover the <TOPIC> of the Bible using the provided text.
+
+Each question must reference the verse(s) it is derived from.
+Each question must cite the PDF the question originates from.
+The correct answer should be randomly positioned within the choices rather than always appearing in the first position.
+Follow the JSON format below:
+```
+[
+    {
+        "question": "QUESTION TEXT HERE (ANY RELEVANT BIBLE VERSE(S) HERE)",
+        "choice": [
+            "ANSWER CHOICE A",
+            "ANSWER CHOICE B",
+            "ANSWER CHOICE C",
+            "ANSWER CHOICE D"
+        ],
+        "answer": "LETTER CORRESPONDING TO CORRECT CHOICE",
+        "source": "PDF HERE"
+    },
+    ...
+]
+```
+
+Example Format (Use only as a reference for structure and formatting, not for content):
+```
+[
+    {
+        "question": "What happened to David when he got old (1 Kings 1:1)?",
+        "choice": [
+            "He could not see",
+            "He could not hear",
+            "He could not stay warm",
+            "He could not walk"
+        ],
+        "answer": "C",
+        "source": "1kings.pdf"
+    },
+    {
+        "question": "What did King David initially use to try to keep warm (1 Kings 1:1)?",
+        "choice": [
+            "Sheepskins",
+            "Covers",
+            "Cloaks",
+            "A small fire"
+        ],
+        "answer": "B",
+        "source": "1kings.pdf"
+    },
+    {
+        ...
+    }
+]
+```
+
+Important:
+- Your questions and answers MUST be transformed in a way that do not infringe on the copyright of the PDF.
+- Ensure that the correct answer is randomly placed within the choices rather than always appearing in the same position or same two position.
+- Each letter choice (A, B, C, D) must be used equally.
+- Avoid using predictable patterns when assigning the correct answer.
+- Do not reference the PDF name in the question itself. Any references in the question should be full Bible verses from the passage.
+- Do NOT bold any text
