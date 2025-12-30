@@ -11,6 +11,7 @@ PyMuPDF>=1.23.0  # fitz - PDF text extraction
 # Data processing
 pandas>=2.3.3
 pyarrow>=22.0.0  # For Parquet file support
+huggingface-hub>=1.2.3  # For HuggingFace model interactions
 
 # AI/Model evaluation
 ollama>=0.6.1

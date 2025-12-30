@@ -28,10 +28,10 @@ import time
 # model = "hf.co/unsloth/Phi-4-mini-instruct-GGUF:Q4_K_M"
 # model = "cogito:3b-v1-preview-llama-q4_K_M"
 # model = "gemma3:4b"
-model = "gemma3n:e2b-it-q4_K_M"
+# model = "gemma3n:e2b-it-q4_K_M"
 
 ### LLAMA CPP MODELS ###
-model = {"repo_id": "LiquidAI/LFM2-2.6B-Exp-GGUF", "filename": "LFM2-2.6B-Exp-Q4_K_M.gguf"}
+model = {"repo_id": "unsloth/LFM2-2.6B-Exp-GGUF", "filename": "LFM2-2.6B-Exp-Q4_K_M.gguf"}
 
 # If Qwen3 (not the Thinking ot Instruct variant) is the model being tested, set to `/think` for thinking or `/no_think` to turn thinking off
 think_enable = ""
@@ -47,6 +47,7 @@ def generate_ollama(model, user_prompt, system_prompt):
                            keep_alive=-1)["response"]
 
 def generate_llama_cpp(llm, model, user_prompt, system_prompt):
+    llm.reset() # Reset the model to clear the KV cache to prevent errors
     response = llm.create_chat_completion(
         messages = [
             {
@@ -63,11 +64,15 @@ def generate_llama_cpp(llm, model, user_prompt, system_prompt):
 
 if runner == "llama_cpp":
     llm = Llama.from_pretrained(
-        repo_id=model["repo_id"],
-        filename=model["filename"],
+            repo_id=model["repo_id"],
+            filename=model["filename"],
+            verbose=False,
+            n_ctx=4096
         )
+    model_name = model["filename"]
 else:
     llm = None
+    model_name = model
 
 alphabet_to_index = {}
 index_to_alphabet = {}
@@ -82,7 +87,6 @@ obeyed = 0
 final_output = []
 with open('final.json', 'r', encoding='utf-8') as file:
     json_obj = json.load(file)
-    # json_obj = {'People': json_obj['People']}
     for i in json_obj:
         question_len += len(json_obj[i])
     print(question_len)
@@ -176,5 +180,5 @@ print(f"Percent Obeyed: {(obeyed / question_len) * 100}%")
 print(f"Total Time: {(time.time() - start_time)}")
 print(f"Average Time: {(time.time() - start_time) / question_len}")
 
-with open(f'Results/{model.replace(':', '_').replace('.', '_').replace('-', '_').replace('/', '_').strip()}.json', 'w', encoding='utf-8') as fileout:
+with open(f'Results/{model_name.replace(':', '_').replace('.', '_').replace('-', '_').replace('/', '_').strip()}.json', 'w', encoding='utf-8') as fileout:
     json.dump(final_output, fileout, indent=4, ensure_ascii=False)
