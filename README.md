@@ -99,7 +99,7 @@ Each example in the dataset is a dictionary with the following fields:
   - `places/`: PDF representations of places data
 - **JSON/**: Intermediate JSON representations during processing
   - `BiblicalELearning/`: JSON representation of the PDFs from `BiblicalELearningPDFs/`
-  - `NotebookLM/`: Raw, semi-reviewed AI-generated content from NotebookLM, created by manually pasting Bible books from the WEB bible and GotQuestions Ministries PDFs (scraped by scripts in this repo) into the tool.
+  - `NotebookLM/`: Raw, semi-reviewed AI-generated content from NotebookLM, created by manually pasting Bible books from the WEB Bible and GotQuestions Ministries PDFs (scraped by scripts in this repo) into the tool.
   - `NotebookLM2/`: Transformed versions of the data in `NotebookLM/` to fit the final data schema
 
 ### Output Data
@@ -223,11 +223,11 @@ This dataset was built from publicly available resources. Full respect and credi
 
 - **Biblical eLearning**  
   Developed by Dr. Ted Hildebrandt, [Biblical eLearning](https://biblicalelearning.org/) is dedicated to providing free online Biblical resources to the global Christian community. The site hosts high-quality, Biblically grounded materials from expert teachers, aiming to preserve and share faithful teaching digitally for the glory of God and the good of others. Many of these resources, including the Bible Quizzers material used in this dataset, are freely **downloadable** in PDF format for personal study or educational use.  
-  📖 [Download Bible Quizzers PDFs](https://biblicalelearning.org/quizlet-bible-quizzers/)
+  📖 [Download Bible Quizzers PDFs](https://biblicalelearning.org/quizlet-Bible-quizzers/)
 
-- **World English Bible (WEB)** via **[eBible.org](https://ebible.org/)**  
-  [eBible.org](https://ebible.org) is the original home of the World English Bible and a global volunteer movement committed to making the Holy Bible freely available in the languages and formats most useful to people worldwide. Founded by Michael Paul Johnson, who also serves as senior editor of the WEB, the site hosts hundreds of translations, including the original Hebrew and Greek texts, and supports a wide range of digital formats for both reading and development. The mission of eBible.org is rooted in the Great Commission and made possible by a large network of volunteers who work to ensure quality, accessibility, and faithful distribution of Scripture.  
-  📖 [Download the WEB Bible PDFs](https://ebible.org/pdf/eng-web/)
+- **World English Bible (WEB)** via **[eBible.org](https://eBible.org/)**  
+  [eBible.org](https://eBible.org) is the original home of the World English Bible and a global volunteer movement committed to making the Holy Bible freely available in the languages and formats most useful to people worldwide. Founded by Michael Paul Johnson, who also serves as senior editor of the WEB, the site hosts hundreds of translations, including the original Hebrew and Greek texts, and supports a wide range of digital formats for both reading and development. The mission of eBible.org is rooted in the Great Commission and made possible by a large network of volunteers who work to ensure quality, accessibility, and faithful distribution of Scripture.  
+  📖 [Download the WEB Bible PDFs](https://eBible.org/pdf/eng-web/)
 
 - **GotQuestions Ministries**  
   [GotQuestions.org](https://www.gotquestions.org/)  
