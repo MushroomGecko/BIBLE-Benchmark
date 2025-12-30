@@ -69,7 +69,7 @@ if runner == "llama_cpp":
             verbose=False,
             n_ctx=4096
         )
-    model_name = model["filename"]
+    model_name = model["filename"].replace('.gguf', '')
 else:
     llm = None
     model_name = model
