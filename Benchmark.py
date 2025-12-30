@@ -29,16 +29,19 @@ import time
 # model = "cogito:3b-v1-preview-llama-q4_K_M"
 # model = "gemma3:4b"
 # model = "gemma3n:e2b-it-q4_K_M"
+# model = "hf.co/ibm-granite/granite-4.0-h-micro-GGUF:Q4_K_M"
+# model = "hf.co/ibm-granite/granite-4.0-micro-GGUF:Q4_K_M"
+model = "hf.co/unsloth/Ministral-3-3B-Instruct-2512-GGUF:Q4_K_M"
 
 ### LLAMA CPP MODELS ###
-model = {"repo_id": "unsloth/LFM2-2.6B-Exp-GGUF", "filename": "LFM2-2.6B-Exp-Q4_K_M.gguf"}
+# model = {"repo_id": "unsloth/LFM2-2.6B-Exp-GGUF", "filename": "LFM2-2.6B-Exp-Q4_K_M.gguf"}
 
 # If Qwen3 (not the Thinking ot Instruct variant) is the model being tested, set to `/think` for thinking or `/no_think` to turn thinking off
-think_enable = ""
+think_enable = "/no_think"
 
 # Choose the runner
-# runner = "ollama"
-runner = "llama_cpp"
+runner = "ollama"
+# runner = "llama_cpp"
 
 def generate_ollama(model, user_prompt, system_prompt):
     return ollama.generate(model=model,
@@ -73,6 +76,7 @@ if runner == "llama_cpp":
 else:
     llm = None
     model_name = model
+print(f"Using model: {model_name}")
 
 alphabet_to_index = {}
 index_to_alphabet = {}
