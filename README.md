@@ -21,6 +21,12 @@ cd BIBLE-Benchmark
 pip install -r requirements.txt
 ```
 
+> ⚠️ **NVIDIA GPU Support**: If you have an NVIDIA GPU and the initial `pip install -r requirements.txt` fails, you can reinstall `llama-cpp-python` with CUDA support (including Flash Attention) using:
+> ```bash
+> CMAKE_ARGS="-DGGML_CUDA=on -DGGML_CUDA_FA=on" FORCE_CMAKE=1 pip install --force-reinstall --no-cache-dir llama-cpp-python
+> ```
+> This ensures proper GPU acceleration and fixes compatibility issues with certain models like LFM2.
+
 3. For benchmarking with Ollama, ensure [Ollama](https://ollama.ai/) is installed and running on your system.
 
 ---
